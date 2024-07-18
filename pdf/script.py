@@ -17,6 +17,7 @@ def main():
     #print('something')
     pdf = Pdf()
     titles = find(pdf.pages)
+    q = pdf.group_questions()
 
     print(colored("Running main function...", "green"))
     # Add some initial functionality here
