@@ -8527,22 +8527,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- à l’occasion.",
+                            "text": "à l’occasion.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- en toute occasion.",
-                            "isCorrectAnswer": false
+                            "text": "en toute occasion.",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "C",
-                            "text": "- seulement en cas d’urgence",
+                            "text": "seulement en cas d’urgence",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- si la situation n’est pas trop urgente.",
+                            "text": "si la situation n’est pas trop urgente.",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -8552,22 +8552,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- c’est plus écologique.",
-                            "isCorrectAnswer": false
+                            "text": "c’est plus écologique.",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "B",
-                            "text": "- c’est plus économique.",
+                            "text": "c’est plus économique.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- c’est plus facile à garer.",
+                            "text": "c’est plus facile à garer.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- c’est meilleur pour la forme.",
+                            "text": "c’est meilleur pour la forme.",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -8577,22 +8577,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- le seul avantage de la voiture, c’est sa rapidité.",
+                            "text": "le seul avantage de la voiture, c’est sa rapidité.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- la voiture isole les êtres humains les uns des autres.",
-                            "isCorrectAnswer": false
+                            "text": "la voiture isole les êtres humains les uns des autres.",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "C",
-                            "text": "- la voiture apporte une grande liberté à ses utilisateurs.",
+                            "text": "la voiture apporte une grande liberté à ses utilisateurs.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- il est urgent de réduire le nombre de voitures dans les villes.",
+                            "text": "il est urgent de réduire le nombre de voitures dans les villes.",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -8602,7 +8602,7 @@
         {
             "questionGroup": {
                 "groupTitle": "La carte verte à 6000 dollars",
-                "groupText": "Texte 82\nDepuis toujours, Stanley rêvait d’aller travailler aux USA. Après quelques voyages sur le\ncontinent de ses rêves, le jeune homme avait décidé de s’expatrier. Malheureusement, il lui\nmanquait la Carte Verte, plus communément appelée Green Card.\nUn jour comme Stanley voit une petite annonce qui concerne la recherche d’un manager de\nrestaurant, il envoie son CV. Une certaine Sophie le contacte rapidement pour lui dire que\nson profil est parfait et qu’elle a des facilités pour obtenir une Green Card. Il faut passer par\nun avocat sur place qui aurait la possibilité d’obtenir la carte en peu de temps. Toutefois,\npour bénéficier de cette aide, Stanley doit verser 3000 dollars. Après avoir pris les\nprécautions d’usage, Stanley accepte de payer l’argent demandé par Sophie. Mais cette\ndernière prétend qu’il doit régler 6000 dollars au total pour résoudre certains problèmes\nadministratifs. Stanley doit emprunter de l’argent à ses parents pour régler la facture.\nQuand il se rend à l’Ambassade des USA, pour vérifier la validité de son document, il\napprend qu’il s’agit d’un faux. Aussitôt, il contacte le restaurant. La place était prise depuis\nlongtemps et la véritable propriétaire du restaurant explique à Stanley qu’elle avait elle-\nmême été victime d’un détournement de son annonce.\nD’après Stop arnaques"
+                "groupText": "Depuis toujours, Stanley rêvait d’aller travailler aux USA. Après quelques voyages sur le\ncontinent de ses rêves, le jeune homme avait décidé de s’expatrier. Malheureusement, il lui\nmanquait la Carte Verte, plus communément appelée Green Card.\nUn jour comme Stanley voit une petite annonce qui concerne la recherche d’un manager de\nrestaurant, il envoie son CV. Une certaine Sophie le contacte rapidement pour lui dire que\nson profil est parfait et qu’elle a des facilités pour obtenir une Green Card. Il faut passer par\nun avocat sur place qui aurait la possibilité d’obtenir la carte en peu de temps. Toutefois,\npour bénéficier de cette aide, Stanley doit verser 3000 dollars. Après avoir pris les\nprécautions d’usage, Stanley accepte de payer l’argent demandé par Sophie. Mais cette\ndernière prétend qu’il doit régler 6000 dollars au total pour résoudre certains problèmes\nadministratifs. Stanley doit emprunter de l’argent à ses parents pour régler la facture.\nQuand il se rend à l’Ambassade des USA, pour vérifier la validité de son document, il\napprend qu’il s’agit d’un faux. Aussitôt, il contacte le restaurant. La place était prise depuis\nlongtemps et la véritable propriétaire du restaurant explique à Stanley qu’elle avait elle-\nmême été victime d’un détournement de son annonce.\nD’après Stop arnaques"
             },
             "questions": [
                 {
@@ -8610,23 +8610,23 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- la manière d’obtenir facilement une Carte Verte.",
+                            "text": "la manière d’obtenir facilement une Carte Verte.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- le temps à prévoir pour recevoir une carte Verte.",
+                            "text": "le temps à prévoir pour recevoir une carte Verte.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- les tarifs pratiqués lorsqu’on a besoin d’une carte Verte.",
+                            "text": "les tarifs pratiqués lorsqu’on a besoin d’une carte Verte.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- les risques possibles quand on demande une Carte Verte.",
-                            "isCorrectAnswer": false
+                            "text": "les risques possibles quand on demande une Carte Verte.",
+                            "isCorrectAnswer": true
                         }
                     ]
                 },
@@ -8635,22 +8635,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- a pu s’expatrier aux USA.",
+                            "text": "a pu s’expatrier aux USA.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- a perdu son temps et son argent.",
-                            "isCorrectAnswer": false
+                            "text": "a perdu son temps et son argent.",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "C",
-                            "text": "- a dépensé deux fois plus d’argent.",
+                            "text": "a dépensé deux fois plus d’argent.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- a obtenu rapidement sa carte Verte.",
+                            "text": "a obtenu rapidement sa carte Verte.",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -8660,22 +8660,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- a appris à Stanley qu’on avait utilisé frauduleusement son annonce.",
-                            "isCorrectAnswer": false
+                            "text": "a appris à Stanley qu’on avait utilisé frauduleusement son annonce.",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "B",
-                            "text": "- a annoncé à Stanley qu’elle avait été victime d’un grave cambriolage.",
+                            "text": "a annoncé à Stanley qu’elle avait été victime d’un grave cambriolage.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- a pensé que Stanley téléphonait pour confirmer son arrivée aux USA.",
+                            "text": "a pensé que Stanley téléphonait pour confirmer son arrivée aux USA.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- a confirmé que Sophie avait bien transmis le dossier de candidature de Stanley.",
+                            "text": "a confirmé que Sophie avait bien transmis le dossier de candidature de Stanley.",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -8685,7 +8685,7 @@
         {
             "questionGroup": {
                 "groupTitle": "Les revenants Réalisé par Robin Campillo",
-                "groupText": "Texte 83\nLes morts vivants de Robin Campillo ne surgissent pas la nuit mais par un bel après-midi\nd'été, quittant tranquillement leur cimetière en un cortège pédestre à dominante beige et\npastel. Ils ont l'âge qu'ils avaient à leur mort mais sans les stigmates d'une maladie ou d'un\naccident. La vision presque radieuse d'un phénomène pour le moins effrayant est l'une des\nbonnes idées de ce film l'image possède la clarté supposée rassurante des pubs télé du\nmatin valorisant le troisième âge, mais la lenteur extrême des mouvements, la fixité des\nregards distillent à dose infime une part de grotesque et un profond malaise. Nombre de\nséquences montrent d'ailleurs les mesures concrètes de la municipalité pour répondre\nrationnellement à l'évènement accueil, hébergement, suivi et réinsertion professionnelle des\nex-morts. Mais dans l'intimité des foyers, c’est l'hébétude face au prodige que constitue la\nprésence d'un être dont on avait fait le deuil. Ainsi de l'épouse du maire, d’un enfant unique\ndont les parents avaient vidé la chambre ou un accidenté de la route à nouveau dans le lit de\nson ex-compagne. Le film fait songer au premier épisode d'un feuilleton expérimental que\nl'auteur aurait tourné avant d'écrire les suivants. Plusieurs hypothèses prometteuses sont\ndéveloppées Il y a le thriller. Il y a la rêverie plastique et feutrée, parfois envoûtante, du\nmetteur en scène autour de ses créatures, de leur déplacement, de leurs accents. Il y a aussi\nla métaphore politique du refugié, de l'indésirable et il n'est pas non plus interdit de sourire,\navec le cinéaste plutôt que sur son dos, de la malveillance de certains revenants Dommage\nqu'aucune de ces directions, également intéressantes, ne s'impose Que faire des revenants,\npopulation insaisissable cette belle chimère de cinéma ? Le casse-tête semble s'être imposé\nde façon aussi aigue au cinéma qu'à ses mortels circonspects."
+                "groupText": "Les morts vivants de Robin Campillo ne surgissent pas la nuit mais par un bel après-midi\nd'été, quittant tranquillement leur cimetière en un cortège pédestre à dominante beige et\npastel. Ils ont l'âge qu'ils avaient à leur mort mais sans les stigmates d'une maladie ou d'un\naccident. La vision presque radieuse d'un phénomène pour le moins effrayant est l'une des\nbonnes idées de ce film l'image possède la clarté supposée rassurante des pubs télé du\nmatin valorisant le troisième âge, mais la lenteur extrême des mouvements, la fixité des\nregards distillent à dose infime une part de grotesque et un profond malaise. Nombre de\nséquences montrent d'ailleurs les mesures concrètes de la municipalité pour répondre\nrationnellement à l'évènement accueil, hébergement, suivi et réinsertion professionnelle des\nex-morts. Mais dans l'intimité des foyers, c’est l'hébétude face au prodige que constitue la\nprésence d'un être dont on avait fait le deuil. Ainsi de l'épouse du maire, d’un enfant unique\ndont les parents avaient vidé la chambre ou un accidenté de la route à nouveau dans le lit de\nson ex-compagne. Le film fait songer au premier épisode d'un feuilleton expérimental que\nl'auteur aurait tourné avant d'écrire les suivants. Plusieurs hypothèses prometteuses sont\ndéveloppées Il y a le thriller. Il y a la rêverie plastique et feutrée, parfois envoûtante, du\nmetteur en scène autour de ses créatures, de leur déplacement, de leurs accents. Il y a aussi\nla métaphore politique du refugié, de l'indésirable et il n'est pas non plus interdit de sourire,\navec le cinéaste plutôt que sur son dos, de la malveillance de certains revenants Dommage\nqu'aucune de ces directions, également intéressantes, ne s'impose Que faire des revenants,\npopulation insaisissable cette belle chimère de cinéma ? Le casse-tête semble s'être imposé\nde façon aussi aigue au cinéma qu'à ses mortels circonspects."
             },
             "questions": [
                 {
@@ -8693,22 +8693,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- Horreur",
+                            "text": "Horreur",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- Drame",
+                            "text": "Drame",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- Fantastique",
-                            "isCorrectAnswer": false
+                            "text": "Fantastique",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "D",
-                            "text": "- Science fiction.",
+                            "text": "Science fiction.",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -8718,22 +8718,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- Des personnes mortes reprennent la vie là où ils l'avaient laissée",
-                            "isCorrectAnswer": false
+                            "text": "Des personnes mortes reprennent la vie là où ils l'avaient laissée",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "B",
-                            "text": "- Des revenants décident de fonder une nouvelle ville",
+                            "text": "Des revenants décident de fonder une nouvelle ville",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- Des morts-vivants se révoltent dans un cimetière",
+                            "text": "Des morts-vivants se révoltent dans un cimetière",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- Des habitants décident de participer à une farce macabre.",
+                            "text": "Des habitants décident de participer à une farce macabre.",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -8743,22 +8743,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- Le dégout",
+                            "text": "Le dégout",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- Le bonheur",
+                            "text": "Le bonheur",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- La stupéfaction",
-                            "isCorrectAnswer": false
+                            "text": "La stupéfaction",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "D",
-                            "text": "- Le malaise",
+                            "text": "Le malaise",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -8768,22 +8768,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- les images provoquent toujours la même émotion chez le spectateur",
+                            "text": "les images provoquent toujours la même émotion chez le spectateur",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- le cinéaste n'a pas su choisir une idée-phare pour guider l'intrigue.",
-                            "isCorrectAnswer": false
+                            "text": "le cinéaste n'a pas su choisir une idée-phare pour guider l'intrigue.",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "C",
-                            "text": "- le film est intéressant de bout en bout et fait souvent rire le spectateur.",
+                            "text": "le film est intéressant de bout en bout et fait souvent rire le spectateur.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- le problème soulevé par le retour des morts a été subtilement résolu.",
+                            "text": "le problème soulevé par le retour des morts a été subtilement résolu.",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -8793,7 +8793,7 @@
         {
             "questionGroup": {
                 "groupTitle": "Faut-il avoir une dent contre les gommes ?",
-                "groupText": "Texte 84\n« Des gencives saines et des dents fortes » affirment les fabricants sur leurs emballages Le\nchewing-gum est-il bon pour la santé ? Dès la Première Guerre mondiale, Wrigley vantait les\nmérites de sa pâte avec cet argument martial: «Elle maintient le soldat en éveil ! ». Les\ntablettes se sont ainsi glissées dans le paquetage des GL. En 1968, Hollywood avance une\nnouvelle vertu : mâcher relaxe. Dans son spot, des acteurs au bord de la crise de nerfs se\ncalment subitement en mâchouillant. Le discours s'étoffe à partir de 1987, avec l'arrivée du\nchewing-gum sans sucre. Les marques jouent la carte de l'hygiène bucco-dentaire. Avec\nsuccès: le sans-sucre représente aujourd'hui près de 80 % des ventes ! N'y a-t-il vraiment\naucun risque de caries ? « Aucun, assure le Dr Caron, membre de l'Union française pour la\nsanté bucco-dentaire. Sans compter que la mastication permet de réduire 4 fois plus vite le\ntaux d'acidité de la bouche, générateur de caries». La question est: Peut-on faire confiance à\nl'UFSBD, qui fait financer ses ions de prévention par les industriels? « L Union n'a plus les\nmoyens de réaliser ses propres spots de pub, se défend le Dr Caron. Nous faisons donc\npasser notre message de sensibilisation via des marques de chewing-gums. Chaque produit\nest testé en laboratoire, I‘ordre des chirurgiens-dentistes donne son accord avant tout\npartenariat avec une marque. Mais cela reste un chewing-gum : il n 'y a pas d'effet miracle\n!». Les nutritionnistes comme Patrick Serog sont plus réservés : « Pendant la mastication. on\navale beaucoup d'air ce qui provoque ballonnements et crises d’aérophagie. L'effet coupe-\nfaim du chewing-gum vient de ces ballonnements ». Les vertus du chewing-gum sont peut-\nêtre ailleurs... Une équipe de neurologues japonais a observé que la mastication provoquait\nune accélération de l'activité de l'hippocampe, zone du cerveau associée à la mémoire\nvisuelle. A quand le chewing-gum spécial bac ?"
+                "groupText": "« Des gencives saines et des dents fortes » affirment les fabricants sur leurs emballages Le\nchewing-gum est-il bon pour la santé ? Dès la Première Guerre mondiale, Wrigley vantait les\nmérites de sa pâte avec cet argument martial: «Elle maintient le soldat en éveil ! ». Les\ntablettes se sont ainsi glissées dans le paquetage des GL. En 1968, Hollywood avance une\nnouvelle vertu : mâcher relaxe. Dans son spot, des acteurs au bord de la crise de nerfs se\ncalment subitement en mâchouillant. Le discours s'étoffe à partir de 1987, avec l'arrivée du\nchewing-gum sans sucre. Les marques jouent la carte de l'hygiène bucco-dentaire. Avec\nsuccès: le sans-sucre représente aujourd'hui près de 80 % des ventes ! N'y a-t-il vraiment\naucun risque de caries ? « Aucun, assure le Dr Caron, membre de l'Union française pour la\nsanté bucco-dentaire. Sans compter que la mastication permet de réduire 4 fois plus vite le\ntaux d'acidité de la bouche, générateur de caries». La question est: Peut-on faire confiance à\nl'UFSBD, qui fait financer ses ions de prévention par les industriels? « L Union n'a plus les\nmoyens de réaliser ses propres spots de pub, se défend le Dr Caron. Nous faisons donc\npasser notre message de sensibilisation via des marques de chewing-gums. Chaque produit\nest testé en laboratoire, I‘ordre des chirurgiens-dentistes donne son accord avant tout\npartenariat avec une marque. Mais cela reste un chewing-gum : il n 'y a pas d'effet miracle\n!». Les nutritionnistes comme Patrick Serog sont plus réservés : « Pendant la mastication. on\navale beaucoup d'air ce qui provoque ballonnements et crises d’aérophagie. L'effet coupe-\nfaim du chewing-gum vient de ces ballonnements ». Les vertus du chewing-gum sont peut-\nêtre ailleurs... Une équipe de neurologues japonais a observé que la mastication provoquait\nune accélération de l'activité de l'hippocampe, zone du cerveau associée à la mémoire\nvisuelle. A quand le chewing-gum spécial bac ?"
             },
             "questions": [
                 {
@@ -8801,22 +8801,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- Gommes et dents font il bon ménage?",
-                            "isCorrectAnswer": false
+                            "text": "Gommes et dents font il bon ménage?",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "B",
-                            "text": "- Faut-il avoir de bonnes dents pour mâcher tes gommes7",
+                            "text": "Faut-il avoir de bonnes dents pour mâcher tes gommes7",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- Quelles sont les vertus des gommes pour les dents ?",
+                            "text": "Quelles sont les vertus des gommes pour les dents ?",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- Ies gommes sont elles un produit miracle pour les dents?",
+                            "text": "les gommes sont elles un produit miracle pour les dents?",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -8826,22 +8826,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- le chewing-gum permet de se détendre",
+                            "text": "le chewing-gum permet de se détendre",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- Le chewing-gum calme les douleurs dentaires",
-                            "isCorrectAnswer": false
+                            "text": "Le chewing-gum calme les douleurs dentaires",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "C",
-                            "text": "- le chewing-gum évite l’assoupissement",
+                            "text": "le chewing-gum évite l’assoupissement",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- Le chewing-gum empêche la formation de caries",
+                            "text": "Le chewing-gum empêche la formation de caries",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -8851,23 +8851,23 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- font de la publicité mensongère",
+                            "text": "font de la publicité mensongère",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- financent la recherche de UFSBD",
+                            "text": "financent la recherche de UFSBD",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- testent chaque produit en laboratoire",
+                            "text": "testent chaque produit en laboratoire",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- sont des partenaires fiables",
-                            "isCorrectAnswer": false
+                            "text": "sont des partenaires fiables",
+                            "isCorrectAnswer": true
                         }
                     ]
                 },
@@ -8876,22 +8876,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- Il participe effectivement à l'hygiène bucco-dentaire",
+                            "text": "Il participe effectivement à l'hygiène bucco-dentaire",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- Il permet d'améliorer les performances de la mémoire",
+                            "text": "Il permet d'améliorer les performances de la mémoire",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- ll entraine malheureusement de légers effets secondaires",
-                            "isCorrectAnswer": false
+                            "text": "Il entraine malheureusement de légers effets secondaires",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "D",
-                            "text": "- ll peut provoquer des troubles chez les sportifs",
+                            "text": "Il peut provoquer des troubles chez les sportifs",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -8901,7 +8901,7 @@
         {
             "questionGroup": {
                 "groupTitle": "La fête de la musique",
-                "groupText": "Texte 85\nEn 1982, Jack Lang, alors ministre de la Culture, Christian Dupavillon, membre de son cabinet\net Maurice Fleuret, directeur de la musique, décident d'organiser la première Fête de la\nmusique. L'idée leur est venue suite à une enquête révélant que 37 % des Français\ndisposaient d'un instrument de musique et qu'un jeune sur deux, de moins de 19 ans, en\njouait régulièrement. Pour faire découvrir le panorama musical de la France, les trois\nhommes décident de tout mettre en œuvre pour organiser cette manifestation. Le rendez-\nvous est fixé au 21 juin, jour symbolique du solstice d'été, jour le plus long de l'année et\nancienne fête de la Saint-Jean. La préparation se déroule dans une grande précipitation, une\nvingtaine de jours à peine après son annonce officielle, sans véritables moyens financiers ni\nlogistiques. En dépit de la diligence et du caractère spontané de l'événement, de\nnombreuses initiatives se mettent en place dans toute la France. Des ensembles\nprofessionnels comme l'Opéra de Paris ou l'Orchestre philharmonique de Strasbourg\nfinissent par accepter de jouer gratuitement."
+                "groupText": "En 1982, Jack Lang, alors ministre de la Culture, Christian Dupavillon, membre de son cabinet\net Maurice Fleuret, directeur de la musique, décident d'organiser la première Fête de la\nmusique. L'idée leur est venue suite à une enquête révélant que 37 % des Français\ndisposaient d'un instrument de musique et qu'un jeune sur deux, de moins de 19 ans, en\njouait régulièrement. Pour faire découvrir le panorama musical de la France, les trois\nhommes décident de tout mettre en œuvre pour organiser cette manifestation. Le rendez-\nvous est fixé au 21 juin, jour symbolique du solstice d'été, jour le plus long de l'année et\nancienne fête de la Saint-Jean. La préparation se déroule dans une grande précipitation, une\nvingtaine de jours à peine après son annonce officielle, sans véritables moyens financiers ni\nlogistiques. En dépit de la diligence et du caractère spontané de l'événement, de\nnombreuses initiatives se mettent en place dans toute la France. Des ensembles\nprofessionnels comme l'Opéra de Paris ou l'Orchestre philharmonique de Strasbourg\nfinissent par accepter de jouer gratuitement."
             },
             "questions": [
                 {
@@ -8909,22 +8909,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- après avoir effectué un sondage.",
-                            "isCorrectAnswer": false
+                            "text": "après avoir effectué un sondage.",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "B",
-                            "text": "- à la demande de 37 % des Français.",
+                            "text": "à la demande de 37 % des Français.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- d'une rencontre entre le ministre et les jeunes",
+                            "text": "d'une rencontre entre le ministre et les jeunes",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- sur l'initiative de musiciens de moins de 19 ans.",
+                            "text": "sur l'initiative de musiciens de moins de 19 ans.",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -8934,22 +8934,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- financer les musiciens professionnels débutants.",
+                            "text": "financer les musiciens professionnels débutants.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- faire connaître les talents musicaux des Français.",
-                            "isCorrectAnswer": false
+                            "text": "faire connaître les talents musicaux des Français.",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "C",
-                            "text": "- mettre en valeur la chanson française dans le monde.",
+                            "text": "mettre en valeur la chanson française dans le monde.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- inciter les jeunes à jouer d'un instrument de musique.",
+                            "text": "inciter les jeunes à jouer d'un instrument de musique.",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -8959,22 +8959,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- a été plus ou moins improvisée",
-                            "isCorrectAnswer": false
+                            "text": "a été plus ou moins improvisée",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "B",
-                            "text": "- n'a pas été annoncée officiellement",
+                            "text": "n'a pas été annoncée officiellement",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- a été organisée très longtemps à l'avance.",
+                            "text": "a été organisée très longtemps à l'avance.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- a nécessité un apport financier important",
+                            "text": "a nécessité un apport financier important",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -8984,130 +8984,131 @@
         {
             "questionGroup": {
                 "groupTitle": "Des femmes «accros » à leur voiture-bulle (texte à trous)",
-                "groupText": ": Des femmes «accros » à leur voiture-bulle (texte à trous)\nUne étude de presse dresse le portrait de ces irréductibles\nProposez-leur un arrêt de bus à leur porte, sur une ligne desservie fréquemment par\nun matériel spacieux et non polluant: ...(1).... Accros du volant, éprises du sentiment de\nliberté que semble leur donner leur automobile, ainsi sont les femmes «pro-\nvoitures». ...(2)....\nLa psychosociologue C. Espinasse a présenté les résultats d'une étude qualitative sur\n«les besoins et les stratégies des femmes pro-voitures». Celle-ci a été réalisée avec P.\nBhhagiar à Rennes et à Nanterre, au cours du premier semestre 1999, auprès de ces\nirréductibles qui préfèrent la voiture pour se rendre au travail. ...(3)....\nParce que leur voiture, c'est leur monde, un lieu privé, un sas de décompression.\n«C'est un loge dont les hommes sont exclus» note la psychosociologue, où elles se sentent\nchez elles, écoutent la radio, chantent à tue-tête, se maquillent, boivent et mangent avec un\nplaisir sans bornes. ...(4)....\nA contrario, les transports en commun empêchent l'ouverture de cette petite fenêtre\nde liberté. Ils obligent les femmes à attendre. ...(5).... Ils sont associés à la confrontation à\nl'autre, particulièrement pénible le matin.\nD'après Libération"
+                "groupText": "Une étude de presse dresse le portrait de ces irréductibles\nProposez-leur un arrêt de bus à leur porte, sur une ligne desservie fréquemment par\nun matériel spacieux et non polluant: ...(1).... Accros du volant, éprises du sentiment de\nliberté que semble leur donner leur automobile, ainsi sont les femmes «pro-\nvoitures». ...(2)....\nLa psychosociologue C. Espinasse a présenté les résultats d'une étude qualitative sur\n«les besoins et les stratégies des femmes pro-voitures». Celle-ci a été réalisée avec P.\nBhhagiar à Rennes et à Nanterre, au cours du premier semestre 1999, auprès de ces\nirréductibles qui préfèrent la voiture pour se rendre au travail. ...(3)....\nParce que leur voiture, c'est leur monde, un lieu privé, un sas de décompression.\n«C'est un loge dont les hommes sont exclus» note la psychosociologue, où elles se sentent\nchez elles, écoutent la radio, chantent à tue-tête, se maquillent, boivent et mangent avec un\nplaisir sans bornes. ...(4)....\nA contrario, les transports en commun empêchent l'ouverture de cette petite fenêtre\nde liberté. Ils obligent les femmes à attendre. ...(5).... Ils sont associés à la confrontation à\nl'autre, particulièrement pénible le matin.\nD'après Libération",
+                "type": "fill-in-the-gaps"
             },
             "questions": [
                 {
-                    "questionText": "",
+                    "questionText": "1",
                     "options": [
                         {
                             "option": "A",
-                            "text": "- elles y monteront tout de suite.",
+                            "text": "elles y monteront tout de suite.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- elles n'en voudront pas.",
-                            "isCorrectAnswer": false
+                            "text": "elles n'en voudront pas.",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "C",
-                            "text": "- elles hésiteront à y monter.",
+                            "text": "elles hésiteront à y monter.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- beaucoup d'élèves faisaient des difficultés pour assister au cours.",
+                            "text": "beaucoup d'élèves faisaient des difficultés pour assister au cours.",
                             "isCorrectAnswer": false
                         }
                     ]
                 },
                 {
-                    "questionText": "",
+                    "questionText": "2",
                     "options": [
                         {
                             "option": "A",
-                            "text": "- Elles amusent les professionnels des transports en commun.",
+                            "text": "Elles amusent les professionnels des transports en commun.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- Les professionnels des transports en commun les approuvent.",
+                            "text": "Les professionnels des transports en commun les approuvent.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- Les professionnels des transports en commun ne désespèrent pas de les faire\nchanger d'attitude.",
+                            "text": "Les professionnels des transports en commun ne désespèrent pas de les faire\nchanger d'attitude.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- Elles font le désespoir des professionnels des transports publics.",
+                            "text": "Elles font le désespoir des professionnels des transports publics.",
+                            "isCorrectAnswer": true
+                        }
+                    ]
+                },
+                {
+                    "questionText": "3",
+                    "options": [
+                        {
+                            "option": "A",
+                            "text": "Normal, leur quartier n'est pas bien desservi par les transports en commun.",
+                            "isCorrectAnswer": false
+                        },
+                        {
+                            "option": "B",
+                            "text": "Pourtant, elles considèrent leur quartier plutôt bien desservi par les transports en\ncommun.",
+                            "isCorrectAnswer": true
+                        },
+                        {
+                            "option": "C",
+                            "text": "Logique, puisque les transports en commun sont rarement a l'heure.",
+                            "isCorrectAnswer": false
+                        },
+                        {
+                            "option": "D",
+                            "text": "Essentiellement parce que les transports en commun sont trop lents.",
                             "isCorrectAnswer": false
                         }
                     ]
                 },
                 {
-                    "questionText": "",
+                    "questionText": "4",
                     "options": [
                         {
                             "option": "A",
-                            "text": "- Normal, leur quartier n'est pas bien desservi par les transports en commun.",
+                            "text": "Plaisir encore plus grand quand elles sont en présence de leur conjoint ou de\nleurs enfants.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- Pourtant, elles considèrent leur quartier plutôt bien desservi par les transports en\ncommun.",
+                            "text": "Plaisir d'autant plus grand que c'est interdit.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- Logique, puisque les transports en commun sont rarement a l'heure.",
+                            "text": "Plaisir d'autant plus grand qu'elles ne pouvaient pas le faire chez elles.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- Essentiellement parce que les transports en commun sont trop lents.",
-                            "isCorrectAnswer": false
+                            "text": "Plaisir d'autant plus grand qu'elles ne sont accompagnées ni de leur conjoint, ni de\nleurs enfants.",
+                            "isCorrectAnswer": true
                         }
                     ]
                 },
                 {
-                    "questionText": "",
+                    "questionText": "5",
                     "options": [
                         {
                             "option": "A",
-                            "text": "- Plaisir encore plus grand quand elles sont en présence de leur conjoint ou de\nleurs enfants.",
+                            "text": "Ils les contraignent aussi à laisser leur voiture au garage.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- Plaisir d'autant plus grand que c'est interdit.",
+                            "text": "Ils les forcent aussi à supporter les embouteillages",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- Plaisir d'autant plus grand qu'elles ne pouvaient pas le faire chez elles.",
-                            "isCorrectAnswer": false
+                            "text": "Ils les forcent ensuite à voyager debout pendant des heures",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "D",
-                            "text": "- Plaisir d'autant plus grand qu'elles ne sont accompagnées ni de leur conjoint, ni de\nleurs enfants.",
-                            "isCorrectAnswer": false
-                        }
-                    ]
-                },
-                {
-                    "questionText": "",
-                    "options": [
-                        {
-                            "option": "A",
-                            "text": "- Ils les contraignent aussi à laisser leur voiture au garage.",
-                            "isCorrectAnswer": false
-                        },
-                        {
-                            "option": "B",
-                            "text": "- Ils les forcent aussi à supporter les embouteillages",
-                            "isCorrectAnswer": false
-                        },
-                        {
-                            "option": "C",
-                            "text": "- Ils les forcent ensuite à voyager debout pendant des heures",
-                            "isCorrectAnswer": false
-                        },
-                        {
-                            "option": "D",
-                            "text": "- Ils les contraignent également à choisir un trajet.",
+                            "text": "Ils les contraignent également à choisir un trajet.",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -9117,7 +9118,7 @@
         {
             "questionGroup": {
                 "groupTitle": "Comme si je voulais vivre pour deux",
-                "groupText": "Texte 87\n- Nicolas Viennot, 23 ans, a un frère de 15 ans polyhandicapé\n« Clément m'a apporté plus de tolérance, d'attention, de sensibilité envers les difficultés des\nautres. Je lui dois aussi une certaine philosophie : Profiter de la chance que j'ai d'être valide,\nfaire la fête. Je me force à tourner les choses en dérision quand ça ne va pas. Un défi à la vie,\nen quelque sorte. Le pendant, c'est que je suis parfois un peu trop dans l'excès, comme si je\nvoulais vivre pour deux. J'ai un caractère impulsif, l'envie de tout faire maintenant par peur\nde l'avenir. Je porte également un fort sentiment de révolte contre les injustices, quelquefois\nteinté d'amertume. J'ai beaucoup de mal avec l'affirmation « On naît tous égaux ». Ma\nsensibilité à fleur de peau me pousse parfois à des colères simplistes. Plus jeune, je prenais\ntrès mal tout ce qui m'arrivait de négatif. Mais je me suis aussi forgé une carapace qui\nm'aide à encaisser pas mal de choses, je me suis endurci sans me replier sur moi-même. Il\nm'est cependant toujours difficile de lutter contre ce sentiment de culpabilité, cette\nsensation de me défiler parce que mes parents doivent assumer tous les jours le handicap\nalors que moi, je fais ma vie ailleurs»."
+                "groupText": "Nicolas Viennot, 23 ans, a un frère de 15 ans polyhandicapé\n« Clément m'a apporté plus de tolérance, d'attention, de sensibilité envers les difficultés des\nautres. Je lui dois aussi une certaine philosophie : Profiter de la chance que j'ai d'être valide,\nfaire la fête. Je me force à tourner les choses en dérision quand ça ne va pas. Un défi à la vie,\nen quelque sorte. Le pendant, c'est que je suis parfois un peu trop dans l'excès, comme si je\nvoulais vivre pour deux. J'ai un caractère impulsif, l'envie de tout faire maintenant par peur\nde l'avenir. Je porte également un fort sentiment de révolte contre les injustices, quelquefois\nteinté d'amertume. J'ai beaucoup de mal avec l'affirmation « On naît tous égaux ». Ma\nsensibilité à fleur de peau me pousse parfois à des colères simplistes. Plus jeune, je prenais\ntrès mal tout ce qui m'arrivait de négatif. Mais je me suis aussi forgé une carapace qui\nm'aide à encaisser pas mal de choses, je me suis endurci sans me replier sur moi-même. Il\nm'est cependant toujours difficile de lutter contre ce sentiment de culpabilité, cette\nsensation de me défiler parce que mes parents doivent assumer tous les jours le handicap\nalors que moi, je fais ma vie ailleurs»."
             },
             "questions": [
                 {
@@ -9125,22 +9126,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- Un témoignage publié dans un journal.",
-                            "isCorrectAnswer": false
+                            "text": "Un témoignage publié dans un journal.",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "B",
-                            "text": "- Une lettre écrite à un frère handicapé.",
+                            "text": "Une lettre écrite à un frère handicapé.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- Un extrait de roman autobiographique.",
+                            "text": "Un extrait de roman autobiographique.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- Une réponse d'un psychologue.",
+                            "text": "Une réponse d'un psychologue.",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -9150,22 +9151,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- une très grande fragilité.",
+                            "text": "une très grande fragilité.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- une vision négative de la vie",
+                            "text": "une vision négative de la vie",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- une meilleure compréhension des autres",
-                            "isCorrectAnswer": false
+                            "text": "une meilleure compréhension des autres",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "D",
-                            "text": "- une capacité à prendre tout au sérieux",
+                            "text": "une capacité à prendre tout au sérieux",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -9175,23 +9176,23 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- Parce que lui n'est pas né handicapé.",
+                            "text": "Parce que lui n'est pas né handicapé.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- Parce qu'il profite trop de la vie",
+                            "text": "Parce qu'il profite trop de la vie",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- Parce qu'il se met souvent en colère",
+                            "text": "Parce qu'il se met souvent en colère",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- Parce qu'il a l'impression de fuir.",
-                            "isCorrectAnswer": false
+                            "text": "Parce qu'il a l'impression de fuir.",
+                            "isCorrectAnswer": true
                         }
                     ]
                 }
@@ -9200,7 +9201,7 @@
         {
             "questionGroup": {
                 "groupTitle": "L’eau sera un enjeu majeur",
-                "groupText": "Texte 88\nL'eau sera un enjeu majeur du XXl siècle, tant sur le plan écologique qu'économique.\nL'augmentation de la population mondiale - on comptera 2 milliards d'habitants\nsupplémentaires en 2025 -devrait conduire, selon l'UNESCO, a une pénurie de cette\nressource vitale. Les régions où le manque d'eau devient un problème récurrent sont de plus\nen plus nombreuses, un phénomène en partie du aux changements climatiques observés\nactuellement. Dans les vingt ans à venir, on s'attend à une diminution d'un tiers de l'eau\ndisponible pour chaque habitant de la planète. Pour lutter contre ce problème, les experts\nréunis en mars 2003 au Forum mondial de l'eau de Kyoto ont invité les pays participants à\nlutter contre le gaspillage, à améliorer l'irrigation et à investir dans des équipements\nL'inquiétude vaut tant pour la quantité que pour la qualité de l'eau potable.\nDans de nombreux pays, les eaux usées sont rejetées sans traitement dans les rivières Avec\ndes conséquences sur la santé que l'on peut imaginer, car de nombreuses maladies sont\ntransmises par les eaux polluées. La production agricole et l'équilibre écologique sont aussi\nen danger. Certains pays envisagent la construction de barrages, comme vient de le faire la\nChine sur le Yangtsé, l'aménagement de fleuves comme le Gange en Inde ou le dessalement\ndes eaux saumâtres ou salées.\nCourrier International, avril 2005"
+                "groupText": "L'eau sera un enjeu majeur du XXl siècle, tant sur le plan écologique qu'économique.\nL'augmentation de la population mondiale - on comptera 2 milliards d'habitants\nsupplémentaires en 2025 -devrait conduire, selon l'UNESCO, a une pénurie de cette\nressource vitale. Les régions où le manque d'eau devient un problème récurrent sont de plus\nen plus nombreuses, un phénomène en partie du aux changements climatiques observés\nactuellement. Dans les vingt ans à venir, on s'attend à une diminution d'un tiers de l'eau\ndisponible pour chaque habitant de la planète. Pour lutter contre ce problème, les experts\nréunis en mars 2003 au Forum mondial de l'eau de Kyoto ont invité les pays participants à\nlutter contre le gaspillage, à améliorer l'irrigation et à investir dans des équipements\nL'inquiétude vaut tant pour la quantité que pour la qualité de l'eau potable.\nDans de nombreux pays, les eaux usées sont rejetées sans traitement dans les rivières Avec\ndes conséquences sur la santé que l'on peut imaginer, car de nombreuses maladies sont\ntransmises par les eaux polluées. La production agricole et l'équilibre écologique sont aussi\nen danger. Certains pays envisagent la construction de barrages, comme vient de le faire la\nChine sur le Yangtsé, l'aménagement de fleuves comme le Gange en Inde ou le dessalement\ndes eaux saumâtres ou salées.\nCourrier International, avril 2005"
             },
             "questions": [
                 {
@@ -9208,22 +9209,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- Parce que la qualité de l'eau se dégrade et rien n'est fait pour l'améliorer",
+                            "text": "Parce que la qualité de l'eau se dégrade et rien n'est fait pour l'améliorer",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- Parce que cette ressource n'est pas infinie et que la population ne cesse d'augmenter",
-                            "isCorrectAnswer": false
+                            "text": "Parce que cette ressource n'est pas infinie et que la population ne cesse d'augmenter",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "C",
-                            "text": "- Parce que, dans une vingtaine d'années, un tiers des habitants de la planète n’aura\nplus d'eau.",
+                            "text": "Parce que, dans une vingtaine d'années, un tiers des habitants de la planète n’aura\nplus d'eau.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- Parce qu'en 2025 cette ressource ne sera plus potable dans la majorité des régions",
+                            "text": "Parce qu'en 2025 cette ressource ne sera plus potable dans la majorité des régions",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -9233,23 +9234,23 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- Contrôler la consommation d'eau par habitant",
+                            "text": "Contrôler la consommation d'eau par habitant",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- Rationner la distribution mondiale d'eau",
+                            "text": "Rationner la distribution mondiale d'eau",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- Lutter contre le réchauffement climatique",
+                            "text": "Lutter contre le réchauffement climatique",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- Changer les comportements et développer des infrastructures",
-                            "isCorrectAnswer": false
+                            "text": "Changer les comportements et développer des infrastructures",
+                            "isCorrectAnswer": true
                         }
                     ]
                 },
@@ -9258,23 +9259,23 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- La qualité de l'eau inquiète tout autant les experts",
+                            "text": "La qualité de l'eau inquiète tout autant les experts",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- les eaux polluées sont néfastes pour la sante",
+                            "text": "les eaux polluées sont néfastes pour la sante",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- La mauvaise qualité de l'eau perturbe l'écosystème",
+                            "text": "La mauvaise qualité de l'eau perturbe l'écosystème",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- Des barrages sont construits pour traiter les eaux usées.",
-                            "isCorrectAnswer": false
+                            "text": "Des barrages sont construits pour traiter les eaux usées.",
+                            "isCorrectAnswer": true
                         }
                     ]
                 }
@@ -9282,8 +9283,8 @@
         },
         {
             "questionGroup": {
-                "groupTitle": "Deux vitrines brisées : Les auteurs interpellés\n",
-                "groupText": ":\nDe nouvelles dégradations ont été commises, au cours de la soirée de mercredi, dans le\ncentre-ville de Saint-Jean. Entre 21 heures et 22 heures, un groupe de jeunes passablement\néméchés a brisé la vitrine de la Banque Royale et la porte de la pharmacie, rue de Nice.\nAppelés aussitôt par des témoins, les gens-drames ont interpellé les auteurs en flagrant\ndélit: trois jeunes de la ville et des environs, âgés d'une vingtaine d'années. Ils ont été placés\nen garde à vue à la gendarmerie, où l'enquête se poursuit, car il semble que ces nouvelles\ndégradations se situent dans le prolongement des vols et dégradations effectués ces\ndernières semaines.\nD'après La Nouvelle République."
+                "groupTitle": "Deux vitrines brisées : Les auteurs interpellés",
+                "groupText": ":De nouvelles dégradations ont été commises, au cours de la soirée de mercredi, dans le\ncentre-ville de Saint-Jean. Entre 21 heures et 22 heures, un groupe de jeunes passablement\néméchés a brisé la vitrine de la Banque Royale et la porte de la pharmacie, rue de Nice.\nAppelés aussitôt par des témoins, les gens-drames ont interpellé les auteurs en flagrant\ndélit: trois jeunes de la ville et des environs, âgés d'une vingtaine d'années. Ils ont été placés\nen garde à vue à la gendarmerie, où l'enquête se poursuit, car il semble que ces nouvelles\ndégradations se situent dans le prolongement des vols et dégradations effectués ces\ndernières semaines.\nD'après La Nouvelle République."
             },
             "questions": [
                 {
@@ -9291,22 +9292,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- arrêtés sur les lieux du délit.",
-                            "isCorrectAnswer": false
+                            "text": "arrêtés sur les lieux du délit.",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "B",
-                            "text": "- libérés.",
+                            "text": "libérés.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- arrêtés chez eux.",
+                            "text": "arrêtés chez eux.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- blessés.",
+                            "text": "blessés.",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -9316,22 +9317,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- de Nice.",
+                            "text": "de Nice.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- de la même région.",
-                            "isCorrectAnswer": false
+                            "text": "de la même région.",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "C",
-                            "text": "- de Saint-Jean.",
+                            "text": "de Saint-Jean.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- d'une région différente.",
+                            "text": "d'une région différente.",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -9341,22 +9342,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- d'autres coupables sont recherchés.",
+                            "text": "d'autres coupables sont recherchés.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- le montant des dégâts n'est pas connu.",
+                            "text": "le montant des dégâts n'est pas connu.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- Ce ne sont pas les premières dégradations commises.",
-                            "isCorrectAnswer": false
+                            "text": "Ce ne sont pas les premières dégradations commises.",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "D",
-                            "text": "- des témoins manquent à l'appel.",
+                            "text": "des témoins manquent à l'appel.",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -9365,8 +9366,8 @@
         },
         {
             "questionGroup": {
-                "groupTitle": "Lutter contre l’obésité de l’enfant\n",
-                "groupText": ":\nDe plus en plus d’enfants sont touchés par l’obésité. Pour prévenir les risques, les parents ne\ndoivent pas interdire certains aliments, mais réapprendre aux enfants les bons gestes. Il faut\nles habituer aux goûts neutres. Les aliments solides sont, eux, à privilégier. Enfin, l’ambiance\ndu repas est primordiale. Une étude américaine a démontré que les enfants qui mangent\ndevant la télé ont besoin de plus de simulation pour recevoir les saveurs.\nRésultats : ils s’orientent vers des aliments gras et sucrés. De plus, ils sont moins à l’écoute\ndu sentiment de satiété et ingurgitent donc de plus grandes quantités.\nAutre piège, au-delà de quatre heures passées devant le poste, la corpulence augmente\nindépendamment de ce qui est mangé. Les nutritionnistes conseillent de ne pas dépasser\ndeux heures de télé par jour et pratiquer un sport d’endurance. Si l’effort est trop violent, ce\nsont les glucides qui sont brulés au lieu des lipides. L’idéal serait de la natation, de la marche\nou du vélo."
+                "groupTitle": "Lutter contre l’obésité de l’enfant",
+                "groupText": "De plus en plus d’enfants sont touchés par l’obésité. Pour prévenir les risques, les parents ne\ndoivent pas interdire certains aliments, mais réapprendre aux enfants les bons gestes. Il faut\nles habituer aux goûts neutres. Les aliments solides sont, eux, à privilégier. Enfin, l’ambiance\ndu repas est primordiale. Une étude américaine a démontré que les enfants qui mangent\ndevant la télé ont besoin de plus de simulation pour recevoir les saveurs.\nRésultats : ils s’orientent vers des aliments gras et sucrés. De plus, ils sont moins à l’écoute\ndu sentiment de satiété et ingurgitent donc de plus grandes quantités.\nAutre piège, au-delà de quatre heures passées devant le poste, la corpulence augmente\nindépendamment de ce qui est mangé. Les nutritionnistes conseillent de ne pas dépasser\ndeux heures de télé par jour et pratiquer un sport d’endurance. Si l’effort est trop violent, ce\nsont les glucides qui sont brulés au lieu des lipides. L’idéal serait de la natation, de la marche\nou du vélo."
             },
             "questions": [
                 {
@@ -9374,23 +9375,23 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- exclure tous les aliments gras.",
+                            "text": "exclure tous les aliments gras.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- leur interdire tous les aliments sucrés.",
+                            "text": "leur interdire tous les aliments sucrés.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- privilégier des plats légers et liquides.",
+                            "text": "privilégier des plats légers et liquides.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- leur faire apprécier les saveurs simples.",
-                            "isCorrectAnswer": false
+                            "text": "leur faire apprécier les saveurs simples.",
+                            "isCorrectAnswer": true
                         }
                     ]
                 },
@@ -9399,22 +9400,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- mangent trop vite, assis devant le poste.",
+                            "text": "mangent trop vite, assis devant le poste.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- distinguent mieux les saveurs des aliments.",
+                            "text": "distinguent mieux les saveurs des aliments.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- ne se rendent pas compte qu’ils n’ont plus faim.",
-                            "isCorrectAnswer": false
+                            "text": "ne se rendent pas compte qu’ils n’ont plus faim.",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "D",
-                            "text": "- ne respectent pas les horaires de repas habituels.",
+                            "text": "ne respectent pas les horaires de repas habituels.",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -9424,22 +9425,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- pratiquent une activité sportive très intense.",
+                            "text": "pratiquent une activité sportive très intense.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- font des efforts physiques réguliers et prolongés.",
-                            "isCorrectAnswer": false
+                            "text": "font des efforts physiques réguliers et prolongés.",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "C",
-                            "text": "- font des activités qui brulent d’abord les glucides.",
+                            "text": "font des activités qui brulent d’abord les glucides.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- mangent léger quand ils regardent longtemps la télé.",
+                            "text": "mangent léger quand ils regardent longtemps la télé.",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -9449,7 +9450,7 @@
         {
             "questionGroup": {
                 "groupTitle": "Les oies normandes",
-                "groupText": "Texte 91\nJean-Marie de Launey, la cinquantaine, élève des oies normandes à Saussey depuis sept ans.\nContrairement à ses congénères, l’oie normande, « c’est l’oie à rôtir par excellence : la chair\nest plus fine et plus savoureuse, c’est une oie légère, pas très grasse et on ne peut pas la\ngaver car les foies sont trop petits. Elle présente un intérêt certain et manifestement, il est\nprobable qu’on lance pour l’alternative un programme lors des fêtes de Noël aux côtés du\nchapon et de la dinde », explique l’éleveur.\nL’animal fait environ 3 kg, voire 3,5 kg pour les mâles. Il est complètement herbivore, peut se\npasser de céréales, et c’est la seule race connue autosexable (on reconnait les mâles des\nfemelles à la naissance) : le mâle est blanc, la femelle est tachetée blanc et gris. » Et si l’oie «\nn’a pas les yeux bleus, c’est qu’il y a un rapport dans son sang d’une autre race », prévient\nJean-Marie.\nSouvent citée dans les légendes normandes, l’oie aux yeux bleus revient de loin et semble\ndésormais avoir devant elle un avenir radieux.\nD’après AFP"
+                "groupText": "Jean-Marie de Launey, la cinquantaine, élève des oies normandes à Saussey depuis sept ans.\nContrairement à ses congénères, l’oie normande, « c’est l’oie à rôtir par excellence : la chair\nest plus fine et plus savoureuse, c’est une oie légère, pas très grasse et on ne peut pas la\ngaver car les foies sont trop petits. Elle présente un intérêt certain et manifestement, il est\nprobable qu’on lance pour l’alternative un programme lors des fêtes de Noël aux côtés du\nchapon et de la dinde », explique l’éleveur.\nL’animal fait environ 3 kg, voire 3,5 kg pour les mâles. Il est complètement herbivore, peut se\npasser de céréales, et c’est la seule race connue autosexable (on reconnait les mâles des\nfemelles à la naissance) : le mâle est blanc, la femelle est tachetée blanc et gris. » Et si l’oie «\nn’a pas les yeux bleus, c’est qu’il y a un rapport dans son sang d’une autre race », prévient\nJean-Marie.\nSouvent citée dans les légendes normandes, l’oie aux yeux bleus revient de loin et semble\ndésormais avoir devant elle un avenir radieux.\nD’après AFP"
             },
             "questions": [
                 {
@@ -9473,24 +9474,34 @@
                         {
                             "option": "D",
                             "text": "Une concurrente aux yeux bleus pour les fêtes",
-                            "isCorrectAnswer": false
+                            "isCorrectAnswer": true
                         }
                     ]
                 },
                 {
                     "questionText": null,
-                    "options": []
+                    "options": [
+                        {
+                            "option": "A",
+                            "text": "La délicatesse de sa viande",
+                            "isCorrectAnswer": true
+                        }
+                    ]
                 },
                 {
                     "questionText": null,
-                    "options": []
+                    "options": [{
+                        "option": "A",
+                        "text": "Il est facile de distinguer le mâle de la femelle",
+                        "isCorrectAnswer": true
+                    }]
                 }
             ]
         },
         {
             "questionGroup": {
                 "groupTitle": "Ils vous organisent une soirée ",
-                "groupText": "\n: Ils vous organisent une soirée de star !\nVous rêvez de vous faire passer, l’espace de quelques heures, pour une star ? De\ndébarquer en limousine dans les boites de nuits les plus sélectes de la ville ? Frappez à la\nporte de la société « Soirée de star ». Présente dans plusieurs villes européennes, elle se\npropose d’organiser des soirées pour le compte de particuliers et d’entreprises.\nLe programme ? Du sur-mesure. Une formule de base à 300 euros propose un\naccompagnement d’une heure en berline de luxe et des entrées dans les restaurants ou les\nboites de nuits les plus huppés. À vous ensuite d’agrémenter votre soirée à votre guise :\nAccompagnement durant 1 à 8 heures, séance de relooking, commande de fans en furie ou\nde paparazzi à l’entrée des lieux ou vous vous déplacez… Une large palette de possibilités\npermet de pimenter votre soirée.\nAprès seulement dix mois d’existence, « Soirée de star » réalise 80 % de ses ventes auprès\nde particuliers. « L’essentiel des demandes porte sur l’organisation d’anniversaires surprises\nou de soirées de célibataires », note Frank Marie, l’un des deux fondateurs. Le prix moyen\ndépensé pour une soirée est d’environ 800 euros.\nD’après le Parisien"
+                "groupText": "Vous rêvez de vous faire passer, l’espace de quelques heures, pour une star ? De\ndébarquer en limousine dans les boites de nuits les plus sélectes de la ville ? Frappez à la\nporte de la société « Soirée de star ». Présente dans plusieurs villes européennes, elle se\npropose d’organiser des soirées pour le compte de particuliers et d’entreprises.\nLe programme ? Du sur-mesure. Une formule de base à 300 euros propose un\naccompagnement d’une heure en berline de luxe et des entrées dans les restaurants ou les\nboites de nuits les plus huppés. À vous ensuite d’agrémenter votre soirée à votre guise :\nAccompagnement durant 1 à 8 heures, séance de relooking, commande de fans en furie ou\nde paparazzi à l’entrée des lieux ou vous vous déplacez… Une large palette de possibilités\npermet de pimenter votre soirée.\nAprès seulement dix mois d’existence, « Soirée de star » réalise 80 % de ses ventes auprès\nde particuliers. « L’essentiel des demandes porte sur l’organisation d’anniversaires surprises\nou de soirées de célibataires », note Frank Marie, l’un des deux fondateurs. Le prix moyen\ndépensé pour une soirée est d’environ 800 euros.\nD’après le Parisien"
             },
             "questions": [
                 {
@@ -9498,22 +9509,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- un article de journal sur une entreprise.",
-                            "isCorrectAnswer": false
+                            "text": "un article de journal sur une entreprise.",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "B",
-                            "text": "- Une publicité pour une soirée de prestige.",
+                            "text": "Une publicité pour une soirée de prestige.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- Une offre promotionnelle pour une discothèque.",
+                            "text": "Une offre promotionnelle pour une discothèque.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- Un programme pour des vacances organisées.",
+                            "text": "Un programme pour des vacances organisées.",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -9523,22 +9534,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- de réunir au cours d’une soirée ses clients dans une ville européenne.",
+                            "text": "de réunir au cours d’une soirée ses clients dans une ville européenne.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- de conquérir une clientèle d’entreprise ou particuliers, en Europe.",
-                            "isCorrectAnswer": false
+                            "text": "de conquérir une clientèle d’entreprise ou particuliers, en Europe.",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "C",
-                            "text": "- que les particuliers dépensent pour une soirée autant que les professionnels.",
+                            "text": "que les particuliers dépensent pour une soirée autant que les professionnels.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- que leur clientèle soit essentiellement composée de jeunes citadins européens.",
+                            "text": "que leur clientèle soit essentiellement composée de jeunes citadins européens.",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -9548,22 +9559,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- fonctionne avant tout grâce aux demandes de particuliers.",
-                            "isCorrectAnswer": false
+                            "text": "fonctionne avant tout grâce aux demandes de particuliers.",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "B",
-                            "text": "- a peu de succès auprès des particuliers à cause du prix trop élevé.",
+                            "text": "a peu de succès auprès des particuliers à cause du prix trop élevé.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- va se tourner vers les entreprises au vu du peu de clients particuliers.",
+                            "text": "va se tourner vers les entreprises au vu du peu de clients particuliers.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- a obligé ses fondateurs à beaucoup dépenser en dix mois faute de clients.",
+                            "text": "a obligé ses fondateurs à beaucoup dépenser en dix mois faute de clients.",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -9573,7 +9584,7 @@
         {
             "questionGroup": {
                 "groupTitle": "L’association Ormano",
-                "groupText": "Texte 93\nL’association Ormano a vu le jour en 1999, au nord-est de Madagascar, dans une\nrégion riche en forêts et en mangroves (zone marécageuse en bord de mer) mais menacée\nde défrichement.\nConçues non seulement pour préserver ces espaces remarquables, mais aussi pour faire\ndécouvrir aux enfants leur environnement, cet organisme porte un superbe projet\nd’éducation à la nature. Les actions sont directement menées par les professeurs qui\naccompagnent leurs élèves au cœur de la forêt et leur apprennent à voir et à comprendre\nl’étroite indépendance entre toutes les formes de vie qui la peuplent. Les observations sont\nreprises dans des fiches, servent à faire des posters ou à confectionner des dictionnaires de\nnature. Cette démarche conduit aussi les parents à participer et être sensibilisés.\nCes actions, localisées au départ, sont reprises progressivement par d’autres provinces de\nMadagascar et, par un effet de répétition et de multiplication, deviennent d’autant plus\nefficace."
+                "groupText": "L’association Ormano a vu le jour en 1999, au nord-est de Madagascar, dans une\nrégion riche en forêts et en mangroves (zone marécageuse en bord de mer) mais menacée\nde défrichement.\nConçues non seulement pour préserver ces espaces remarquables, mais aussi pour faire\ndécouvrir aux enfants leur environnement, cet organisme porte un superbe projet\nd’éducation à la nature. Les actions sont directement menées par les professeurs qui\naccompagnent leurs élèves au cœur de la forêt et leur apprennent à voir et à comprendre\nl’étroite indépendance entre toutes les formes de vie qui la peuplent. Les observations sont\nreprises dans des fiches, servent à faire des posters ou à confectionner des dictionnaires de\nnature. Cette démarche conduit aussi les parents à participer et être sensibilisés.\nCes actions, localisées au départ, sont reprises progressivement par d’autres provinces de\nMadagascar et, par un effet de répétition et de multiplication, deviennent d’autant plus\nefficace."
             },
             "questions": [
                 {
@@ -9581,22 +9592,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- de créer des vocations écologiques.",
+                            "text": "de créer des vocations écologiques.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- d’éduquer les écoliers à leur milieu naturels.",
-                            "isCorrectAnswer": false
+                            "text": "d’éduquer les écoliers à leur milieu naturels.",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "C",
-                            "text": "- d’encourage la fabrication de produits naturels.",
+                            "text": "d’encourage la fabrication de produits naturels.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- d’inciter les autorités à la conservation des forêts.",
+                            "text": "d’inciter les autorités à la conservation des forêts.",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -9606,23 +9617,23 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- luttent contre la déforestation régionale.",
+                            "text": "luttent contre la déforestation régionale.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- organisent des séminaires pour les parents.",
+                            "text": "organisent des séminaires pour les parents.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- publient des ouvrages sur l’environnement.",
+                            "text": "publient des ouvrages sur l’environnement.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- se concentrent sur l’apprentissage des enfants.",
-                            "isCorrectAnswer": false
+                            "text": "se concentrent sur l’apprentissage des enfants.",
+                            "isCorrectAnswer": true
                         }
                     ]
                 },
@@ -9631,22 +9642,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- a suscité un intérêt mitigé.",
+                            "text": "a suscité un intérêt mitigé.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- a été suivie par d’autres régions.",
-                            "isCorrectAnswer": false
+                            "text": "a été suivie par d’autres régions.",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "C",
-                            "text": "- a été reconnu par d’utilité publique.",
+                            "text": "a été reconnu par d’utilité publique.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- a été subventionnée par le conseil région.",
+                            "text": "a été subventionnée par le conseil région.",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -9655,8 +9666,8 @@
         },
         {
             "questionGroup": {
-                "groupTitle": "Des hommes tout en beauté\n",
-                "groupText": ":\nLe temps ou seules les femmes s’occupaient de leur peau est révolu. À raison de dix minutes\npar jour, ces messieurs peuvent prendre soin de leur épiderme et prévenir les marques du\ntemps. Rasage, pollution, tabac… la peau subit quotidiennement des agressions. Si à 20 ans\nles signes de fatigue sont moindres, il en va autrement à 40 ans. Les hommes ont une nature\nde peau bien particulière. Elle est plus épaisse et comporte plus de glandes sébacées que\ncelle des femmes. Plutôt que d’emprunter les produits de sa compagne. Il vaut mieux\ninvestir dans des produits spécialement formulés pour l’homme.\nLe premier geste à adopter matin et soir est de nettoyer son visage. À bannir ; les savons\ntrop acides qui décapent l’épiderme. Il convient également d’hydrater sa peau tous les\nmatins. Enfin, pour obtenir des conseils personnalisés, il n’est pas utile de consulter une\nesthéticienne. Désormais, de l’étudiant au cadre, toutes catégories d’hommes poussent les\nportes des instituts.\nD’après Métro"
+                "groupTitle": "Des hommes tout en beauté",
+                "groupText": "Le temps ou seules les femmes s’occupaient de leur peau est révolu. À raison de dix minutes\npar jour, ces messieurs peuvent prendre soin de leur épiderme et prévenir les marques du\ntemps. Rasage, pollution, tabac… la peau subit quotidiennement des agressions. Si à 20 ans\nles signes de fatigue sont moindres, il en va autrement à 40 ans. Les hommes ont une nature\nde peau bien particulière. Elle est plus épaisse et comporte plus de glandes sébacées que\ncelle des femmes. Plutôt que d’emprunter les produits de sa compagne. Il vaut mieux\ninvestir dans des produits spécialement formulés pour l’homme.\nLe premier geste à adopter matin et soir est de nettoyer son visage. À bannir ; les savons\ntrop acides qui décapent l’épiderme. Il convient également d’hydrater sa peau tous les\nmatins. Enfin, pour obtenir des conseils personnalisés, il n’est pas utile de consulter une\nesthéticienne. Désormais, de l’étudiant au cadre, toutes catégories d’hommes poussent les\nportes des instituts.\nD’après Métro"
             },
             "questions": [
                 {
@@ -9664,22 +9675,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- informe des maladies de peau les plus fréquentes.",
+                            "text": "informe des maladies de peau les plus fréquentes.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- encourage les hommes à prendre soin de leur peau.",
-                            "isCorrectAnswer": false
+                            "text": "encourage les hommes à prendre soin de leur peau.",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "C",
-                            "text": "- analyse le rapport entre l’âge de l’homme et sa beauté.",
+                            "text": "analyse le rapport entre l’âge de l’homme et sa beauté.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- fait la promotion des produits de beauté pour hommes.",
+                            "text": "fait la promotion des produits de beauté pour hommes.",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -9689,23 +9700,23 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- parce que leur statut social l’exige.",
+                            "text": "parce que leur statut social l’exige.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- sous l’influence de l’effet de mode.",
+                            "text": "sous l’influence de l’effet de mode.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- suivant l’exemple de leurs compagnes.",
+                            "text": "suivant l’exemple de leurs compagnes.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- puisqu’elle souffre de multiples nuisances.",
-                            "isCorrectAnswer": false
+                            "text": "puisqu’elle souffre de multiples nuisances.",
+                            "isCorrectAnswer": true
                         }
                     ]
                 },
@@ -9714,23 +9725,23 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- de bien sécher leur peau riche en sébum.",
+                            "text": "de bien sécher leur peau riche en sébum.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- d’utiliser les mêmes produits que leurs femmes.",
+                            "text": "d’utiliser les mêmes produits que leurs femmes.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- de se servir des savons acides pour nettoyer la peau.",
+                            "text": "de se servir des savons acides pour nettoyer la peau.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- de demander conseil aux professionnels de la beauté.",
-                            "isCorrectAnswer": false
+                            "text": "de demander conseil aux professionnels de la beauté.",
+                            "isCorrectAnswer": true
                         }
                     ]
                 }
@@ -9739,7 +9750,7 @@
         {
             "questionGroup": {
                 "groupTitle": "êtes vous un fou de chocolat ?",
-                "groupText": "Texte 95\nCharles Dulvat 37 ans. Commercial :\n« Je me drogue au chocolat La tablette de 200 grammes, je : l'engloutis en dix minutes. Je\nmange environ trois tablettes par semaine. A 12 euros le kilo, : cela revient moins cher que\nla : viande A côté de cela, aux: : repas, je ne mange pas grand : chose. Le chocolat, je l'aime\nde: toutes les façons, qu'il soit noir, : fourré aux raisins, rempli de : noisettes. C'est aussi une\nrécompense. Mais attention, il doit toujours être de qualité »\nAlexandra Vaccariello 21 ans Étudiante :\n« Je n'exagère pas ma consommation. A quoi bon, ça gâche le : plaisir. Au contraire, il faut\nêtre : gourmet. Quand je trouve un bon chocolatier, je lui achète très souvent son chocolat,\nlégèrement amer, qui doit contenir : au moins 70 % de cacao . Je fais très attention à la\nqualité car: :il y a tellement de variétés de chocolat. Un bon moment, c'est pouvoir croquer\ndu chocolat accompagné d'un café, ce : qui en fait ressortir le gout. »\nCharly Tankoua 58 ans : Ingénieur\n« Des folies, j'en ai fait. Mais e c'est fini, depuis trois ans. Même si on m'offre du chocolat, je\nle refuse systématiquement. Auparavant, je travaillais dans une confiserie où les tentations\nétaient grandes. Après avoir mangé beaucoup de chocolat, j’ai eu énormément de calories.\nComme je voulais garder une dentition présentable, j'ai arrêté toute consommation de\nchocolat. A la place, je bois : des cafés»"
+                "groupText": "Charles Dulvat 37 ans. Commercial :\n« Je me drogue au chocolat La tablette de 200 grammes, je : l'engloutis en dix minutes. Je\nmange environ trois tablettes par semaine. A 12 euros le kilo, : cela revient moins cher que\nla : viande A côté de cela, aux: : repas, je ne mange pas grand : chose. Le chocolat, je l'aime\nde: toutes les façons, qu'il soit noir, : fourré aux raisins, rempli de : noisettes. C'est aussi une\nrécompense. Mais attention, il doit toujours être de qualité »\nAlexandra Vaccariello 21 ans Étudiante :\n« Je n'exagère pas ma consommation. A quoi bon, ça gâche le : plaisir. Au contraire, il faut\nêtre : gourmet. Quand je trouve un bon chocolatier, je lui achète très souvent son chocolat,\nlégèrement amer, qui doit contenir : au moins 70 % de cacao . Je fais très attention à la\nqualité car: :il y a tellement de variétés de chocolat. Un bon moment, c'est pouvoir croquer\ndu chocolat accompagné d'un café, ce : qui en fait ressortir le gout. »\nCharly Tankoua 58 ans : Ingénieur\n« Des folies, j'en ai fait. Mais e c'est fini, depuis trois ans. Même si on m'offre du chocolat, je\nle refuse systématiquement. Auparavant, je travaillais dans une confiserie où les tentations\nétaient grandes. Après avoir mangé beaucoup de chocolat, j’ai eu énormément de calories.\nComme je voulais garder une dentition présentable, j'ai arrêté toute consommation de\nchocolat. A la place, je bois : des cafés»"
             },
             "questions": [
                 {
@@ -9747,22 +9758,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- Charles Dulvat",
+                            "text": "Charles Dulvat",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- Alexandra Vaccariello.",
+                            "text": "Alexandra Vaccariello.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- Charly Tankoua.",
-                            "isCorrectAnswer": false
+                            "text": "Charly Tankoua.",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "D",
-                            "text": "- Aucune des trois.",
+                            "text": "Aucune des trois.",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -9772,22 +9783,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- Charles Dulvat.",
-                            "isCorrectAnswer": false
+                            "text": "Charles Dulvat.",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "B",
-                            "text": "- Alexandra Vaccariello.",
+                            "text": "Alexandra Vaccariello.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- Charly Tankoua.",
+                            "text": "Charly Tankoua.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- Aucune des trois.",
+                            "text": "Aucune des trois.",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -9813,6 +9824,139 @@
                         {
                             "option": "D",
                             "text": "Aucune des trois.",
+                            "isCorrectAnswer": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "questionGroup": {
+                "groupTitle": "Travailler plus pour gagner plus (texte à trous)",
+                "groupText": "...(1)... Elle a 27 ans et neuf d'ancienneté dans des sites d'un groupe agroalimentaire.\nElle pourrait pourtant être séduite par le développement des heures supplémentaires.\n...(2)... Le seul oubli des politiques, ce sont les conditions de travail. Moi, je suis à la chaine\ndans un abattoir au service de découpe, souvent dans des frigos. ...(3)... On est déjà à\ntrente neuf heures de travail par semaine, composé par 10 jours de RTT ...(4)... même si\nc'est pour gagner 20 ou même 40 euros de plus par mois, je ne suis pas d'accord! Je préfère\ngarder du temps libre pour me reposer ...(5)... Beaucoup de gens ne se rendent pas compte\ndu travail qu'on fait. C'est très dur."
+            },
+            "questions": [
+                {
+                    "questionText": "1",
+                    "options": [
+                        {
+                            "option": "A",
+                            "text": "Ce slogan fait sourire Laetitia.",
+                            "isCorrectAnswer": true
+                        },
+                        {
+                            "option": "B",
+                            "text": "Cette devise est celle de tous.",
+                            "isCorrectAnswer": false
+                        },
+                        {
+                            "option": "C",
+                            "text": "Cette proposition ne plait pas du tout.",
+                            "isCorrectAnswer": false
+                        },
+                        {
+                            "option": "D",
+                            "text": "C'est ce que Laetitia a accepté de faire.",
+                            "isCorrectAnswer": false
+                        }
+                    ]
+                },
+                {
+                    "questionText": "2",
+                    "options": [
+                        {
+                            "option": "A",
+                            "text": "Car elle n'a jamais de problème de fins de mois.",
+                            "isCorrectAnswer": false
+                        },
+                        {
+                            "option": "B",
+                            "text": "Finalement, elle veut prendre une année sabbatique.",
+                            "isCorrectAnswer": false
+                        },
+                        {
+                            "option": "C",
+                            "text": "En effet, son salaire atteint tout juste 1000 euros par mois.",
+                            "isCorrectAnswer": true
+                        },
+                        {
+                            "option": "D",
+                            "text": "Son souhait? Travailler à temps partiel.",
+                            "isCorrectAnswer": false
+                        }
+                    ]
+                },
+                {
+                    "questionText": "3",
+                    "options": [
+                        {
+                            "option": "A",
+                            "text": "Je suis complètement isolée.",
+                            "isCorrectAnswer": false
+                        },
+                        {
+                            "option": "B",
+                            "text": "La chaleur est insupportable.",
+                            "isCorrectAnswer": false
+                        },
+                        {
+                            "option": "C",
+                            "text": "J'ai beaucoup de libertés.",
+                            "isCorrectAnswer": false
+                        },
+                        {
+                            "option": "D",
+                            "text": "Il y fait très froid.",
+                            "isCorrectAnswer": true
+                        }
+                    ]
+                },
+                {
+                    "questionText": "4",
+                    "options": [
+                        {
+                            "option": "A",
+                            "text": "Cependant, je n'ai pas beaucoup de temps à moi",
+                            "isCorrectAnswer": false
+                        },
+                        {
+                            "option": "B",
+                            "text": "En effet, je ne travaille pas beaucoup",
+                            "isCorrectAnswer": false
+                        },
+                        {
+                            "option": "C",
+                            "text": "Alors, échanger ces heures contre de l'argent",
+                            "isCorrectAnswer": true
+                        },
+                        {
+                            "option": "D",
+                            "text": "C'est pourquoi, vu l'insuffisance de mon salaire",
+                            "isCorrectAnswer": false
+                        }
+                    ]
+                },
+                {
+                    "questionText": "5",
+                    "options": [
+                        {
+                            "option": "A",
+                            "text": "en effet, je ne tiendrai pas le coup",
+                            "isCorrectAnswer": false
+                        },
+                        {
+                            "option": "B",
+                            "text": "sinon je paierai physiquement",
+                            "isCorrectAnswer": true
+                        },
+                        {
+                            "option": "C",
+                            "text": "d'ailleurs, je ne suis jamais au repos",
+                            "isCorrectAnswer": false
+                        },
+                        {
+                            "option": "D",
+                            "text": "en fait, je ne prendrai pas mes congés",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -9821,264 +9965,131 @@
         },
         {
             "questionGroup": {
-                "groupTitle": "Travailler plus pour gagner plus",
-                "groupText": "Texte 96 (texte à trous)\n...(1)... Elle a 27 ans et neuf d'ancienneté dans des sites d'un groupe agroalimentaire.\nElle pourrait pourtant être séduite par le développement des heures supplémentaires.\n...(2)... Le seul oubli des politiques, ce sont les conditions de travail. Moi, je suis à la chaine\ndans un abattoir au service de découpe, souvent dans des frigos. ...(3)... On est déjà à\ntrente neuf heures de travail par semaine, composé par 10 jours de RTT ...(4)... même si\nc'est pour gagner 20 ou même 40 euros de plus par mois, je ne suis pas d'accord! Je préfère\ngarder du temps libre pour me reposer ...(5)... Beaucoup de gens ne se rendent pas compte\ndu travail qu'on fait. C'est très dur."
+                "groupTitle": "Les vacances des Français (texte à trous)",
+                "groupText": "En 1988, 20 millions de Français se déplaçaient ; aujourd’hui, ils sont 34 millions.\n...(21)… Les autres, soit 26 millions, restent chez eux. …(22)... En effet, 37% des plus de 70\nans voyagent. Ces chiffres des dix dernières années révèlent ainsi le phénomène suivant :\n…(23)... Quant aux sédentaires, ils décident volontairement, pour des raisons autres que\nfinancières de rester à la maison. Ils veulent par exemple profiter de leur jardin ou recevoir\nleurs amis. …(24)... Ceux qui prennent des vacances le font le plus souvent en été, pour des\nséjours de plus en plus courts. …(25)… Les mois de juillet et aout concentrent encore les 4/5\ndes vacanciers. Les escapades hivernales sont en augmentation. Les vacances d’été à la\nfrançaise c’est de quitter une grande ville avec sa voiture.\nD’après ça m’intéresse."
             },
             "questions": [
                 {
-                    "questionText": "",
+                    "questionText": "21",
                     "options": [
                         {
                             "option": "A",
-                            "text": "- Ce slogan fait sourire Laetitia.",
+                            "text": "Certains n’aiment pas voyager seuls.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- Cette devise est celle de tous.",
+                            "text": "Les uns ne quittent pas leur domicile de toute leur vie.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- Cette proposition ne plait pas du tout.",
+                            "text": "Ceux-ci aiment rester à la maison.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- C'est ce que Laetitia a accepté de faire.",
+                            "text": "Ces derniers partent au moins une fois par an.",
+                            "isCorrectAnswer": true
+                        }
+                    ]
+                },
+                {
+                    "questionText": "22",
+                    "options": [
+                        {
+                            "option": "A",
+                            "text": "Parmi eux, il n y’a que de vieilles personnes.",
+                            "isCorrectAnswer": false
+                        },
+                        {
+                            "option": "B",
+                            "text": "Et il ne s’agit pas seulement de gens âgés.",
+                            "isCorrectAnswer":  true
+                        },
+                        {
+                            "option": "C",
+                            "text": "Parmi eux, aucun n’est retraité.",
+                            "isCorrectAnswer": false
+                        },
+                        {
+                            "option": "D",
+                            "text": "Ceux qui restent sont tous très vieux.",
                             "isCorrectAnswer": false
                         }
                     ]
                 },
                 {
-                    "questionText": "",
+                    "questionText": "23",
                     "options": [
                         {
                             "option": "A",
-                            "text": "- Car elle n'a jamais de problème de fins de mois.",
+                            "text": "Une diminution importante des séjours touristiques.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- Finalement, elle veut prendre une année sabbatique.",
-                            "isCorrectAnswer": false
+                            "text": "Une augmentation significative des départs en vacances.",
+                            "isCorrectAnswer":  true
                         },
                         {
                             "option": "C",
-                            "text": "- En effet, son salaire atteint tout juste 1000 euros par mois.",
+                            "text": "Une réduction des circuits organisés.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- Son souhait? Travailler à temps partiel.",
+                            "text": "Un retour aux vacances sédentaires.",
                             "isCorrectAnswer": false
                         }
                     ]
                 },
                 {
-                    "questionText": "",
+                    "questionText": "24",
                     "options": [
                         {
                             "option": "A",
-                            "text": "- Je suis complètement isolée.",
+                            "text": "Ils en profitent pour voyager.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- La chaleur est insupportable.",
-                            "isCorrectAnswer": false
+                            "text": "Ils aiment aller au cinéma sans faire la queue.",
+                            "isCorrectAnswer":  true
                         },
                         {
                             "option": "C",
-                            "text": "- J'ai beaucoup de libertés.",
+                            "text": "Ils préfèrent les circuits touristiques organisés.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- Il y fait très froid.",
+                            "text": "Ils craignent de s’ennuyer chez eux.",
                             "isCorrectAnswer": false
                         }
                     ]
                 },
                 {
-                    "questionText": "",
+                    "questionText": "25",
                     "options": [
                         {
                             "option": "A",
-                            "text": "- Cependant, je n'ai pas beaucoup de temps à moi",
+                            "text": "C’est pourquoi ils veulent des vacances économiques.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- En effet, je ne travaille pas beaucoup",
+                            "text": "Alors ils partent pour un ou deux mois.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- Alors, échanger ces heures contre de l'argent",
-                            "isCorrectAnswer": false
+                            "text": "Ils s’offrent ainsi au maximum vingt jours de vacances.",
+                            "isCorrectAnswer":  true
                         },
                         {
                             "option": "D",
-                            "text": "- C'est pourquoi, vu l'insuffisance de mon salaire",
-                            "isCorrectAnswer": false
-                        }
-                    ]
-                },
-                {
-                    "questionText": "",
-                    "options": [
-                        {
-                            "option": "A",
-                            "text": "- en effet, je ne tiendrai pas le coup",
-                            "isCorrectAnswer": false
-                        },
-                        {
-                            "option": "B",
-                            "text": "- sinon je paierai physiquement",
-                            "isCorrectAnswer": false
-                        },
-                        {
-                            "option": "C",
-                            "text": "- d'ailleurs, je ne suis jamais au repos",
-                            "isCorrectAnswer": false
-                        },
-                        {
-                            "option": "D",
-                            "text": "- en fait, je ne prendrai pas mes congés",
-                            "isCorrectAnswer": false
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "questionGroup": {
-                "groupTitle": "Les vacances des Français",
-                "groupText": "Texte 97 (texte à trous)\nEn 1988, 20 millions de Français se déplaçaient ; aujourd’hui, ils sont 34 millions.\n...(21)… Les autres, soit 26 millions, restent chez eux. …(22)... En effet, 37% des plus de 70\nans voyagent. Ces chiffres des dix dernières années révèlent ainsi le phénomène suivant :\n…(23)... Quant aux sédentaires, ils décident volontairement, pour des raisons autres que\nfinancières de rester à la maison. Ils veulent par exemple profiter de leur jardin ou recevoir\nleurs amis. …(24)... Ceux qui prennent des vacances le font le plus souvent en été, pour des\nséjours de plus en plus courts. …(25)… Les mois de juillet et aout concentrent encore les 4/5\ndes vacanciers. Les escapades hivernales sont en augmentation. Les vacances d’été à la\nfrançaise c’est de quitter une grande ville avec sa voiture.\nD’après ça m’intéresse."
-            },
-            "questions": [
-                {
-                    "questionText": "",
-                    "options": [
-                        {
-                            "option": "A",
-                            "text": "- Certains n’aiment pas voyager seuls.",
-                            "isCorrectAnswer": false
-                        },
-                        {
-                            "option": "B",
-                            "text": "- Les uns ne quittent pas leur domicile de toute leur vie.",
-                            "isCorrectAnswer": false
-                        },
-                        {
-                            "option": "C",
-                            "text": "- Ceux-ci aiment rester à la maison.",
-                            "isCorrectAnswer": false
-                        },
-                        {
-                            "option": "D",
-                            "text": "- Ces derniers partent au moins une fois par an.",
-                            "isCorrectAnswer": false
-                        }
-                    ]
-                },
-                {
-                    "questionText": "",
-                    "options": [
-                        {
-                            "option": "A",
-                            "text": "- Parmi eux, il n y’a que de vieilles personnes.",
-                            "isCorrectAnswer": false
-                        },
-                        {
-                            "option": "B",
-                            "text": "- Et il ne s’agit pas seulement de gens âgés.",
-                            "isCorrectAnswer": false
-                        },
-                        {
-                            "option": "C",
-                            "text": "- Parmi eux, aucun n’est retraité.",
-                            "isCorrectAnswer": false
-                        },
-                        {
-                            "option": "D",
-                            "text": "- Ceux qui restent sont tous très vieux.",
-                            "isCorrectAnswer": false
-                        }
-                    ]
-                },
-                {
-                    "questionText": "",
-                    "options": [
-                        {
-                            "option": "A",
-                            "text": "- Une diminution importante des séjours touristiques.",
-                            "isCorrectAnswer": false
-                        },
-                        {
-                            "option": "B",
-                            "text": "- Une augmentation significative des départs en vacances.",
-                            "isCorrectAnswer": false
-                        },
-                        {
-                            "option": "C",
-                            "text": "- Une réduction des circuits organisés.",
-                            "isCorrectAnswer": false
-                        },
-                        {
-                            "option": "D",
-                            "text": "- Un retour aux vacances sédentaires.",
-                            "isCorrectAnswer": false
-                        }
-                    ]
-                },
-                {
-                    "questionText": "",
-                    "options": [
-                        {
-                            "option": "A",
-                            "text": "- Ils en profitent pour voyager.",
-                            "isCorrectAnswer": false
-                        },
-                        {
-                            "option": "B",
-                            "text": "- Ils aiment aller au cinéma sans faire la queue.",
-                            "isCorrectAnswer": false
-                        },
-                        {
-                            "option": "C",
-                            "text": "- Ils préfèrent les circuits touristiques organisés.",
-                            "isCorrectAnswer": false
-                        },
-                        {
-                            "option": "D",
-                            "text": "- Ils craignent de s’ennuyer chez eux.",
-                            "isCorrectAnswer": false
-                        }
-                    ]
-                },
-                {
-                    "questionText": "",
-                    "options": [
-                        {
-                            "option": "A",
-                            "text": "- C’est pourquoi ils veulent des vacances économiques.",
-                            "isCorrectAnswer": false
-                        },
-                        {
-                            "option": "B",
-                            "text": "- Alors ils partent pour un ou deux mois.",
-                            "isCorrectAnswer": false
-                        },
-                        {
-                            "option": "C",
-                            "text": "- Ils s’offrent ainsi au maximum vingt jours de vacances.",
-                            "isCorrectAnswer": false
-                        },
-                        {
-                            "option": "D",
-                            "text": "- Par conséquent, ils recherchent des séjours culturels.",
+                            "text": "Par conséquent, ils recherchent des séjours culturels.",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -10088,14 +10099,14 @@
         {
             "questionGroup": {
                 "groupTitle": "l’incroyable défi du pianiste de jazz",
-                "groupText": "Texte 98\nQuébec – À part une tendinite, rien ne pourra l’arrêter. Demain soir à 20h15, Fabrice Eulry\ns’attaquera à un défi insensé : jouer du piano vingt-quatre heures non-stop. Avec pour\nseules règles celle qu’il a lui-même fixées : pas de partition, interdiction de rejouer deux fois\nle même morceau, pas plus de dix secondes d’arrêt entre chaque séquence et une simple\npause de cinq minutes toutes les six heures pour se nourrir.\nCe musicien énergique de 43 ans, soutenu par sa femme Isabelle, entamera son marathon\npar un morceau intitulé « boogie boogie pour loonie Mac » devant une salle à moitié pleine\npour l’instant. « Je me suis sevré de piano depuis une semaine pour avoir de l’appétit car\nc’est la force mentale qui va me faire tenir » indique Fabrice Eulry.\nCertains spectateurs ont prévu de l'accompagner tout au long de cette performance qui\ndevrait constituer un nouveau record."
+                "groupText": "Québec – À part une tendinite, rien ne pourra l’arrêter. Demain soir à 20h15, Fabrice Eulry\ns’attaquera à un défi insensé : jouer du piano vingt-quatre heures non-stop. Avec pour\nseules règles celle qu’il a lui-même fixées : pas de partition, interdiction de rejouer deux fois\nle même morceau, pas plus de dix secondes d’arrêt entre chaque séquence et une simple\npause de cinq minutes toutes les six heures pour se nourrir.\nCe musicien énergique de 43 ans, soutenu par sa femme Isabelle, entamera son marathon\npar un morceau intitulé « boogie boogie pour loonie Mac » devant une salle à moitié pleine\npour l’instant. « Je me suis sevré de piano depuis une semaine pour avoir de l’appétit car\nc’est la force mentale qui va me faire tenir » indique Fabrice Eulry.\nCertains spectateurs ont prévu de l'accompagner tout au long de cette performance qui\ndevrait constituer un nouveau record."
             },
             "questions": []
         },
         {
             "questionGroup": {
                 "groupTitle": "Un patrimoine à défendre",
-                "groupText": "Texte 99\nPaillasse, fougasse, couronne lyonnaise ou bordelaise… leurs noms fleurent bon la\nboulangerie d’antan. « A chaque région son pain », vantent les organisateurs de la fête du\npain en France.\nOubliées depuis l’après-guerre, ces spécialités régionales renaissent à nouveau, soutenues\npar la nécessité d’enrayer la chute chronique des ventes de pain. Au début du XXe siècle, on\nen mangeait jusqu’à 650 grammes par jour, soit quatre fois plus qu’aujourd’hui. Un\nphénomène lié à la diversité alimentaire du monde moderne mais aussi à l’abaissement de la\nqualité de cet aliment sous l’effet de sa standardisation. Le retour des formes régionales\ntenterait ainsi davantage de réconcilier les Français avec leur artisan boulanger que de\nrenouer avec une tradition centenaire. Rétrospectivement, on tend à exagérer, idéaliser,\nsentimentaliser l’assise régionale du pain, note l’historien américain Steven Kaplan, qui juge\nl’apparition des pains spéciaux comme un levier marketing répondant avant tout à des paris\ncommerciaux.\nNéanmoins, l’historien poursuit sa croisade pour le bon goût. Dans le journal le Monde, il\ns’est livré récemment à un vibrant plaidoyer pour la croûte française cuite à point, dont la\ndisparition marquerait un pas « vers l’américanisation, l’innombrable pain mou, tranché,\nsous cellophane ».\nD’après Direct matin"
+                "groupText": "Paillasse, fougasse, couronne lyonnaise ou bordelaise… leurs noms fleurent bon la\nboulangerie d’antan. « A chaque région son pain », vantent les organisateurs de la fête du\npain en France.\nOubliées depuis l’après-guerre, ces spécialités régionales renaissent à nouveau, soutenues\npar la nécessité d’enrayer la chute chronique des ventes de pain. Au début du XXe siècle, on\nen mangeait jusqu’à 650 grammes par jour, soit quatre fois plus qu’aujourd’hui. Un\nphénomène lié à la diversité alimentaire du monde moderne mais aussi à l’abaissement de la\nqualité de cet aliment sous l’effet de sa standardisation. Le retour des formes régionales\ntenterait ainsi davantage de réconcilier les Français avec leur artisan boulanger que de\nrenouer avec une tradition centenaire. Rétrospectivement, on tend à exagérer, idéaliser,\nsentimentaliser l’assise régionale du pain, note l’historien américain Steven Kaplan, qui juge\nl’apparition des pains spéciaux comme un levier marketing répondant avant tout à des paris\ncommerciaux.\nNéanmoins, l’historien poursuit sa croisade pour le bon goût. Dans le journal le Monde, il\ns’est livré récemment à un vibrant plaidoyer pour la croûte française cuite à point, dont la\ndisparition marquerait un pas « vers l’américanisation, l’innombrable pain mou, tranché,\nsous cellophane ».\nD’après Direct matin"
             },
             "questions": [
                 {
@@ -10103,23 +10114,23 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- entreprendre une modernisation des procédés de panification.",
+                            "text": "entreprendre une modernisation des procédés de panification.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- s’aligner sur l’expertise américaine en matière de conditionnement.",
+                            "text": "s’aligner sur l’expertise américaine en matière de conditionnement.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- répondre de manière plus adéquate aux impératifs de la mondialisation.",
+                            "text": "répondre de manière plus adéquate aux impératifs de la mondialisation.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- préserver les caractéristiques, qui garantissent la qualité du pain français.",
-                            "isCorrectAnswer": false
+                            "text": "préserver les caractéristiques, qui garantissent la qualité du pain français.",
+                            "isCorrectAnswer":  true
                         }
                     ]
                 },
@@ -10135,132 +10146,132 @@
         },
         {
             "questionGroup": {
-                "groupTitle": "Laver son linge sale",
-                "groupText": "Texte 100 (texte à trous)\nAujourd'hui, le lave-linge s’est installé dans toutes les familles et personne n'oserait\ncontester son utilité. ...(1)... Ainsi en est-il des machines à laver sèche-linge, grosses\nconsommatrices d'électricité et très peu performantes puisqu'il est souvent nécessaire de\nrenouveler le cycle de séchage. ...(2)... Les lessives modernes et les nouvelles techniques de\nlavage suffisent à vous procurer un linge parfaitement propre et vous épargnerez 15%\nd'énergie.\n...(3)... Pensez par exemple à remplir toujours complètement vos machines sinon utilisez la\ntouche demi-charge, ...(4)... Il existe aussi des petites balles en caoutchouc qui\nreproduisent l'effet de l'ancien battoir à linge que nos grand-mères utilisaient. ...(5)...,\nprivilégiez celles ne contenant pas de phosphates, qui asphyxient les cours d'eau par la\nprolifération d'algues."
+                "groupTitle": "Laver son linge sale (texte à trous)",
+                "groupText": "Aujourd'hui, le lave-linge s’est installé dans toutes les familles et personne n'oserait\ncontester son utilité. ...(1)... Ainsi en est-il des machines à laver sèche-linge, grosses\nconsommatrices d'électricité et très peu performantes puisqu'il est souvent nécessaire de\nrenouveler le cycle de séchage. ...(2)... Les lessives modernes et les nouvelles techniques de\nlavage suffisent à vous procurer un linge parfaitement propre et vous épargnerez 15%\nd'énergie.\n...(3)... Pensez par exemple à remplir toujours complètement vos machines sinon utilisez la\ntouche demi-charge, ...(4)... Il existe aussi des petites balles en caoutchouc qui\nreproduisent l'effet de l'ancien battoir à linge que nos grand-mères utilisaient. ...(5)...,\nprivilégiez celles ne contenant pas de phosphates, qui asphyxient les cours d'eau par la\nprolifération d'algues."
             },
             "questions": [
                 {
-                    "questionText": "",
+                    "questionText": "1",
                     "options": [
                         {
                             "option": "A",
-                            "text": "- Néanmoins, certains professionnels nous mettent en garde.",
+                            "text": "Néanmoins, certains professionnels nous mettent en garde.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- D'ailleurs les dernières innovations le prouvent.",
+                            "text": "D'ailleurs les dernières innovations le prouvent.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- Tout d'abord, aucune de nouveautés sur le marché n'est critiquée.",
+                            "text": "Tout d'abord, aucune de nouveautés sur le marché n'est critiquée.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- Cependant, quelques \"innovations\" laissent perplexe.",
+                            "text": "Cependant, quelques \"innovations\" laissent perplexe.",
+                            "isCorrectAnswer": true
+                        }
+                    ]
+                },
+                {
+                    "questionText": "2",
+                    "options": [
+                        {
+                            "option": "A",
+                            "text": "En revanche, la fonction \"prélavage\" est plutôt utile.",
+                            "isCorrectAnswer": false
+                        },
+                        {
+                            "option": "B",
+                            "text": "C'est pourquoi la plupart des fonctions sont nécessaires.",
+                            "isCorrectAnswer": false
+                        },
+                        {
+                            "option": "C",
+                            "text": "De même, la fonction \"prélavage\" est presque toujours superflue.",
+                            "isCorrectAnswer": true
+                        },
+                        {
+                            "option": "D",
+                            "text": "Pourtant, cette fonction s'avère généralement économique.",
                             "isCorrectAnswer": false
                         }
                     ]
                 },
                 {
-                    "questionText": "",
+                    "questionText": "3",
                     "options": [
                         {
                             "option": "A",
-                            "text": "- En revanche, la fonction \"prélavage\" est plutôt utile.",
+                            "text": "Pour réduire votre budget linge, faites attention à la machine que vous achetez.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- C'est pourquoi la plupart des fonctions sont nécessaires.",
-                            "isCorrectAnswer": false
+                            "text": "Des petits trucs pouvant aussi réduire votre budget linge.",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "C",
-                            "text": "- De même, la fonction \"prélavage\" est presque toujours superflue.",
+                            "text": "Ce qui nous montre que les solutions pour économiser.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- Pourtant, cette fonction s'avère généralement économique.",
+                            "text": "Il faut savoir cependant qu'il est difficile de faire plus d'économies.",
                             "isCorrectAnswer": false
                         }
                     ]
                 },
                 {
-                    "questionText": "",
+                    "questionText": "4",
                     "options": [
                         {
                             "option": "A",
-                            "text": "- Pour réduire votre budget linge, faites attention à la machine que vous achetez.",
-                            "isCorrectAnswer": false
+                            "text": "vous économiserez ainsi 50% d'eau.",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "B",
-                            "text": "- Des petits trucs pouvant aussi réduire votre budget linge.",
+                            "text": "mais attendez avant de lancer la machine.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- Ce qui nous montre que les solutions pour économiser.",
+                            "text": "et vous utiliserez un peu plus d'eau.",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- Il faut savoir cependant qu'il est difficile de faire plus d'économies.",
+                            "text": "afin de mieux laver le linge.",
                             "isCorrectAnswer": false
                         }
                     ]
                 },
                 {
-                    "questionText": "",
+                    "questionText": "5",
                     "options": [
                         {
                             "option": "A",
-                            "text": "- vous économiserez ainsi 50% d'eau.",
+                            "text": "Mais restez vigilants,",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- mais attendez avant de lancer la machine.",
+                            "text": "Bref pour les machines à laver,",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "C",
-                            "text": "- et vous utiliserez un peu plus d'eau.",
+                            "text": "En effet celles-ci sont recyclées,",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- afin de mieux laver le linge.",
-                            "isCorrectAnswer": false
-                        }
-                    ]
-                },
-                {
-                    "questionText": "",
-                    "options": [
-                        {
-                            "option": "A",
-                            "text": "- Mais restez vigilants,",
-                            "isCorrectAnswer": false
-                        },
-                        {
-                            "option": "B",
-                            "text": "- Bref pour les machines à laver,",
-                            "isCorrectAnswer": false
-                        },
-                        {
-                            "option": "C",
-                            "text": "- En effet celles-ci sont recyclées,",
-                            "isCorrectAnswer": false
-                        },
-                        {
-                            "option": "D",
-                            "text": "- Quant aux lessives,",
-                            "isCorrectAnswer": false
+                            "text": "Quant aux lessives,",
+                            "isCorrectAnswer": true
                         }
                     ]
                 }
@@ -10269,7 +10280,7 @@
         {
             "questionGroup": {
                 "groupTitle": "Paroles de techno prophète",
-                "groupText": "Texte 101\nConsidérés par certains comme un diseur de bonne aventure technologique. Ray Kurzweil\nest une vedette de la prospective scientifique. Ses prédictions ont le don de diviser : cela va\ndu désaccord le plus véhément à une admiration éperdue frisant le culte du héros en\npassant par le scepticisme le plus froid. Il imagine sans ciller un monde futur où, notamment,\nde minuscules robots annuleront les effets de la pollution et où l’humanité “pourra vivre\néternellement sans vieillir”.\nSelon ses estimations, nous serions capables, d’ici à la fin des années 2030, de télécharger le\ncerveau humain sur un ordinateur, stockant ainsi «toute la personnalité, la mémoire, les\ntalents et le passé d’une personne». D’ici là, êtres humains et machines non biologiques\npourraient avoir si parfaitement fusionné que les différences entre eux seraient devenues\nnégligeables. Dès 2045, l’intelligence humaine, améliorée, pourrait commencer à s’étendre\ndans l’univers.\nSi le rythme du progrès technologique continue de s’accélérer, comme le prédit Kurzweil, il\nest probable que le débat sur la singularité connaîtra lui aussi une croissance exponentielle.\nTant cela fait le lien entre des thèmes extrêmement controversés (Dieu, la crise énergétique,\nle génie génétique) et des concepts de science-fiction (l’intelligence artificielle, la réalité\nvirtuelle, l’ingénierie moléculaire).\nD’après Courrier international"
+                "groupText": "Considérés par certains comme un diseur de bonne aventure technologique. Ray Kurzweil\nest une vedette de la prospective scientifique. Ses prédictions ont le don de diviser : cela va\ndu désaccord le plus véhément à une admiration éperdue frisant le culte du héros en\npassant par le scepticisme le plus froid. Il imagine sans ciller un monde futur où, notamment,\nde minuscules robots annuleront les effets de la pollution et où l’humanité “pourra vivre\néternellement sans vieillir”.\nSelon ses estimations, nous serions capables, d’ici à la fin des années 2030, de télécharger le\ncerveau humain sur un ordinateur, stockant ainsi «toute la personnalité, la mémoire, les\ntalents et le passé d’une personne». D’ici là, êtres humains et machines non biologiques\npourraient avoir si parfaitement fusionné que les différences entre eux seraient devenues\nnégligeables. Dès 2045, l’intelligence humaine, améliorée, pourrait commencer à s’étendre\ndans l’univers.\nSi le rythme du progrès technologique continue de s’accélérer, comme le prédit Kurzweil, il\nest probable que le débat sur la singularité connaîtra lui aussi une croissance exponentielle.\nTant cela fait le lien entre des thèmes extrêmement controversés (Dieu, la crise énergétique,\nle génie génétique) et des concepts de science-fiction (l’intelligence artificielle, la réalité\nvirtuelle, l’ingénierie moléculaire).\nD’après Courrier international"
             },
             "questions": [
                 {
@@ -10288,7 +10299,7 @@
                         {
                             "option": "C",
                             "text": "d’informer des évolutions technologiques avancées par un scientifique.",
-                            "isCorrectAnswer": false
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "D",
@@ -10303,7 +10314,7 @@
                         {
                             "option": "A",
                             "text": "les hommes et les outils technologiques ne feront plus qu’un.",
-                            "isCorrectAnswer": false
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "B",
@@ -10333,7 +10344,7 @@
                         {
                             "option": "B",
                             "text": "l’intelligence artificielle et la dépollution.",
-                            "isCorrectAnswer": false
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "C",
@@ -10363,7 +10374,7 @@
                         {
                             "option": "C",
                             "text": "renvoie à des questions scientifiques et métaphysiques.",
-                            "isCorrectAnswer": false
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "D",
@@ -10377,27 +10388,45 @@
         {
             "questionGroup": {
                 "groupTitle": "Le saumon d’élevage : mine d’or de la Norvège.",
-                "groupText": "Texte 102\nLa consommation de saumon augmente chaque année, et la Norvège, premier producteur\nmondial, doit s’adapter pour répondre à la demande quitte à industrialiser toujours plus sa\nproduction. Multiplier par cinq la production d’ici 2050, voilà l’objectif ambitieux de la\nNorvège. Les exportations norvégiennes ont atteint un record en 2016 avec un chiffre\nd’affaire de 7,5 milliards d’euros, rien que pour le saumon. C’est la France qui se trouve en\ntête du classement des consommateurs de produits marins norvégiens : nous consommons\nen moyenne 2,3 kilos de saumon norvégien par an.\nCette augmentation constante de la demande pousse le pays scandinave à mettre en place\ndes projets faramineux, comme par exemple une ferme offshore en haute mer capable\nd’accueillir plus d’un million de saumons. Mais l’industrialisation massive de l’élevage pose\ndes problèmes pour les saumons sauvages. Le saumon sauvage mis en péril par le saumon\nindustriel.\nL’élevage industriel pose deux problèmes en ce qui concerne le saumon : la prolifération des\npoux de mer et l’évasion des saumons d’élevage. Ces deux conséquences de l’élevage à très\ngrande échelle mettent en péril l’écosystème et le patrimoine génétique des saumons\nsauvages. «Nous faisons beaucoup d’efforts d’un point de vue technique pour trouver des\nsolutions pour réduire les traitements chimiques et les remplacer par des techniques\nnaturelles, » indique Catarina Martins, directrice environnement de la compagnie Marine\nHarvest. Des saumons qui peuvent être exposés à des produits toxiques. Le saumon pourrait\naussi contenir des produits toxiques comme des dioxydes, des pesticides et même des\nmétaux lourds. En 2013, la Norvège recommandait déjà une consommation de saumon\nmodérée pour les enfants et les femmes enceintes. Mais le risque, dû notamment à la\npollution des eaux, ne concerne plus uniquement le saumon d’élevage.\n« Aujourd’hui même le saumon bio est pollué par les métaux lourds et notamment le\nmercure », affirme Jean-Phillipe Magnen, ancien élu Europe Ecologie Les Verts pour qui « Il\nfaut changer le modèle industriel d’élevage, aujourd'hui il y a une pollution qui est très\ninquiétante, qui n’est pas seulement sur le saumon d’élevage puisque les eaux sont pollués\navec des métaux lourds. »"
+                "groupText": "La consommation de saumon augmente chaque année, et la Norvège, premier producteur\nmondial, doit s’adapter pour répondre à la demande quitte à industrialiser toujours plus sa\nproduction. Multiplier par cinq la production d’ici 2050, voilà l’objectif ambitieux de la\nNorvège. Les exportations norvégiennes ont atteint un record en 2016 avec un chiffre\nd’affaire de 7,5 milliards d’euros, rien que pour le saumon. C’est la France qui se trouve en\ntête du classement des consommateurs de produits marins norvégiens : nous consommons\nen moyenne 2,3 kilos de saumon norvégien par an.\nCette augmentation constante de la demande pousse le pays scandinave à mettre en place\ndes projets faramineux, comme par exemple une ferme offshore en haute mer capable\nd’accueillir plus d’un million de saumons. Mais l’industrialisation massive de l’élevage pose\ndes problèmes pour les saumons sauvages. Le saumon sauvage mis en péril par le saumon\nindustriel.\nL’élevage industriel pose deux problèmes en ce qui concerne le saumon : la prolifération des\npoux de mer et l’évasion des saumons d’élevage. Ces deux conséquences de l’élevage à très\ngrande échelle mettent en péril l’écosystème et le patrimoine génétique des saumons\nsauvages. «Nous faisons beaucoup d’efforts d’un point de vue technique pour trouver des\nsolutions pour réduire les traitements chimiques et les remplacer par des techniques\nnaturelles, » indique Catarina Martins, directrice environnement de la compagnie Marine\nHarvest. Des saumons qui peuvent être exposés à des produits toxiques. Le saumon pourrait\naussi contenir des produits toxiques comme des dioxydes, des pesticides et même des\nmétaux lourds. En 2013, la Norvège recommandait déjà une consommation de saumon\nmodérée pour les enfants et les femmes enceintes. Mais le risque, dû notamment à la\npollution des eaux, ne concerne plus uniquement le saumon d’élevage.\n« Aujourd’hui même le saumon bio est pollué par les métaux lourds et notamment le\nmercure », affirme Jean-Phillipe Magnen, ancien élu Europe Ecologie Les Verts pour qui « Il\nfaut changer le modèle industriel d’élevage, aujourd'hui il y a une pollution qui est très\ninquiétante, qui n’est pas seulement sur le saumon d’élevage puisque les eaux sont pollués\navec des métaux lourds. »"
             },
             "questions": [
                 {
-                    "questionText": null,
-                    "options": []
+                    "questionText": "L'article explique",
+                    "options": [
+                        {
+                            "option": "A",
+                            "text": "Les pratiques utilisées en vigueur dans l’élevage du saumon",
+                            "isCorrectAnswer": true
+                        }
+                    ]
                 },
                 {
-                    "questionText": null,
-                    "options": []
+                    "questionText": "Les éleveurs :",
+                    "options": [
+                        {
+                            "option": "A",
+                            "text": "Améliorent la couleur des saumons pour le rendre plus appétissant",
+                            "isCorrectAnswer": true
+                        }
+                    ]
                 },
                 {
-                    "questionText": null,
-                    "options": []
+                    "questionText": "Les méthodes utilisées servent à :",
+                    "options": [
+                        {
+                            "option": "A",
+                            "text": "Eliminer parasites présentes dans les saumons",
+                            "isCorrectAnswer": true
+                        }
+                    ]
                 }
             ]
         },
         {
             "questionGroup": {
-                "groupTitle": "L'alpinisme (voir plus haut ",
-                "groupText": "; texte répété en une autre version)\nUn peu d’histoire !\nEn 1760, Horace-Bénédict de Saussure savant Genevois désireux de faire des observations\nscientifiques sur la cime la plus haute des Alpes, promet une forte récompense au montagnard qui\ntrouvera une route praticable pour y parvenir. Sur le moment la chose parut sans doute\nextravagante, car la première tentative n’eut lieu qu’au bout de 15 ans. Elle fut arrêtée, comme les\nsuivantes, plutôt par la longueur de la course, l’étonnement, le dépaysement des hautes neiges que\npar de véritables difficultés. Le glacier des Bossons, la Mer de Glace, l’Arête du Goûter sont\nsuccessivement explorés, sans succès. Il faut, pour que le pas décisif soit franchi, l’entrée en scène de\nJacques Balmat. Originaire du village des Pèlerin, déjà père de famille, Jacques Balmat avait 24 ans en\n1786. C’était un grand coureur de glaciers ; il conduisait des voyageurs, mais n’était pas guide en\ntitre. Le 30 Juin de cette année-là, descendant d’une course, il rencontre un caravane qui part\nconquérir la récompense promise par Saussure. Il se joint à eux, fait une tentative par l’Arête des\nBosses, est abandonné par ses compagnons et redescend sur le Grand Plateau. Il raconte ensuite\navoir ensuite gravi la pente à droite des Rochers Rouges, atteint l’épaule du Mont Blanc et vu à ses\npieds le versant italien. Mais pris par le brouillard, il ne peut continuer ce soir-là. Après un bivouac\nimprovisé, il redescend dans la vallée, sûr d’avoir trouvé l’accès à la cime. Un mois après, le 7 Août,\nBalmat repart avec Michel Gabriel Paccard. C’est le docteur de Chamonix, neveu du doyen des guides\nde la vallée, homme instruit, qui a déjà fait trois tentatives au Mont Blanc. Après une nuit passée au\nsommet de la montagne de la Côte, reprenant l’itinéraire des Rochers rouges, ils arrivent tous deux\nau sommet à 18h30. Le Mont Blanc était vaincu, la plus grande « première » des Alpes était\naccomplie. Saussure lui-même se fit conduire au Mont Blanc en 1787. Il fit un long séjour en 1788 au\ncol du Géant, multipliant les observations scientifiques. Si la science lui avait fait faire la conquête du\nMont Blanc, on peut dire qu’en retour les Alpes l’avaient conquis, comme beaucoup d’entre nous.\nC’est seulement en 1808, qu’une servante de Chamonix, Maria Paradis, fit la première ascension\nféminine. Citons aussi la tragique expédition du docteur Hamel en 1820, l’ascension de Mlle\nd’Angeville (1938) qui, exténuée, disait à ses guides: «Si je meurs avant d’avoir atteint la cime,\npromettez-moi d’y porter mon corps et de l’ensevelir là-haut. »Mais aucun des amateurs qui suivent\nles traces de Saussure, ne laisse une trace durable dans l’histoire alpine. Ils sont venus là par\ncuriosité, peut-être pour la gloire. La preuve en est que malgré le nombre de ces ascensions,\nl’exploration du Mont Blanc n’avance pas. La première voie, avec toutefois le détour par le mur de la\nCôte, est la seule connue jusqu’en 1855. Cette année-là seulement est faite l’ascension par l’Arête du\nGoûter, bien que la voie ait été reconnue dès les premières tentatives. L’Arête des Bosses ne sera\nvaincue qu’en1859.Quand à la connaissance du massif, il semble qu’elle se borne à la voie du col du\nGéant. Dans le reste des Alpes, c’est le silence."
+                "groupTitle": "L'alpinisme",
+                "groupText": "Un peu d’histoire !\nEn 1760, Horace-Bénédict de Saussure savant Genevois désireux de faire des observations\nscientifiques sur la cime la plus haute des Alpes, promet une forte récompense au montagnard qui\ntrouvera une route praticable pour y parvenir. Sur le moment la chose parut sans doute\nextravagante, car la première tentative n’eut lieu qu’au bout de 15 ans. Elle fut arrêtée, comme les\nsuivantes, plutôt par la longueur de la course, l’étonnement, le dépaysement des hautes neiges que\npar de véritables difficultés. Le glacier des Bossons, la Mer de Glace, l’Arête du Goûter sont\nsuccessivement explorés, sans succès. Il faut, pour que le pas décisif soit franchi, l’entrée en scène de\nJacques Balmat. Originaire du village des Pèlerin, déjà père de famille, Jacques Balmat avait 24 ans en\n1786. C’était un grand coureur de glaciers ; il conduisait des voyageurs, mais n’était pas guide en\ntitre. Le 30 Juin de cette année-là, descendant d’une course, il rencontre un caravane qui part\nconquérir la récompense promise par Saussure. Il se joint à eux, fait une tentative par l’Arête des\nBosses, est abandonné par ses compagnons et redescend sur le Grand Plateau. Il raconte ensuite\navoir ensuite gravi la pente à droite des Rochers Rouges, atteint l’épaule du Mont Blanc et vu à ses\npieds le versant italien. Mais pris par le brouillard, il ne peut continuer ce soir-là. Après un bivouac\nimprovisé, il redescend dans la vallée, sûr d’avoir trouvé l’accès à la cime. Un mois après, le 7 Août,\nBalmat repart avec Michel Gabriel Paccard. C’est le docteur de Chamonix, neveu du doyen des guides\nde la vallée, homme instruit, qui a déjà fait trois tentatives au Mont Blanc. Après une nuit passée au\nsommet de la montagne de la Côte, reprenant l’itinéraire des Rochers rouges, ils arrivent tous deux\nau sommet à 18h30. Le Mont Blanc était vaincu, la plus grande « première » des Alpes était\naccomplie. Saussure lui-même se fit conduire au Mont Blanc en 1787. Il fit un long séjour en 1788 au\ncol du Géant, multipliant les observations scientifiques. Si la science lui avait fait faire la conquête du\nMont Blanc, on peut dire qu’en retour les Alpes l’avaient conquis, comme beaucoup d’entre nous.\nC’est seulement en 1808, qu’une servante de Chamonix, Maria Paradis, fit la première ascension\nféminine. Citons aussi la tragique expédition du docteur Hamel en 1820, l’ascension de Mlle\nd’Angeville (1938) qui, exténuée, disait à ses guides: «Si je meurs avant d’avoir atteint la cime,\npromettez-moi d’y porter mon corps et de l’ensevelir là-haut. »Mais aucun des amateurs qui suivent\nles traces de Saussure, ne laisse une trace durable dans l’histoire alpine. Ils sont venus là par\ncuriosité, peut-être pour la gloire. La preuve en est que malgré le nombre de ces ascensions,\nl’exploration du Mont Blanc n’avance pas. La première voie, avec toutefois le détour par le mur de la\nCôte, est la seule connue jusqu’en 1855. Cette année-là seulement est faite l’ascension par l’Arête du\nGoûter, bien que la voie ait été reconnue dès les premières tentatives. L’Arête des Bosses ne sera\nvaincue qu’en1859.Quand à la connaissance du massif, il semble qu’elle se borne à la voie du col du\nGéant. Dans le reste des Alpes, c’est le silence."
             },
             "questions": [
                 {
@@ -10405,22 +10434,47 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- La grande crevasse",
+                            "text": "La grande crevasse",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- L’appel des sommets",
-                            "isCorrectAnswer": false
+                            "text": "L’appel des sommets",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "C",
-                            "text": "- Démodé l'alpinisme",
+                            "text": "Démodé l'alpinisme",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- Au risque des frontières",
+                            "text": "Au risque des frontières",
+                            "isCorrectAnswer": false
+                        }
+                    ]
+                },
+                {
+                    "questionText": "Une seule de ces affirmations est vraie. Laquelle ?",
+                    "options": [
+                        {
+                            "option": "A",
+                            "text": "L’alpinisme a vu le jour avec les débuts du tourisme.",
+                            "isCorrectAnswer": true
+                        },
+                        {
+                            "option": "B",
+                            "text": "De tout temps, des hommes illustres ont péri dans les Alpes.",
+                            "isCorrectAnswer": false
+                        },
+                        {
+                            "option": "C",
+                            "text": "A la fascination pour la montagne a succédé une période de terreur.",
+                            "isCorrectAnswer": false
+                        },
+                        {
+                            "option": "D",
+                            "text": "Des mulets furent utilisés pour les premières randonnées en montagne.",
                             "isCorrectAnswer": false
                         }
                     ]
@@ -10430,22 +10484,22 @@
                     "options": [
                         {
                             "option": "A",
-                            "text": "- Que tous les hommes qui s’y sont attaqués sont paris en cordée",
+                            "text": "Que tous les hommes qui s’y sont attaqués sont paris en cordée",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "B",
-                            "text": "- Que ce mont a particulièrement résisté à l’assaut des alpinistes",
-                            "isCorrectAnswer": false
+                            "text": "Que ce mont a particulièrement résisté à l’assaut des alpinistes",
+                            "isCorrectAnswer": true
                         },
                         {
                             "option": "C",
-                            "text": "- Qu’il a fallu attendre 1932 pour qu’un alpiniste en revienne vivant",
+                            "text": "Qu’il a fallu attendre 1932 pour qu’un alpiniste en revienne vivant",
                             "isCorrectAnswer": false
                         },
                         {
                             "option": "D",
-                            "text": "- Que seuls les montagnards de naissance furent capables d’en gravir les flancs.",
+                            "text": "Que seuls les montagnards de naissance furent capables d’en gravir les flancs.",
                             "isCorrectAnswer": false
                         }
                     ]
