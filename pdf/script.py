@@ -57,3 +57,25 @@ if __name__ == '__main__':
     print(colored('loading...', "red"))
     main()
     
+
+# [
+#     {
+        
+#        "questionGroup": {
+#            "title": "this is the title",
+#            "instruction": "this is the instruction",
+#            "other_fields": "these are the other fields"
+#        }
+#        "questions": [
+#                {
+#                    "questionText": "what is your name",
+#                     "options": [
+#                           {
+#                                "text": "Chinedu",
+#                                 "isCorrectAnswer": false
+#                            }
+#                      ]
+#                 }
+#           ]
+#      }
+# ]

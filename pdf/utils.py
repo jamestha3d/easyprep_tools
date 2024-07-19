@@ -1,5 +1,6 @@
 import pdfplumber
 import re
+import json
 
 PATTERN_1 = r'\nQuestion ?\d+'
 PATTERN_2 = r'\nPhrase ?\d+ ?:\nA'
@@ -125,42 +126,6 @@ class Pdf:
             pages[page] = {'title': title, 'body': body, 'questions': text[question.start():] if question else ''}
         return pages
 
-    def group_patterns(self):
-        pages = self.find_content()
-        all_questions = {}
-        for num, page in pages.items():
-            
-            all_questions[num] = {}
-            questions = page['questions']
-            offset = 0
-            while True:
-                question_title = Pdf.find_first_pattern(questions, self.patterns2)
-                
-                if question_title:
-                    # print('question title', str(question_title.group(0)), end='###')
-                    q_start = question_title.end()
-                    # print('question start', q_start, end='###')
-                    next_title = Pdf.find_first_pattern(questions[q_start:], self.patterns2)
-                    if next_title:
-                        # print('next title', str(next_title.group(0)), end='###')
-                        q_end = next_title.start()
-                        # print('question_end', q_end, end='###')
-                        question_body = questions[q_start:q_start+q_end] 
-                        all_questions[num][question_title.group(0)] = question_body
-                        questions = questions[q_end:]
-                        
-                    else:
-                        question_body = questions[q_start:]
-                        all_questions[num][question_title.group(0)] = question_body
-                        break
-
-                else:
-                    # print('finished', end='###')
-                    break
-            
-        return all_questions
-    
-
     def group_questions(self):
         pages = self.find_content()
         all_questions = {}
@@ -195,6 +160,7 @@ class Pdf:
                     break
             
         return all_questions
+    
 
     def group_options(self):
         all_questions = self.group_questions()
@@ -202,21 +168,23 @@ class Pdf:
         for page, questions in all_questions.items():
             all_options[page] = {}
             for title, question in questions.items():
-                all_options[page][title]={} #we should separate title and add first body with title
+                all_options[page][title]={}
                 options = question
+                start = True
                 while True:
+                    
                     first_option = Pdf.find_first_pattern(options, self.option_patterns)
                     
                     if first_option:
-                        # print('question title', str(first_option.group(0)), end='###')
                         o_start = first_option.end()
-                        # print('question start', o_start, end='###')
                         next_option = Pdf.find_first_pattern(options[o_start:], self.option_patterns)
                         if next_option:
-                            # print('next title', str(next_option.group(0)), end='###')
                             o_end = next_option.start()
-                            # print('question_end', o_end, end='###')
-                            option_body = options[o_start:o_start+o_end] 
+                            option_body = options[o_start:o_start+o_end]
+                            if start:
+                                start = False
+                                question_body = options[:first_option.start()]
+                                all_options[page][title]['question'] = question_body
                             all_options[page][title][first_option.group(0)] = option_body
                             options = options[o_end:]
                             
@@ -226,10 +194,59 @@ class Pdf:
                             break
 
                     else:
-                        # print('finished', end='###')
                         break
 
         return all_options
+    
+    def strip_chars(self):
+        all_questions = self.group_options()
+        questions_copy = {}
+        for page, questions in all_questions.items():
+            new_page = page.strip('\n: ')
+            questions_copy[new_page] = {}
+            for title, question in questions.items():
+                new_title = title.strip('\n: ')
+                questions_copy[new_page][new_title] = {}
+                for option, option_text in question.items():
+                    new_option = option.strip('\n:. )')
+                    questions_copy[new_page][new_title][new_option] = option_text.strip('\n: ')
+
+        return questions_copy
+
+
+    def to_json(self):
+        pages = self.find_content()
+        all_questions = self.strip_chars()
+        questions_copy = []
+        for page, questions in all_questions.items():
+            question_dict = {}
+            question_dict['questionGroup'] = {}
+            question_dict['questionGroup']['groupTitle'] = pages[page]['title']
+            question_dict['questionGroup']['groupText'] = pages[page]['body']
+            question_dict['questions'] = []
+            for title, question in questions.items():
+                question_text = {}
+                question_text['questionText'] = all_questions[page][title].get('question')
+                question_text['options'] = []
+                for option, option_t in question.items():
+                    if option == 'question':
+                        continue
+                    option_text = {}
+                    option_text['option'] = option
+                    option_text['text'] = option_t
+                    option_text['isCorrectAnswer'] = False
+                    question_text['options'].append(option_text)
+                question_dict['questions'].append(question_text)
+            questions_copy.append(question_dict)
+        return questions_copy
+
+
+    def save_json(self, filename='tef_textes.json'):
+        questions = self.to_json()
+        dictionary = {'questions': questions}
+        with open(filename, 'w', encoding='utf-8') as json_file:
+            json.dump(dictionary, json_file, ensure_ascii=False, indent=4)
+        
 
     def __repr__(self):
         return f'<Pdf Object: Pg {len(self.pages)}, Qstn {self.count}>'
@@ -241,14 +258,27 @@ if __name__ == '__main__':
     print(pdf.find_content())
 
 
-# Logic
-# If text has : at the beginning, then Title starts here. ends when we see 'Texte'
-#     body starts from end of texte to question.
-# If text begins with the word Texte, then Title starts after : and ends after \n
-#     body begins from end of title to question.
-
-
-
+# [
+#     {
+        
+#        "questionGroup": {
+#            "title": "this is the title",
+#            "instruction": "this is the instruction",
+#            "other_fields": "these are the other fields"
+#        }
+#        "questions": [
+#                {
+#                    "questionText": "what is your name",
+#                     "options": [
+#                           {
+#                                "text": "Chinedu",
+#                                 "isCorrectAnswer": false
+#                            }
+#                      ]
+#                 }
+#           ]
+#      }
+# ]
 # question title 
 # Question 24###question start 12###next title 
 # Question 25###question_end 170###question title 
@@ -264,3 +294,11 @@ if __name__ == '__main__':
 # Question 8###question_end 167###question title 
 # Question 8###question start 33###
 # question title 
+
+
+# Logic
+# If text has : at the beginning, then Title starts here. ends when we see 'Texte'
+#     body starts from end of texte to question.
+# If text begins with the word Texte, then Title starts after : and ends after \n
+#     body begins from end of title to question.
+
