@@ -3,3 +3,4 @@ __pycache__/
 env/
 local_test/
 .DS_Store
+signs/
