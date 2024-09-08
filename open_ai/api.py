@@ -4,6 +4,9 @@ import os
 from dotenv import load_dotenv
 import time
 load_dotenv()
+import json
+import openai
+from openai import OpenAI
 
 # OpenAI API Key
 api_key = os.getenv("EASYPREP")
@@ -108,8 +111,78 @@ def identify_image_openai(image_path, model="gpt-4o-mini"):
 
     print(response.choices[0])
 
+def generate_qa_for_sign_old(sign_name):
+    # Make an API call to OpenAI to generate questions and answers
+    prompt = f"Using the Ontario MTO handbook as a guide, create 20 questions about {sign_name}in json format providing the question, four options, the correct answer and an explanation. output only the json file and nothing else"
+    #prompt = f"Generate questions and answers about the {sign_name} traffic sign."
+    
+    response = openai.Completion.create(
+        engine="text-davinci-003",  # Use the appropriate model for text generation
+        prompt=prompt,
+        max_tokens=150
+    )
+    
+    completion = openai.chat.completions.create(
+    model="gpt-4",
+    messages=[
+        {
+            "role": "user",
+            "content": "How do I output all files in a directory using Python?",
+        },
+    ],
+)
 
-def process_images(folder_path):
+    qa_data = json.loads(response.choices[0].text.strip())
+    return qa_data
+
+def generate_qa_for_sign(sign_name):
+    prompt = f'Generate exactly 20 questions about {sign_name} in strict JSON format. Each question should have the following structure:'
+
+    prompt += """ {
+    "question": "The question text",
+    "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
+    "correct_answer": "The correct option",
+    "explanation": "Explanation of why the correct answer is right"
+    }
+
+    The output should only be valid JSON. Do not include any text or comments outside the JSON structure"""
+
+
+    payload = {
+        "model": "gpt-4o-mini",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": prompt
+                    }
+                ]
+            }
+        ],
+        "max_tokens": 1000,
+    }
+
+    headers = {
+        "Content-Type": 'application/json',
+        "Authorization": f'Bearer {api_key}'
+    }
+
+    response = requests.post(
+        'https://api.openai.com/v1/chat/completions', headers=headers, data=json.dumps(payload)
+    )
+
+    if response.status_code == 200:
+        # Extract the JSON response
+        json_output = response.json()
+        data = json_output['choices'][0]['message']['content']
+
+        # Print or save the JSON output
+        return data
+    else:
+        print('ERROR', response.text)
+def process_images(folder_path, new_folder_path='webscraper/road_signs/'):
     count = 0
     json_folder = os.path.join(folder_path, "json")
     os.makedirs(json_folder, exist_ok=True)
@@ -129,32 +202,42 @@ def process_images(folder_path):
                     print(filename, 'ERROR')
                 else:
                     print(filename, sign_name)
-                # # Rename the image with the sign name
-                # new_filename = f"{sign_name}.jpg"
-                # new_file_path = os.path.join(folder_path, new_filename)
-                # os.rename(file_path, new_file_path)
+                # Rename the image with the sign name
+                image_name = f"{sign_name['choices'][0]['message']['content']}"
+                new_filename = f"{image_name}.jpg"
+                count += 1
+                try:
+                    
+
+                    # Ensure the directory exists, creating it if it does not
+                    if not os.path.exists(new_folder_path):
+                        os.makedirs(new_folder_path)
+                    new_file_path = os.path.join(new_folder_path, new_filename)
+                    # os.rename(new_file_path, new_filename)
+                    print(count, 'NEW FILE NAME', new_filename)
+                    with open(new_file_path, 'w') as file:
+                        file.write(new_filename)
+                except Exception as e:
+                    print(e, new_folder_path)
+
                 
-                # # Generate Q&A in JSON format
-                # qa_data = generate_qa_for_sign(sign_name)
-                # json_file_path = os.path.join(json_folder, f"{sign_name}.json")
+                # Generate Q&A in JSON format
+                qa_data = generate_qa_for_sign(image_name)
+                json_file_path = os.path.join(json_folder, f"{image_name}.json")
                 
-                # # Save the JSON file
-                # with open(json_file_path, 'w') as json_file:
-                #     json.dump(qa_data, json_file, indent=4)
+                # Save the JSON file
+                with open(json_file_path, 'w') as json_file:
+                    json.dump(qa_data, json_file, indent=4)
                 
-                # print(f"Processed: {new_filename}")
+                print(f"Processed: {new_filename}")
             
             except Exception as e:
                 print(f"Failed to process {filename}: {str(e)}")
             timer()
 
-#'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': 'This road sign is typically referred to as a "street name sign" or "road name sign." It indicates the name of the road, which in this case is "Bowesville Road."', 'refusal': None}, 'logprobs': None, 'finish_reason': 'stop'}]
-
 def timer(countdown=21):
     for remaining in range(countdown, 0, -1):
-        # Print the remaining time
         print(f"{remaining} s", end="\r")
-        # Sleep for 1 second
         time.sleep(1)
 
 if __name__ == '__main__':
