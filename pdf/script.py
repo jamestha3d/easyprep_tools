@@ -3,6 +3,7 @@ import code
 from termcolor import colored
 import readline #this import will fix issue of [[D^[[D^[[
 import re
+import json
 PATTERN_1 = r'\nQuestion ?\d+'
 PATTERN_2 = r'\nPhrase ?\d+ ?:\nA'
 PATTERN_3 = r'\nPhrase ?\d+\nA'
@@ -79,3 +80,44 @@ if __name__ == '__main__':
 #           ]
 #      }
 # ]
+
+
+def json_to_dict(file_location='textes-a-trou.json'):
+    with open(file_location, 'r', encoding='utf-8') as file:
+        data = json.load(file)
+    return data
+
+def count(file_location='Tef_textes_Easyprrep.json'):
+    # import json
+    # with open(file_location, 'r', encoding='utf-8') as file:
+    #     data = json.load(file)
+    data = json_to_dict(file_location)
+    counter = 0
+    indices = []
+    questions = data['questions']
+    for index, question in enumerate(questions):
+        for option in question['questions']:
+            if not option.get('questionText'):
+                counter +=1
+                indices.append(index)
+    print(indices)
+    print(counter)
+    return (data, counter, indices)
+
+
+def dict_to_json(dictionary, filename='tef_questions_combined.json'):
+    with open(filename, 'w', encoding='utf-8') as json_file:
+        json.dump(dictionary, json_file, ensure_ascii=False, indent=4)
+
+def combine_json(json1, json2):
+    combined = []
+    for qg in json1:
+        if 'texte à trous' in qg['questionGroup']['groupTitle']:
+            #json 2 is textes a trou
+            for qg2 in json2:
+                if qg['questionGroup']['groupTitle'] == qg2['questionGroup']['groupTitle']:
+                    #take qg2
+                    combined.append(qg2)
+        else:
+            combined.append(qg)
+    return combined
