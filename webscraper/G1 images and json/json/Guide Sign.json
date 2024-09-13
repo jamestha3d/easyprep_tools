@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What is the primary purpose of a guide sign?",
+        "options": [
+            "To provide directions",
+            "To indicate speed limits",
+            "To advertise businesses",
+            "To warn of hazards"
+        ],
+        "correct_answer": "To provide directions",
+        "explanation": "Guide signs are intended to help drivers find their way by providing directions and information about routes."
+    },
+    {
+        "question": "Which of the following colors is commonly used for guide signs?",
+        "options": [
+            "Red",
+            "Blue",
+            "Yellow",
+            "Green"
+        ],
+        "correct_answer": "Green",
+        "explanation": "Green is the standard color for guide signs, indicating directions and distance to destinations."
+    },
+    {
+        "question": "Which type of guide sign indicates the distance to a specific destination?",
+        "options": [
+            "Welcome sign",
+            "Route marker",
+            "Mile marker",
+            "Service sign"
+        ],
+        "correct_answer": "Mile marker",
+        "explanation": "Mile markers are placed along highways to denote the distance to specific locations, aiding navigation."
+    },
+    {
+        "question": "What does a blue guide sign typically indicate?",
+        "options": [
+            "Public services",
+            "Driving restrictions",
+            "Road closures",
+            "Hazard warnings"
+        ],
+        "correct_answer": "Public services",
+        "explanation": "Blue guide signs provide information about services such as rest areas, hospitals, and gas stations."
+    },
+    {
+        "question": "Which guide sign would you expect to see near an exit for food services?",
+        "options": [
+            "Rest area sign",
+            "Service sign",
+            "Destination sign",
+            "Direction sign"
+        ],
+        "correct_answer": "Service sign",
+        "explanation": "Service signs indicate the availability of food, lodging, and other services along the roadway."
+    },
+    {
+        "question": "What is a common guide sign shape that indicates direction?",
+        "options": [
+            "Circle",
+            "Square",
+            "Rectangle",
+            "Diamond"
+        ],
+        "correct_answer": "Rectangle",
+        "explanation": "Guide signs are usually rectangular, which helps convey directional information clearly."
+    },
+    {
+        "question": "What type of guide sign would have a specific route number?",
+        "options": [
+            "Informational sign",
+            "Directional sign",
+            "Route marker",
+            "Service sign"
+        ],
+        "correct_answer": "Route marker",
+        "explanation": "Route markers provide specific information about numbered highways or routes, guiding drivers effectively."
+    },
+    {
+        "question": "What does the term 'guide sign' exclude?",
+        "options": [
+            "Directional signs",
+            "Warning signs",
+            "Informational signs",
+            "Regulatory signs"
+        ],
+        "correct_answer": "Regulatory signs",
+        "explanation": "Regulatory signs inform drivers of laws and regulations, while guide signs aim to assist with navigation."
+    },
+    {
+        "question": "Which of the following options would NOT typically be found on a guide sign?",
+        "options": [
+            "Distance to cities",
+            "Attraction logos",
+            "One-way arrows",
+            "Next exit information"
+        ],
+        "correct_answer": "One-way arrows",
+        "explanation": "One-way arrows are used in regulatory signs to indicate traffic flow, not in guide signs."
+    },
+    {
+        "question": "What is a common feature of tourist-oriented guide signs?",
+        "options": [
+            "Bright red color",
+            "Use of symbols",
+            "Flashing lights",
+            "Short distances only"
+        ],
+        "correct_answer": "Use of symbols",
+        "explanation": "Tourist-oriented guide signs often incorporate symbols to indicate attractions and services appealing to travelers."
+    }
+]

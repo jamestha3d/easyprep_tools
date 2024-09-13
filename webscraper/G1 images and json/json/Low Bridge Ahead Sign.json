@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Low Bridge Ahead sign indicate?",
+        "options": [
+            "There is a bridge with a low clearance",
+            "There is a road closure ahead",
+            "There is a scenic viewpoint",
+            "There is a weight limit for vehicles"
+        ],
+        "correct_answer": "There is a bridge with a low clearance",
+        "explanation": "The Low Bridge Ahead sign warns drivers of a bridge that has a height limitation, informing them to be cautious if their vehicle exceeds that height."
+    },
+    {
+        "question": "Which vehicles need to pay special attention to Low Bridge Ahead signs?",
+        "options": [
+            "Bicycles",
+            "Passenger cars",
+            "Tall trucks and buses",
+            "Motorcycles"
+        ],
+        "correct_answer": "Tall trucks and buses",
+        "explanation": "Tall trucks and buses must heed Low Bridge Ahead signs as they may exceed the height limit of the bridge, posing a risk of collision."
+    },
+    {
+        "question": "What is typically found on a Low Bridge Ahead sign?",
+        "options": [
+            "An image of a bridge",
+            "A measurement of the clearance",
+            "An image of a vehicle",
+            "Both A and B"
+        ],
+        "correct_answer": "Both A and B",
+        "explanation": "Low Bridge Ahead signs often display an image of a bridge along with a measurement indicating the maximum allowable height for vehicles."
+    },
+    {
+        "question": "If a driver misjudges the clearance of a low bridge, what could happen?",
+        "options": [
+            "Nothing, they will pass safely",
+            "They could get stuck under the bridge",
+            "They may need to make a U-turn",
+            "They will receive a fine"
+        ],
+        "correct_answer": "They could get stuck under the bridge",
+        "explanation": "Drivers who misjudge the clearance run the risk of their vehicle colliding with the bridge, potentially causing significant damage and obstruction."
+    },
+    {
+        "question": "What should a driver do when approaching a Low Bridge Ahead sign?",
+        "options": [
+            "Accelerate to pass under quickly",
+            "Slow down and assess their vehicle height",
+            "Ignore it if they are in a hurry",
+            "Speed limit does not apply"
+        ],
+        "correct_answer": "Slow down and assess their vehicle height",
+        "explanation": "Drivers should reduce speed and ensure their vehicle's height is compliant with the clearance limits to avoid accidents."
+    },
+    {
+        "question": "What color is a standard Low Bridge Ahead sign?",
+        "options": [
+            "Red",
+            "Blue",
+            "Yellow",
+            "Green"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Low Bridge Ahead signs are typically yellow, which is the standard color for warning signs, indicating caution."
+    },
+    {
+        "question": "Where are Low Bridge Ahead signs usually placed?",
+        "options": [
+            "After the bridge",
+            "On the bridge",
+            "Before the bridge",
+            "In parking areas"
+        ],
+        "correct_answer": "Before the bridge",
+        "explanation": "Low Bridge Ahead signs are placed before the bridge to give drivers adequate warning to prepare and decide whether to proceed."
+    },
+    {
+        "question": "What law can be enforced related to Low Bridge Ahead signs?",
+        "options": [
+            "Speeding fines",
+            "Height violations",
+            "Parking violations",
+            "Traffic jam penalties"
+        ],
+        "correct_answer": "Height violations",
+        "explanation": "Law enforcement may issue fines for vehicles that violate height restrictions, especially if they ignore warnings from Low Bridge Ahead signs."
+    },
+    {
+        "question": "What action is recommended if a driver sees a Low Bridge Ahead sign and isn't sure of their vehicle height?",
+        "options": [
+            "Try to fit under regardless",
+            "Stop and turn around if possible",
+            "Drive slowly and hope for the best",
+            "Call a tow truck"
+        ],
+        "correct_answer": "Stop and turn around if possible",
+        "explanation": "If a driver is uncertain of their vehicle's height, safely stopping and considering turning around is the best course of action to avoid damage."
+    },
+    {
+        "question": "Which type of vehicle is most likely to ignore a Low Bridge Ahead sign?",
+        "options": [
+            "Sedans",
+            "Compact cars",
+            "Large delivery trucks",
+            "Motorhomes"
+        ],
+        "correct_answer": "Large delivery trucks",
+        "explanation": "Large delivery trucks, especially if drivers are unfamiliar with the area, may mistakenly ignore the height restrictions from a Low Bridge Ahead sign."
+    }
+]

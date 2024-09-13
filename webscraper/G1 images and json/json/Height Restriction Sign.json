@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a height restriction sign indicate?",
+        "options": [
+            "Maximum vehicle height",
+            "Minimum vehicle height",
+            "Maximum weight limit",
+            "Minimum weight limit"
+        ],
+        "correct_answer": "Maximum vehicle height",
+        "explanation": "Height restriction signs inform drivers of the maximum height allowed for vehicles to pass safely."
+    },
+    {
+        "question": "Why are height restriction signs important?",
+        "options": [
+            "To increase traffic speed",
+            "To prevent accidents",
+            "To allow larger vehicles",
+            "To reduce toll costs"
+        ],
+        "correct_answer": "To prevent accidents",
+        "explanation": "Height restriction signs are crucial for preventing vehicles from colliding with overhead obstacles or structures."
+    },
+    {
+        "question": "Where are height restriction signs typically located?",
+        "options": [
+            "At intersections",
+            "Near bridges and tunnels",
+            "On residential streets",
+            "In parking lots"
+        ],
+        "correct_answer": "Near bridges and tunnels",
+        "explanation": "Height restriction signs are most often placed in areas where overhead clearance is limited, such as bridges and tunnels."
+    },
+    {
+        "question": "What unit of measurement is commonly used in height restriction signs?",
+        "options": [
+            "Feet",
+            "Inches",
+            "Meters",
+            "Centimeters"
+        ],
+        "correct_answer": "Feet",
+        "explanation": "In many countries, height restriction signs are typically marked in feet to clearly convey maximum height limits to drivers."
+    },
+    {
+        "question": "What action should a driver take upon seeing a height restriction sign?",
+        "options": [
+            "Ignore the sign",
+            "Turn around or find an alternate route",
+            "Speed up to pass quickly",
+            "Stop and wait for instructions"
+        ],
+        "correct_answer": "Turn around or find an alternate route",
+        "explanation": "Drivers should take heed of height restriction signs and find an alternate route if their vehicle exceeds the indicated height."
+    },
+    {
+        "question": "What could happen if a vehicle exceeds the height limit indicated by a height restriction sign?",
+        "options": [
+            "It can pass safely",
+            "It might get a ticket",
+            "It could hit the overpass",
+            "It will automatically stop"
+        ],
+        "correct_answer": "It could hit the overpass",
+        "explanation": "If a vehicle exceeds the height limit, it risks colliding with an overhead structure, potentially causing severe damage and injury."
+    },
+    {
+        "question": "Are height restriction signs the same in every country?",
+        "options": [
+            "Yes, they are universal",
+            "No, they vary by region",
+            "Only in the United States",
+            "Only in Europe"
+        ],
+        "correct_answer": "No, they vary by region",
+        "explanation": "Height restriction signs can differ in design, sizing, and measurement units based on regional traffic regulations."
+    },
+    {
+        "question": "What color are standard height restriction signs often?",
+        "options": [
+            "Red and white",
+            "Green",
+            "Yellow and black",
+            "Blue"
+        ],
+        "correct_answer": "Yellow and black",
+        "explanation": "Height restriction signs are commonly yellow and black to catch the attention of drivers and signify caution."
+    },
+    {
+        "question": "What should a driver do if unsure of their vehicle's height?",
+        "options": [
+            "Guess and proceed",
+            "Measure the vehicle before driving",
+            "Consult the vehicle manual",
+            "Follow other cars"
+        ],
+        "correct_answer": "Measure the vehicle before driving",
+        "explanation": "Drivers should accurately measure their vehicle to ensure compliance with height restrictions and avoid potential hazards."
+    },
+    {
+        "question": "What type of vehicles are most affected by height restriction signs?",
+        "options": [
+            "Sedans",
+            "Vans",
+            "Trucks and buses",
+            "Motorcycles"
+        ],
+        "correct_answer": "Trucks and buses",
+        "explanation": "Trucks and buses typically have a greater height than standard vehicles, making them more likely to be impacted by height restrictions."
+    }
+]

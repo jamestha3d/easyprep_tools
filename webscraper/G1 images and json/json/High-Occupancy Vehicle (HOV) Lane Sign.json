@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does an HOV lane sign typically indicate?",
+        "options": [
+            "Single-occupancy vehicles allowed",
+            "High-occupancy vehicles only",
+            "No vehicles allowed",
+            "Pedestrians only"
+        ],
+        "correct_answer": "High-occupancy vehicles only",
+        "explanation": "HOV lanes are designed for vehicles with multiple occupants to promote carpooling and reduce traffic congestion."
+    },
+    {
+        "question": "Which types of vehicles are usually permitted to use HOV lanes?",
+        "options": [
+            "Bicycles",
+            "Motorcycles",
+            "Cars with multiple passengers",
+            "All vehicles"
+        ],
+        "correct_answer": "Cars with multiple passengers",
+        "explanation": "HOV lanes typically allow vehicles that have two or more occupants, helping to encourage carpooling."
+    },
+    {
+        "question": "What is the likely consequence of a violation of HOV lane rules?",
+        "options": [
+            "A warning",
+            "An increase in lane capacity",
+            "A traffic citation",
+            "No consequence"
+        ],
+        "correct_answer": "A traffic citation",
+        "explanation": "Violating HOV lane regulations can result in a traffic citation, as these lanes are specifically regulated."
+    },
+    {
+        "question": "Which of the following is a common requirement for using an HOV lane?",
+        "options": [
+            "Having at least two passengers",
+            "Driving at a certain speed",
+            "Using electric vehicles only",
+            "Traveling during off-peak hours"
+        ],
+        "correct_answer": "Having at least two passengers",
+        "explanation": "Most HOV lanes require a minimum number of occupants, usually two or more, to qualify for use."
+    },
+    {
+        "question": "During what hours are HOV lane restrictions often enforced?",
+        "options": [
+            "24/7",
+            "Weekends only",
+            "Peak hours",
+            "Nighttime only"
+        ],
+        "correct_answer": "Peak hours",
+        "explanation": "HOV lane restrictions are commonly enforced during peak traffic hours to maximize their purpose of reducing congestion."
+    },
+    {
+        "question": "What might happen if a vehicle with only one occupant uses an HOV lane during restricted hours?",
+        "options": [
+            "Nothing, it's allowed",
+            "They may be given a ticket",
+            "They will receive a refund",
+            "They will be redirected into traffic"
+        ],
+        "correct_answer": "They may be given a ticket",
+        "explanation": "Driving alone in an HOV lane during restricted times can lead to receiving a ticket for violating the HOV lane rule."
+    },
+    {
+        "question": "What is a typical goal of implementing HOV lanes?",
+        "options": [
+            "Increase road safety",
+            "Encourage public transport use",
+            "Reduce traffic congestion",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "HOV lanes aim to improve road safety, promote the use of public transit, and reduce overall traffic congestion."
+    },
+    {
+        "question": "How are HOV lane rules typically communicated to drivers?",
+        "options": [
+            "Through road signs",
+            "Via radio announcements",
+            "By traffic police only",
+            "Through social media"
+        ],
+        "correct_answer": "Through road signs",
+        "explanation": "HOV lane rules are communicated using clearly marked road signs to inform drivers of the restrictions."
+    },
+    {
+        "question": "In some regions, what may allow single-occupancy vehicles to use HOV lanes?",
+        "options": [
+            "Special permits or decals",
+            "Random lottery",
+            "An increase in traffic fines",
+            "None of the above"
+        ],
+        "correct_answer": "Special permits or decals",
+        "explanation": "Certain areas may allow solo drivers to use HOV lanes if they possess special permits or decals, often for environmentally friendly vehicles."
+    },
+    {
+        "question": "What color are most HOV lane signs?",
+        "options": [
+            "Green",
+            "Blue",
+            "Black",
+            "Yellow"
+        ],
+        "correct_answer": "Green",
+        "explanation": "HOV lane signs are commonly green, similar to other traffic signs related to vehicles and lanes."
+    }
+]

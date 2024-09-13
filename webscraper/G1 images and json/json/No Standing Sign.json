@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a 'No Standing' sign indicate?",
+        "options": [
+            "Parking is allowed",
+            "Stopping is prohibited",
+            "Loading is allowed",
+            "Unloading is allowed"
+        ],
+        "correct_answer": "Stopping is prohibited",
+        "explanation": "'No Standing' means that a vehicle cannot stop in that area, even for a short time, which includes dropping off or picking up passengers."
+    },
+    {
+        "question": "Can you briefly stop your vehicle in a 'No Standing' zone?",
+        "options": [
+            "Yes, for any reason",
+            "Yes, for emergencies",
+            "No, it is not permitted",
+            "Yes, if you are picking up a passenger"
+        ],
+        "correct_answer": "No, it is not permitted",
+        "explanation": "In a 'No Standing' zone, no stopping is allowed, which includes even brief halts for any purpose."
+    },
+    {
+        "question": "Are 'No Standing' signs typically found in residential areas?",
+        "options": [
+            "Yes, always",
+            "No, they are only in commercial areas",
+            "Sometimes, depending on local regulations",
+            "Only at schools"
+        ],
+        "correct_answer": "Sometimes, depending on local regulations",
+        "explanation": "'No Standing' signs can appear in any area where local regulations require it, including some residential areas."
+    },
+    {
+        "question": "What is the potential penalty for violating a 'No Standing' sign?",
+        "options": [
+            "A warning",
+            "A fine",
+            "Towing of the vehicle",
+            "Both a fine and towing"
+        ],
+        "correct_answer": "Both a fine and towing",
+        "explanation": "Violating a 'No Standing' sign can result in a fine and potential towing of the vehicle to enforce the regulation."
+    },
+    {
+        "question": "Does a 'No Standing' sign apply to all vehicles?",
+        "options": [
+            "Yes, all vehicles",
+            "No, only passenger vehicles",
+            "Yes, but emergency vehicles are exempt",
+            "No, only commercial vehicles"
+        ],
+        "correct_answer": "Yes, all vehicles",
+        "explanation": "'No Standing' applies to all vehicles regardless of type, although emergency vehicles may have some exceptions under certain circumstances."
+    },
+    {
+        "question": "What is the difference between 'No Standing' and 'No Parking'?",
+        "options": [
+            "There is no difference",
+            "No Standing prohibits stopping; No Parking prohibits parking",
+            "No Parking is less strict than No Standing",
+            "Both mean you cannot stop"
+        ],
+        "correct_answer": "No Standing prohibits stopping; No Parking prohibits parking",
+        "explanation": "'No Standing' prohibits any stopping, while 'No Parking' allows for brief stops as long as the driver is present."
+    },
+    {
+        "question": "Can a delivery vehicle stop in a 'No Standing' zone while making a delivery?",
+        "options": [
+            "Yes, as long as it's quick",
+            "No, it is prohibited",
+            "Yes, during specified hours",
+            "Yes, if the driver is present"
+        ],
+        "correct_answer": "No, it is prohibited",
+        "explanation": "'No Standing' prohibits stopping for any purpose, including delivery, even if the stop is brief."
+    },
+    {
+        "question": "Is there a grace period typically associated with 'No Standing' signs?",
+        "options": [
+            "Yes, usually 5 minutes",
+            "No, there is no grace period",
+            "Yes, usually 10 minutes",
+            "It depends on local laws"
+        ],
+        "correct_answer": "No, there is no grace period",
+        "explanation": "There typically is no grace period for 'No Standing'; enforcement begins immediately."
+    },
+    {
+        "question": "Where is a common place to find 'No Standing' signs?",
+        "options": [
+            "Near bus stops",
+            "In residential driveways",
+            "At public parks",
+            "In private parking lots"
+        ],
+        "correct_answer": "Near bus stops",
+        "explanation": "'No Standing' signs are commonly placed near bus stops to ensure that passengers can board and alight safely."
+    },
+    {
+        "question": "Who is responsible for enforcing 'No Standing' regulations?",
+        "options": [
+            "Local government",
+            "Homeowners",
+            "Business owners",
+            "Police and transportation authorities"
+        ],
+        "correct_answer": "Police and transportation authorities",
+        "explanation": "Enforcement of 'No Standing' regulations is typically the responsibility of police and local transportation authorities."
+    }
+]

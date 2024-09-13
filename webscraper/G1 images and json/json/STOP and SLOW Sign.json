@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a STOP sign instruct drivers to do?",
+        "options": [
+            "Accelerate",
+            "Yield",
+            "Come to a complete stop",
+            "Continue without stopping"
+        ],
+        "correct_answer": "Come to a complete stop",
+        "explanation": "A STOP sign indicates that drivers must come to a complete stop before proceeding, ensuring safety at intersections."
+    },
+    {
+        "question": "What color is a typical STOP sign?",
+        "options": [
+            "Blue",
+            "Yellow",
+            "Red",
+            "Green"
+        ],
+        "correct_answer": "Red",
+        "explanation": "STOP signs are universally recognized by their red color, which signifies the need to stop."
+    },
+    {
+        "question": "What shape is a STOP sign?",
+        "options": [
+            "Circle",
+            "Triangle",
+            "Square",
+            "Octagon"
+        ],
+        "correct_answer": "Octagon",
+        "explanation": "STOP signs are uniquely shaped as octagons, which helps them stand out and be easily recognized by drivers."
+    },
+    {
+        "question": "What does a SLOW sign typically indicate?",
+        "options": [
+            "Increase speed",
+            "Proceed with caution",
+            "Make a U-turn",
+            "Stop immediately"
+        ],
+        "correct_answer": "Proceed with caution",
+        "explanation": "A SLOW sign warns drivers to reduce their speed and be alert for potential hazards or changes in road conditions."
+    },
+    {
+        "question": "What color is a standard SLOW sign?",
+        "options": [
+            "Black and white",
+            "Green",
+            "Yellow",
+            "Red"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "SLOW signs are typically yellow, a color that signals caution and alerts drivers to be careful."
+    },
+    {
+        "question": "When should a driver follow a STOP sign?",
+        "options": [
+            "Only during the day",
+            "At all times",
+            "Only during construction",
+            "Only after looking at the surroundings"
+        ],
+        "correct_answer": "At all times",
+        "explanation": "Drivers are required to obey STOP signs at all times, regardless of visibility conditions or other circumstantial factors."
+    },
+    {
+        "question": "What should a driver do if they encounter a flashing SLOW sign?",
+        "options": [
+            "Ignore it",
+            "Reduce speed and remain vigilant",
+            "Speed up",
+            "Change lanes immediately"
+        ],
+        "correct_answer": "Reduce speed and remain vigilant",
+        "explanation": "A flashing SLOW sign indicates that drivers should decrease their speed and be cautious of possible hazards ahead."
+    },
+    {
+        "question": "What is the typical consequence of ignoring a STOP sign?",
+        "options": [
+            "No consequences",
+            "Traffic ticket and points on license",
+            "Free pass",
+            "Praise from police"
+        ],
+        "correct_answer": "Traffic ticket and points on license",
+        "explanation": "Ignoring a STOP sign can lead to legal penalties, including traffic tickets and potential points added to a driver's license."
+    },
+    {
+        "question": "Where are STOP signs most commonly placed?",
+        "options": [
+            "In parking lots",
+            "At intersections",
+            "On highways",
+            "In residential areas only"
+        ],
+        "correct_answer": "At intersections",
+        "explanation": "STOP signs are primarily installed at intersections to control vehicle flow and enhance safety for all road users."
+    },
+    {
+        "question": "Can you turn right on red at a STOP sign?",
+        "options": [
+            "Yes, without stopping",
+            "Yes, after stopping",
+            "No, never",
+            "Only in certain states"
+        ],
+        "correct_answer": "Yes, after stopping",
+        "explanation": "In most jurisdictions, drivers may turn right on red after making a complete stop at a STOP sign unless otherwise indicated by local laws."
+    }
+]

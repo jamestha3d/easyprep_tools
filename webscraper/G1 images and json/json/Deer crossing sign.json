@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a deer crossing sign indicate?",
+        "options": [
+            "A warning of upcoming traffic signals",
+            "A location where deer are likely to cross the road",
+            "An area where hunting is permitted",
+            "A place designated for deer feeding"
+        ],
+        "correct_answer": "A location where deer are likely to cross the road",
+        "explanation": "The deer crossing sign is used to alert drivers that they may encounter deer crossing the road, helping to prevent accidents."
+    },
+    {
+        "question": "What shape is typically used for deer crossing signs?",
+        "options": [
+            "Circle",
+            "Square",
+            "Diamond",
+            "Triangle"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "Deer crossing signs are usually diamond-shaped, which is a common shape for warning signs in the road sign system."
+    },
+    {
+        "question": "During which time of day are deer most likely to cross roads?",
+        "options": [
+            "Midday",
+            "Early morning and late evening",
+            "Late night",
+            "Noon"
+        ],
+        "correct_answer": "Early morning and late evening",
+        "explanation": "Deer are crepuscular animals, meaning they are most active during dawn and dusk, making these times more dangerous for vehicle encounters."
+    },
+    {
+        "question": "Where are deer crossing signs often placed?",
+        "options": [
+            "Next to residential areas",
+            "Near water bodies",
+            "Next to forested regions and rural areas",
+            "In urban centers"
+        ],
+        "correct_answer": "Next to forested regions and rural areas",
+        "explanation": "Deer crossing signs are often placed near wooded areas where deer are more likely to appear near roadways."
+    },
+    {
+        "question": "What should a driver do when approaching a deer crossing sign?",
+        "options": [
+            "Speed up",
+            "Look for deer and reduce speed",
+            "Ignore the sign",
+            "Maintain current speed"
+        ],
+        "correct_answer": "Look for deer and reduce speed",
+        "explanation": "Drivers should be vigilant and lower their speed when approaching a deer crossing sign to increase their reaction time."
+    },
+    {
+        "question": "What is the purpose of the deer crossing sign?",
+        "options": [
+            "To inform about hunting areas",
+            "To indicate a scenic view",
+            "To warn drivers of potential deer hazards",
+            "To direct traffic"
+        ],
+        "correct_answer": "To warn drivers of potential deer hazards",
+        "explanation": "The sign serves to warn drivers that deer may be present on or near the road, helping to prevent collisions."
+    },
+    {
+        "question": "What color is typically used for deer crossing signs?",
+        "options": [
+            "Blue",
+            "Yellow",
+            "Red",
+            "Green"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Deer crossing signs are generally yellow, which is a color used for warning signs in traffic control."
+    },
+    {
+        "question": "How can drivers reduce the risk of hitting a deer?",
+        "options": [
+            "By speeding",
+            "By using high beams",
+            "By being attentive in deer crossing areas",
+            "By honking frequently"
+        ],
+        "correct_answer": "By being attentive in deer crossing areas",
+        "explanation": "Staying alert while driving through known deer crossing areas significantly lowers the risk of an accident involving deer."
+    },
+    {
+        "question": "What should you do if you see a deer near the road?",
+        "options": [
+            "Continue driving fast",
+            "Slow down and be prepared to stop",
+            "Honk your horn",
+            "Drive towards the deer to scare it away"
+        ],
+        "correct_answer": "Slow down and be prepared to stop",
+        "explanation": "If a driver sees a deer near the road, they should slow down and prepare to stop as deer can suddenly dart onto the road."
+    },
+    {
+        "question": "What additional safety measures can be implemented near deer crossings?",
+        "options": [
+            "Installing speed bumps",
+            "Putting up additional warning signs",
+            "Using reflective materials around the area",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Implementing a combination of safety measures like speed bumps, warning signs, and reflective materials can help enhance awareness and safety in deer crossing zones."
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a No U-Turn sign indicate?",
+        "options": [
+            "You can make a U-turn",
+            "A U-turn is prohibited",
+            "You must turn left",
+            "You must turn right"
+        ],
+        "correct_answer": "A U-turn is prohibited",
+        "explanation": "The No U-Turn sign explicitly prohibits drivers from making a U-turn at that intersection."
+    },
+    {
+        "question": "Where are No U-Turn signs typically placed?",
+        "options": [
+            "At traffic lights",
+            "At intersections",
+            "On highways",
+            "In parking lots"
+        ],
+        "correct_answer": "At intersections",
+        "explanation": "No U-Turn signs are commonly placed at intersections to inform drivers that making a U-turn is not allowed."
+    },
+    {
+        "question": "What can happen if you ignore a No U-Turn sign?",
+        "options": [
+            "You may receive a warning",
+            "There are no consequences",
+            "You could get a ticket",
+            "Nothing at all"
+        ],
+        "correct_answer": "You could get a ticket",
+        "explanation": "Ignoring a No U-Turn sign may result in a traffic violation and subsequent fines or penalties."
+    },
+    {
+        "question": "How can a No U-Turn sign be identified?",
+        "options": [
+            "It has a green background",
+            "It shows a U-turn symbol with a red circle",
+            "It is illuminated",
+            "It is always vertical"
+        ],
+        "correct_answer": "It shows a U-turn symbol with a red circle",
+        "explanation": "A No U-Turn sign is usually marked with a U-turn symbol crossed by a red circle to indicate prohibition."
+    },
+    {
+        "question": "In what scenario might a No U-Turn sign be installed?",
+        "options": [
+            "Near a school zone",
+            "At a busy intersection",
+            "In residential areas",
+            "At a roundabout"
+        ],
+        "correct_answer": "At a busy intersection",
+        "explanation": "A No U-Turn sign is often placed at busy intersections to enhance traffic safety and reduce risks of accidents."
+    },
+    {
+        "question": "Which road users are affected by a No U-Turn sign?",
+        "options": [
+            "Only cars",
+            "Bicyclists only",
+            "All motor vehicles",
+            "Only trucks"
+        ],
+        "correct_answer": "All motor vehicles",
+        "explanation": "A No U-Turn sign applies to all motor vehicles, meaning that all drivers must adhere to the restriction."
+    },
+    {
+        "question": "What is the purpose of a No U-Turn sign?",
+        "options": [
+            "To promote U-turns",
+            "To guide traffic flow",
+            "To improve parking availability",
+            "To notify about speed limits"
+        ],
+        "correct_answer": "To guide traffic flow",
+        "explanation": "The purpose of a No U-Turn sign is to guide traffic flow and maintain safety by preventing potentially dangerous maneuvers."
+    },
+    {
+        "question": "Can local governments modify U-turn regulations?",
+        "options": [
+            "Yes, they can",
+            "No, they are standardized",
+            "Only state governments can",
+            "It is illegal to change them"
+        ],
+        "correct_answer": "Yes, they can",
+        "explanation": "Local governments have the authority to modify traffic regulations, including U-turn restrictions, based on local traffic conditions."
+    },
+    {
+        "question": "What might you see near a No U-Turn sign to supplement its message?",
+        "options": [
+            "Speed limit sign",
+            "Yield sign",
+            "Traffic camera",
+            "Bike lane sign"
+        ],
+        "correct_answer": "Traffic camera",
+        "explanation": "A traffic camera may be installed near a No U-Turn sign to monitor and enforce compliance with the U-turn prohibition."
+    },
+    {
+        "question": "What might be a consequence of frequent U-turn violations?",
+        "options": [
+            "Increased accidents",
+            "Better traffic flow",
+            "More parking spaces",
+            "Fewer traffic signals"
+        ],
+        "correct_answer": "Increased accidents",
+        "explanation": "Frequent violations of No U-Turn signs can lead to increased accidents due to sudden and illegal maneuvers in traffic."
+    }
+]

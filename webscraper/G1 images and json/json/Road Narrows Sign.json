@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Road Narrows sign indicate?",
+        "options": [
+            "The road will become wider",
+            "The road may become narrower ahead",
+            "There is an intersection ahead",
+            "The speed limit is changing"
+        ],
+        "correct_answer": "The road may become narrower ahead",
+        "explanation": "The Road Narrows sign warns drivers that they should prepare for a reduction in the width of the roadway."
+    },
+    {
+        "question": "When you see a Road Narrows sign, what should you do?",
+        "options": [
+            "Speed up to pass through quickly",
+            "Be prepared to slow down and adjust your lane position",
+            "Ignore the sign",
+            "Change lanes immediately"
+        ],
+        "correct_answer": "Be prepared to slow down and adjust your lane position",
+        "explanation": "Drivers should be alert and ready to reduce speed and possibly change lanes if needed due to the narrowing of the road."
+    },
+    {
+        "question": "At what point should you begin to pay attention to a Road Narrows sign?",
+        "options": [
+            "As soon as you see it",
+            "Only when you start to feel the road narrowing",
+            "When you hear a siren",
+            "When you reach the narrowing point"
+        ],
+        "correct_answer": "As soon as you see it",
+        "explanation": "Drivers should start to prepare for the narrowing of the road as soon as they see the sign, allowing for safe adjustments."
+    },
+    {
+        "question": "What is the typical shape of a Road Narrows sign?",
+        "options": [
+            "Circular",
+            "Square",
+            "Triangle",
+            "Diamond"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "Road Narrows signs are usually diamond-shaped, which is standard for warning signs."
+    },
+    {
+        "question": "In which situation would you most likely encounter a Road Narrows sign?",
+        "options": [
+            "In open highways",
+            "In urban areas with wide roads",
+            "In construction zones or areas where the road width is reduced",
+            "On busy intersections"
+        ],
+        "correct_answer": "In construction zones or areas where the road width is reduced",
+        "explanation": "Road Narrows signs are often placed in construction zones or sections of the road where widths are limited to ensure safety."
+    },
+    {
+        "question": "What color is the background of a typical Road Narrows sign?",
+        "options": [
+            "Red",
+            "Green",
+            "Yellow",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Road Narrows signs typically have a yellow background, signifying caution to drivers."
+    },
+    {
+        "question": "What should you not do when you see a Road Narrows sign?",
+        "options": [
+            "Ignore the sign",
+            "Continue at the same speed",
+            "Slow down",
+            "Check mirrors for other vehicles"
+        ],
+        "correct_answer": "Ignore the sign",
+        "explanation": "Ignoring the Road Narrows sign can lead to unsafe driving in reduced roadway conditions."
+    },
+    {
+        "question": "If you're driving a large vehicle, how might a Road Narrows sign affect your driving?",
+        "options": [
+            "You can continue as normal",
+            "You may need to change lanes or slow down more than smaller vehicles",
+            "It won't affect large vehicles",
+            "No action is required"
+        ],
+        "correct_answer": "You may need to change lanes or slow down more than smaller vehicles",
+        "explanation": "Larger vehicles need more space and stopping distance, making it crucial to heed the Road Narrows sign."
+    },
+    {
+        "question": "Which of the following is a potential consequence of not heeding a Road Narrows sign?",
+        "options": [
+            "No impact on traffic flow",
+            "Increased risk of collisions",
+            "Faster travel time",
+            "Reduced driving efficiency"
+        ],
+        "correct_answer": "Increased risk of collisions",
+        "explanation": "Ignoring a Road Narrows sign can result in dangerous situations due to sudden lane changes or loss of control."
+    },
+    {
+        "question": "Where is a Road Narrows sign typically placed?",
+        "options": [
+            "At the beginning of a narrowed section",
+            "In the middle of the road",
+            "Near traffic lights",
+            "After the road has narrowed"
+        ],
+        "correct_answer": "At the beginning of a narrowed section",
+        "explanation": "The sign is placed ahead of the narrowing to give drivers adequate warning to prepare for the change."
+    }
+]

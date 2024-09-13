@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Construction Zone Sign typically indicate?",
+        "options": [
+            "Road construction ahead",
+            "Speed limit change",
+            "Pedestrian crossing",
+            "School zone"
+        ],
+        "correct_answer": "Road construction ahead",
+        "explanation": "Construction Zone Signs inform drivers that work is being done on or near the road, requiring caution."
+    },
+    {
+        "question": "Which color is usually associated with Construction Zone Signs?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Yellow is the standard color for warning signs, including Construction Zone Signs, to alert drivers to potential hazards."
+    },
+    {
+        "question": "What shape are most Construction Zone Signs?",
+        "options": [
+            "Triangle",
+            "Square",
+            "Rectangle",
+            "Pentagon"
+        ],
+        "correct_answer": "Rectangle",
+        "explanation": "Most Construction Zone Signs are rectangular, which is a common shape for regulatory and warning signs."
+    },
+    {
+        "question": "What does a 'Men at Work' sign signify?",
+        "options": [
+            "Pleasure area",
+            "Restrictions on speed",
+            "Construction activity",
+            "Detour route"
+        ],
+        "correct_answer": "Construction activity",
+        "explanation": "A 'Men at Work' sign indicates that workers are present in the area, alerting drivers to use caution."
+    },
+    {
+        "question": "When should you obey the instructions given by Construction Zone Signs?",
+        "options": [
+            "Only during the day",
+            "Only on weekends",
+            "At all times",
+            "When police are present"
+        ],
+        "correct_answer": "At all times",
+        "explanation": "Construction Zone Signs must be obeyed at all times to ensure safety for both drivers and workers."
+    },
+    {
+        "question": "What action is typically recommended when approaching a Construction Zone Sign?",
+        "options": [
+            "Increase speed",
+            "Maintain speed",
+            "Slow down",
+            "Ignore it"
+        ],
+        "correct_answer": "Slow down",
+        "explanation": "Slowing down allows drivers to prepare for any changes in road conditions or instructions given by the signs."
+    },
+    {
+        "question": "What does a Construction Zone Sign with an arrow indicate?",
+        "options": [
+            "Road closed",
+            "Merge ahead",
+            "Detour to the right or left",
+            "Hospital ahead"
+        ],
+        "correct_answer": "Detour to the right or left",
+        "explanation": "An arrow on a Construction Zone Sign indicates the direction to follow, directing traffic away from the construction."
+    },
+    {
+        "question": "What should drivers look for in a Construction Zone?",
+        "options": [
+            "Traffic lights",
+            "Heavy construction equipment",
+            "Roadblocks",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Drivers should be mindful of traffic lights, equipment, and roadblocks as they indicate work in progress."
+    },
+    {
+        "question": "How far ahead of construction might you see a Construction Zone Sign?",
+        "options": [
+            "500 feet",
+            "1000 feet",
+            "2000 feet",
+            "3000 feet"
+        ],
+        "correct_answer": "500 feet",
+        "explanation": "Construction Zone Signs are typically placed 500 feet in advance to give drivers plenty of warning to reduce speed."
+    },
+    {
+        "question": "What is the primary purpose of a Construction Zone Sign?",
+        "options": [
+            "To announce fun activities",
+            "To reduce speed limits",
+            "To improve safety",
+            "To indicate permanent changes"
+        ],
+        "correct_answer": "To improve safety",
+        "explanation": "The main purpose of a Construction Zone Sign is to enhance safety for both drivers and construction workers."
+    }
+]

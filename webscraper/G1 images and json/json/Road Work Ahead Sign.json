@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a 'Road Work Ahead' sign indicate?",
+        "options": [
+            "Construction ahead",
+            "Traffic signal ahead",
+            "Parking area ahead",
+            "Speed limit change"
+        ],
+        "correct_answer": "Construction ahead",
+        "explanation": "The 'Road Work Ahead' sign warns drivers that there is construction work taking place ahead, requiring caution."
+    },
+    {
+        "question": "What colors are typically used for a 'Road Work Ahead' sign?",
+        "options": [
+            "Red and white",
+            "Yellow and black",
+            "Green and white",
+            "Blue and white"
+        ],
+        "correct_answer": "Yellow and black",
+        "explanation": "Road work signs are typically yellow with black text or symbols to attract attention and convey caution."
+    },
+    {
+        "question": "When should drivers start to slow down upon seeing a 'Road Work Ahead' sign?",
+        "options": [
+            "Immediately",
+            "Only at the sign",
+            "After passing the sign",
+            "When they see workers"
+        ],
+        "correct_answer": "Immediately",
+        "explanation": "Drivers should begin to slow down immediately when they see a 'Road Work Ahead' sign to prepare for potential hazards."
+    },
+    {
+        "question": "What should drivers be particularly cautious of when approaching a 'Road Work Ahead' zone?",
+        "options": [
+            "Speed bumps",
+            "Children playing",
+            "Heavy machinery and workers",
+            "Animals crossing"
+        ],
+        "correct_answer": "Heavy machinery and workers",
+        "explanation": "In a road work zone, heavy machinery and workers might be present, requiring extra caution from drivers."
+    },
+    {
+        "question": "What might happen if a driver ignores a 'Road Work Ahead' sign?",
+        "options": [
+            "Nothing significant",
+            "Traffic fines",
+            "Accidents or injuries",
+            "Delayed travel time"
+        ],
+        "correct_answer": "Accidents or injuries",
+        "explanation": "Ignoring a 'Road Work Ahead' sign can lead to accidents or injuries due to sudden changes in road conditions."
+    },
+    {
+        "question": "Can 'Road Work Ahead' signs vary in size and shape?",
+        "options": [
+            "Yes, they can vary",
+            "No, they are standardized",
+            "Only in urban areas",
+            "Only on highways"
+        ],
+        "correct_answer": "Yes, they can vary",
+        "explanation": "While there are common standards, 'Road Work Ahead' signs can vary in size and shape to fit different environments and visibility needs."
+    },
+    {
+        "question": "Who is responsible for placing 'Road Work Ahead' signs?",
+        "options": [
+            "Local governments",
+            "Private companies",
+            "State highway departments",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Various organizations, including local governments, private companies, and state highway departments, can be responsible for placing these signs."
+    },
+    {
+        "question": "Are 'Road Work Ahead' signs temporary or permanent?",
+        "options": [
+            "Permanent",
+            "Temporary",
+            "Both",
+            "Neither"
+        ],
+        "correct_answer": "Temporary",
+        "explanation": "'Road Work Ahead' signs are typically temporary, used only during construction or maintenance activities."
+    },
+    {
+        "question": "What action should a driver take if they see flashing lights near a 'Road Work Ahead' sign?",
+        "options": [
+            "Speed up",
+            "Slow down and prepare to stop",
+            "Ignore them",
+            "Change lanes immediately"
+        ],
+        "correct_answer": "Slow down and prepare to stop",
+        "explanation": "Flashing lights near a 'Road Work Ahead' sign indicate that further caution is required, and drivers should slow down and prepare to stop."
+    },
+    {
+        "question": "What type of road conditions might a 'Road Work Ahead' sign indicate?",
+        "options": [
+            "Potholes",
+            "Lane closures",
+            "Reduced speed limits",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "A 'Road Work Ahead' sign can indicate various road conditions, including potholes, lane closures, and reduced speed limits due to work."
+    }
+]

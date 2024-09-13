@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Traffic Merge Sign indicate?",
+        "options": [
+            "Merging lanes ahead",
+            "Road closed ahead",
+            "Traffic lights ahead",
+            "Pedestrian crossing"
+        ],
+        "correct_answer": "Merging lanes ahead",
+        "explanation": "A Traffic Merge Sign indicates that traffic from two lanes will converge into one, requiring drivers to adjust their speed and position."
+    },
+    {
+        "question": "When approaching a Traffic Merge Sign, what should drivers do?",
+        "options": [
+            "Accelerate quickly",
+            "Maintain speed",
+            "Yield to merging traffic",
+            "Change lanes immediately"
+        ],
+        "correct_answer": "Yield to merging traffic",
+        "explanation": "Drivers should yield to traffic merging from another lane to ensure safety and proper flow of vehicles."
+    },
+    {
+        "question": "What shape is typically used for a Traffic Merge Sign?",
+        "options": [
+            "Circular",
+            "Square",
+            "Diamond",
+            "Triangle"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "Traffic Merge Signs are typically shaped like a diamond, which is used to convey warning messages to drivers."
+    },
+    {
+        "question": "At which type of roadway is a Traffic Merge Sign commonly found?",
+        "options": [
+            "Residential streets",
+            "Highway on-ramps",
+            "Sidewalks",
+            "Private roads"
+        ],
+        "correct_answer": "Highway on-ramps",
+        "explanation": "Traffic Merge Signs are commonly found at highway on-ramps where vehicles are merging into high-speed traffic."
+    },
+    {
+        "question": "What color is a Traffic Merge Sign?",
+        "options": [
+            "Green",
+            "Yellow",
+            "Red",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Traffic Merge Signs are generally yellow, indicating caution and the need to pay attention to upcoming conditions."
+    },
+    {
+        "question": "What should a driver do if they see a Traffic Merge Sign and the lane is blocked?",
+        "options": [
+            "Drive through the blockage",
+            "Stop immediately",
+            "Find an alternate route",
+            "Honk to alert others"
+        ],
+        "correct_answer": "Find an alternate route",
+        "explanation": "If the lane is blocked, the driver should seek an alternate route instead of blocking traffic or causing accidents."
+    },
+    {
+        "question": "Which vehicles are primarily affected by the Traffic Merge Sign?",
+        "options": [
+            "Only trucks",
+            "All vehicles",
+            "Bicycles",
+            "Only cars"
+        ],
+        "correct_answer": "All vehicles",
+        "explanation": "All vehicles, regardless of type, must heed the Traffic Merge Sign as it pertains to the safe merging of traffic."
+    },
+    {
+        "question": "What action should drivers take if they are already in the lane that is merging?",
+        "options": [
+            "Speed up",
+            "Slow down",
+            "Change lanes",
+            "Stay in their lane"
+        ],
+        "correct_answer": "Stay in their lane",
+        "explanation": "Drivers in the lane that is merging should maintain their course while being aware of surrounding traffic to avoid collisions."
+    },
+    {
+        "question": "How far in advance of the merge point is the Traffic Merge Sign usually placed?",
+        "options": [
+            "100 feet",
+            "250 feet",
+            "500 feet",
+            "1000 feet"
+        ],
+        "correct_answer": "500 feet",
+        "explanation": "Traffic Merge Signs are usually placed about 500 feet in advance to give drivers ample time to react and adjust accordingly."
+    },
+    {
+        "question": "What is the consequence of ignoring a Traffic Merge Sign?",
+        "options": [
+            "Traffic fines",
+            "Safe merging",
+            "Increased speed limit",
+            "No consequences"
+        ],
+        "correct_answer": "Traffic fines",
+        "explanation": "Ignoring a Traffic Merge Sign can lead to traffic fines and increase the risk of accidents due to improper lane usage."
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What color is typically used for exit signs in the United States?",
+        "options": [
+            "Red",
+            "Green",
+            "Blue",
+            "Yellow"
+        ],
+        "correct_answer": "Green",
+        "explanation": "Green exit signs indicate a safe exit path and are more commonly used due to their visibility and reassurance of safety."
+    },
+    {
+        "question": "What is the minimum illumination level required for exit signs according to OSHA?",
+        "options": [
+            "1 foot-candle",
+            "5 foot-candles",
+            "10 foot-candles",
+            "15 foot-candles"
+        ],
+        "correct_answer": "1 foot-candle",
+        "explanation": "OSHA requires exit signs to be illuminated at a minimum level of 1 foot-candle to ensure visibility in an emergency."
+    },
+    {
+        "question": "What shape is an exit sign typically required to be?",
+        "options": [
+            "Triangle",
+            "Square",
+            "Rectangle",
+            "Circle"
+        ],
+        "correct_answer": "Rectangle",
+        "explanation": "Exit signs are typically rectangular to provide a clear and recognizable shape that can be easily identified."
+    },
+    {
+        "question": "When must exit signs be powered by an emergency backup power source?",
+        "options": [
+            "Only during business hours",
+            "During emergencies",
+            "All the time",
+            "Never"
+        ],
+        "correct_answer": "During emergencies",
+        "explanation": "Exit signs must be powered by an emergency backup source to remain illuminated during power failures or emergencies."
+    },
+    {
+        "question": "Which organization sets the standards for exit sign design and placement in the U.S.?",
+        "options": [
+            "OSHA",
+            "NFPA",
+            "ANSI",
+            "EPA"
+        ],
+        "correct_answer": "NFPA",
+        "explanation": "The National Fire Protection Association (NFPA) sets standards for exit sign design and placement to ensure safety in buildings."
+    },
+    {
+        "question": "What does the term 'photoluminescent exit signs' refer to?",
+        "options": [
+            "Signs that glow in the dark",
+            "Signs made of metal",
+            "Signs without illumination",
+            "Signs that are reflective"
+        ],
+        "correct_answer": "Signs that glow in the dark",
+        "explanation": "Photoluminescent exit signs are designed to absorb ambient light and glow in the dark, providing visible direction in emergencies."
+    },
+    {
+        "question": "Which of the following is NOT a reason for using exit signs?",
+        "options": [
+            "To mark emergency exits",
+            "To indicate restrooms",
+            "To provide escape routes",
+            "To enhance safety during evacuations"
+        ],
+        "correct_answer": "To indicate restrooms",
+        "explanation": "Exit signs are specifically designed to indicate emergency exits, not for marking restrooms or other facilities."
+    },
+    {
+        "question": "What is the recommended height for mounting exit signs above the floor?",
+        "options": [
+            "6 feet",
+            "7 feet",
+            "8 feet",
+            "9 feet"
+        ],
+        "correct_answer": "7 feet",
+        "explanation": "Exit signs should be mounted at a height of 7 feet above the floor to ensure visibility while minimizing obstruction."
+    },
+    {
+        "question": "What might indicate that an exit sign needs maintenance?",
+        "options": [
+            "Flickering lights",
+            "Dust on the sign",
+            "Sign is out of reach",
+            "Sign color is faded"
+        ],
+        "correct_answer": "Flickering lights",
+        "explanation": "Flickering lights on an exit sign indicate that it may need maintenance or replacement to ensure reliable visibility."
+    },
+    {
+        "question": "Which feature is often included in modern exit signs for enhanced visibility?",
+        "options": [
+            "Reflective materials",
+            "Solar panels",
+            "Bluetooth technology",
+            "Digital displays"
+        ],
+        "correct_answer": "Reflective materials",
+        "explanation": "Many modern exit signs include reflective materials to enhance visibility, especially in low-light conditions."
+    }
+]

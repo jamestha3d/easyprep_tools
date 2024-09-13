@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a 'Slippery When Wet' sign indicate?",
+        "options": [
+            "Road is closed",
+            "Road may be slippery when wet",
+            "Road is under construction",
+            "Road is icy"
+        ],
+        "correct_answer": "Road may be slippery when wet",
+        "explanation": "The sign warns drivers that the road surface can become slippery when it is wet, potentially increasing the risk of accidents."
+    },
+    {
+        "question": "In what conditions is a 'Slippery When Wet' sign most relevant?",
+        "options": [
+            "Heavy rain",
+            "Dry weather",
+            "Snowfall",
+            "Sunny weather"
+        ],
+        "correct_answer": "Heavy rain",
+        "explanation": "The sign is particularly relevant during heavy rain when water can accumulate on the road, making it slippery."
+    },
+    {
+        "question": "What action should drivers take when they see a 'Slippery When Wet' sign?",
+        "options": [
+            "Increase speed",
+            "Maintain current speed",
+            "Decrease speed and drive cautiously",
+            "Stop immediately"
+        ],
+        "correct_answer": "Decrease speed and drive cautiously",
+        "explanation": "Drivers should reduce their speed and exercise caution to adapt to potentially hazardous driving conditions."
+    },
+    {
+        "question": "Where might a 'Slippery When Wet' sign be commonly found?",
+        "options": [
+            "On rural roads",
+            "In construction zones",
+            "Near bridges and overpasses",
+            "At traffic lights"
+        ],
+        "correct_answer": "Near bridges and overpasses",
+        "explanation": "These areas can become slippery due to water pooling or ice forming more quickly than on regular roads."
+    },
+    {
+        "question": "What color is typically used for a 'Slippery When Wet' sign?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Yellow is commonly used for warning signs, indicating caution and the need to pay attention to potential hazards."
+    },
+    {
+        "question": "What often contributes to slippery conditions on the road?",
+        "options": [
+            "Dry leaves",
+            "Mud",
+            "Oil spills",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Various factors such as oil spills, mud, and dry leaves can make the surface slick, especially when wet."
+    },
+    {
+        "question": "Which of the following is NOT a reason for a 'Slippery When Wet' sign?",
+        "options": [
+            "Heavy precipitation",
+            "Road maintenance",
+            "Dust storms",
+            "Vehicle accidents"
+        ],
+        "correct_answer": "Dust storms",
+        "explanation": "Dust storms do not cause slippery conditions; they can obscure visibility but do not affect road traction."
+    },
+    {
+        "question": "What should you check on your vehicle when driving in conditions that might be indicated by a 'Slippery When Wet' sign?",
+        "options": [
+            "Tire tread",
+            "Engine oil",
+            "Window wipers",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Ensuring that your tires have good tread and that all vehicle functions are optimal can enhance safety in slippery conditions."
+    },
+    {
+        "question": "When do drivers most commonly encounter 'Slippery When Wet' signs?",
+        "options": [
+            "During summer",
+            "In winter",
+            "During fall",
+            "In unpredictable weather"
+        ],
+        "correct_answer": "In unpredictable weather",
+        "explanation": "Variable weather conditions can lead to unexpected slippery surfaces, making the sign relevant in many situations."
+    },
+    {
+        "question": "What type of road material is more prone to becoming slippery when wet?",
+        "options": [
+            "Asphalt",
+            "Concrete",
+            "Gravel",
+            "Bricks"
+        ],
+        "correct_answer": "Asphalt",
+        "explanation": "Asphalt tends to become slicker compared to other materials when wet, particularly when oil or debris is present."
+    }
+]

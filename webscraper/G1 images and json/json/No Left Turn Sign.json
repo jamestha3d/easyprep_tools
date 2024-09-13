@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a No Left Turn sign indicate?",
+        "options": [
+            "Left turns are allowed",
+            "No left turns are allowed",
+            "Right turns are mandatory",
+            "U-turns are mandatory"
+        ],
+        "correct_answer": "No left turns are allowed",
+        "explanation": "A No Left Turn sign specifically prohibits vehicles from making a left turn at that intersection."
+    },
+    {
+        "question": "When should a driver obey a No Left Turn sign?",
+        "options": [
+            "Only during rush hour",
+            "Always",
+            "Only when the traffic light is red",
+            "Never"
+        ],
+        "correct_answer": "Always",
+        "explanation": "Drivers must obey traffic control signs, including No Left Turn signs, at all times unless otherwise indicated."
+    },
+    {
+        "question": "What could happen if a driver ignores a No Left Turn sign?",
+        "options": [
+            "They may get a warning",
+            "They could cause an accident",
+            "They will receive a fine",
+            "Both B and C"
+        ],
+        "correct_answer": "Both B and C",
+        "explanation": "Ignoring a No Left Turn sign can lead to accidents and usually results in fines or penalties for traffic violations."
+    },
+    {
+        "question": "Are No Left Turn signs typically placed at traffic lights?",
+        "options": [
+            "Yes, always",
+            "No, never",
+            "Only on highways",
+            "Only at stop signs"
+        ],
+        "correct_answer": "Yes, always",
+        "explanation": "No Left Turn signs are commonly placed at traffic lights to inform drivers that they cannot make a left turn at that specific intersection."
+    },
+    {
+        "question": "During what conditions might a No Left Turn sign be temporarily lifted?",
+        "options": [
+            "During a parade",
+            "During construction",
+            "When traffic is heavy",
+            "Never"
+        ],
+        "correct_answer": "During construction",
+        "explanation": "In some cases, No Left Turn restrictions may be lifted temporarily during construction to facilitate traffic flow, but this is usually accompanied by specific signage."
+    },
+    {
+        "question": "What is the shape of a No Left Turn sign?",
+        "options": [
+            "Circular",
+            "Triangular",
+            "Square",
+            "Rectangular"
+        ],
+        "correct_answer": "Rectangular",
+        "explanation": "No Left Turn signs are typically rectangular with a specific graphic indicating the restriction."
+    },
+    {
+        "question": "What color is the No Left Turn sign background usually?",
+        "options": [
+            "Red",
+            "Green",
+            "Blue",
+            "White"
+        ],
+        "correct_answer": "White",
+        "explanation": "The background of a No Left Turn sign is generally white, which contrasts with the red prohibition symbol."
+    },
+    {
+        "question": "Can a No Left Turn sign apply to bicycles as well?",
+        "options": [
+            "Yes",
+            "No",
+            "Only if marked",
+            "Only during day time"
+        ],
+        "correct_answer": "Yes",
+        "explanation": "No Left Turn signs apply to all vehicles, including bicycles, unless otherwise specified."
+    },
+    {
+        "question": "If a No Left Turn sign is obscured, what should a driver do?",
+        "options": [
+            "Ignore it",
+            "Make a left turn anyway",
+            "Proceed cautiously and look for other signs",
+            "Call the police"
+        ],
+        "correct_answer": "Proceed cautiously and look for other signs",
+        "explanation": "If a sign is obscured, drivers must exercise caution and rely on other traffic signals and road markings to navigate safely."
+    },
+    {
+        "question": "Are there exceptions to a No Left Turn sign?",
+        "options": [
+            "Yes, for emergency vehicles",
+            "No, never",
+            "Yes, for pedestrians",
+            "Yes, during specific hours"
+        ],
+        "correct_answer": "Yes, for emergency vehicles",
+        "explanation": "Emergency vehicles often have the right to disregard certain traffic signs, including No Left Turn signs, when responding to emergencies."
+    }
+]

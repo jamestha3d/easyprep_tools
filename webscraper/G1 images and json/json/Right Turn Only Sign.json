@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a right turn only sign indicate?",
+        "options": [
+            "You can go straight",
+            "You must turn right",
+            "You can turn left",
+            "You must stop"
+        ],
+        "correct_answer": "You must turn right",
+        "explanation": "A right turn only sign indicates to drivers that they must make a right turn at the intersection."
+    },
+    {
+        "question": "When should you look for a right turn only sign?",
+        "options": [
+            "Before entering a parking lot",
+            "When approaching an intersection",
+            "When driving on a highway",
+            "At a pedestrian crossing"
+        ],
+        "correct_answer": "When approaching an intersection",
+        "explanation": "Drivers should look for a right turn only sign when they are approaching an intersection as it dictates their path of travel."
+    },
+    {
+        "question": "What should a driver do if they are in a lane marked with a right turn only sign?",
+        "options": [
+            "Drive straight",
+            "Turn left",
+            "Make a right turn",
+            "Stop at the intersection"
+        ],
+        "correct_answer": "Make a right turn",
+        "explanation": "If a driver is in a lane marked with a right turn only sign, they are required to make a right turn."
+    },
+    {
+        "question": "Can you ignore a right turn only sign if the road is empty?",
+        "options": [
+            "Yes, always",
+            "No, never",
+            "Only if there is no traffic",
+            "Only during nighttime"
+        ],
+        "correct_answer": "No, never",
+        "explanation": "Ignoring a right turn only sign is a violation of traffic laws and can lead to consequences regardless of traffic conditions."
+    },
+    {
+        "question": "What is the purpose of a right turn only sign?",
+        "options": [
+            "To direct traffic flow",
+            "To increase speed limits",
+            "To allow U-turns",
+            "To indicate parking restrictions"
+        ],
+        "correct_answer": "To direct traffic flow",
+        "explanation": "The right turn only sign is meant to direct traffic in a specific manner to enhance safety and traffic flow."
+    },
+    {
+        "question": "What happens if a driver does not obey a right turn only sign?",
+        "options": [
+            "They may receive a fine",
+            "Nothing will happen",
+            "They will be applauded",
+            "They will have to reverse"
+        ],
+        "correct_answer": "They may receive a fine",
+        "explanation": "Failing to obey a right turn only sign can result in traffic citations or fines as it is considered a traffic violation."
+    },
+    {
+        "question": "In what scenarios might a right turn only sign be placed at an intersection?",
+        "options": [
+            "High pedestrian traffic",
+            "Highway entrance",
+            "Road construction",
+            "Heavy traffic congestion"
+        ],
+        "correct_answer": "High pedestrian traffic",
+        "explanation": "Right turn only signs might be used in areas with high pedestrian traffic to ensure safety by reducing potential conflict points."
+    },
+    {
+        "question": "Which of the following is NOT allowed at a right turn only intersection?",
+        "options": [
+            "Right turn",
+            "U-turn",
+            "Stop to wait for oncoming traffic",
+            "Yield to pedestrians"
+        ],
+        "correct_answer": "U-turn",
+        "explanation": "A U-turn is not allowed at a right turn only intersection as it contradicts the directive of the sign."
+    },
+    {
+        "question": "What color is a typical right turn only sign?",
+        "options": [
+            "Red and white",
+            "Green and white",
+            "Yellow",
+            "Blue"
+        ],
+        "correct_answer": "Red and white",
+        "explanation": "The typical right turn only sign is red and white, which is commonly used for prohibitive signs to alert drivers."
+    },
+    {
+        "question": "Can a right turn only sign be accompanied by additional signals?",
+        "options": [
+            "Yes, traffic lights",
+            "No, it's standalone",
+            "Yes, pedestrian signs",
+            "No, only seasonal signs"
+        ],
+        "correct_answer": "Yes, traffic lights",
+        "explanation": "A right turn only sign can be accompanied by traffic lights to provide further directions based on traffic conditions."
+    }
+]

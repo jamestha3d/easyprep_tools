@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does the School Bus Stop Ahead sign indicate?",
+        "options": [
+            "Increase speed",
+            "Prepare to stop",
+            "Keep driving straight",
+            "No parking allowed"
+        ],
+        "correct_answer": "Prepare to stop",
+        "explanation": "The School Bus Stop Ahead sign alerts drivers to be prepared to stop for school buses picking up or dropping off children."
+    },
+    {
+        "question": "When should drivers start looking for the School Bus Stop Ahead sign?",
+        "options": [
+            "After they've passed the sign",
+            "Before entering the school zone",
+            "When approaching a traffic light",
+            "In parking lots"
+        ],
+        "correct_answer": "Before entering the school zone",
+        "explanation": "Drivers should be vigilant and look for the School Bus Stop Ahead sign before entering school zones to ensure the safety of children."
+    },
+    {
+        "question": "What action should drivers take upon seeing the School Bus Stop Ahead sign?",
+        "options": [
+            "Speed up",
+            "Continue driving without stopping",
+            "Slow down and prepare to stop",
+            "Honk the horn"
+        ],
+        "correct_answer": "Slow down and prepare to stop",
+        "explanation": "Drivers should slow down and be ready to stop because a school bus may be nearby, indicating that children are present."
+    },
+    {
+        "question": "Which color is typically associated with the School Bus Stop Ahead sign?",
+        "options": [
+            "Red",
+            "Green",
+            "Yellow",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "The School Bus Stop Ahead sign is typically yellow to caution drivers about the presence of children and school buses."
+    },
+    {
+        "question": "Which of the following is a legal requirement when encountering a school bus that has stopped?",
+        "options": [
+            "Speed through as necessary",
+            "Stop regardless of direction",
+            "Only stop if facing the bus",
+            "Ignore the bus if not in your lane"
+        ],
+        "correct_answer": "Stop regardless of direction",
+        "explanation": "Legally, drivers must stop for a school bus that is loading or unloading children, regardless of the direction they are coming from."
+    },
+    {
+        "question": "Where is the School Bus Stop Ahead sign commonly placed?",
+        "options": [
+            "In parking lots",
+            "Near intersections",
+            "Before school zones",
+            "On residential streets"
+        ],
+        "correct_answer": "Before school zones",
+        "explanation": "The sign is placed before school zones to alert drivers to slow down and be cautious of children and school buses."
+    },
+    {
+        "question": "What should drivers do if they see kids waiting at a bus stop?",
+        "options": [
+            "Drive past slowly",
+            "Keep a safe distance",
+            "Omit caring",
+            "Drive directly next to them"
+        ],
+        "correct_answer": "Keep a safe distance",
+        "explanation": "Drivers should keep a safe distance and be prepared to stop, as children might move unexpectedly near the bus stop."
+    },
+    {
+        "question": "What is the meaning of flashing lights on a school bus?",
+        "options": [
+            "It's time to speed up",
+            "Children are boarding or exiting the bus",
+            "The bus is broken down",
+            "The bus is going to leave soon"
+        ],
+        "correct_answer": "Children are boarding or exiting the bus",
+        "explanation": "Flashing lights on a school bus indicate that children are either boarding or exiting, requiring drivers to stop."
+    },
+    {
+        "question": "What may happen if a driver fails to stop for a school bus with its stop sign extended?",
+        "options": [
+            "Nothing significant",
+            "Receive a warning",
+            "Face a hefty fine",
+            "Get a complimentary ride"
+        ],
+        "correct_answer": "Face a hefty fine",
+        "explanation": "Failing to stop for a school bus with its stop sign extended can result in a significant fine and potential license points."
+    },
+    {
+        "question": "How far should drivers stop from a school bus that is picking up or dropping off children?",
+        "options": [
+            "10 feet",
+            "20 feet",
+            "5 feet",
+            "15 feet"
+        ],
+        "correct_answer": "20 feet",
+        "explanation": "Drivers should stop at least 20 feet away from a school bus to ensure the safety of children and to comply with traffic laws."
+    }
+]

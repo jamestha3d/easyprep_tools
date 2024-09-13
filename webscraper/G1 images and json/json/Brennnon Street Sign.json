@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What is the primary purpose of the Brennnon Street Sign?",
+        "options": [
+            "To display street names",
+            "To provide traffic regulations",
+            "To advertise businesses",
+            "To provide navigation help"
+        ],
+        "correct_answer": "To display street names",
+        "explanation": "Brennnon Street Sign primarily serves to mark the name of the street for navigation and identification purposes."
+    },
+    {
+        "question": "What material is the Brennnon Street Sign most commonly made of?",
+        "options": [
+            "Wood",
+            "Plastic",
+            "Metal",
+            "Glass"
+        ],
+        "correct_answer": "Metal",
+        "explanation": "Metal is commonly used for street signs due to its durability and resistance to weather conditions."
+    },
+    {
+        "question": "Which of the following colors is typically used for street name signs?",
+        "options": [
+            "Red",
+            "Green",
+            "Blue",
+            "Yellow"
+        ],
+        "correct_answer": "Green",
+        "explanation": "Green is a standard color for street name signs as it is easily visible and associated with navigation."
+    },
+    {
+        "question": "Where is the Brennnon Street Sign usually located?",
+        "options": [
+            "On the sidewalk",
+            "At intersections",
+            "On buildings",
+            "In parks"
+        ],
+        "correct_answer": "At intersections",
+        "explanation": "Street signs are typically placed at intersections to guide drivers and pedestrians on the correct paths."
+    },
+    {
+        "question": "What does a Brennnon Street Sign indicate about the road?",
+        "options": [
+            "Speed limits",
+            "One-way traffic",
+            "Street type",
+            "Street name"
+        ],
+        "correct_answer": "Street name",
+        "explanation": "The Brennnon Street Sign indicates the name of the street, which helps identify locations around it."
+    },
+    {
+        "question": "Which department is typically responsible for the installation of the Brennnon Street Sign?",
+        "options": [
+            "Local government",
+            "Private developers",
+            "Public safety organizations",
+            "Nonprofits"
+        ],
+        "correct_answer": "Local government",
+        "explanation": "Local government agencies typically manage the installation and maintenance of street signs, including the Brennnon Street Sign."
+    },
+    {
+        "question": "How can a Brennnon Street Sign contribute to urban planning?",
+        "options": [
+            "By showcasing artwork",
+            "By regulating traffic flow",
+            "By indicating land usage",
+            "By serving as reference points"
+        ],
+        "correct_answer": "By serving as reference points",
+        "explanation": "Street signs, including the Brennnon Street Sign, serve as essential reference points that help in urban planning and navigation."
+    },
+    {
+        "question": "What characteristic of the Brennnon Street Sign enhances its visibility at night?",
+        "options": [
+            "Reflective materials",
+            "Bright colors",
+            "Large fonts",
+            "Lighted signs"
+        ],
+        "correct_answer": "Reflective materials",
+        "explanation": "Reflective materials on street signs enhance visibility at night by reflecting headlights from vehicles."
+    },
+    {
+        "question": "What happens if a Brennnon Street Sign gets damaged?",
+        "options": [
+            "It remains as is",
+            "It may be replaced or repaired",
+            "It becomes a historical landmark",
+            "It is painted over"
+        ],
+        "correct_answer": "It may be replaced or repaired",
+        "explanation": "Damaged street signs are usually assessed and either repaired or replaced by local authorities to maintain safety and navigation."
+    },
+    {
+        "question": "What information is NOT typically found on a Brennnon Street Sign?",
+        "options": [
+            "Street name",
+            "Speed limit",
+            "Direction to nearby locations",
+            "Street number"
+        ],
+        "correct_answer": "Street number",
+        "explanation": "Brennnon Street Sign generally indicates the street name but does not typically contain street numbers, which are usually found on individual buildings."
+    }
+]

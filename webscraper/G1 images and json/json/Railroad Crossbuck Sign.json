@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Railroad Crossbuck Sign indicate?",
+        "options": [
+            "A stop sign",
+            "A warning of railroad tracks",
+            "A no parking zone",
+            "A speed limit"
+        ],
+        "correct_answer": "A warning of railroad tracks",
+        "explanation": "The Railroad Crossbuck Sign is used to indicate that there is a railroad crossing ahead and that drivers should be cautious."
+    },
+    {
+        "question": "Which shape is characteristic of a Railroad Crossbuck Sign?",
+        "options": [
+            "Circle",
+            "Triangle",
+            "Square",
+            "X-shape"
+        ],
+        "correct_answer": "X-shape",
+        "explanation": "The Railroad Crossbuck Sign is uniquely shaped like an 'X' to draw attention to the crossing area."
+    },
+    {
+        "question": "What should you do when you see a Railroad Crossbuck Sign?",
+        "options": [
+            "Speed up",
+            "Stop if a train is coming",
+            "Ignore it",
+            "Turn around"
+        ],
+        "correct_answer": "Stop if a train is coming",
+        "explanation": "Drivers are required to stop at a Railroad Crossbuck Sign if a train is approaching, ensuring safety."
+    },
+    {
+        "question": "Are Railroad Crossbuck Signs typically illuminated?",
+        "options": [
+            "Yes",
+            "No",
+            "Sometimes",
+            "Only during the day"
+        ],
+        "correct_answer": "No",
+        "explanation": "Railroad Crossbuck Signs are not typically illuminated; however, some crossings may have additional lights or signals."
+    },
+    {
+        "question": "What color is a standard Railroad Crossbuck Sign?",
+        "options": [
+            "Red and white",
+            "Black and yellow",
+            "Blue and white",
+            "White and black"
+        ],
+        "correct_answer": "White and black",
+        "explanation": "A standard Railroad Crossbuck Sign is usually painted in white with the word 'RAILROAD' in black."
+    },
+    {
+        "question": "What action is required at a Railroad Crossbuck Sign with no lights or gates?",
+        "options": [
+            "Proceed without stopping",
+            "Yield and check for trains",
+            "Make a U-turn",
+            "Call for help"
+        ],
+        "correct_answer": "Yield and check for trains",
+        "explanation": "At a Railroad Crossbuck Sign without lights or gates, drivers must yield to any approaching trains before proceeding."
+    },
+    {
+        "question": "What does it mean if a Railroad Crossbuck Sign is accompanied by flashing lights?",
+        "options": [
+            "No trains are coming",
+            "A train is approaching",
+            "It's safe to cross",
+            "You can drive faster"
+        ],
+        "correct_answer": "A train is approaching",
+        "explanation": "Flashing lights indicate that a train is approaching and that the crossing should not be attempted until it is clear."
+    },
+    {
+        "question": "How far in advance is a Railroad Crossbuck Sign typically placed from the crossing?",
+        "options": [
+            "50 feet",
+            "100 feet",
+            "200 feet",
+            "300 feet"
+        ],
+        "correct_answer": "100 feet",
+        "explanation": "Most jurisdictions place Railroad Crossbuck Signs approximately 100 feet from the actual crossing to give drivers adequate warning."
+    },
+    {
+        "question": "What does the 'RAILROAD' word signify on the Crossbuck Sign?",
+        "options": [
+            "A reminder to train operators",
+            "The location of the crossing",
+            "Request to slow down",
+            "Indication of public transport"
+        ],
+        "correct_answer": "The location of the crossing",
+        "explanation": "The word 'RAILROAD' on the sign alerts drivers that they are approaching a railroad crossing ahead."
+    },
+    {
+        "question": "In what context might a Railroad Crossbuck Sign not be present at a crossing?",
+        "options": [
+            "In a residential area",
+            "If the crossing is abandoned",
+            "During construction",
+            "When there are traffic lights present"
+        ],
+        "correct_answer": "If the crossing is abandoned",
+        "explanation": "A Railroad Crossbuck Sign may be absent at a crossing that is abandoned or no longer in use, as such crossings are not operational."
+    }
+]

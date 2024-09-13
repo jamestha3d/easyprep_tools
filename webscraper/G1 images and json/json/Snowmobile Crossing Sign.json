@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does the snowmobile crossing sign indicate?",
+        "options": [
+            "A speed limit for snowmobiles",
+            "A designated snowmobile crossing area",
+            "A warning for icy roads",
+            "An instruction to yield to snowmobiles"
+        ],
+        "correct_answer": "A designated snowmobile crossing area",
+        "explanation": "The snowmobile crossing sign specifically indicates where snowmobilers may cross a roadway, alerting drivers to be cautious."
+    },
+    {
+        "question": "Where is a snowmobile crossing sign typically placed?",
+        "options": [
+            "In urban areas",
+            "In areas with high pedestrian traffic",
+            "Near snowmobile trails crossing roads",
+            "At gas stations"
+        ],
+        "correct_answer": "Near snowmobile trails crossing roads",
+        "explanation": "Snowmobile crossing signs are placed near areas where snowmobile trails intersect with public roads to ensure safety."
+    },
+    {
+        "question": "What color is the snowmobile crossing sign?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "The snowmobile crossing sign is typically yellow to alert drivers to a potential hazard ahead."
+    },
+    {
+        "question": "What action should drivers take when they see a snowmobile crossing sign?",
+        "options": [
+            "Speed up",
+            "Be alert and prepared to stop",
+            "Ignore it",
+            "Honk their horn"
+        ],
+        "correct_answer": "Be alert and prepared to stop",
+        "explanation": "Drivers should be vigilant and prepared to stop, as snowmobiles may cross the road in that area."
+    },
+    {
+        "question": "In which season is the snowmobile crossing sign most relevant?",
+        "options": [
+            "Summer",
+            "Spring",
+            "Fall",
+            "Winter"
+        ],
+        "correct_answer": "Winter",
+        "explanation": "The snowmobile crossing sign is most relevant during winter when snowmobiles are in use on snow-covered trails."
+    },
+    {
+        "question": "What should a snowmobiler do when approaching a snowmobile crossing sign?",
+        "options": [
+            "Accelerate through the crossing",
+            "Stop, look, and listen",
+            "Ignore the sign",
+            "Speed up"
+        ],
+        "correct_answer": "Stop, look, and listen",
+        "explanation": "Snowmobilers should stop and check for oncoming traffic to ensure safe crossing."
+    },
+    {
+        "question": "Is it legal to ride a snowmobile on the road at a snowmobile crossing area?",
+        "options": [
+            "Yes, always",
+            "No, never",
+            "Only if marked",
+            "Only during night"
+        ],
+        "correct_answer": "Only if marked",
+        "explanation": "It is only legal to ride on the road at designated areas, often indicated by snowmobile crossing signs."
+    },
+    {
+        "question": "What is the primary purpose of the snowmobile crossing sign?",
+        "options": [
+            "To inform about snowmobile regulations",
+            "To indicate a speed limit",
+            "To warn drivers of snowmobile activity",
+            "To provide directions to trails"
+        ],
+        "correct_answer": "To warn drivers of snowmobile activity",
+        "explanation": "The main purpose of the sign is to alert drivers that they should be cautious due to potential snowmobile crossings."
+    },
+    {
+        "question": "What should municipalities do to enhance safety at snowmobile crossings?",
+        "options": [
+            "Remove the signs",
+            "Install flashing lights",
+            "Increase speed limits",
+            "Encourage more snowmobile traffic"
+        ],
+        "correct_answer": "Install flashing lights",
+        "explanation": "Flashing lights can increase visibility and alert drivers more effectively to the presence of snowmobile crossings."
+    },
+    {
+        "question": "What is a common consequence of ignoring a snowmobile crossing sign?",
+        "options": [
+            "Better traffic flow",
+            "Accidents or injuries",
+            "Increased wildlife sightings",
+            "Snowmobile path creation"
+        ],
+        "correct_answer": "Accidents or injuries",
+        "explanation": "Ignoring the sign can lead to accidents or injuries due to unforeseen crossings by snowmobiles."
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What is the primary purpose of a No Parking sign?",
+        "options": [
+            "To indicate no parking allowed",
+            "To provide parking directions",
+            "To allow parking for disabled individuals",
+            "To mark a loading zone"
+        ],
+        "correct_answer": "To indicate no parking allowed",
+        "explanation": "The primary purpose of a No Parking sign is to inform drivers that parking is prohibited in that area."
+    },
+    {
+        "question": "Where are No Parking signs commonly placed?",
+        "options": [
+            "In residential neighborhoods",
+            "Near schools",
+            "Along busy streets",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "No Parking signs can be found in various locations including residential areas, near schools, and along busy streets to manage traffic flow."
+    },
+    {
+        "question": "What might happen if a vehicle is parked in front of a No Parking sign?",
+        "options": [
+            "Nothing, it's just a suggestion",
+            "The vehicle might receive a ticket",
+            "The vehicle can be towed",
+            "Both the second and third options are correct"
+        ],
+        "correct_answer": "Both the second and third options are correct",
+        "explanation": "Parking in front of a No Parking sign can lead to the issuance of a ticket and may result in the vehicle being towed."
+    },
+    {
+        "question": "What distinguishes a No Parking sign from a No Stopping or Standing sign?",
+        "options": [
+            "No Parking prohibits all types of parking",
+            "No Stopping or Standing prohibits any vehicle from stopping",
+            "No Parking allows for brief stops",
+            "All of the above"
+        ],
+        "correct_answer": "No Stopping or Standing prohibits any vehicle from stopping",
+        "explanation": "No Parking allows for brief stops for loading and unloading, while No Stopping or Standing prohibits any stopping of vehicles."
+    },
+    {
+        "question": "Do No Parking signs apply to all types of vehicles?",
+        "options": [
+            "Yes, all vehicles are included",
+            "No, only commercial vehicles",
+            "No, only passenger vehicles",
+            "Depends on local regulations"
+        ],
+        "correct_answer": "Yes, all vehicles are included",
+        "explanation": "No Parking signs apply to all types of vehicles unless otherwise specified."
+    },
+    {
+        "question": "Can No Parking signs be temporary or permanent?",
+        "options": [
+            "Only permanent",
+            "Only temporary",
+            "Both temporary and permanent",
+            "Neither"
+        ],
+        "correct_answer": "Both temporary and permanent",
+        "explanation": "No Parking signs can be either temporary, such as for construction, or permanent for ongoing regulations."
+    },
+    {
+        "question": "What color are most No Parking signs in the United States?",
+        "options": [
+            "Red",
+            "Green",
+            "Blue",
+            "Yellow"
+        ],
+        "correct_answer": "Red",
+        "explanation": "In the United States, most No Parking signs are red, which is commonly associated with prohibitory signs."
+    },
+    {
+        "question": "How do cities enforce No Parking regulations?",
+        "options": [
+            "Through random checks",
+            "By hiring private companies",
+            "By issuing tickets and towing vehicles",
+            "By posting additional signs"
+        ],
+        "correct_answer": "By issuing tickets and towing vehicles",
+        "explanation": "Cities enforce No Parking regulations primarily through ticketing vehicles and towing them as necessary."
+    },
+    {
+        "question": "What should a driver do if they see a No Parking sign?",
+        "options": [
+            "Park there only for a short time",
+            "Find alternative parking",
+            "Ignore the sign if it's not enforced",
+            "Double-check with local regulations"
+        ],
+        "correct_answer": "Find alternative parking",
+        "explanation": "The appropriate action is to find alternative parking to comply with the regulations indicated by the No Parking sign."
+    },
+    {
+        "question": "Who is responsible for maintaining the visibility of No Parking signs?",
+        "options": [
+            "Local governments",
+            "Business owners",
+            "Residents",
+            "Highway departments"
+        ],
+        "correct_answer": "Local governments",
+        "explanation": "Local governments are responsible for ensuring that traffic signs, including No Parking signs, are visible and well-maintained."
+    }
+]

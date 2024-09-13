@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Carpool Lane Sign typically indicate?",
+        "options": [
+            "Single occupancy vehicles allowed",
+            "High occupancy vehicles allowed",
+            "Restricted access for all vehicles",
+            "No parking zone"
+        ],
+        "correct_answer": "High occupancy vehicles allowed",
+        "explanation": "Carpool Lane Signs are designed to indicate that the lane is reserved for vehicles with multiple passengers, promoting carpooling and reducing traffic congestion."
+    },
+    {
+        "question": "What is the minimum number of passengers typically required to use the carpool lane?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correct_answer": "2",
+        "explanation": "Most carpool lanes require at least two occupants in the vehicle, which encourages carpooling and reduces the number of cars on the road."
+    },
+    {
+        "question": "During what times are carpool lanes usually in effect?",
+        "options": [
+            "All day",
+            "Weekends only",
+            "Weekdays during peak hours",
+            "Only during holidays"
+        ],
+        "correct_answer": "Weekdays during peak hours",
+        "explanation": "Carpool lanes are typically enforced during peak traffic hours on weekdays to alleviate congestion during the busiest times."
+    },
+    {
+        "question": "What might happen if a driver uses the carpool lane without the required number of occupants?",
+        "options": [
+            "They will not be penalized",
+            "They will receive a warning",
+            "They may receive a fine",
+            "They are encouraged to continue driving"
+        ],
+        "correct_answer": "They may receive a fine",
+        "explanation": "Using the carpool lane without the required number of passengers is a violation and can result in traffic fines to discourage misuse."
+    },
+    {
+        "question": "What is often found on a Carpool Lane Sign to inform drivers?",
+        "options": [
+            "Hours of operation",
+            "Speed limit",
+            "Direction of traffic",
+            "Parking availability"
+        ],
+        "correct_answer": "Hours of operation",
+        "explanation": "Carpool Lane Signs usually display specific hours when the lane is reserved for high occupancy vehicles, helping drivers understand when the rules apply."
+    },
+    {
+        "question": "Can motorcycles use carpool lanes?",
+        "options": [
+            "Yes",
+            "No",
+            "Only if they have a passenger",
+            "Only in certain states"
+        ],
+        "correct_answer": "Yes",
+        "explanation": "In many jurisdictions, motorcycles are permitted to use carpool lanes regardless of the number of passengers, as they contribute to reducing traffic."
+    },
+    {
+        "question": "What color are most carpool lane signs?",
+        "options": [
+            "Red",
+            "Green",
+            "Blue",
+            "Yellow"
+        ],
+        "correct_answer": "Green",
+        "explanation": "Most carpool lane signs are green, similar to regular highway signs, to denote that they are part of the roadway system."
+    },
+    {
+        "question": "What vehicles are generally prohibited from using carpool lanes?",
+        "options": [
+            "Buses",
+            "Taxis",
+            "Single occupancy vehicles",
+            "Carpool vehicles"
+        ],
+        "correct_answer": "Single occupancy vehicles",
+        "explanation": "Carpool lanes are meant for vehicles with multiple occupants, so single occupancy vehicles are typically prohibited to encourage carpooling."
+    },
+    {
+        "question": "What does a 'C' symbol sometimes seen on carpool signs represent?",
+        "options": [
+            "Carpool eligible",
+            "Carpool enforcement",
+            "Carpool exception",
+            "Carpool restriction"
+        ],
+        "correct_answer": "Carpool eligible",
+        "explanation": "The 'C' symbol indicates that the lane is specifically for carpool eligible vehicles, signaling the need for multiple passengers to access the lane."
+    },
+    {
+        "question": "What is a common misconception about carpool lanes?",
+        "options": [
+            "They are always free to use",
+            "They only apply to cars",
+            "They can be used at any time",
+            "They are only for electric vehicles"
+        ],
+        "correct_answer": "They can be used at any time",
+        "explanation": "Many people mistakenly believe that carpool lanes can be used at any time, but they often have specific operational hours that restrict usage."
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Barrier Warning Sign typically indicate?",
+        "options": [
+            "Danger ahead",
+            "Road work",
+            "Closed road",
+            "No entry"
+        ],
+        "correct_answer": "Road work",
+        "explanation": "A Barrier Warning Sign usually alerts drivers to upcoming construction or road maintenance."
+    },
+    {
+        "question": "What color is commonly used for Barrier Warning Signs?",
+        "options": [
+            "Green",
+            "Blue",
+            "Yellow",
+            "Red"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Yellow is universally recognized as a caution color, alerting drivers to be careful and aware of potential dangers."
+    },
+    {
+        "question": "What should a driver do upon encountering a Barrier Warning Sign?",
+        "options": [
+            "Speed up",
+            "Stop immediately",
+            "Proceed with caution",
+            "Turn around"
+        ],
+        "correct_answer": "Proceed with caution",
+        "explanation": "Drivers should be cautious as the sign indicates possible hazards in the roadway or nearby areas."
+    },
+    {
+        "question": "What symbol might you find on a Barrier Warning Sign?",
+        "options": [
+            "Arrow",
+            "Circle",
+            "Diamond",
+            "Square"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "Diamond-shaped signs are typically used for warning signs, indicating hazards or obstacles ahead."
+    },
+    {
+        "question": "Why are Barrier Warning Signs important in road safety?",
+        "options": [
+            "They add decoration",
+            "They provide entertainment",
+            "They inform drivers of hazards",
+            "They are required by law"
+        ],
+        "correct_answer": "They inform drivers of hazards",
+        "explanation": "Barrier Warning Signs are crucial for informing drivers about possible dangers so they can take necessary precautions."
+    },
+    {
+        "question": "Which of the following is NOT typically indicated by a Barrier Warning Sign?",
+        "options": [
+            "Low bridge",
+            "Road closed",
+            "Merge ahead",
+            "Speed limit"
+        ],
+        "correct_answer": "Speed limit",
+        "explanation": "Speed limit signs are regulatory rather than a warning about hazards, which is the purpose of Barrier Warning Signs."
+    },
+    {
+        "question": "What kind of areas might require a Barrier Warning Sign?",
+        "options": [
+            "Residential zones",
+            "Construction sites",
+            "Fast food restaurants",
+            "Shopping malls"
+        ],
+        "correct_answer": "Construction sites",
+        "explanation": "Construction sites often pose risks to drivers and require Barrier Warning Signs for safety."
+    },
+    {
+        "question": "If a Barrier Warning Sign is obstructed, what should a driver do?",
+        "options": [
+            "Ignore it",
+            "Slow down and proceed with caution",
+            "Speed past",
+            "Use their horn"
+        ],
+        "correct_answer": "Slow down and proceed with caution",
+        "explanation": "If a sign is obstructed, it's important to be cautious as there may still be dangers that are not visible."
+    },
+    {
+        "question": "What might you do if a Barrier Warning Sign is not adhered to by drivers?",
+        "options": [
+            "Join them",
+            "Report to authorities",
+            "Do nothing",
+            "Install more signs"
+        ],
+        "correct_answer": "Report to authorities",
+        "explanation": "If drivers are not following the warnings, it's crucial to report the issue for public safety and enforcement."
+    },
+    {
+        "question": "In what weather conditions are Barrier Warning Signs particularly important?",
+        "options": [
+            "Sunny",
+            "Rainy or snowy",
+            "Windy",
+            "Cloudy"
+        ],
+        "correct_answer": "Rainy or snowy",
+        "explanation": "In adverse weather conditions, the risks on the road increase, making Warning Signs critical for driver safety."
+    }
+]

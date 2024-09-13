@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Yield Ahead Sign indicate?",
+        "options": [
+            "Yield to pedestrians",
+            "Prepare to stop",
+            "Yield to oncoming traffic",
+            "Yield to cyclists"
+        ],
+        "correct_answer": "Yield to oncoming traffic",
+        "explanation": "A Yield Ahead Sign indicates that drivers should prepare to yield to oncoming traffic in advance of an intersection."
+    },
+    {
+        "question": "When should you begin to yield according to a Yield Ahead Sign?",
+        "options": [
+            "At the intersection",
+            "As soon as you see the sign",
+            "Only if there are vehicles present",
+            "After stopping completely"
+        ],
+        "correct_answer": "As soon as you see the sign",
+        "explanation": "Drivers should begin to yield as soon as they see the Yield Ahead Sign to ensure they are prepared for any oncoming traffic."
+    },
+    {
+        "question": "Which of the following is true about Yield Ahead Signs?",
+        "options": [
+            "They are always yellow",
+            "They indicate a controlled intersection",
+            "They are circular in shape",
+            "They are generally triangular in shape"
+        ],
+        "correct_answer": "They are generally triangular in shape",
+        "explanation": "Yield Ahead Signs are typically triangular in shape and are designed to alert drivers to yield to oncoming traffic ahead."
+    },
+    {
+        "question": "What action should drivers take when approaching a Yield Ahead Sign?",
+        "options": [
+            "Speed up",
+            "Maintain speed",
+            "Slow down and prepare to stop",
+            "Change lanes"
+        ],
+        "correct_answer": "Slow down and prepare to stop",
+        "explanation": "Drivers should slow down and prepare to stop as they approach the Yield Ahead Sign to ensure they yield effectively to oncoming traffic."
+    },
+    {
+        "question": "Who has the right of way when a Yield Ahead Sign is present?",
+        "options": [
+            "The vehicle with the Yield Ahead Sign",
+            "The oncoming traffic",
+            "The first vehicle to stop",
+            "The largest vehicle present"
+        ],
+        "correct_answer": "The oncoming traffic",
+        "explanation": "When a Yield Ahead Sign is present, oncoming traffic has the right of way, and drivers must yield accordingly."
+    },
+    {
+        "question": "What might happen if a driver ignores a Yield Ahead Sign?",
+        "options": [
+            "Reduced vehicle speed",
+            "Traffic fines or accidents",
+            "Increased traffic flow",
+            "No consequences"
+        ],
+        "correct_answer": "Traffic fines or accidents",
+        "explanation": "Ignoring a Yield Ahead Sign can lead to traffic fines or accidents, as it puts both the driver and others at risk."
+    },
+    {
+        "question": "Where are Yield Ahead Signs typically found?",
+        "options": [
+            "On highways only",
+            "Near residential areas",
+            "At roundabouts only",
+            "At intersections and merges"
+        ],
+        "correct_answer": "At intersections and merges",
+        "explanation": "Yield Ahead Signs are typically found at intersections and merges where drivers need to yield to oncoming traffic."
+    },
+    {
+        "question": "What color is a typical Yield Ahead Sign?",
+        "options": [
+            "Red",
+            "Green",
+            "Yellow",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "A typical Yield Ahead Sign is yellow, which serves as a cautionary color to alert drivers of the need to yield."
+    },
+    {
+        "question": "What is the primary purpose of the Yield Ahead Sign?",
+        "options": [
+            "To instruct drivers to speed up",
+            "To indicate a pedestrian crossing",
+            "To inform drivers to prepare for yielding",
+            "To mark the end of a road"
+        ],
+        "correct_answer": "To inform drivers to prepare for yielding",
+        "explanation": "The primary purpose of the Yield Ahead Sign is to alert drivers to prepare for yielding to oncoming traffic at an upcoming intersection or merge."
+    },
+    {
+        "question": "What should a driver do if the Yield Ahead Sign is obscured by foliage?",
+        "options": [
+            "Proceed without caution",
+            "Ignore the sign",
+            "Slow down and be prepared to yield anyways",
+            "Speed up to clear the area"
+        ],
+        "correct_answer": "Slow down and be prepared to yield anyways",
+        "explanation": "If the Yield Ahead Sign is obscured, drivers should slow down and be prepared to yield, as they cannot rely on visibility of the sign."
+    }
+]

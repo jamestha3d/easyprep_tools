@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Y intersection sign indicate?",
+        "options": [
+            "A fork in the road",
+            "A dead end",
+            "A roundabout",
+            "A pedestrian crossing"
+        ],
+        "correct_answer": "A fork in the road",
+        "explanation": "The Y intersection sign indicates that the road will split into two directions, resembling a fork."
+    },
+    {
+        "question": "When approaching a Y intersection, what should drivers do?",
+        "options": [
+            "Speed up",
+            "Prepare to turn",
+            "Ignore the sign",
+            "Stop completely"
+        ],
+        "correct_answer": "Prepare to turn",
+        "explanation": "Drivers should prepare to navigate the intersection by deciding which path to take."
+    },
+    {
+        "question": "Which direction is generally considered the primary road at a Y intersection?",
+        "options": [
+            "Left",
+            "Right",
+            "Straight",
+            "Variable based on signs"
+        ],
+        "correct_answer": "Variable based on signs",
+        "explanation": "The primary road can vary, so it is essential to pay attention to other signs for specific directions."
+    },
+    {
+        "question": "What type of traffic control might be found at a Y intersection?",
+        "options": [
+            "Stop signs",
+            "Traffic lights",
+            "Yield signs",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Y intersections can have various traffic controls, including stop signs, traffic lights, or yield signs."
+    },
+    {
+        "question": "What should you do if you're unsure about which way to go at a Y intersection?",
+        "options": [
+            "Continue driving straight",
+            "Make a quick decision",
+            "Slow down and assess",
+            "Turn back"
+        ],
+        "correct_answer": "Slow down and assess",
+        "explanation": "It's important to slow down and assess the directions before making a decision for safety."
+    },
+    {
+        "question": "Are Y intersections common in urban or rural areas?",
+        "options": [
+            "Urban",
+            "Rural",
+            "Both equally",
+            "Neither"
+        ],
+        "correct_answer": "Both equally",
+        "explanation": "Y intersections can be found in both urban and rural settings depending on the road layout."
+    },
+    {
+        "question": "What time of year might Y intersections be especially hazardous?",
+        "options": [
+            "Summer",
+            "Fall",
+            "Winter",
+            "Spring"
+        ],
+        "correct_answer": "Winter",
+        "explanation": "Winter can produce slippery conditions that make navigating Y intersections more dangerous."
+    },
+    {
+        "question": "How should cyclists approach a Y intersection?",
+        "options": [
+            "Speed through",
+            "Dismount and walk",
+            "Use hand signals",
+            "Ignore the sign"
+        ],
+        "correct_answer": "Use hand signals",
+        "explanation": "Cyclists should use hand signals to indicate their direction of travel to enhance safety."
+    },
+    {
+        "question": "How can you identify a Y intersection at night?",
+        "options": [
+            "Reflective signs",
+            "Flashing lights",
+            "Taller signs",
+            "No identification necessary"
+        ],
+        "correct_answer": "Reflective signs",
+        "explanation": "Reflective signs are designed to be visible at night, helping drivers identify Y intersections in low visibility."
+    },
+    {
+        "question": "What is the best way to interpret a Y intersection sign while driving?",
+        "options": [
+            "Follow the car in front",
+            "Rely solely on GPS",
+            "Be aware of your surroundings",
+            "Ignore the sign"
+        ],
+        "correct_answer": "Be aware of your surroundings",
+        "explanation": "Being aware of your surroundings, including road signs and other traffic, ensures a safer navigation through the intersection."
+    }
+]

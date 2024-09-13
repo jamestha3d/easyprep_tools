@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a No Entry Sign indicate?",
+        "options": [
+            "Allowed entry",
+            "No unauthorized access",
+            "Prohibits entry",
+            "Speed limit zone"
+        ],
+        "correct_answer": "Prohibits entry",
+        "explanation": "A No Entry Sign is specifically used to indicate that entry is prohibited for vehicles or pedestrians."
+    },
+    {
+        "question": "Where is a No Entry Sign typically placed?",
+        "options": [
+            "At road intersections",
+            "On private property",
+            "Inside buildings",
+            "On traffic signals"
+        ],
+        "correct_answer": "At road intersections",
+        "explanation": "No Entry Signs are usually placed at the entrances of one-way streets or at intersections to prevent vehicles from entering certain areas."
+    },
+    {
+        "question": "What color is a typical No Entry Sign?",
+        "options": [
+            "Green",
+            "Red",
+            "Blue",
+            "Yellow"
+        ],
+        "correct_answer": "Red",
+        "explanation": "A No Entry Sign is typically red, as red is universally recognized as a color that indicates prohibition or danger."
+    },
+    {
+        "question": "Which symbol is commonly used on a No Entry Sign?",
+        "options": [
+            "Circle",
+            "Square",
+            "Triangle",
+            "Diamond"
+        ],
+        "correct_answer": "Circle",
+        "explanation": "The No Entry Sign is commonly represented as a red circle with a horizontal white bar, indicating that entry is not allowed."
+    },
+    {
+        "question": "What should a driver do upon seeing a No Entry Sign?",
+        "options": [
+            "Proceed with caution",
+            "Turn back or find alternative route",
+            "Speed through the area",
+            "Ignore the sign"
+        ],
+        "correct_answer": "Turn back or find alternative route",
+        "explanation": "Drivers must heed the No Entry Sign and should either turn back or find another route to avoid violating traffic regulations."
+    },
+    {
+        "question": "Is a No Entry Sign applicable to pedestrians?",
+        "options": [
+            "Yes, all users",
+            "Only vehicles",
+            "Only bicycles",
+            "Only motorcycles"
+        ],
+        "correct_answer": "Yes, all users",
+        "explanation": "A No Entry Sign applies to all users, including pedestrians, prohibiting entry into the marked area."
+    },
+    {
+        "question": "What might happen if a driver ignores a No Entry Sign?",
+        "options": [
+            "No consequences",
+            "Accident risk",
+            "Traffic violation penalty",
+            "Fines only"
+        ],
+        "correct_answer": "Traffic violation penalty",
+        "explanation": "Ignoring a No Entry Sign is considered a traffic violation, which can lead to penalties such as fines or points on the driver's license."
+    },
+    {
+        "question": "Can a No Entry Sign sometimes be temporary?",
+        "options": [
+            "Yes, for construction",
+            "No, it is permanent",
+            "Only at night",
+            "For vehicle maintenance"
+        ],
+        "correct_answer": "Yes, for construction",
+        "explanation": "No Entry Signs can be temporary and used for special circumstances such as construction zones or events."
+    },
+    {
+        "question": "In terms of road safety, what is the purpose of a No Entry Sign?",
+        "options": [
+            "To improve traffic flow",
+            "To prevent accidents",
+            "To guide drivers",
+            "To encourage speed limits"
+        ],
+        "correct_answer": "To prevent accidents",
+        "explanation": "The main purpose of a No Entry Sign is to prevent accidents by restricting access to areas that may be dangerous if entered."
+    },
+    {
+        "question": "What is the alternative sign for a one-way street where entry is still allowed?",
+        "options": [
+            "No Entry Sign",
+            "One Way Sign",
+            "Stop Sign",
+            "Yield Sign"
+        ],
+        "correct_answer": "One Way Sign",
+        "explanation": "The One Way Sign allows entry in one direction only, unlike a No Entry Sign which prohibits entry entirely."
+    }
+]

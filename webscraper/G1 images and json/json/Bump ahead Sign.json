@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does the Bump Ahead sign indicate?",
+        "options": [
+            "Rough road surface",
+            "Upcoming incline",
+            "Road repairs ahead",
+            "Bumps in the road"
+        ],
+        "correct_answer": "Bumps in the road",
+        "explanation": "The Bump Ahead sign warns drivers that there are bumps in the road, which may require them to reduce speed."
+    },
+    {
+        "question": "When should drivers be particularly cautious of the Bump Ahead sign?",
+        "options": [
+            "During rain",
+            "At night",
+            "When driving at high speeds",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Drivers should be cautious of bumps in various conditions, including during rain, at night, and especially when driving at high speeds."
+    },
+    {
+        "question": "What is the shape of the Bump Ahead sign?",
+        "options": [
+            "Rectangular",
+            "Circular",
+            "Diamond",
+            "Square"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "The Bump Ahead sign is typically diamond-shaped to alert drivers of potential hazards ahead."
+    },
+    {
+        "question": "How should drivers respond when they see a Bump Ahead sign?",
+        "options": [
+            "Accelerate",
+            "Maintain speed",
+            "Slow down",
+            "Change lanes"
+        ],
+        "correct_answer": "Slow down",
+        "explanation": "Drivers should slow down upon seeing a Bump Ahead sign to navigate safely over the bumps."
+    },
+    {
+        "question": "Where is a Bump Ahead sign most likely to be placed?",
+        "options": [
+            "In urban areas",
+            "Near schools",
+            "On highways",
+            "Near construction zones"
+        ],
+        "correct_answer": "Near construction zones",
+        "explanation": "Bump Ahead signs are often placed near construction zones where road surfaces may become uneven due to work."
+    },
+    {
+        "question": "What color is the Bump Ahead sign typically?",
+        "options": [
+            "Blue",
+            "Yellow",
+            "Green",
+            "Red"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "The Bump Ahead sign is typically yellow to indicate caution to drivers about upcoming road irregularities."
+    },
+    {
+        "question": "What might happen if a driver ignores the Bump Ahead sign?",
+        "options": [
+            "They might get lost",
+            "They might cause an accident",
+            "They might get a ticket",
+            "They might drive faster"
+        ],
+        "correct_answer": "They might cause an accident",
+        "explanation": "Ignoring the Bump Ahead sign can lead to drivers not slowing down, potentially causing accidents due to bump-related loss of control."
+    },
+    {
+        "question": "In addition to bumps, what other hazards might the Bump Ahead sign imply?",
+        "options": [
+            "Mud",
+            "Potholes",
+            "Debris",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "The Bump Ahead sign can imply various road hazards, including mud, potholes, and debris that can impact driving safety."
+    },
+    {
+        "question": "What is the primary purpose of the Bump Ahead sign?",
+        "options": [
+            "To warn about traffic signals",
+            "To alert drivers to road hazards",
+            "To provide directions",
+            "To indicate a speed limit change"
+        ],
+        "correct_answer": "To alert drivers to road hazards",
+        "explanation": "The primary purpose of the Bump Ahead sign is to alert drivers to expect road hazards that can impact their driving conditions."
+    },
+    {
+        "question": "What are the possible consequences of driving too fast over bumps indicated by the Bump Ahead sign?",
+        "options": [
+            "Delay",
+            "Damage to vehicle",
+            "Increased fuel consumption",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Driving too fast over bumps can lead to delays due to loss of control, potential damage to the vehicle, and possibly increased fuel consumption."
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Rockfall Area Sign indicate?",
+        "options": [
+            "Safe passage for vehicles",
+            "Potential rockfall hazard",
+            "No parking allowed",
+            "Wildlife crossing area"
+        ],
+        "correct_answer": "Potential rockfall hazard",
+        "explanation": "A Rockfall Area Sign alerts drivers and pedestrians to areas where falling rocks may pose a danger, indicating the need for caution."
+    },
+    {
+        "question": "When should drivers be particularly cautious when encountering a Rockfall Area Sign?",
+        "options": [
+            "During heavy rain",
+            "At night",
+            "In winter weather",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "All specified conditions can increase the likelihood of rockfalls, so drivers should exercise extra caution in these situations."
+    },
+    {
+        "question": "What type of area typically features a Rockfall Area Sign?",
+        "options": [
+            "City streets",
+            "Mountain passes",
+            "Residential neighborhoods",
+            "Flat plains"
+        ],
+        "correct_answer": "Mountain passes",
+        "explanation": "Rockfall Area Signs are commonly placed in mountainous terrain where geological features make rockfalls more likely."
+    },
+    {
+        "question": "What should you do if you see a Rockfall Area Sign while driving?",
+        "options": [
+            "Speed up to pass quickly",
+            "Keep a safe distance from cliffs",
+            "Ignore the sign",
+            "Take an alternate route"
+        ],
+        "correct_answer": "Keep a safe distance from cliffs",
+        "explanation": "Maintaining a safe distance from potentially unstable cliffs is critical for ensuring safety when encountering rockfall hazards."
+    },
+    {
+        "question": "What warning is often represented on Rockfall Area Signs?",
+        "options": [
+            "Falling objects",
+            "Wild animals",
+            "Flooding risks",
+            "Snow hazards"
+        ],
+        "correct_answer": "Falling objects",
+        "explanation": "The primary concern in a Rockfall Area is the risk of falling rocks or debris, which is why the sign serves as a warning for falling objects."
+    },
+    {
+        "question": "How can rockfalls be mitigated in areas with frequent rockfall signs?",
+        "options": [
+            "Implementing netting systems",
+            "Increasing traffic speed limits",
+            "Removing all vegetation",
+            "Installing more signs"
+        ],
+        "correct_answer": "Implementing netting systems",
+        "explanation": "Netting systems can help prevent rocks from falling onto roads, thus reducing the risk of accidents in vulnerable areas."
+    },
+    {
+        "question": "What might indicate that a rockfall has occurred recently?",
+        "options": [
+            "Clear roadways",
+            "Fresh rock debris on the road",
+            "Colorful road markings",
+            "Increased wildlife activity"
+        ],
+        "correct_answer": "Fresh rock debris on the road",
+        "explanation": "Fresh debris is a clear sign of a recent rockfall event, indicating that the area may still be dangerous."
+    },
+    {
+        "question": "In addition to the Rockfall Area Sign, what other safety measures may be taken?",
+        "options": [
+            "Speed bumps",
+            "Traffic lights",
+            "Warning lights",
+            "Barriers or fences"
+        ],
+        "correct_answer": "Barriers or fences",
+        "explanation": "Barriers or fences can physically block falling rocks from reaching the road, providing an additional layer of safety."
+    },
+    {
+        "question": "Which of the following should NOT be done in a rockfall area?",
+        "options": [
+            "Stopping to take a photo",
+            "Driving slowly",
+            "Looking for signs of rockfall",
+            "Reporting fallen rocks"
+        ],
+        "correct_answer": "Stopping to take a photo",
+        "explanation": "Stopping in areas marked as rockfall zones can increase risk; it's better to get through these areas quickly and safely."
+    },
+    {
+        "question": "Why is it important for local authorities to maintain Rockfall Area Signs?",
+        "options": [
+            "To promote tourism",
+            "To reduce maintenance costs",
+            "To ensure public safety",
+            "To improve aesthetics"
+        ],
+        "correct_answer": "To ensure public safety",
+        "explanation": "Maintaining these signs is crucial for public safety as they warn individuals of potential hazards and help prevent accidents."
+    }
+]

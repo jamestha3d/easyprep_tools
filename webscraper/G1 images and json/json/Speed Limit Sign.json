@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a speed limit sign indicate?",
+        "options": [
+            "The minimum speed allowed",
+            "The maximum speed allowed",
+            "The average speed",
+            "The speed on weekends"
+        ],
+        "correct_answer": "The maximum speed allowed",
+        "explanation": "A speed limit sign specifies the highest speed that a vehicle can legally travel on a given stretch of road."
+    },
+    {
+        "question": "What is the consequence of exceeding the speed limit?",
+        "options": [
+            "No consequence",
+            "A warning",
+            "A ticket or fine",
+            "Increased speed limit"
+        ],
+        "correct_answer": "A ticket or fine",
+        "explanation": "Driving over the speed limit can result in a traffic ticket or fine, as it is a violation of traffic laws."
+    },
+    {
+        "question": "What does a '30 mph' speed limit sign mean?",
+        "options": [
+            "30 miles per hour is the minimum speed",
+            "30 miles per hour is the maximum speed",
+            "30 kilometers per hour is the minimum speed",
+            "30 kilometers per hour is the maximum speed"
+        ],
+        "correct_answer": "30 miles per hour is the maximum speed",
+        "explanation": "A '30 mph' sign indicates that vehicles must not exceed a speed of 30 miles per hour."
+    },
+    {
+        "question": "How should a driver react if they see a speed limit sign?",
+        "options": [
+            "Ignore it if they are in a hurry",
+            "Reduce their speed to the indicated limit",
+            "Speed up to catch up to traffic",
+            "Only follow it during daytime"
+        ],
+        "correct_answer": "Reduce their speed to the indicated limit",
+        "explanation": "Drivers are required to adhere to the speed limit indicated on the sign to ensure safety and comply with traffic laws."
+    },
+    {
+        "question": "What can affect posted speed limits?",
+        "options": [
+            "Weather conditions",
+            "Road construction",
+            "Traffic conditions",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Speed limits can change based on various factors like weather, construction zones, and traffic conditions to ensure safety."
+    },
+    {
+        "question": "When approaching a school zone, what typically happens to the speed limit?",
+        "options": [
+            "It increases",
+            "It stays the same",
+            "It decreases",
+            "It becomes optional"
+        ],
+        "correct_answer": "It decreases",
+        "explanation": "Speed limits often decrease in school zones to protect children and pedestrians, especially during school hours."
+    },
+    {
+        "question": "What shape is a standard speed limit sign?",
+        "options": [
+            "Square",
+            "Circular",
+            "Rectangular",
+            "Diamond"
+        ],
+        "correct_answer": "Rectangular",
+        "explanation": "Standard speed limit signs are rectangular in shape, which helps them stand out and be easily recognizable."
+    },
+    {
+        "question": "What does a flashing speed limit sign indicate?",
+        "options": [
+            "The speed limit is optional",
+            "It shows you are speeding",
+            "It alerts you of changing speed limits",
+            "It means to slow down"
+        ],
+        "correct_answer": "It alerts you of changing speed limits",
+        "explanation": "Flashing speed limit signs are often used to draw attention to upcoming changes in speed limits or to alert drivers to their current speed."
+    },
+    {
+        "question": "What should a driver do if the speed limit sign is obscured or missing?",
+        "options": [
+            "Assume the speed limit is high",
+            "Drive at a safe speed",
+            "Follow the traffic around them",
+            "Break the speed limit"
+        ],
+        "correct_answer": "Drive at a safe speed",
+        "explanation": "In such cases, drivers should proceed cautiously and maintain a safe speed based on the conditions of the road."
+    },
+    {
+        "question": "Are speed limits the same in every country?",
+        "options": [
+            "Yes, they are global",
+            "No, they vary by country",
+            "Yes, they vary by state",
+            "No, they are only different in urban areas"
+        ],
+        "correct_answer": "No, they vary by country",
+        "explanation": "Speed limits vary widely between countries, and even within regions or states of the same country, based on local laws and road conditions."
+    }
+]

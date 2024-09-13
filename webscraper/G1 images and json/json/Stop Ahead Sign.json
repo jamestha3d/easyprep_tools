@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Stop Ahead sign indicate?",
+        "options": [
+            "Prepare to stop",
+            "Speed up",
+            "Yield to pedestrians",
+            "Turn left"
+        ],
+        "correct_answer": "Prepare to stop",
+        "explanation": "A Stop Ahead sign alerts drivers to a stop sign that is approaching, indicating they should prepare to stop."
+    },
+    {
+        "question": "Where is a Stop Ahead sign typically placed?",
+        "options": [
+            "At intersections",
+            "On highways",
+            "In parking lots",
+            "At traffic lights"
+        ],
+        "correct_answer": "At intersections",
+        "explanation": "Stop Ahead signs are generally placed before intersections where a stop sign is present to give drivers early warning."
+    },
+    {
+        "question": "What shape is a Stop Ahead sign usually?",
+        "options": [
+            "Square",
+            "Circular",
+            "Diamond",
+            "Rectangular"
+        ],
+        "correct_answer": "Rectangular",
+        "explanation": "Stop Ahead signs typically have a rectangular shape, following the standard shape for warning signs."
+    },
+    {
+        "question": "What color is a Stop Ahead sign?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Stop Ahead signs are often yellow, which is commonly used for warning signs to grab attention."
+    },
+    {
+        "question": "What should you do when you see a Stop Ahead sign?",
+        "options": [
+            "Accelerate",
+            "Look for pedestrians",
+            "Get ready to stop",
+            "Change lanes"
+        ],
+        "correct_answer": "Get ready to stop",
+        "explanation": "When you see a Stop Ahead sign, you should get ready to stop for the upcoming stop sign."
+    },
+    {
+        "question": "Is the Stop Ahead sign a regulatory or warning sign?",
+        "options": [
+            "Regulatory",
+            "Warning",
+            "Informational",
+            "Guide"
+        ],
+        "correct_answer": "Warning",
+        "explanation": "The Stop Ahead sign is a warning sign, alerting drivers to a potential stop ahead."
+    },
+    {
+        "question": "In adverse weather conditions, what is crucial when approaching a Stop Ahead sign?",
+        "options": [
+            "Increase speed",
+            "Decrease visibility",
+            "Increase following distance",
+            "Stay in lane"
+        ],
+        "correct_answer": "Increase following distance",
+        "explanation": "In adverse weather, it is important to increase following distance to allow for safe stopping when approaching a stop sign."
+    },
+    {
+        "question": "What might happen if you ignore a Stop Ahead sign?",
+        "options": [
+            "Nothing",
+            "You might get lost",
+            "You could cause an accident",
+            "Your vehicle will break down"
+        ],
+        "correct_answer": "You could cause an accident",
+        "explanation": "Ignoring a Stop Ahead sign can lead to running a stop sign, which increases the risk of an accident."
+    },
+    {
+        "question": "Is the Stop Ahead sign effective at night?",
+        "options": [
+            "Yes, if well-lit",
+            "No, it requires daylight",
+            "Only if it is sunny",
+            "Not at all"
+        ],
+        "correct_answer": "Yes, if well-lit",
+        "explanation": "The Stop Ahead sign can be effective at night if it is properly illuminated, helping drivers see it in the dark."
+    },
+    {
+        "question": "Are Stop Ahead signs used in residential areas?",
+        "options": [
+            "Only on highways",
+            "Yes, often",
+            "No, never",
+            "Only near schools"
+        ],
+        "correct_answer": "Yes, often",
+        "explanation": "Stop Ahead signs are commonly used in residential areas to alert drivers of upcoming stop signs due to the presence of pedestrians."
+    }
+]

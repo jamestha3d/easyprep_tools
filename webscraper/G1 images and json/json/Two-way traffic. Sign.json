@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What is the primary characteristic of two-way traffic?",
+        "options": [
+            "Vehicles move in one direction only",
+            "Vehicles can move in both directions",
+            "Only bicycles can use it",
+            "It is restricted to pedestrians"
+        ],
+        "correct_answer": "Vehicles can move in both directions",
+        "explanation": "Two-way traffic allows vehicles to travel in both directions on the same road."
+    },
+    {
+        "question": "In two-way traffic, how should vehicles be positioned while passing each other?",
+        "options": [
+            "On the left side only",
+            "On the right side only",
+            "In the middle of the road",
+            "Either side, as long as it\u2019s safe"
+        ],
+        "correct_answer": "Either side, as long as it\u2019s safe",
+        "explanation": "In two-way traffic, vehicles can pass each other on either side if it\u2019s safe to do so."
+    },
+    {
+        "question": "What is a common sign used to indicate two-way traffic ahead?",
+        "options": [
+            "No Entry",
+            "One Way",
+            "Two-Way Traffic",
+            "Stop"
+        ],
+        "correct_answer": "Two-Way Traffic",
+        "explanation": "The 'Two-Way Traffic' sign informs drivers that they will soon encounter traffic coming from the opposite direction."
+    },
+    {
+        "question": "Which of the following is essential for safe navigation in two-way traffic?",
+        "options": [
+            "Speeding up when approaching intersections",
+            "Yielding to oncoming traffic",
+            "Driving on the shoulder",
+            "Ignoring traffic lights"
+        ],
+        "correct_answer": "Yielding to oncoming traffic",
+        "explanation": "Yielding to oncoming traffic is crucial for preventing accidents in two-way traffic situations."
+    },
+    {
+        "question": "What should a driver do when they see a 'Two-Way Traffic' sign?",
+        "options": [
+            "Keep driving straight",
+            "Adjust driving habits for potential oncoming vehicles",
+            "Increase speed",
+            "Ignore it"
+        ],
+        "correct_answer": "Adjust driving habits for potential oncoming vehicles",
+        "explanation": "Drivers should be cautious and adjust their driving to account for vehicles coming from the opposite direction."
+    },
+    {
+        "question": "Which maneuver is prohibited in two-way traffic?",
+        "options": [
+            "Turning left at an intersection",
+            "Overtaking a vehicle",
+            "Driving on the opposite side of the road",
+            "Stopping to pick up passengers"
+        ],
+        "correct_answer": "Driving on the opposite side of the road",
+        "explanation": "Driving on the opposite side of the road can lead to collisions in a two-way traffic situation."
+    },
+    {
+        "question": "What is a common risk when driving in two-way traffic?",
+        "options": [
+            "Lack of speed limits",
+            "Potential for head-on collisions",
+            "No need to signal turns",
+            "All vehicles can only go slow"
+        ],
+        "correct_answer": "Potential for head-on collisions",
+        "explanation": "Two-way traffic poses a risk for head-on collisions if drivers are not cautious or attentive."
+    },
+    {
+        "question": "When is it safe to make a left turn in two-way traffic?",
+        "options": [
+            "Always, without checking",
+            "Only when a sign indicates otherwise",
+            "When there are no oncoming vehicles",
+            "At any time without signaling"
+        ],
+        "correct_answer": "When there are no oncoming vehicles",
+        "explanation": "A left turn is safe in two-way traffic when it can be made without interfering with oncoming vehicles."
+    },
+    {
+        "question": "What should drivers do if they encounter road construction in a two-way traffic zone?",
+        "options": [
+            "Ignore the signs",
+            "Speed through quickly",
+            "Follow detour signs or instructions from workers",
+            "Stop and wait indefinitely"
+        ],
+        "correct_answer": "Follow detour signs or instructions from workers",
+        "explanation": "Drivers should always heed detour signs and instructions to navigate safely around construction areas."
+    },
+    {
+        "question": "What's the recommended distance to keep when following a vehicle in two-way traffic?",
+        "options": [
+            "1 meter",
+            "2 car lengths",
+            "No distance is needed",
+            "At least 3 seconds behind"
+        ],
+        "correct_answer": "At least 3 seconds behind",
+        "explanation": "Maintaining a distance of at least 3 seconds allows for safe stopping in case of sudden stops by the vehicle ahead."
+    }
+]

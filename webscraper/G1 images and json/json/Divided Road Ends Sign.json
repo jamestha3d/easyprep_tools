@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Divided Road Ends sign indicate?",
+        "options": [
+            "The road splits into two directions",
+            "The road has no division ahead",
+            "The road is closed ahead",
+            "The road has multiple lanes"
+        ],
+        "correct_answer": "The road has no division ahead",
+        "explanation": "The Divided Road Ends sign warns drivers that they are approaching an area where the road no longer has a median or division between opposing traffic."
+    },
+    {
+        "question": "What shape is the Divided Road Ends sign?",
+        "options": [
+            "Square",
+            "Circular",
+            "Diamond",
+            "Rectangle"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "Traffic signs indicating warnings or changes in road conditions are typically diamond-shaped."
+    },
+    {
+        "question": "Where would you typically see a Divided Road Ends sign?",
+        "options": [
+            "At intersections",
+            "Before entering a divided highway",
+            "After a divided highway section",
+            "At pedestrian crossings"
+        ],
+        "correct_answer": "After a divided highway section",
+        "explanation": "The Divided Road Ends sign usually appears at the transition point where a divided roadway becomes undivided."
+    },
+    {
+        "question": "What should drivers do when they see a Divided Road Ends sign?",
+        "options": [
+            "Speed up",
+            "Prepare to merge into traffic",
+            "Drive straight without worry",
+            "Look for pedestrians only"
+        ],
+        "correct_answer": "Prepare to merge into traffic",
+        "explanation": "Drivers should be prepared to adjust their driving as the absence of a division means they may encounter oncoming traffic directly."
+    },
+    {
+        "question": "How can a Divided Road Ends sign contribute to road safety?",
+        "options": [
+            "By increasing speed limits",
+            "By reminding drivers to stay alert for oncoming traffic",
+            "By providing right-of-way",
+            "By indicating smooth curves"
+        ],
+        "correct_answer": "By reminding drivers to stay alert for oncoming traffic",
+        "explanation": "The sign serves as a caution so drivers are aware that they are returning to an undivided road environment, which can be more dangerous."
+    },
+    {
+        "question": "What color is the Divided Road Ends sign typically?",
+        "options": [
+            "Red",
+            "Blue",
+            "Yellow",
+            "Green"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "The Divided Road Ends sign is usually yellow, which is a standard color for warning signs."
+    },
+    {
+        "question": "What might a driver encounter immediately after a Divided Road Ends sign?",
+        "options": [
+            "A stop sign",
+            "Two-way traffic",
+            "A one-way street",
+            "A pedestrian bridge"
+        ],
+        "correct_answer": "Two-way traffic",
+        "explanation": "After a Divided Road Ends sign, drivers should expect that traffic may come from both directions since the division has ended."
+    },
+    {
+        "question": "What type of information does the Divided Road Ends sign provide?",
+        "options": [
+            "Speed limits",
+            "Traffic signals",
+            "Road configuration",
+            "Weather conditions"
+        ],
+        "correct_answer": "Road configuration",
+        "explanation": "The sign provides important information about the change in the road's layout, specifically indicating the end of a divided roadway."
+    },
+    {
+        "question": "Why is it essential for drivers to recognize the Divided Road Ends sign?",
+        "options": [
+            "To know the speed limit changes",
+            "To understand the local traffic laws",
+            "To prepare for potentially hazardous driving conditions",
+            "To find nearby services"
+        ],
+        "correct_answer": "To prepare for potentially hazardous driving conditions",
+        "explanation": "Recognizing this sign helps drivers anticipate the change in road dynamics, especially the reintroduction of two-way traffic."
+    },
+    {
+        "question": "Which of the following is a common misconception about a Divided Road Ends sign?",
+        "options": [
+            "It indicates a more dangerous road",
+            "It signifies the end of all traffic rules",
+            "It means no pedestrians allowed",
+            "It provides exact distances to upcoming intersections"
+        ],
+        "correct_answer": "It signifies the end of all traffic rules",
+        "explanation": "The sign does not mean that typical traffic laws cease to apply; it only clarifies that the divided section of the road is ending."
+    }
+]

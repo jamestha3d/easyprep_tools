@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does the baggage claim sign indicate?",
+        "options": [
+            "Area for duty-free shopping",
+            "Location to pick up checked luggage",
+            "Security check point",
+            "Departure gates"
+        ],
+        "correct_answer": "Location to pick up checked luggage",
+        "explanation": "The baggage claim sign directs passengers to the area where they can collect their checked luggage after a flight."
+    },
+    {
+        "question": "What does a departure gate sign show?",
+        "options": [
+            "Flight status and boarding time",
+            "Security procedures",
+            "Duty-free shops",
+            "Parking areas"
+        ],
+        "correct_answer": "Flight status and boarding time",
+        "explanation": "The departure gate sign provides essential information about the flight's status and its scheduled boarding time."
+    },
+    {
+        "question": "What is indicated by a 'No Smoking' sign in an airport?",
+        "options": [
+            "Area for smoking only",
+            "Emergency exits",
+            "Prohibition of smoking in that area",
+            "Location of restrooms"
+        ],
+        "correct_answer": "Prohibition of smoking in that area",
+        "explanation": "The 'No Smoking' sign indicates that smoking is not allowed in that particular area of the airport for safety and health reasons."
+    },
+    {
+        "question": "What does the sign with a plane symbol typically represent?",
+        "options": [
+            "Airline customer service",
+            "Airport information desk",
+            "Security checkpoint",
+            "Flight check-in counter"
+        ],
+        "correct_answer": "Airport information desk",
+        "explanation": "The sign with a plane symbol generally indicates the location of the airport information desk where travelers can seek assistance."
+    },
+    {
+        "question": "What does the sign for 'Restrooms' usually include?",
+        "options": [
+            "Food options",
+            "Security instructions",
+            "Gender-specific symbols",
+            "Gate numbers"
+        ],
+        "correct_answer": "Gender-specific symbols",
+        "explanation": "Restroom signs typically include gender-specific symbols to indicate facilities for men and women."
+    },
+    {
+        "question": "The sign indicating 'Arrivals' refers to what?",
+        "options": [
+            "Check-in for departing flights",
+            "Information on upcoming flights",
+            "Location for incoming flights to land",
+            "Area to collect luggage"
+        ],
+        "correct_answer": "Area to collect luggage",
+        "explanation": "The 'Arrivals' sign points to the area where passengers can gather to receive incoming travelers and their luggage."
+    },
+    {
+        "question": "What information does a flight information display show?",
+        "options": [
+            "Weather updates",
+            "Flight schedules including delays",
+            "Parking availability",
+            "Security alerts"
+        ],
+        "correct_answer": "Flight schedules including delays",
+        "explanation": "A flight information display provides real-time updates on flight schedules, including arrivals, departures, and any delays."
+    },
+    {
+        "question": "What is the purpose of the 'Emergency Exit' sign?",
+        "options": [
+            "Location of first aid",
+            "Directions to baggage claim",
+            "Indication of exit routes in case of emergency",
+            "Information desk location"
+        ],
+        "correct_answer": "Indication of exit routes in case of emergency",
+        "explanation": "The 'Emergency Exit' sign indicates the nearest exits to be used in the event of an emergency evacuation."
+    },
+    {
+        "question": "What does a 'Customs' sign indicate?",
+        "options": [
+            "Check-in area for international flights",
+            "Place for duty-free shopping",
+            "Where travelers declare goods upon arrival",
+            "Security checkpoint"
+        ],
+        "correct_answer": "Where travelers declare goods upon arrival",
+        "explanation": "The 'Customs' sign directs passengers to the area where they must declare any goods they are bringing into the country."
+    },
+    {
+        "question": "What does the 'Delayed' sign inform passengers?",
+        "options": [
+            "Flight is boarding now",
+            "Flight has landed",
+            "Flight is postponed to a later time",
+            "Flight is cancelled"
+        ],
+        "correct_answer": "Flight is postponed to a later time",
+        "explanation": "A 'Delayed' sign alerts passengers that a scheduled flight will not depart at the originally planned time."
+    }
+]

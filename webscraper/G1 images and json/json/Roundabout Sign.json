@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a roundabout sign indicate?",
+        "options": [
+            "You must stop",
+            "You must yield",
+            "You can go straight",
+            "There is a traffic light"
+        ],
+        "correct_answer": "You must yield",
+        "explanation": "The roundabout sign indicates that vehicles inside the roundabout have the right of way, and approaching vehicles must yield."
+    },
+    {
+        "question": "What shape is the typical roundabout sign?",
+        "options": [
+            "Square",
+            "Rectangular",
+            "Circular",
+            "Triangular"
+        ],
+        "correct_answer": "Circular",
+        "explanation": "Roundabout signs are typically circular to convey the idea of continuity and movement, similar to the flow of traffic in a roundabout."
+    },
+    {
+        "question": "When approaching a roundabout, what should drivers do?",
+        "options": [
+            "Speed up and enter quickly",
+            "Yield to traffic in the roundabout",
+            "Make a U-turn",
+            "Park their vehicle"
+        ],
+        "correct_answer": "Yield to traffic in the roundabout",
+        "explanation": "Drivers should yield to the vehicles already in the roundabout to ensure a safe flow of traffic."
+    },
+    {
+        "question": "What is the primary purpose of a roundabout?",
+        "options": [
+            "To stop traffic",
+            "To reduce vehicle speeds and improve safety",
+            "To increase congestion",
+            "To provide a view of the surroundings"
+        ],
+        "correct_answer": "To reduce vehicle speeds and improve safety",
+        "explanation": "Roundabouts are designed to manage traffic flow more efficiently and safely than traditional intersections by reducing speeds and minimizing collision points."
+    },
+    {
+        "question": "Which direction do vehicles typically circulate in a roundabout in countries where they drive on the right?",
+        "options": [
+            "Left",
+            "Right",
+            "Straight",
+            "Backward"
+        ],
+        "correct_answer": "Right",
+        "explanation": "In countries where driving is on the right side of the road, vehicles in a roundabout circulate to the right."
+    },
+    {
+        "question": "What should you do if you miss your exit in a roundabout?",
+        "options": [
+            "Stop and wait",
+            "Reverse back to the exit",
+            "Continue around the roundabout until you reach your exit",
+            "Signal and change lanes"
+        ],
+        "correct_answer": "Continue around the roundabout until you reach your exit",
+        "explanation": "If you miss your exit, the safest option is to keep moving around the roundabout until you can safely exit."
+    },
+    {
+        "question": "How do pedestrians behave at roundabouts?",
+        "options": [
+            "They have priority over all vehicles",
+            "They must yield to vehicles",
+            "They must always cross in groups",
+            "They can walk anywhere"
+        ],
+        "correct_answer": "They must yield to vehicles",
+        "explanation": "Pedestrians should yield to vehicles in the roundabout and only cross when it is safe to do so."
+    },
+    {
+        "question": "What is a common feature found in modern roundabouts?",
+        "options": [
+            "Traffic lights",
+            "Pedestrian overpasses",
+            "Landscaped center islands",
+            "Speed bumps"
+        ],
+        "correct_answer": "Landscaped center islands",
+        "explanation": "Modern roundabouts often include landscaped center islands to beautify the traffic feature and also help reduce speeds."
+    },
+    {
+        "question": "What is the typical speed limit within a roundabout?",
+        "options": [
+            "10-15 mph",
+            "20-25 mph",
+            "30-35 mph",
+            "40-45 mph"
+        ],
+        "correct_answer": "20-25 mph",
+        "explanation": "Roundabouts are designed to be navigated at lower speeds, typically within the range of 20-25 mph to enhance safety."
+    },
+    {
+        "question": "What should drivers do when they see a 'Yield' sign at a roundabout?",
+        "options": [
+            "Speed up",
+            "Slow down and prepare to yield",
+            "Ignore it",
+            "Turn back"
+        ],
+        "correct_answer": "Slow down and prepare to yield",
+        "explanation": "Drivers should slow down and be ready to yield to traffic already in the roundabout upon seeing a 'Yield' sign."
+    }
+]

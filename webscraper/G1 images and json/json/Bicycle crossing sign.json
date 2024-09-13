@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a bicycle crossing sign indicate?",
+        "options": [
+            "Bicycles are allowed in the area",
+            "Cyclists should yield to pedestrians",
+            "Bicycles must stop here",
+            "There is a bicycle path ahead"
+        ],
+        "correct_answer": "There is a bicycle path ahead",
+        "explanation": "The bicycle crossing sign is used to inform drivers and cyclists that they are approaching a designated area for bicycle crossing or a bike path."
+    },
+    {
+        "question": "What color is a typical bicycle crossing sign?",
+        "options": [
+            "Red",
+            "Green",
+            "Blue",
+            "Yellow"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Bicycle crossing signs are typically yellow as they are warning signs intended to alert road users of potential bicycle crossings."
+    },
+    {
+        "question": "What should drivers do when they see a bicycle crossing sign?",
+        "options": [
+            "Speed up",
+            "Be prepared to stop",
+            "Ignore the sign",
+            "Change lanes"
+        ],
+        "correct_answer": "Be prepared to stop",
+        "explanation": "Drivers should be prepared to stop as bicycles may be crossing the road, ensuring the safety of all road users."
+    },
+    {
+        "question": "In which situations might you commonly see a bicycle crossing sign?",
+        "options": [
+            "Near parks",
+            "At busy intersections",
+            "Along bike lanes",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Bicycle crossing signs can be found in a variety of locations where bicycles are expected to cross paths with vehicular traffic."
+    },
+    {
+        "question": "Who must yield when a bicycle approaches a marked crossing?",
+        "options": [
+            "Cyclists",
+            "Drivers",
+            "Pedestrians",
+            "None of the above"
+        ],
+        "correct_answer": "Drivers",
+        "explanation": "Drivers must yield to cyclists when they are approaching a marked bicycle crossing to ensure the safety of cyclists."
+    },
+    {
+        "question": "What additional feature might be near a bicycle crossing sign to enhance safety?",
+        "options": [
+            "Traffic lights",
+            "Speed bumps",
+            "Crosswalk markings",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Additional features like traffic lights, speed bumps, and crosswalk markings help to increase safety at bicycle crossings."
+    },
+    {
+        "question": "Which of the following is not true about bicycle crossing signs?",
+        "options": [
+            "They may be accompanied by additional signage",
+            "They are only for professional cyclists",
+            "They are used to enhance road safety",
+            "They can indicate bike lanes"
+        ],
+        "correct_answer": "They are only for professional cyclists",
+        "explanation": "Bicycle crossing signs are for all cyclists, not just professional ones, and are intended to be a safety feature for everyone."
+    },
+    {
+        "question": "How can cyclists best use a bicycle crossing sign?",
+        "options": [
+            "Ignore it",
+            "Use it as a signal to speed through",
+            "Observe traffic and cross safely",
+            "Stop and wait indefinitely"
+        ],
+        "correct_answer": "Observe traffic and cross safely",
+        "explanation": "Cyclists should always observe traffic conditions when crossing and use the signs as indicators for safety rather than simply a signal to cross aggressively."
+    },
+    {
+        "question": "What is the shape of a bicycle crossing sign?",
+        "options": [
+            "Circular",
+            "Rectangular",
+            "Diamond",
+            "Triangle"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "Bicycle crossing signs are generally in a diamond shape, which is commonly used for warning signs."
+    },
+    {
+        "question": "What is the purpose of marking bike crossings with signs?",
+        "options": [
+            "To provide directions for cyclists",
+            "To promote cycling",
+            "To enhance the visibility and safety of cyclists",
+            "To limit bicycle traffic"
+        ],
+        "correct_answer": "To enhance the visibility and safety of cyclists",
+        "explanation": "The primary purpose of bicycle crossing signs is to enhance the visibility of cyclists and ensure their safety when crossing roads."
+    }
+]

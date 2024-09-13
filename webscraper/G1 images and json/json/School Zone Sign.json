@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a School Zone Sign indicate?",
+        "options": [
+            "Speed limit",
+            "Construction area",
+            "Presence of children",
+            "Pedestrian zone"
+        ],
+        "correct_answer": "Presence of children",
+        "explanation": "A School Zone Sign indicates that you are in an area where children are likely to be present, and drivers should proceed with caution."
+    },
+    {
+        "question": "What is the usual speed limit in a school zone?",
+        "options": [
+            "25 mph",
+            "15 mph",
+            "30 mph",
+            "20 mph"
+        ],
+        "correct_answer": "15 mph",
+        "explanation": "Typically, the maximum speed limit in a school zone is 15 mph to ensure the safety of children."
+    },
+    {
+        "question": "When do school zone signs usually become active?",
+        "options": [
+            "Only during school hours",
+            "All year round",
+            "Only on weekdays",
+            "Only during summer months"
+        ],
+        "correct_answer": "Only during school hours",
+        "explanation": "School zone signs are often equipped with lights that activate only during school hours when children are arriving or leaving."
+    },
+    {
+        "question": "What should you do when you see a School Zone Sign?",
+        "options": [
+            "Speed up",
+            "Maintain current speed",
+            "Slow down",
+            "Change lanes"
+        ],
+        "correct_answer": "Slow down",
+        "explanation": "Drivers should slow down when approaching a School Zone Sign to ensure the safety of children crossing the street."
+    },
+    {
+        "question": "What colors are commonly associated with School Zone Signs?",
+        "options": [
+            "Red and white",
+            "Green and white",
+            "Yellow and black",
+            "Blue and white"
+        ],
+        "correct_answer": "Yellow and black",
+        "explanation": "School Zone Signs are commonly yellow and black to attract attention and indicate caution."
+    },
+    {
+        "question": "What does a flashing light on a School Zone Sign indicate?",
+        "options": [
+            "No parking",
+            "School is out",
+            "Speed limit increase",
+            "Children crossing"
+        ],
+        "correct_answer": "Children crossing",
+        "explanation": "A flashing light on a School Zone Sign typically indicates that children are crossing or will soon be present, requiring drivers to proceed with caution."
+    },
+    {
+        "question": "What action should drivers take if they see children near a School Zone Sign?",
+        "options": [
+            "Honk to alert them",
+            "Drive carefully and watch for them",
+            "Ignore them and keep driving",
+            "Speed past quickly"
+        ],
+        "correct_answer": "Drive carefully and watch for them",
+        "explanation": "Drivers should always be vigilant and drive carefully when children are near a School Zone Sign to prevent accidents."
+    },
+    {
+        "question": "Are there penalties for ignoring School Zone speed limits?",
+        "options": [
+            "No penalties",
+            "Only a warning",
+            "Heavy fines and points on license",
+            "Community service"
+        ],
+        "correct_answer": "Heavy fines and points on license",
+        "explanation": "Ignoring speed limits in a school zone can result in heavy fines and points on your driving record as they are strictly enforced for safety."
+    },
+    {
+        "question": "What additional signage might accompany a School Zone Sign?",
+        "options": [
+            "No entry sign",
+            "Children at play sign",
+            "Pedestrian crossing sign",
+            "Bike lane sign"
+        ],
+        "correct_answer": "Pedestrian crossing sign",
+        "explanation": "A School Zone Sign may be accompanied by a pedestrian crossing sign to indicate where children are likely to cross the road."
+    },
+    {
+        "question": "What is the main purpose of School Zone Signs?",
+        "options": [
+            "To direct traffic",
+            "To announce school events",
+            "To ensure the safety of children",
+            "To limit parking"
+        ],
+        "correct_answer": "To ensure the safety of children",
+        "explanation": "The main purpose of School Zone Signs is to ensure the safety of children by alerting drivers to slow down and exercise caution in areas where children are present."
+    }
+]

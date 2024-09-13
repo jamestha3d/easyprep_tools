@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What is a Community Safety Zone?",
+        "options": [
+            "A recreational area",
+            "An area with increased penalties for traffic violations",
+            "A private property",
+            "A school playground"
+        ],
+        "correct_answer": "An area with increased penalties for traffic violations",
+        "explanation": "Community Safety Zones are designated areas where traffic law violations result in higher fines to enhance safety."
+    },
+    {
+        "question": "Why were fines increased in Community Safety Zones?",
+        "options": [
+            "To generate more revenue",
+            "To deter reckless driving and enhance safety",
+            "To fund local businesses",
+            "To encourage more traffic"
+        ],
+        "correct_answer": "To deter reckless driving and enhance safety",
+        "explanation": "The primary purpose of increasing fines in these zones is to discourage dangerous driving behaviors and protect community members."
+    },
+    {
+        "question": "Which of the following locations can be designated as a Community Safety Zone?",
+        "options": [
+            "Residential neighborhoods",
+            "Parks",
+            "Highways",
+            "Shopping malls"
+        ],
+        "correct_answer": "Residential neighborhoods",
+        "explanation": "Community Safety Zones often include residential neighborhoods to protect children and families living in these areas."
+    },
+    {
+        "question": "What types of violations might result in higher fines in a Community Safety Zone?",
+        "options": [
+            "Parking violations",
+            "Speeding",
+            "Jaywalking",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Many types of traffic violations can incur increased penalties in Community Safety Zones to enhance overall safety."
+    },
+    {
+        "question": "How do signs indicating Community Safety Zones help the public?",
+        "options": [
+            "By providing directions",
+            "By warning drivers of increased fines and promoting cautious behavior",
+            "By advertising local businesses",
+            "By offering traffic updates"
+        ],
+        "correct_answer": "By warning drivers of increased fines and promoting cautious behavior",
+        "explanation": "The signs serve as a reminder to drivers that they should operate their vehicles more carefully in these areas due to higher fines."
+    },
+    {
+        "question": "Who typically has the authority to designate a Community Safety Zone?",
+        "options": [
+            "Local government",
+            "Traffic police",
+            "Residents of the area",
+            "School principals"
+        ],
+        "correct_answer": "Local government",
+        "explanation": "Local governments usually designate Community Safety Zones as part of their efforts to enhance public safety."
+    },
+    {
+        "question": "What effect might increased fines in Community Safety Zones have on drivers?",
+        "options": [
+            "Increased traffic jams",
+            "Decreased compliance with speed limits",
+            "Increased adherence to traffic laws",
+            "More reckless driving"
+        ],
+        "correct_answer": "Increased adherence to traffic laws",
+        "explanation": "Higher fines are intended to make drivers more compliant with traffic laws, especially in areas where vulnerable populations are present."
+    },
+    {
+        "question": "What is the potential impact of Community Safety Zones on community awareness?",
+        "options": [
+            "No impact at all",
+            "Increased awareness about traffic risks",
+            "Less concern about traffic safety",
+            "Confusion about traffic laws"
+        ],
+        "correct_answer": "Increased awareness about traffic risks",
+        "explanation": "Community Safety Zones can raise public awareness regarding traffic safety and the importance of following laws to protect pedestrians and residents."
+    },
+    {
+        "question": "How might Community Safety Zones affect insurance premiums?",
+        "options": [
+            "Increase premiums",
+            "Decrease premiums",
+            "No effect on premiums",
+            "Only affect premiums for commercial vehicles"
+        ],
+        "correct_answer": "Increase premiums",
+        "explanation": "Insurance companies may view areas with higher fines as riskier, potentially leading to increased premiums for drivers in those zones."
+    },
+    {
+        "question": "What is a common feature of signs marking Community Safety Zones?",
+        "options": [
+            "They are always digital",
+            "They include diagrams of speed limits",
+            "They indicate increased fines for specific violations",
+            "They are usually invisible to drivers"
+        ],
+        "correct_answer": "They indicate increased fines for specific violations",
+        "explanation": "These signs typically highlight the fact that fines are higher for traffic violations within the Community Safety Zone."
+    }
+]

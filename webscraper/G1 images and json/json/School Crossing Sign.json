@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What shape is a school crossing sign?",
+        "options": [
+            "Square",
+            "Circular",
+            "Diamond",
+            "Octagonal"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "The school crossing sign is shaped like a diamond, which is a standard shape used to indicate caution."
+    },
+    {
+        "question": "What color is commonly associated with school crossing signs?",
+        "options": [
+            "Red",
+            "Blue",
+            "Yellow",
+            "Green"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "School crossing signs are typically yellow to alert drivers to the presence of children."
+    },
+    {
+        "question": "What do school crossing signs signify?",
+        "options": [
+            "Speed limit",
+            "Pavement ends",
+            "Pedestrian crossing",
+            "Traffic light ahead"
+        ],
+        "correct_answer": "Pedestrian crossing",
+        "explanation": "School crossing signs indicate that there are children present and that drivers should be cautious and prepared to stop."
+    },
+    {
+        "question": "When should drivers be particularly cautious of school crossing signs?",
+        "options": [
+            "Nighttime",
+            "During lunch hours",
+            "In bad weather",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Drivers should be cautious at all times when they see a school crossing sign, especially during lunch hours, in bad weather, and at nighttime."
+    },
+    {
+        "question": "Which of the following is typically depicted on a school crossing sign?",
+        "options": [
+            "A bicycle",
+            "A school building",
+            "Children walking",
+            "A stop sign"
+        ],
+        "correct_answer": "Children walking",
+        "explanation": "School crossing signs usually feature images of children walking to indicate the presence of students crossing the street."
+    },
+    {
+        "question": "What action should drivers take when approaching a school crossing sign?",
+        "options": [
+            "Speed up",
+            "Maintain speed",
+            "Prepare to stop",
+            "Change lanes"
+        ],
+        "correct_answer": "Prepare to stop",
+        "explanation": "Drivers should prepare to stop as they approach a school crossing sign, as children may be crossing the street."
+    },
+    {
+        "question": "In which locations are school crossing signs often placed?",
+        "options": [
+            "Near schools",
+            "In residential areas",
+            "Along highways",
+            "In parking lots"
+        ],
+        "correct_answer": "Near schools",
+        "explanation": "School crossing signs are primarily placed near schools to ensure the safety of children entering and exiting the premises."
+    },
+    {
+        "question": "What is the typical height of a school crossing sign from the ground?",
+        "options": [
+            "3 feet",
+            "5 feet",
+            "7 feet",
+            "9 feet"
+        ],
+        "correct_answer": "7 feet",
+        "explanation": "School crossing signs are usually placed about 7 feet off the ground to ensure visibility for drivers."
+    },
+    {
+        "question": "Are school crossing signs regulated by local or federal laws?",
+        "options": [
+            "Only local laws",
+            "Only federal laws",
+            "Both local and federal laws",
+            "Neither"
+        ],
+        "correct_answer": "Both local and federal laws",
+        "explanation": "School crossing signs are regulated by both local and federal laws to ensure consistent safety regulations."
+    },
+    {
+        "question": "What is the penalty for ignoring a school crossing sign?",
+        "options": [
+            "Warning",
+            "Community service",
+            "Fines",
+            "No penalty"
+        ],
+        "correct_answer": "Fines",
+        "explanation": "Ignoring a school crossing sign can result in fines, as it poses a danger to children and other pedestrians."
+    }
+]

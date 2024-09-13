@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a stop sign indicate to drivers?",
+        "options": [
+            "Yield to pedestrians",
+            "Come to a complete stop",
+            "Proceed with caution",
+            "Turn left only"
+        ],
+        "correct_answer": "Come to a complete stop",
+        "explanation": "A stop sign requires drivers to come to a complete stop at the intersection and ensure it is safe to proceed."
+    },
+    {
+        "question": "What is the shape of a standard stop sign?",
+        "options": [
+            "Square",
+            "Circle",
+            "Triangle",
+            "Octagon"
+        ],
+        "correct_answer": "Octagon",
+        "explanation": "The standard shape of a stop sign is an octagon, which is recognized universally."
+    },
+    {
+        "question": "What color is a stop sign?",
+        "options": [
+            "Red with white letters",
+            "Yellow with black letters",
+            "Green with white letters",
+            "Blue with white letters"
+        ],
+        "correct_answer": "Red with white letters",
+        "explanation": "The color of a stop sign is red with white letters to ensure high visibility and recognition."
+    },
+    {
+        "question": "What should a driver do if there is no one at the intersection but a stop sign is present?",
+        "options": [
+            "Slow down and then proceed",
+            "Stop and then proceed if safe",
+            "Ignore the stop sign",
+            "Honk and then proceed"
+        ],
+        "correct_answer": "Stop and then proceed if safe",
+        "explanation": "Even if no one is present, the driver must stop at the stop sign before proceeding to ensure safety."
+    },
+    {
+        "question": "In what situations are stop signs commonly used?",
+        "options": [
+            "Highways",
+            "Low-speed intersections",
+            "Pedestrian crossings",
+            "Only at construction zones"
+        ],
+        "correct_answer": "Low-speed intersections",
+        "explanation": "Stop signs are typically used at low-speed intersections to control traffic and ensure safety."
+    },
+    {
+        "question": "What is the penalty for running a stop sign?",
+        "options": [
+            "No penalty",
+            "Warning only",
+            "Traffic citation",
+            "Jail time"
+        ],
+        "correct_answer": "Traffic citation",
+        "explanation": "Running a stop sign usually results in a traffic citation, which can lead to fines and points on a driver's license."
+    },
+    {
+        "question": "When should a driver start stopping for a stop sign?",
+        "options": [
+            "30 feet before the sign",
+            "10 feet before the sign",
+            "At the sign",
+            "After passing the sign"
+        ],
+        "correct_answer": "10 feet before the sign",
+        "explanation": "Drivers should begin slowing down and prepare to stop at least 10 feet before the stop sign."
+    },
+    {
+        "question": "What is the main purpose of having stop signs at intersections?",
+        "options": [
+            "To indicate speed limit",
+            "To control pedestrian movement",
+            "To regulate vehicle flow and enhance safety",
+            "To inform drivers about road construction"
+        ],
+        "correct_answer": "To regulate vehicle flow and enhance safety",
+        "explanation": "Stop signs help manage traffic flow and ensure safety by requiring drivers to stop and assess their surroundings."
+    },
+    {
+        "question": "Can a stop sign be ignored in emergency situations?",
+        "options": [
+            "Yes, always",
+            "No, it must be followed",
+            "Only if lights are flashing",
+            "Only for emergency vehicles"
+        ],
+        "correct_answer": "No, it must be followed",
+        "explanation": "Even in emergencies, drivers are required to adhere to stop signs to prevent accidents and ensure safety."
+    },
+    {
+        "question": "How far is a driver required to stop from a stop sign?",
+        "options": [
+            "Within 5 feet",
+            "At the line, if marked",
+            "Up to 50 feet",
+            "Wherever they feel safe"
+        ],
+        "correct_answer": "At the line, if marked",
+        "explanation": "Drivers must stop at the stop line if one is marked, or otherwise at the intersection to obey the stop sign."
+    }
+]

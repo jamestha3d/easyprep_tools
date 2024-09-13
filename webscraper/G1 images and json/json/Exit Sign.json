@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What is the primary purpose of an exit sign?",
+        "options": [
+            "To indicate restrooms",
+            "To signify emergency exits",
+            "To show directions to a cafeteria",
+            "To indicate office spaces"
+        ],
+        "correct_answer": "To signify emergency exits",
+        "explanation": "Exit signs are designed specifically to guide people towards emergency exits during evacuations."
+    },
+    {
+        "question": "Which color is commonly used for exit signs in the United States?",
+        "options": [
+            "Red",
+            "Green",
+            "Blue",
+            "Yellow"
+        ],
+        "correct_answer": "Green",
+        "explanation": "Green is universally recognized for indicating safety and is the standard color for exit signs."
+    },
+    {
+        "question": "What symbol is often used on exit signs?",
+        "options": [
+            "Checkmark",
+            "X",
+            "Running person",
+            "Lightbulb"
+        ],
+        "correct_answer": "Running person",
+        "explanation": "The running person symbol on exit signs represents the act of evacuating and is easily recognizable."
+    },
+    {
+        "question": "In which scenarios are exit signs especially critical?",
+        "options": [
+            "During a building's maintenance",
+            "During a fire or emergency",
+            "During routine inspections",
+            "During lunch breaks"
+        ],
+        "correct_answer": "During a fire or emergency",
+        "explanation": "Exit signs are crucial during fires or emergencies to guide individuals safely out of a building."
+    },
+    {
+        "question": "What federal regulation mandates the use of exit signs in workplaces?",
+        "options": [
+            "OSHA",
+            "EPA",
+            "FDA",
+            "DOT"
+        ],
+        "correct_answer": "OSHA",
+        "explanation": "OSHA (Occupational Safety and Health Administration) requires exit signs for workplace safety to ensure proper evacuation routes."
+    },
+    {
+        "question": "Which type of lighting is preferable for exit signs?",
+        "options": [
+            "Fluorescent",
+            "Incandescent",
+            "LED",
+            "Halogen"
+        ],
+        "correct_answer": "LED",
+        "explanation": "LED lighting is preferred for exit signs due to its energy efficiency and longevity."
+    },
+    {
+        "question": "What feature should exit signs possess to comply with safety regulations?",
+        "options": [
+            "They should be decorative",
+            "They should be illuminated",
+            "They should be the same color as walls",
+            "They should be unmarked"
+        ],
+        "correct_answer": "They should be illuminated",
+        "explanation": "Illumination is essential for exit signs, especially in low-light conditions, to ensure visibility in emergencies."
+    },
+    {
+        "question": "What is the minimum height requirement for exit signs above the floor in buildings?",
+        "options": [
+            "6 feet",
+            "7 feet",
+            "8 feet",
+            "4 feet"
+        ],
+        "correct_answer": "7 feet",
+        "explanation": "Exit signs are typically required to be mounted at least 7 feet above the floor to prevent obstruction and ensure visibility."
+    },
+    {
+        "question": "What is the standard font style used for exit sign text?",
+        "options": [
+            "Comic Sans",
+            "Arial",
+            "Helvetica",
+            "Times New Roman"
+        ],
+        "correct_answer": "Helvetica",
+        "explanation": "Helvetica is commonly used for exit signs due to its readability and clear presentation."
+    },
+    {
+        "question": "What additional feature may enhance the effectiveness of exit signs?",
+        "options": [
+            "Flashing lights",
+            "Music",
+            "Vibrant colors",
+            "None of the above"
+        ],
+        "correct_answer": "Flashing lights",
+        "explanation": "Flashing lights can draw attention to exit signs, especially in chaotic emergency situations where quick recognition is vital."
+    }
+]

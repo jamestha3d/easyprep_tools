@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a detour arrow sign indicate?",
+        "options": [
+            "Normal traffic ahead",
+            "A change in the road ahead",
+            "Road construction",
+            "Speed limit ahead"
+        ],
+        "correct_answer": "A change in the road ahead",
+        "explanation": "A detour arrow sign indicates that drivers should expect a reroute from their current path, typically due to road construction or obstructions."
+    },
+    {
+        "question": "Which direction does a right-facing detour arrow indicate?",
+        "options": [
+            "Turn left",
+            "Go straight",
+            "Turn right",
+            "U-turn"
+        ],
+        "correct_answer": "Turn right",
+        "explanation": "A right-facing detour arrow sign directs drivers to turn right to follow the detour route."
+    },
+    {
+        "question": "What color is typically used for detour signs?",
+        "options": [
+            "Red",
+            "Blue",
+            "Orange",
+            "Green"
+        ],
+        "correct_answer": "Orange",
+        "explanation": "Detour signs are typically orange to alert drivers of temporary changes in road conditions, especially those related to construction."
+    },
+    {
+        "question": "When should detour arrow signs be activated?",
+        "options": [
+            "During daytime only",
+            "When a road is closed",
+            "After heavy rain",
+            "During rush hour"
+        ],
+        "correct_answer": "When a road is closed",
+        "explanation": "Detour arrow signs should be activated when a road is closed or obstructed to ensure drivers are informed of alternate routes."
+    },
+    {
+        "question": "What should a driver do upon seeing a detour arrow sign?",
+        "options": [
+            "Ignore it",
+            "Increase speed",
+            "Follow the indicated route",
+            "Stop immediately"
+        ],
+        "correct_answer": "Follow the indicated route",
+        "explanation": "Drivers should follow the indicated route when they see a detour arrow sign to maintain safety and comply with traffic regulations."
+    },
+    {
+        "question": "Who is responsible for placing detour signs?",
+        "options": [
+            "Local government",
+            "Private citizens",
+            "City planners",
+            "Racing organizations"
+        ],
+        "correct_answer": "Local government",
+        "explanation": "Local governments are typically responsible for placing detour signs and ensuring they comply with traffic regulations to guide drivers safely."
+    },
+    {
+        "question": "How can detour signs help improve road safety?",
+        "options": [
+            "By confusing drivers",
+            "By providing clear instructions",
+            "By suggesting alternate routes",
+            "By increasing traffic speed"
+        ],
+        "correct_answer": "By providing clear instructions",
+        "explanation": "Detour signs improve road safety by providing clear instructions to drivers about where to go in the event of obstructions or changes in the road."
+    },
+    {
+        "question": "What should a driver be cautious of when following a detour sign?",
+        "options": [
+            "Heavy traffic",
+            "Unmarked roads",
+            "Construction workers",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Drivers should be cautious of all potential hazards, including heavy traffic, unmarked roads, and construction workers, when following a detour."
+    },
+    {
+        "question": "Are detour signs temporary or permanent?",
+        "options": [
+            "Permanent",
+            "Only for emergencies",
+            "Temporary",
+            "Seasonal"
+        ],
+        "correct_answer": "Temporary",
+        "explanation": "Detour signs are typically temporary and are used only when a road needs to be closed for repairs or construction."
+    },
+    {
+        "question": "What is the impact of ignoring a detour sign?",
+        "options": [
+            "Reduced travel time",
+            "Accidental road closure",
+            "Potential accidents",
+            "Improved navigation"
+        ],
+        "correct_answer": "Potential accidents",
+        "explanation": "Ignoring a detour sign can lead to potential accidents as drivers may encounter unsafe or closed road conditions."
+    }
+]

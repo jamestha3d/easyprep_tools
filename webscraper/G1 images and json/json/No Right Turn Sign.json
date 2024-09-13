@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a No Right Turn sign indicate?",
+        "options": [
+            "Drivers must turn right",
+            "Drivers must not turn right",
+            "Drivers can turn right at any time",
+            "Only bicycles can turn right"
+        ],
+        "correct_answer": "Drivers must not turn right",
+        "explanation": "The No Right Turn sign is a regulatory sign that indicates drivers are not allowed to make a right turn at the intersection."
+    },
+    {
+        "question": "Where would you typically find a No Right Turn sign?",
+        "options": [
+            "At traffic signals",
+            "On one-way streets",
+            "At pedestrian crossings",
+            "In parking lots"
+        ],
+        "correct_answer": "At traffic signals",
+        "explanation": "No Right Turn signs are often placed at intersections where turning right is prohibited, commonly near traffic signals."
+    },
+    {
+        "question": "What should a driver do when they see a No Right Turn sign?",
+        "options": [
+            "Make a right turn if it's safe",
+            "Look for alternative routes",
+            "Turn left instead",
+            "Ignore the sign"
+        ],
+        "correct_answer": "Look for alternative routes",
+        "explanation": "Drivers must comply with the No Right Turn sign and should seek alternative routes instead of making an illegal turn."
+    },
+    {
+        "question": "What is the typical shape and color of a No Right Turn sign?",
+        "options": [
+            "Circular red with a white background",
+            "Rectangular green with white letters",
+            "Square blue with an arrow",
+            "Octagonal yellow with black text"
+        ],
+        "correct_answer": "Circular red with a white background",
+        "explanation": "The No Right Turn sign is typically circular, red, with a white background and features a right turn arrow crossed out to indicate that the maneuver is forbidden."
+    },
+    {
+        "question": "What is the consequence of ignoring a No Right Turn sign?",
+        "options": [
+            "There are no consequences",
+            "Possible fines or penalties",
+            "Enhanced traffic flow",
+            "It helps other drivers"
+        ],
+        "correct_answer": "Possible fines or penalties",
+        "explanation": "Ignoring a No Right Turn sign can result in traffic violations leading to potential fines or penalties for the driver."
+    },
+    {
+        "question": "In what scenarios might a No Right Turn sign be implemented?",
+        "options": [
+            "High traffic areas",
+            "To facilitate pedestrian crossings",
+            "To allow for road construction",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "No Right Turn signs can be implemented in various scenarios, including high traffic areas, to ensure pedestrian safety, and during road construction."
+    },
+    {
+        "question": "What does a No Right Turn sign mean during specific hours?",
+        "options": [
+            "Turn right after hours",
+            "Sign is ignored at all times",
+            "Only applies during rush hours",
+            "Sign applies 24/7"
+        ],
+        "correct_answer": "Sign is ignored at all times",
+        "explanation": "When a No Right Turn sign is posted, it generally applies at all times unless specified otherwise; it should not be ignored at any time."
+    },
+    {
+        "question": "Can a No Right Turn sign be altered or moved by drivers?",
+        "options": [
+            "Yes, if it's convenient",
+            "No, only traffic authorities can change it",
+            "Yes, when emergency vehicles are present",
+            "No, but it can be reported to authorities"
+        ],
+        "correct_answer": "No, only traffic authorities can change it",
+        "explanation": "No Right Turn signs are traffic control devices that can only be changed or moved by authorized traffic authorities."
+    },
+    {
+        "question": "What is a common alternative instruction near a No Right Turn sign?",
+        "options": [
+            "Turn left instead",
+            "Proceed straight",
+            "Make a U-turn",
+            "Park and wait"
+        ],
+        "correct_answer": "Turn left instead",
+        "explanation": "Drivers may be directed to make a left turn instead of a right turn when a No Right Turn sign is present, depending on the road layout."
+    },
+    {
+        "question": "What symbol often accompanies a No Right Turn sign?",
+        "options": [
+            "A left arrow",
+            "A pedestrian symbol",
+            "An up arrow",
+            "An image of a car turning right"
+        ],
+        "correct_answer": "An image of a car turning right",
+        "explanation": "A typical No Right Turn sign may include an image of a car with a right arrow crossed out to visually communicate the restriction."
+    }
+]

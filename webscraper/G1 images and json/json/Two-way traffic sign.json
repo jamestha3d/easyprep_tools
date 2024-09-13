@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a two-way traffic sign indicate?",
+        "options": [
+            "Traffic moves in one direction only",
+            "Traffic can move in both directions",
+            "No vehicles allowed",
+            "Only bicycles allowed"
+        ],
+        "correct_answer": "Traffic can move in both directions",
+        "explanation": "A two-way traffic sign indicates that vehicles can travel in both directions on that road."
+    },
+    {
+        "question": "When approaching a two-way traffic sign, what should drivers do?",
+        "options": [
+            "Accelerate quickly",
+            "Slow down and be cautious",
+            "Maintain speed",
+            "Make a U-turn"
+        ],
+        "correct_answer": "Slow down and be cautious",
+        "explanation": "Drivers should slow down and be cautious, as they will need to be alert for oncoming traffic."
+    },
+    {
+        "question": "Where would you typically see a two-way traffic sign?",
+        "options": [
+            "On one-way streets",
+            "At busy intersections",
+            "On highways",
+            "In residential areas only"
+        ],
+        "correct_answer": "At busy intersections",
+        "explanation": "Two-way traffic signs are commonly found at busy intersections to manage the flow of traffic coming from both directions."
+    },
+    {
+        "question": "What shape is a two-way traffic sign?",
+        "options": [
+            "Circular",
+            "Square",
+            "Diamond",
+            "Rectangular"
+        ],
+        "correct_answer": "Rectangular",
+        "explanation": "Two-way traffic signs are usually rectangular, indicating important roadway information."
+    },
+    {
+        "question": "What color is a standard two-way traffic sign?",
+        "options": [
+            "Red",
+            "Green",
+            "Blue",
+            "White with black text"
+        ],
+        "correct_answer": "White with black text",
+        "explanation": "The standard color for a two-way traffic sign is white with black text to ensure high visibility and clarity."
+    },
+    {
+        "question": "What happens if a driver ignores a two-way traffic sign?",
+        "options": [
+            "They may lose their driving privileges",
+            "They could cause an accident",
+            "They will not be affected",
+            "They will receive a warning"
+        ],
+        "correct_answer": "They could cause an accident",
+        "explanation": "Ignoring a two-way traffic sign can lead to dangerous situations and potential accidents due to conflicting traffic."
+    },
+    {
+        "question": "Which vehicles must obey the two-way traffic sign?",
+        "options": [
+            "Only cars",
+            "All vehicles",
+            "Bicycles only",
+            "Emergency vehicles only"
+        ],
+        "correct_answer": "All vehicles",
+        "explanation": "All vehicles using the roadway must obey the two-way traffic sign to ensure safe and orderly traffic flow."
+    },
+    {
+        "question": "In what weather conditions should drivers pay extra attention to a two-way traffic sign?",
+        "options": [
+            "Clear skies",
+            "Rainy or snowy conditions",
+            "During day time only",
+            "When it is dark"
+        ],
+        "correct_answer": "Rainy or snowy conditions",
+        "explanation": "In inclement weather, visibility and traction can be diminished, making it essential to heed traffic signs carefully."
+    },
+    {
+        "question": "What should drivers do if they see a two-way traffic sign and are unsure of the rules?",
+        "options": [
+            "Ignore it",
+            "Stop immediately",
+            "Drive cautiously and seek clarification",
+            "Speed up to get through quickly"
+        ],
+        "correct_answer": "Drive cautiously and seek clarification",
+        "explanation": "If unsure, drivers should approach with caution, maintaining a safe speed while trying to clarify the rules of the road."
+    },
+    {
+        "question": "Is it legal to park on both sides of a road with a two-way traffic sign?",
+        "options": [
+            "Yes, as long as the road is wide enough",
+            "No, it's illegal",
+            "Yes, but only for a few minutes",
+            "Only if there are no parking signs"
+        ],
+        "correct_answer": "Yes, as long as the road is wide enough",
+        "explanation": "Parking is allowed on both sides of a two-way street, provided it does not obstruct traffic flow and complies with local regulations."
+    }
+]

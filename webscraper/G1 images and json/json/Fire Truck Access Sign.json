@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What is the primary purpose of a Fire Truck Access Sign?",
+        "options": [
+            "To mark parking zones",
+            "To indicate fire lane access",
+            "To point to the nearest fire station",
+            "To restrict access to fire personnel"
+        ],
+        "correct_answer": "To indicate fire lane access",
+        "explanation": "Fire Truck Access Signs are specifically designed to ensure that fire lanes are clear for emergency vehicles to reach the scene quickly."
+    },
+    {
+        "question": "Where are Fire Truck Access Signs typically installed?",
+        "options": [
+            "In residential driveways",
+            "Alongside public roads",
+            "In shopping malls",
+            "In front of private homes"
+        ],
+        "correct_answer": "Alongside public roads",
+        "explanation": "These signs are commonly installed along public roads to indicate areas that need to be kept clear for fire truck access."
+    },
+    {
+        "question": "What can result from not adhering to the Fire Truck Access Sign regulations?",
+        "options": [
+            "Receiving a parking ticket",
+            "Enhancing fire safety measures",
+            "Improving emergency response times",
+            "None of the above"
+        ],
+        "correct_answer": "Receiving a parking ticket",
+        "explanation": "Failure to comply with the sign can lead to penalties such as parking tickets, as it is important to keep access clear for emergency vehicles."
+    },
+    {
+        "question": "What symbol is often associated with Fire Truck Access Signs?",
+        "options": [
+            "A star",
+            "An upward arrow",
+            "A fire truck",
+            "A skull"
+        ],
+        "correct_answer": "A fire truck",
+        "explanation": "The fire truck symbol is universally recognized and signals the area is vital for emergency vehicle access."
+    },
+    {
+        "question": "Who is responsible for enforcing the rules of Fire Truck Access Signs?",
+        "options": [
+            "Local government",
+            "Fire department",
+            "Residents",
+            "All of the above"
+        ],
+        "correct_answer": "Local government",
+        "explanation": "Local government agencies typically enforce parking regulations associated with Fire Truck Access Signs to ensure public safety."
+    },
+    {
+        "question": "What is commonly found underneath the Fire Truck Access sign?",
+        "options": [
+            "A speed limit sign",
+            "A no-parking sign",
+            "A stop sign",
+            "An emergency contact number"
+        ],
+        "correct_answer": "A no-parking sign",
+        "explanation": "A no-parking sign is usually placed underneath to indicate the restrictions on parking in that area."
+    },
+    {
+        "question": "What color are Fire Truck Access Signs often painted?",
+        "options": [
+            "Red",
+            "Blue",
+            "Green",
+            "Yellow"
+        ],
+        "correct_answer": "Red",
+        "explanation": "Red is typically used as it is attention-grabbing and universally associated with emergencies and fire safety."
+    },
+    {
+        "question": "In case of a fire emergency, what is a common consequence if the Fire Truck Access is blocked?",
+        "options": [
+            "Faster response time",
+            "No consequence",
+            "Increased damage",
+            "Improved evacuation"
+        ],
+        "correct_answer": "Increased damage",
+        "explanation": "Blocked access can delay the fire truck's arrival to the scene, resulting in increased damage to property and potential risks to life."
+    },
+    {
+        "question": "What should a vehicle owner do if they see a Fire Truck Access Sign?",
+        "options": [
+            "Park nearby",
+            "Park in front of it",
+            "Keep the area clear",
+            "Ignore it"
+        ],
+        "correct_answer": "Keep the area clear",
+        "explanation": "Vehicle owners should ensure that the area remains clear of obstacles to allow for rapid emergency access."
+    },
+    {
+        "question": "How does a Fire Truck Access Sign impact community safety?",
+        "options": [
+            "It decreases emergency response efficiency",
+            "It promotes adherence to fire codes",
+            "It leads to more accidents",
+            "It creates confusion among drivers"
+        ],
+        "correct_answer": "It promotes adherence to fire codes",
+        "explanation": "Fire Truck Access Signs facilitate compliance with fire codes, ensuring that emergency personnel have the access they need during crises."
+    }
+]

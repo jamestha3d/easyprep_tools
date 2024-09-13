@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a No Pedestrians sign indicate?",
+        "options": [
+            "Pedestrians are allowed",
+            "No bicycles allowed",
+            "Pedestrians are prohibited",
+            "Vehicles must stop"
+        ],
+        "correct_answer": "Pedestrians are prohibited",
+        "explanation": "A No Pedestrians sign specifically indicates that pedestrian traffic is not allowed in that area."
+    },
+    {
+        "question": "In which areas might you commonly find a No Pedestrians sign?",
+        "options": [
+            "Sidewalks",
+            "Construction zones",
+            "Parks",
+            "Residential areas"
+        ],
+        "correct_answer": "Construction zones",
+        "explanation": "No Pedestrians signs are often found in construction zones to ensure safety and prevent accidents."
+    },
+    {
+        "question": "What shape is typically used for a No Pedestrians sign?",
+        "options": [
+            "Circular",
+            "Square",
+            "Triangle",
+            "Rectangle"
+        ],
+        "correct_answer": "Rectangle",
+        "explanation": "No Pedestrians signs are usually rectangular with a clear prohibition indication."
+    },
+    {
+        "question": "What should pedestrians do when they see a No Pedestrians sign?",
+        "options": [
+            "Ignore the sign",
+            "Find an alternative route",
+            "Proceed cautiously",
+            "Follow the sign's direction"
+        ],
+        "correct_answer": "Find an alternative route",
+        "explanation": "Pedestrians should find an alternate route to avoid areas where they are prohibited."
+    },
+    {
+        "question": "What might happen if a pedestrian ignores a No Pedestrians sign?",
+        "options": [
+            "Nothing significant",
+            "They might receive a warning",
+            "They could face a fine",
+            "They will be escorted out"
+        ],
+        "correct_answer": "They could face a fine",
+        "explanation": "Ignoring a No Pedestrians sign can lead to legal consequences, including fines."
+    },
+    {
+        "question": "Can the No Pedestrians sign be temporary?",
+        "options": [
+            "Yes",
+            "No",
+            "Only in emergencies",
+            "Only in construction"
+        ],
+        "correct_answer": "Yes",
+        "explanation": "No Pedestrians signs can be temporary, especially in construction zones or events where pedestrian access is restricted."
+    },
+    {
+        "question": "What color is typically used for a No Pedestrians sign?",
+        "options": [
+            "Red and white",
+            "Blue and yellow",
+            "Green and black",
+            "Black and white"
+        ],
+        "correct_answer": "Red and white",
+        "explanation": "The color red and white are commonly used for prohibition signs, including No Pedestrians."
+    },
+    {
+        "question": "Who is responsible for enforcing the No Pedestrians sign?",
+        "options": [
+            "Local law enforcement",
+            "City planners",
+            "Business owners",
+            "No one"
+        ],
+        "correct_answer": "Local law enforcement",
+        "explanation": "Local law enforcement is typically responsible for enforcing traffic and pedestrian regulations."
+    },
+    {
+        "question": "When did the use of No Pedestrians signs become common?",
+        "options": [
+            "19th century",
+            "20th century",
+            "21st century",
+            "Not before the internet"
+        ],
+        "correct_answer": "20th century",
+        "explanation": "The widespread use of No Pedestrians signs became common in the 20th century with urban development."
+    },
+    {
+        "question": "What is the primary purpose of the No Pedestrians sign?",
+        "options": [
+            "To promote walking",
+            "To control traffic",
+            "To ensure pedestrian safety",
+            "To indicate speed limits"
+        ],
+        "correct_answer": "To ensure pedestrian safety",
+        "explanation": "The primary purpose of a No Pedestrians sign is to prevent pedestrians from entering areas where they may be at risk."
+    }
+]

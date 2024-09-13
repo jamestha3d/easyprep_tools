@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does the Lane Merge Ahead sign indicate?",
+        "options": [
+            "Traffic merging from the left",
+            "Traffic merging from the right",
+            "Road construction ahead",
+            "End of the road"
+        ],
+        "correct_answer": "Traffic merging from the right",
+        "explanation": "The Lane Merge Ahead sign typically warns drivers that two lanes will merge into one, usually indicating that traffic will be merging from the right."
+    },
+    {
+        "question": "When should you start looking for the Lane Merge Ahead sign?",
+        "options": [
+            "When you are near the sign",
+            "At the beginning of the highway",
+            "Several miles before the merge",
+            "At the next intersection"
+        ],
+        "correct_answer": "Several miles before the merge",
+        "explanation": "It's important to pay attention to the Lane Merge Ahead sign well in advance to prepare for merging and to adjust your speed and position accordingly."
+    },
+    {
+        "question": "How should a driver respond upon seeing a Lane Merge Ahead sign?",
+        "options": [
+            "Speed up to avoid merging",
+            "Change lanes immediately",
+            "Prepare to merge safely",
+            "Ignore the sign"
+        ],
+        "correct_answer": "Prepare to merge safely",
+        "explanation": "Drivers should prepare for the lane merge by checking mirrors, signaling, and allowing space for merging traffic."
+    },
+    {
+        "question": "In what scenario might you see a Lane Merge Ahead sign?",
+        "options": [
+            "Two lanes merging into one",
+            "Traffic lights changing",
+            "Road closure",
+            "Pedestrian crossing"
+        ],
+        "correct_answer": "Two lanes merging into one",
+        "explanation": "The Lane Merge Ahead sign is specifically used to alert drivers about an upcoming lane reduction where two lanes come together."
+    },
+    {
+        "question": "What color is a Lane Merge Ahead sign typically?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Lane Merge Ahead signs are generally yellow, indicating caution and advising drivers to be alert for merging traffic."
+    },
+    {
+        "question": "If traffic is merging from the right, which lane should you allow the merging vehicle to enter?",
+        "options": [
+            "Your left lane",
+            "Your current lane",
+            "Your right lane",
+            "Any lane they choose"
+        ],
+        "correct_answer": "Your right lane",
+        "explanation": "If traffic is merging from the right, they will enter into the right lane, and you should allow them to merge safely."
+    },
+    {
+        "question": "How can you determine the best way to merge when the Lane Merge Ahead sign is displayed?",
+        "options": [
+            "Speeding through the merge",
+            "Choose the closest lane",
+            "Observe and adjust to surrounding traffic",
+            "Wait for the sign to disappear"
+        ],
+        "correct_answer": "Observe and adjust to surrounding traffic",
+        "explanation": "The best way to merge safely is to observe the speed and position of surrounding vehicles and adjust your driving accordingly."
+    },
+    {
+        "question": "What consequence could result from ignoring a Lane Merge Ahead sign?",
+        "options": [
+            "Increased fuel efficiency",
+            "Traffic accidents",
+            "Smooth driving",
+            "Enhanced road safety"
+        ],
+        "correct_answer": "Traffic accidents",
+        "explanation": "Ignoring the Lane Merge Ahead sign can lead to sudden lane changes and collisions as drivers may not be prepared for merging conditions."
+    },
+    {
+        "question": "What should you do if you see the Lane Merge Ahead sign while driving in a fast-moving lane?",
+        "options": [
+            "Ignore it",
+            "Slow down and merge cautiously",
+            "Speed up to get away from it",
+            "Change lanes immediately without signaling"
+        ],
+        "correct_answer": "Slow down and merge cautiously",
+        "explanation": "It is essential to slow down and merge cautiously when you see the sign to ensure safety for you and other drivers."
+    },
+    {
+        "question": "Which of the following is an effective way to signify to other drivers that you are merging?",
+        "options": [
+            "Turn on your hazards",
+            "Use your turn signal",
+            "Flash your headlights",
+            "Honk your horn"
+        ],
+        "correct_answer": "Use your turn signal",
+        "explanation": "Using your turn signal is the proper way to communicate your intention to merge to other drivers, promoting safer road conditions."
+    }
+]

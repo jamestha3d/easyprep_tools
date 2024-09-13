@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What is the main purpose of a school bus loading zone sign?",
+        "options": [
+            "To indicate a parking spot",
+            "To designate a safe area for students",
+            "To signal a speed limit",
+            "To show a bus route"
+        ],
+        "correct_answer": "To designate a safe area for students",
+        "explanation": "The primary purpose of a school bus loading zone sign is to designate a safe area where students can safely board or exit school buses."
+    },
+    {
+        "question": "What usually happens when a school bus loading zone sign is active?",
+        "options": [
+            "Buses can stop anywhere",
+            "No cars are allowed to park",
+            "Cars can pick up passengers",
+            "Buses are prohibited from stopping"
+        ],
+        "correct_answer": "No cars are allowed to park",
+        "explanation": "When a school bus loading zone sign is active, it typically indicates that no vehicles may park in that area to ensure the safety of students."
+    },
+    {
+        "question": "When should drivers pay special attention to school bus loading zone signs?",
+        "options": [
+            "At night",
+            "During school hours",
+            "On weekends",
+            "During summer vacation"
+        ],
+        "correct_answer": "During school hours",
+        "explanation": "Drivers should pay special attention to these signs during school hours when students are arriving to or leaving from school."
+    },
+    {
+        "question": "What may be a consequence of ignoring a school bus loading zone sign?",
+        "options": [
+            "Receiving a warning",
+            "Getting a flat tire",
+            "Receiving a parking ticket",
+            "Being towed"
+        ],
+        "correct_answer": "Receiving a parking ticket",
+        "explanation": "Ignoring a school bus loading zone sign can result in receiving a parking ticket for violating local parking regulations designed for student safety."
+    },
+    {
+        "question": "What is often depicted on a school bus loading zone sign?",
+        "options": [
+            "A bicycle",
+            "A school building",
+            "A bus symbol",
+            "A pedestrian"
+        ],
+        "correct_answer": "A bus symbol",
+        "explanation": "School bus loading zone signs often depict a bus symbol to clearly indicate their purpose and relevance to school buses."
+    },
+    {
+        "question": "Are school bus loading zones usually located near schools?",
+        "options": [
+            "Yes",
+            "No",
+            "Only in rural areas",
+            "Only in urban areas"
+        ],
+        "correct_answer": "Yes",
+        "explanation": "School bus loading zones are typically located near schools in order to facilitate the safe boarding and unloading of students."
+    },
+    {
+        "question": "What should a driver do when they see a flashing light on a school bus?",
+        "options": [
+            "Speed up",
+            "Stop",
+            "Honk the horn",
+            "Drive past cautiously"
+        ],
+        "correct_answer": "Stop",
+        "explanation": "When a driver sees a flashing light on a school bus, they must stop to ensure the safety of students boarding or exiting the bus."
+    },
+    {
+        "question": "What time of day are school bus loading zone signs most critical?",
+        "options": [
+            "Morning and afternoon",
+            "Noon",
+            "Evening",
+            "Midnight"
+        ],
+        "correct_answer": "Morning and afternoon",
+        "explanation": "School bus loading zone signs are most critical in the morning and afternoon when students are arriving and departing from school."
+    },
+    {
+        "question": "Can a school bus loading zone sign be in effect during holidays?",
+        "options": [
+            "Yes",
+            "No",
+            "Only on weekdays",
+            "Only in the summer"
+        ],
+        "correct_answer": "No",
+        "explanation": "School bus loading zone signs are generally not in effect during holidays when school is not in session."
+    },
+    {
+        "question": "What should parents and guardians do when dropping off children in a school bus loading zone?",
+        "options": [
+            "Leave the car running",
+            "Park and wait inside the school",
+            "Remain in the vehicle",
+            "Stop only briefly to drop off"
+        ],
+        "correct_answer": "Stop only briefly to drop off",
+        "explanation": "Parents and guardians should only stop briefly to drop off children in a school bus loading zone to maintain safety and comply with regulations."
+    }
+]

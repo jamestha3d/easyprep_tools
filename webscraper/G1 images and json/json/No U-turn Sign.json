@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a No U-turn sign indicate?",
+        "options": [
+            "You can make a U-turn",
+            "You must stop",
+            "U-turns are prohibited",
+            "U-turns are allowed at all times"
+        ],
+        "correct_answer": "U-turns are prohibited",
+        "explanation": "A No U-turn sign specifically indicates that drivers are not allowed to make a U-turn at that location."
+    },
+    {
+        "question": "Where are No U-turn signs typically placed?",
+        "options": [
+            "At every intersection",
+            "Near schools only",
+            "At locations where U-turns could cause accidents",
+            "In parking lots"
+        ],
+        "correct_answer": "At locations where U-turns could cause accidents",
+        "explanation": "No U-turn signs are placed in areas where making a U-turn would be unsafe or impractical, such as high-traffic roads or sharp turns."
+    },
+    {
+        "question": "What should a driver do when encountering a No U-turn sign?",
+        "options": [
+            "Make a U-turn anyways",
+            "Continue straight or turn right/left",
+            "Turn around immediately",
+            "Ignore the sign"
+        ],
+        "correct_answer": "Continue straight or turn right/left",
+        "explanation": "Drivers should comply with the No U-turn sign by choosing an alternate route, either continuing straight or making a legal turn."
+    },
+    {
+        "question": "Which of the following is a consequence of ignoring a No U-turn sign?",
+        "options": [
+            "No consequences",
+            "A ticket or fine",
+            "Increased traffic flow",
+            "Better navigation"
+        ],
+        "correct_answer": "A ticket or fine",
+        "explanation": "Ignoring traffic signs, including No U-turn signs, can lead to penalties such as tickets or fines for the driver."
+    },
+    {
+        "question": "Is a No U-turn sign a legal requirement?",
+        "options": [
+            "Yes, it is enforceable by law",
+            "No, it is just a suggestion",
+            "Yes, but only in certain states",
+            "No, it is only for guidance"
+        ],
+        "correct_answer": "Yes, it is enforceable by law",
+        "explanation": "No U-turn signs are legally enforceable and must be followed by drivers to maintain safety on the roads."
+    },
+    {
+        "question": "What shape is a typical No U-turn sign?",
+        "options": [
+            "Circular",
+            "Diamond",
+            "Square",
+            "Rectangular"
+        ],
+        "correct_answer": "Square",
+        "explanation": "A No U-turn sign typically has a square or rectangular shape with a red circle and a diagonal line through it."
+    },
+    {
+        "question": "In what scenario might a No U-turn sign be temporarily removed?",
+        "options": [
+            "Road construction",
+            "Public holidays",
+            "When a car is broken down",
+            "At night"
+        ],
+        "correct_answer": "Road construction",
+        "explanation": "During road construction, signs may be temporarily removed or relocated to facilitate the work, but safety must always be maintained."
+    },
+    {
+        "question": "What additional sign might accompany a No U-turn sign?",
+        "options": [
+            "Speed limit sign",
+            "Stop sign",
+            "One-way sign",
+            "Yield sign"
+        ],
+        "correct_answer": "One-way sign",
+        "explanation": "A No U-turn sign may be used alongside a one-way sign to emphasize that U-turns are not permissible in one-way traffic situations."
+    },
+    {
+        "question": "What is the purpose of a No U-turn sign?",
+        "options": [
+            "To allow more traffic flow",
+            "To decrease confusion",
+            "To enhance safety",
+            "To increase driving speed"
+        ],
+        "correct_answer": "To enhance safety",
+        "explanation": "The primary purpose of a No U-turn sign is to enhance safety by preventing drivers from making potentially dangerous U-turns in risky areas."
+    },
+    {
+        "question": "What might drivers miss if they ignore a No U-turn sign?",
+        "options": [
+            "Traffic lights",
+            "Important road signs",
+            "Accident-causing situations",
+            "Speed bumps"
+        ],
+        "correct_answer": "Accident-causing situations",
+        "explanation": "By ignoring a No U-turn sign, drivers may inadvertently put themselves and others at risk in situations where a U-turn could lead to an accident."
+    }
+]

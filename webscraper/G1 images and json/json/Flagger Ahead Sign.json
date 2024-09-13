@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What is the primary purpose of a Flagger Ahead Sign?",
+        "options": [
+            "To notify drivers of construction ahead",
+            "To indicate a speed limit",
+            "To inform about a traffic signal",
+            "To suggest alternate routes"
+        ],
+        "correct_answer": "To notify drivers of construction ahead",
+        "explanation": "The main role of a Flagger Ahead Sign is to alert drivers about the presence of flaggers controlling traffic due to road work or construction ahead."
+    },
+    {
+        "question": "What colors are typically used on a Flagger Ahead Sign?",
+        "options": [
+            "Red and white",
+            "Green and white",
+            "Orange and black",
+            "Blue and white"
+        ],
+        "correct_answer": "Orange and black",
+        "explanation": "Orange is the standard color used in construction signage, indicating caution, paired with black for text to enhance visibility."
+    },
+    {
+        "question": "When should a Flagger Ahead Sign be placed on the roadway?",
+        "options": [
+            "Only during daytime",
+            "Before any road work begins",
+            "After the flaggers start working",
+            "Only during bad weather"
+        ],
+        "correct_answer": "Before any road work begins",
+        "explanation": "The sign needs to be placed ahead of the work zone to give drivers sufficient time to react and adjust their driving accordingly."
+    },
+    {
+        "question": "What should drivers do when they see a Flagger Ahead Sign?",
+        "options": [
+            "Speed up",
+            "Honk their horn",
+            "Prepare to stop and follow flagger instructions",
+            "Change lanes immediately"
+        ],
+        "correct_answer": "Prepare to stop and follow flagger instructions",
+        "explanation": "Drivers must reduce speed and be prepared to stop, as flaggers are present to direct traffic safely around hazards."
+    },
+    {
+        "question": "What might happen if a driver ignores a Flagger Ahead Sign?",
+        "options": [
+            "They may receive a ticket",
+            "Nothing will happen",
+            "They will go faster",
+            "They will find a detour"
+        ],
+        "correct_answer": "They may receive a ticket",
+        "explanation": "Ignoring a Flagger Ahead Sign can lead to legal penalties and create unsafe conditions for both the driver and workers onsite."
+    },
+    {
+        "question": "Which of the following is NOT a function of a Flagger Ahead Sign?",
+        "options": [
+            "To provide information on road closures",
+            "To indicate danger from construction workers",
+            "To alert about flagger presence",
+            "To signal to slow down"
+        ],
+        "correct_answer": "To provide information on road closures",
+        "explanation": "While Flagger Ahead Signs indicate the presence of flaggers and suggest reduced speeds, they do not provide specific information about road closures."
+    },
+    {
+        "question": "In what situations would a Flagger Ahead Sign be necessary?",
+        "options": [
+            "During routine traffic hours",
+            "When there\u2019s construction or road maintenance",
+            "Only during rush hour traffic",
+            "When setting up traffic lights"
+        ],
+        "correct_answer": "When there\u2019s construction or road maintenance",
+        "explanation": "Flagger Ahead Signs are specifically used when construction or maintenance activities are taking place, directing drivers to proceed with caution."
+    },
+    {
+        "question": "What is the typical shape of a Flagger Ahead Sign?",
+        "options": [
+            "Circular",
+            "Rectangular",
+            "Diamond",
+            "Triangular"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "Diamond-shaped signs are used for warning purposes, which is the primary function of a Flagger Ahead Sign."
+    },
+    {
+        "question": "What information is often included on a Flagger Ahead Sign?",
+        "options": [
+            "Weather conditions",
+            "Flagger contact information",
+            "Caution: Flagger Ahead",
+            "Road length"
+        ],
+        "correct_answer": "Caution: Flagger Ahead",
+        "explanation": "The message 'Caution: Flagger Ahead' serves to alert drivers to the presence of flaggers who are controlling traffic in the area."
+    },
+    {
+        "question": "What is the role of the flagger indicated by the Flagger Ahead Sign?",
+        "options": [
+            "To direct traffic",
+            "To set up cones",
+            "To maintain the sign",
+            "To repair the road"
+        ],
+        "correct_answer": "To direct traffic",
+        "explanation": "Flaggers are specifically trained to manage and direct vehicles safely through construction zones, ensuring the safety of both the workers and the drivers."
+    }
+]

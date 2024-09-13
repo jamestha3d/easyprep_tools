@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a turn restriction sign indicate?",
+        "options": [
+            "Permitted turns",
+            "Restricted turns",
+            "Speed limit",
+            "Pedestrian crossing"
+        ],
+        "correct_answer": "Restricted turns",
+        "explanation": "A turn restriction sign specifically indicates that certain turns are not allowed at that intersection."
+    },
+    {
+        "question": "Which of the following shapes is commonly used for turn restriction signs?",
+        "options": [
+            "Square",
+            "Circle",
+            "Triangle",
+            "Octagon"
+        ],
+        "correct_answer": "Circle",
+        "explanation": "Circular signs are typically used to indicate prohibitions, including turn restrictions."
+    },
+    {
+        "question": "What color is a standard no-left-turn sign?",
+        "options": [
+            "Red",
+            "Green",
+            "Yellow",
+            "Blue"
+        ],
+        "correct_answer": "Red",
+        "explanation": "No-left-turn signs are commonly red with a white symbol to indicate prohibition."
+    },
+    {
+        "question": "What does the symbol of an arrow with a line through it signify on a turn restriction sign?",
+        "options": [
+            "Turns allowed",
+            "Turns restricted",
+            "Traffic flow direction",
+            "Pedestrian access"
+        ],
+        "correct_answer": "Turns restricted",
+        "explanation": "The line through the arrow indicates that the turn specified by the arrow is not allowed."
+    },
+    {
+        "question": "When approaching a no-right-turn sign, what is expected of drivers?",
+        "options": [
+            "Make a right turn",
+            "Continue straight",
+            "Turn left",
+            "U-turn allowed"
+        ],
+        "correct_answer": "Continue straight",
+        "explanation": "Drivers should continue straight as right turns are prohibited by the no-right-turn sign."
+    },
+    {
+        "question": "How should drivers react to a sign indicating 'no U-turn'?",
+        "options": [
+            "Make a U-turn",
+            "Look for an alternate route",
+            "U-turn is allowed",
+            "Stop immediately"
+        ],
+        "correct_answer": "Look for an alternate route",
+        "explanation": "Drivers should find another way to turn around since U-turns are not allowed at that location."
+    },
+    {
+        "question": "What is the primary purpose of turn restriction signs?",
+        "options": [
+            "To guide pedestrians",
+            "To manage traffic flow",
+            "To indicate road conditions",
+            "To provide speed guidelines"
+        ],
+        "correct_answer": "To manage traffic flow",
+        "explanation": "Turn restriction signs help in directing vehicular traffic efficiently and safely at intersections."
+    },
+    {
+        "question": "Can local authorities modify the placement of turn restriction signs?",
+        "options": [
+            "No, they are standard",
+            "Yes, based on traffic studies",
+            "Only state authorities can",
+            "They cannot change at all"
+        ],
+        "correct_answer": "Yes, based on traffic studies",
+        "explanation": "Local authorities can adjust signs based on the observed traffic patterns and safety considerations."
+    },
+    {
+        "question": "Do turn restriction signs apply to all vehicles?",
+        "options": [
+            "Only to cars",
+            "Yes, all vehicles",
+            "Only to trucks",
+            "Only to bicycles"
+        ],
+        "correct_answer": "Yes, all vehicles",
+        "explanation": "Turn restriction signs apply to all vehicles without exception, to maintain road safety."
+    },
+    {
+        "question": "In which situations might turn restriction signs be temporarily removed?",
+        "options": [
+            "During construction",
+            "At night",
+            "On weekends",
+            "When it rains"
+        ],
+        "correct_answer": "During construction",
+        "explanation": "Turn restriction signs may be temporarily removed to facilitate detours or alternative traffic patterns during road work."
+    }
+]

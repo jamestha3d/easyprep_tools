@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What should a truck driver do before entering a highway?",
+        "options": [
+            "Speed up immediately",
+            "Use turn signals",
+            "Stop and wait indefinitely",
+            "Ignore other vehicles"
+        ],
+        "correct_answer": "Use turn signals",
+        "explanation": "Using turn signals is essential for communicating intentions to other drivers, ensuring safe merging."
+    },
+    {
+        "question": "What is the maximum speed limit for trucks on most highways?",
+        "options": [
+            "50 mph",
+            "65 mph",
+            "75 mph",
+            "80 mph"
+        ],
+        "correct_answer": "65 mph",
+        "explanation": "While speed limits can vary, many states set a maximum highway speed limit of 65 mph for trucks."
+    },
+    {
+        "question": "What gap should a truck maintain when merging onto a highway?",
+        "options": [
+            "1 second",
+            "2 seconds",
+            "3 seconds",
+            "4 seconds"
+        ],
+        "correct_answer": "4 seconds",
+        "explanation": "Maintaining a distance of about 4 seconds allows ample space for safe merging without cutting off other drivers."
+    },
+    {
+        "question": "What is a significant concern for trucks while entering a highway?",
+        "options": [
+            "Visibility",
+            "Road signs",
+            "Speed bumps",
+            "Traffic lights"
+        ],
+        "correct_answer": "Visibility",
+        "explanation": "Trucks have larger blind spots, making visibility a critical concern when merging onto a highway."
+    },
+    {
+        "question": "When is it illegal for trucks to enter a highway?",
+        "options": [
+            "When traffic is heavy",
+            "During rush hour",
+            "On a narrow ramp",
+            "When there are no warning signs"
+        ],
+        "correct_answer": "On a narrow ramp",
+        "explanation": "Trucks are often prohibited from using narrow ramps due to safety concerns and potential hazards."
+    },
+    {
+        "question": "What precaution should trucks take when entering a highway during inclement weather?",
+        "options": [
+            "Accelerate quickly",
+            "Increase following distance",
+            "Turn off lights",
+            "Reduce visibility aids"
+        ],
+        "correct_answer": "Increase following distance",
+        "explanation": "Increasing following distance is essential to ensure safe stopping distances in poor weather conditions."
+    },
+    {
+        "question": "How should a truck adjust its speed when merging onto a highway?",
+        "options": [
+            "Decrease speed significantly",
+            "Match highway speed",
+            "Stop before merging",
+            "Speed up even more"
+        ],
+        "correct_answer": "Match highway speed",
+        "explanation": "Matching the highway speed allows a truck to merge safely without disrupting the flow of traffic."
+    },
+    {
+        "question": "What is one reason why trucks are equipped with larger mirrors?",
+        "options": [
+            "To look more appealing",
+            "To increase blind spots",
+            "To improve visibility of surrounding vehicles",
+            "To reduce wind resistance"
+        ],
+        "correct_answer": "To improve visibility of surrounding vehicles",
+        "explanation": "Larger mirrors enhance a truck driver's visibility of surrounding vehicles and help mitigate blind spots."
+    },
+    {
+        "question": "What should a truck driver do if their engine starts to overheat while entering a highway?",
+        "options": [
+            "Continue driving",
+            "Pull over safely",
+            "Turn off the engine immediately",
+            "Get out of the vehicle"
+        ],
+        "correct_answer": "Pull over safely",
+        "explanation": "Pulling over safely allows the driver to address the overheating issue without endangering themselves or others."
+    },
+    {
+        "question": "Why do trucks need to be cautious with their weight when entering a highway?",
+        "options": [
+            "To save fuel",
+            "To comply with laws",
+            "To prevent damage to the road",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Trucks must be cautious with their weight for legal compliance, road safety, and fuel efficiency considerations."
+    }
+]

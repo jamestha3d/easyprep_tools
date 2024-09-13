@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What is the primary purpose of a bicycle helmet?",
+        "options": [
+            "Increase speed",
+            "Enhance comfort",
+            "Protect the head",
+            "Improve aerodynamics"
+        ],
+        "correct_answer": "Protect the head",
+        "explanation": "A bicycle helmet is designed to absorb impact and protect the rider's head in case of a fall or collision."
+    },
+    {
+        "question": "Which type of bike is best suited for riding on unpaved trails?",
+        "options": [
+            "Road bike",
+            "Mountain bike",
+            "Hybrid bike",
+            "Touring bike"
+        ],
+        "correct_answer": "Mountain bike",
+        "explanation": "Mountain bikes are specifically designed for off-road riding, featuring wider tires and better suspension."
+    },
+    {
+        "question": "What type of gear system allows for easier pedaling on hilly terrain?",
+        "options": [
+            "Single-speed",
+            "Fixed gear",
+            "Multi-speed",
+            "Coaster brake"
+        ],
+        "correct_answer": "Multi-speed",
+        "explanation": "A multi-speed gear system provides various gear ratios, making it easier to pedal uphill by selecting a lower gear."
+    },
+    {
+        "question": "What is the benefit of using a bike lock?",
+        "options": [
+            "Enhances speed",
+            "Prevents theft",
+            "Improves comfort",
+            "Reduces weight"
+        ],
+        "correct_answer": "Prevents theft",
+        "explanation": "A bike lock is used to secure a bicycle to a fixed object, helping to deter theft and protect the owner's investment."
+    },
+    {
+        "question": "What is the standard wheel size for most adult bicycles?",
+        "options": [
+            "12 inches",
+            "16 inches",
+            "26 inches",
+            "29 inches"
+        ],
+        "correct_answer": "26 inches",
+        "explanation": "26-inch wheels are commonly found on mountain bikes, while road bikes may use 700c, which is roughly 27 inches in diameter."
+    },
+    {
+        "question": "Which component of a bicycle is crucial for stopping effectively?",
+        "options": [
+            "Pedals",
+            "Brakes",
+            "Gear shifter",
+            "Handlebars"
+        ],
+        "correct_answer": "Brakes",
+        "explanation": "Brakes are essential for slowing down or stopping the bicycle safely, and they allow the rider to control speed."
+    },
+    {
+        "question": "What material is commonly used to manufacture high-performance bicycle frames?",
+        "options": [
+            "Wood",
+            "Steel",
+            "Aluminum",
+            "Plastic"
+        ],
+        "correct_answer": "Aluminum",
+        "explanation": "Aluminum is lightweight and strong, making it ideal for high-performance bicycle frames."
+    },
+    {
+        "question": "What safety feature helps improve the visibility of cyclists at night?",
+        "options": [
+            "Reflective gear",
+            "Loud horn",
+            "Bright colors",
+            "Wind shield"
+        ],
+        "correct_answer": "Reflective gear",
+        "explanation": "Reflective gear enhances a cyclist's visibility to drivers in low-light conditions, helping to prevent accidents."
+    },
+    {
+        "question": "Which type of tire is most suitable for racing on paved roads?",
+        "options": [
+            "Treaded tires",
+            "Fat tires",
+            "Smooth tires",
+            "Hybrid tires"
+        ],
+        "correct_answer": "Smooth tires",
+        "explanation": "Smooth tires reduce rolling resistance and provide better traction on paved surfaces, making them ideal for racing."
+    },
+    {
+        "question": "What is the general term for maintaining a bike in good working condition?",
+        "options": [
+            "Riding",
+            "Tuning",
+            "Repairing",
+            "Upgrading"
+        ],
+        "correct_answer": "Tuning",
+        "explanation": "Tuning refers to the adjustments and maintenance performed on a bike to ensure it operates efficiently and safely."
+    }
+]

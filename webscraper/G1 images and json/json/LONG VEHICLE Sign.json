@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a LONG VEHICLE sign indicate?",
+        "options": [
+            "A vehicle that is taller than usual",
+            "A vehicle that is longer than standard length",
+            "A vehicle that is wider than normal",
+            "A vehicle with a heavy load"
+        ],
+        "correct_answer": "A vehicle that is longer than standard length",
+        "explanation": "The LONG VEHICLE sign is specifically used to alert other drivers of vehicles that exceed standard length, promoting caution."
+    },
+    {
+        "question": "Where is the LONG VEHICLE sign typically displayed?",
+        "options": [
+            "On the front of the vehicle",
+            "On the rear of the vehicle",
+            "On the sides of the vehicle",
+            "On the roof of the vehicle"
+        ],
+        "correct_answer": "On the rear of the vehicle",
+        "explanation": "The LONG VEHICLE sign is primarily displayed on the rear of a vehicle to inform trailing drivers of its extended length."
+    },
+    {
+        "question": "Why is it important for other drivers to recognize a LONG VEHICLE sign?",
+        "options": [
+            "To gauge the vehicle's weight",
+            "To understand its speed",
+            "To maintain a safe following distance",
+            "To know when to overtake"
+        ],
+        "correct_answer": "To maintain a safe following distance",
+        "explanation": "Recognizing a LONG VEHICLE sign helps other drivers to keep a safe distance, as longer vehicles may take more time to stop or turn."
+    },
+    {
+        "question": "What shape is a typical LONG VEHICLE sign?",
+        "options": [
+            "Circular",
+            "Triangular",
+            "Square",
+            "Rectangular"
+        ],
+        "correct_answer": "Rectangular",
+        "explanation": "LONG VEHICLE signs are usually rectangular in shape to provide a clear and noticeable warning to other drivers."
+    },
+    {
+        "question": "What is the usual color of a LONG VEHICLE sign?",
+        "options": [
+            "Red and white",
+            "Yellow and black",
+            "Green and white",
+            "Blue and white"
+        ],
+        "correct_answer": "Yellow and black",
+        "explanation": "The LONG VEHICLE sign is typically yellow with black text for high visibility and to catch drivers' attention."
+    },
+    {
+        "question": "Is the LONG VEHICLE sign only used for commercial trucks?",
+        "options": [
+            "Yes, only for commercial trucks",
+            "No, it can also be used for buses",
+            "No, it can be used for any long vehicle",
+            "Yes, but only if it carries goods"
+        ],
+        "correct_answer": "No, it can be used for any long vehicle",
+        "explanation": "The LONG VEHICLE sign can be used for any vehicle that exceeds normal length, including buses, trailers, and other oversized vehicles."
+    },
+    {
+        "question": "What should a driver do when they see a LONG VEHICLE sign ahead?",
+        "options": [
+            "Speed up to overtake",
+            "Slow down and stay behind",
+            "Change lanes immediately",
+            "Use headlights to signal"
+        ],
+        "correct_answer": "Slow down and stay behind",
+        "explanation": "Drivers should slow down and maintain a safe distance from long vehicles to avoid accidents, especially during turns or stops."
+    },
+    {
+        "question": "Are LONG VEHICLE signs regulated by traffic laws?",
+        "options": [
+            "Yes, they are part of traffic regulations",
+            "No, they are optional",
+            "Only in certain states",
+            "Only in urban areas"
+        ],
+        "correct_answer": "Yes, they are part of traffic regulations",
+        "explanation": "LONG VEHICLE signs are regulated by traffic laws to ensure safety on the road and reduce accidents involving long vehicles."
+    },
+    {
+        "question": "Can the LONG VEHICLE sign be used during night time?",
+        "options": [
+            "Yes, it must be illuminated",
+            "No, it is only for daytime",
+            "Yes, but it should be reflective",
+            "No, it is not safe"
+        ],
+        "correct_answer": "Yes, but it should be reflective",
+        "explanation": "LONG VEHICLE signs should be reflective or illuminated at night to ensure visibility to other drivers."
+    },
+    {
+        "question": "What is the main purpose of the LONG VEHICLE sign?",
+        "options": [
+            "To indicate a slow vehicle",
+            "To warn of a wider vehicle",
+            "To alert drivers of a prolonged stopping distance",
+            "To signify a hazardous load"
+        ],
+        "correct_answer": "To alert drivers of a prolonged stopping distance",
+        "explanation": "The primary purpose of the LONG VEHICLE sign is to alert drivers that the vehicle may require more space and time to stop or maneuver due to its length."
+    }
+]

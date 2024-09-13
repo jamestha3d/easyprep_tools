@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a distance sign indicate on a road?",
+        "options": [
+            "Time until destination",
+            "Distance to the next intersection",
+            "Distance to a destination",
+            "Speed limit"
+        ],
+        "correct_answer": "Distance to a destination",
+        "explanation": "Distance signs show the specific distance remaining to a particular destination."
+    },
+    {
+        "question": "How is distance typically measured on distance signs?",
+        "options": [
+            "Miles",
+            "Kilometers",
+            "Both miles and kilometers",
+            "Feet"
+        ],
+        "correct_answer": "Both miles and kilometers",
+        "explanation": "In many countries, distance signs can display both miles and kilometers to accommodate different measurement systems."
+    },
+    {
+        "question": "What color are most distance signs in the United States?",
+        "options": [
+            "Yellow",
+            "Green",
+            "Blue",
+            "Red"
+        ],
+        "correct_answer": "Green",
+        "explanation": "In the United States, distance signs are typically green, denoting guidance information."
+    },
+    {
+        "question": "What unit of measurement is used for distance signs in the UK?",
+        "options": [
+            "Miles",
+            "Kilometers",
+            "Yards",
+            "Meters"
+        ],
+        "correct_answer": "Miles",
+        "explanation": "The UK primarily uses miles for distance signage due to its historical measurement system."
+    },
+    {
+        "question": "Which of the following is NOT commonly displayed on distance signs?",
+        "options": [
+            "Next gas station",
+            "Nearby towns",
+            "Distance to next rest area",
+            "Length of the road ahead"
+        ],
+        "correct_answer": "Length of the road ahead",
+        "explanation": "Distance signs typically indicate distances to destinations, services, or landmarks, not the length of the road."
+    },
+    {
+        "question": "What information is often included in distance signs along highways?",
+        "options": [
+            "Distance to major cities",
+            "Distance to hotel chains",
+            "Weather information",
+            "Traffic conditions"
+        ],
+        "correct_answer": "Distance to major cities",
+        "explanation": "Distance signs along highways frequently indicate the distance to the nearest major cities to assist drivers."
+    },
+    {
+        "question": "Are distance signs standardized internationally?",
+        "options": [
+            "Yes, completely",
+            "No, but similar",
+            "Yes, but only in Europe",
+            "No, completely different"
+        ],
+        "correct_answer": "No, but similar",
+        "explanation": "While many countries have similar types of distance signage, standards can differ based on local regulations and practices."
+    },
+    {
+        "question": "What is the purpose of directional arrows on distance signs?",
+        "options": [
+            "To indicate speed limits",
+            "To show the direction of a destination",
+            "To mark lane changes",
+            "To provide GPS coordinates"
+        ],
+        "correct_answer": "To show the direction of a destination",
+        "explanation": "Directional arrows help drivers know which way to go to reach the specified destination, enhancing navigation."
+    },
+    {
+        "question": "Which model is often used for estimating distance on signs?",
+        "options": [
+            "Euclidean distance",
+            "Manhattan distance",
+            "Great-circle distance",
+            "Direct distance"
+        ],
+        "correct_answer": "Great-circle distance",
+        "explanation": "Great-circle distance is typically used for long distances on signs, as it accounts for the curvature of the Earth."
+    },
+    {
+        "question": "What is a common mistake drivers make regarding distance signs?",
+        "options": [
+            "Assuming it is always accurate",
+            "Ignoring them",
+            "Following them too closely",
+            "Reading them upside down"
+        ],
+        "correct_answer": "Assuming it is always accurate",
+        "explanation": "Drivers often assume that distance signs are always updated and accurate, which can lead to unexpected issues if distances change."
+    }
+]

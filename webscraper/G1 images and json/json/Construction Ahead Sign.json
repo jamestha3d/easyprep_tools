@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Construction Ahead sign indicate?",
+        "options": [
+            "Upcoming roadwork",
+            "A detour",
+            "Speed limit change",
+            "Stop ahead"
+        ],
+        "correct_answer": "Upcoming roadwork",
+        "explanation": "A Construction Ahead sign informs drivers that roadwork is taking place in the vicinity, requiring caution."
+    },
+    {
+        "question": "What color is a Construction Ahead sign typically?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Construction Ahead signs are typically yellow, which is used to alert drivers to potential hazards on the road."
+    },
+    {
+        "question": "Why is it important to heed a Construction Ahead sign?",
+        "options": [
+            "To avoid fines",
+            "To help construction workers",
+            "To maintain road safety",
+            "To reduce traffic congestion"
+        ],
+        "correct_answer": "To maintain road safety",
+        "explanation": "Heeding a Construction Ahead sign is essential for maintaining safety for both drivers and construction workers."
+    },
+    {
+        "question": "What should drivers do when they see a Construction Ahead sign?",
+        "options": [
+            "Speed up",
+            "Change lanes quickly",
+            "Slow down and proceed with caution",
+            "Ignore the sign"
+        ],
+        "correct_answer": "Slow down and proceed with caution",
+        "explanation": "Drivers should slow down and proceed with caution to adapt to changing road conditions and ensure safety."
+    },
+    {
+        "question": "Which of the following is often seen alongside a Construction Ahead sign?",
+        "options": [
+            "No Parking sign",
+            "Speed limit sign",
+            "Detour sign",
+            "Yield sign"
+        ],
+        "correct_answer": "Detour sign",
+        "explanation": "A Detour sign is often present when construction requires road closures or alters traffic patterns."
+    },
+    {
+        "question": "What is the primary purpose of construction signs like 'Construction Ahead'?",
+        "options": [
+            "To advertise construction companies",
+            "To inform and protect drivers",
+            "To confuse drivers",
+            "To promote traffic tickets"
+        ],
+        "correct_answer": "To inform and protect drivers",
+        "explanation": "The primary purpose is to inform drivers of upcoming construction zones to promote safety."
+    },
+    {
+        "question": "How far in advance might a Construction Ahead sign be placed from the actual work zone?",
+        "options": [
+            "10 feet",
+            "50 feet",
+            "100 feet",
+            "200 feet"
+        ],
+        "correct_answer": "200 feet",
+        "explanation": "Construction Ahead signs are often placed 200 feet or more in advance to give drivers ample time to react."
+    },
+    {
+        "question": "What should you do if you see a Construction Ahead sign at night?",
+        "options": [
+            "Drive normally",
+            "Ignore the sign",
+            "Be extra cautious and slow down",
+            "Flash your headlights"
+        ],
+        "correct_answer": "Be extra cautious and slow down",
+        "explanation": "At night, visibility is reduced, so it's important to be more cautious and reduce speed when encountering such signs."
+    },
+    {
+        "question": "Who is responsible for placing Construction Ahead signs?",
+        "options": [
+            "Local government",
+            "Businesses",
+            "Private citizens",
+            "Delivery drivers"
+        ],
+        "correct_answer": "Local government",
+        "explanation": "Local government officials or transportation departments are responsible for placing these signs to ensure public safety."
+    },
+    {
+        "question": "What typically happens if drivers do not follow a Construction Ahead sign?",
+        "options": [
+            "They receive a warning",
+            "Nothing happens",
+            "They could cause an accident",
+            "They might win a prize"
+        ],
+        "correct_answer": "They could cause an accident",
+        "explanation": "Ignoring a Construction Ahead sign can lead to unsafe driving conditions and increase the risk of accidents."
+    }
+]

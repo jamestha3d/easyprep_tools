@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Bicycle Route Sign typically indicate?",
+        "options": [
+            "A designated cycling path",
+            "A one-way street",
+            "A parking area",
+            "A traffic signal"
+        ],
+        "correct_answer": "A designated cycling path",
+        "explanation": "Bicycle Route Signs are specifically designed to mark paths or routes intended for cyclists."
+    },
+    {
+        "question": "Which color is commonly used for Bicycle Route Signs?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Blue"
+        ],
+        "correct_answer": "Green",
+        "explanation": "Green is often used for Bicycle Route Signs to indicate safe cycling routes and paths."
+    },
+    {
+        "question": "What is the purpose of a Bicycle Route Sign?",
+        "options": [
+            "To indicate road maintenance",
+            "To guide cyclists along safe paths",
+            "To restrict vehicle access",
+            "To show pedestrian areas"
+        ],
+        "correct_answer": "To guide cyclists along safe paths",
+        "explanation": "The primary purpose of a Bicycle Route Sign is to provide guidance to cyclists about safe paths to follow."
+    },
+    {
+        "question": "What type of information might a Bicycle Route Sign display?",
+        "options": [
+            "Distance to destination",
+            "Weather conditions",
+            "Traffic laws",
+            "Parking rules"
+        ],
+        "correct_answer": "Distance to destination",
+        "explanation": "Bicycle Route Signs often provide information about the distance to various destinations along the route."
+    },
+    {
+        "question": "Where are Bicycle Route Signs typically placed?",
+        "options": [
+            "Along sidewalks",
+            "At intersections",
+            "On buildings",
+            "In parking lots"
+        ],
+        "correct_answer": "At intersections",
+        "explanation": "Bicycle Route Signs are usually placed at intersections to direct cyclists and inform them of upcoming paths."
+    },
+    {
+        "question": "Which of the following is true about Bicycle Route Signs?",
+        "options": [
+            "They are only for bike lanes",
+            "They are mandatory to follow",
+            "They can indicate multiple routes",
+            "They are only for urban areas"
+        ],
+        "correct_answer": "They can indicate multiple routes",
+        "explanation": "Bicycle Route Signs can indicate various routes that cyclists may take, offering flexibility in navigation."
+    },
+    {
+        "question": "What shape is commonly used for Bicycle Route Signs?",
+        "options": [
+            "Square",
+            "Circular",
+            "Triangular",
+            "Rectangular"
+        ],
+        "correct_answer": "Rectangular",
+        "explanation": "Bicycle Route Signs are often rectangular in shape, which helps to differentiate them from other road signs."
+    },
+    {
+        "question": "Which symbol is frequently found on Bicycle Route Signs?",
+        "options": [
+            "Bicycle icon",
+            "Car icon",
+            "Pedestrian icon",
+            "Truck icon"
+        ],
+        "correct_answer": "Bicycle icon",
+        "explanation": "The bicycle icon is commonly featured on Bicycle Route Signs to clearly indicate the sign's relevance to cyclists."
+    },
+    {
+        "question": "What should a cyclist do when approaching a Bicycle Route Sign that indicates a turn?",
+        "options": [
+            "Slow down and check for traffic",
+            "Ignore the sign",
+            "Speed up",
+            "Follow the direction regardless"
+        ],
+        "correct_answer": "Slow down and check for traffic",
+        "explanation": "Cyclists should slow down and look for traffic to ensure a safe turn as indicated by the Bicycle Route Sign."
+    },
+    {
+        "question": "Which organization typically governs the placement of Bicycle Route Signs?",
+        "options": [
+            "Local government",
+            "Nonprofits only",
+            "National companies",
+            "Private citizens"
+        ],
+        "correct_answer": "Local government",
+        "explanation": "Local government authorities are usually responsible for the placement and maintenance of Bicycle Route Signs within their jurisdiction."
+    }
+]

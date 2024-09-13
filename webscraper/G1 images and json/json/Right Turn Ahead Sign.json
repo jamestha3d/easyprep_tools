@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Right Turn Ahead sign indicate?",
+        "options": [
+            "Prepare to turn left",
+            "Right turn is immediately ahead",
+            "Lane ends ahead",
+            "Right turn is prohibited"
+        ],
+        "correct_answer": "Right turn is immediately ahead",
+        "explanation": "The Right Turn Ahead sign alerts drivers that a right turn is approaching, allowing them to prepare for it."
+    },
+    {
+        "question": "When should you start signaling for a right turn after seeing a Right Turn Ahead sign?",
+        "options": [
+            "At the sign",
+            "100 feet before the turn",
+            "At the intersection",
+            "After the turn"
+        ],
+        "correct_answer": "100 feet before the turn",
+        "explanation": "It is standard practice to signal your intentions a reasonable distance before making a turn, typically around 100 feet."
+    },
+    {
+        "question": "What shape is a Right Turn Ahead sign?",
+        "options": [
+            "Circular",
+            "Rectangular",
+            "Diamond",
+            "Horizontal rectangle"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "Right Turn Ahead signs are typically diamond-shaped, indicating caution regarding upcoming road conditions."
+    },
+    {
+        "question": "What color is the Right Turn Ahead sign?",
+        "options": [
+            "Red",
+            "Green",
+            "Yellow",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "The Right Turn Ahead sign is yellow, indicating caution and alerting drivers to the upcoming turn."
+    },
+    {
+        "question": "At what speed should you approach a right turn after seeing the Right Turn Ahead sign?",
+        "options": [
+            "Speed limit",
+            "Slow down",
+            "Maintain current speed",
+            "Speed up"
+        ],
+        "correct_answer": "Slow down",
+        "explanation": "Drivers should slow down to safely negotiate the right turn after seeing the sign."
+    },
+    {
+        "question": "Which of the following should you do when approaching a Right Turn Ahead sign?",
+        "options": [
+            "Increase speed",
+            "Look for pedestrians",
+            "Ignore the sign",
+            "Change lanes aggressively"
+        ],
+        "correct_answer": "Look for pedestrians",
+        "explanation": "Before making any turn, especially after a warning sign, it is crucial to check for pedestrians and other vehicles."
+    },
+    {
+        "question": "If you see a Right Turn Ahead sign, what should be your primary focus?",
+        "options": [
+            "The vehicle behind you",
+            "Traffic on the left",
+            "The road ahead and right turn",
+            "Your phone"
+        ],
+        "correct_answer": "The road ahead and right turn",
+        "explanation": "The primary focus should be on the road conditions and preparing for the right turn as indicated by the sign."
+    },
+    {
+        "question": "Can you continue straight ahead if there is a Right Turn Ahead sign?",
+        "options": [
+            "Yes, always",
+            "No, you must turn",
+            "Only if safely possible",
+            "Only at night"
+        ],
+        "correct_answer": "Only if safely possible",
+        "explanation": "Drivers can optionally continue straight if it is safe to do so, but they should remain cautious of the upcoming right turn."
+    },
+    {
+        "question": "What should you do if the Right Turn Ahead sign is obstructed?",
+        "options": [
+            "Assume no turn is ahead",
+            "Proceed without caution",
+            "Look for other clues",
+            "Ignore it"
+        ],
+        "correct_answer": "Look for other clues",
+        "explanation": "If signage is obstructed, drivers should remain vigilant and look for road markings or other signs indicating the upcoming intersection."
+    },
+    {
+        "question": "Is there a fine for ignoring the Right Turn Ahead sign?",
+        "options": [
+            "Yes, typically a traffic violation",
+            "No, it's just a suggestion",
+            "Only in certain areas",
+            "Not for first-time offenders"
+        ],
+        "correct_answer": "Yes, typically a traffic violation",
+        "explanation": "Ignoring traffic signs, including the Right Turn Ahead sign, can result in fines as it constitutes a traffic violation."
+    }
+]

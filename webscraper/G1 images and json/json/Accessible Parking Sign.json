@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What is the primary purpose of an Accessible Parking Sign?",
+        "options": [
+            "To indicate parking for all vehicles",
+            "To reserve parking for individuals with disabilities",
+            "To designate loading zones",
+            "To indicate no parking zones"
+        ],
+        "correct_answer": "To reserve parking for individuals with disabilities",
+        "explanation": "The Accessible Parking Sign is specifically designated to reserve parking spaces for individuals with disabilities, ensuring they have access to parking that meets their needs."
+    },
+    {
+        "question": "What symbol is typically found on an Accessible Parking Sign?",
+        "options": [
+            "A car",
+            "An 'X' mark",
+            "A wheelchair symbol",
+            "A checkmark"
+        ],
+        "correct_answer": "A wheelchair symbol",
+        "explanation": "The wheelchair symbol is recognized internationally as a representation of accessibility for individuals with disabilities."
+    },
+    {
+        "question": "What must a vehicle display to legally park in an accessible parking space?",
+        "options": [
+            "A valid parking ticket",
+            "A disability parking permit",
+            "A standard license plate",
+            "An employee badge"
+        ],
+        "correct_answer": "A disability parking permit",
+        "explanation": "A vehicle must display a valid disability parking permit to legally park in an accessible parking space, confirming that the driver or passenger has a disability."
+    },
+    {
+        "question": "Where should an Accessible Parking Sign be placed?",
+        "options": [
+            "In front of the parking space",
+            "Anywhere on the lot",
+            "On the sidewalk",
+            "On the building wall"
+        ],
+        "correct_answer": "In front of the parking space",
+        "explanation": "The Accessible Parking Sign should be placed in front of the designated parking space to clearly mark it for users with disabilities."
+    },
+    {
+        "question": "What color are Accessible Parking Signs commonly?",
+        "options": [
+            "Red",
+            "Green",
+            "Blue and white",
+            "Yellow"
+        ],
+        "correct_answer": "Blue and white",
+        "explanation": "Accessible Parking Signs are typically blue with a white icon or text, which is widely recognized as an indicator of accessible parking."
+    },
+    {
+        "question": "What legal provisions ensure the availability of accessible parking?",
+        "options": [
+            "Vision Zero Initiative",
+            "ADA (Americans with Disabilities Act)",
+            "National Highway Traffic Safety Administration",
+            "Clean Air Act"
+        ],
+        "correct_answer": "ADA (Americans with Disabilities Act)",
+        "explanation": "The ADA establishes regulations that require accessible parking spaces to be available to meet the needs of individuals with disabilities."
+    },
+    {
+        "question": "What is the consequence of parking in an accessible parking space without a permit?",
+        "options": [
+            "No consequence",
+            "Warning only",
+            "Tow or fine",
+            "Free access to the space"
+        ],
+        "correct_answer": "Tow or fine",
+        "explanation": "Parking in an accessible space without a permit can result in a fine or the vehicle being towed, as it violates the legal protections for those with disabilities."
+    },
+    {
+        "question": "Which of the following entities is responsible for installing Accessible Parking Signs?",
+        "options": [
+            "The federal government only",
+            "State and local municipalities",
+            "Private property owners only",
+            "Only non-profit organizations"
+        ],
+        "correct_answer": "State and local municipalities",
+        "explanation": "State and local municipalities are responsible for installing Accessible Parking Signs in public areas to comply with accessibility laws."
+    },
+    {
+        "question": "Do Accessible Parking Signs vary by state in design or regulations?",
+        "options": [
+            "Yes, significantly",
+            "No, they are uniform nationwide",
+            "Only in color",
+            "Only in symbols"
+        ],
+        "correct_answer": "Yes, significantly",
+        "explanation": "While there are federal guidelines, states may have different designs and regulations for Accessible Parking Signs, leading to variations in their appearance and rules."
+    },
+    {
+        "question": "What is a common misconception about Accessible Parking Spaces?",
+        "options": [
+            "They are only for vans",
+            "They cannot be used by anyone",
+            "They must be free of charge",
+            "They are always located far from building entrances"
+        ],
+        "correct_answer": "They must be free of charge",
+        "explanation": "A common misconception is that Accessible Parking Spaces must be free. In some areas, there may be fees associated, just like regular parking spaces."
+    }
+]

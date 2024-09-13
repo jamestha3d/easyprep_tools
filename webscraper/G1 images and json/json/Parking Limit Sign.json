@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a parking limit sign typically indicate?",
+        "options": [
+            "Duration you can park",
+            "Cost of parking",
+            "Number of parking spots",
+            "Type of vehicle allowed"
+        ],
+        "correct_answer": "Duration you can park",
+        "explanation": "A parking limit sign is primarily used to inform drivers about how long they can park in a certain area."
+    },
+    {
+        "question": "What does a sign that reads '2-Hour Parking' signify?",
+        "options": [
+            "You can park for 2 hours",
+            "No parking allowed",
+            "Parking is free for 2 hours",
+            "You can park overnight"
+        ],
+        "correct_answer": "You can park for 2 hours",
+        "explanation": "The '2-Hour Parking' sign indicates that a vehicle may remain parked for a maximum of two hours."
+    },
+    {
+        "question": "If a parking limit sign has the notation 'No Parking,' what should drivers do?",
+        "options": [
+            "Park for a short time",
+            "Obey the sign and not park",
+            "Park only during certain hours",
+            "Park with a valid permit"
+        ],
+        "correct_answer": "Obey the sign and not park",
+        "explanation": "A 'No Parking' sign prohibits parking completely in that designated area."
+    },
+    {
+        "question": "Which of the following could be a reason for a parking limit sign?",
+        "options": [
+            "To ensure traffic flow",
+            "To promote business visibility",
+            "To manage public safety",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Parking limit signs serve multiple purposes including maintaining traffic flow, supporting local business visibility, and enhancing public safety."
+    },
+    {
+        "question": "How do parking limit signs help local authorities?",
+        "options": [
+            "By increasing parking fees",
+            "By reducing available parking",
+            "By enforcing parking regulations",
+            "By allowing any duration of parking"
+        ],
+        "correct_answer": "By enforcing parking regulations",
+        "explanation": "Parking limit signs help local authorities regulate how long vehicles can be parked, ensuring compliance with laws."
+    },
+    {
+        "question": "Which color is commonly used for parking limit signs?",
+        "options": [
+            "Red",
+            "Green",
+            "Blue",
+            "Yellow"
+        ],
+        "correct_answer": "Green",
+        "explanation": "Green is a standard color for parking limit signs, indicating legal parking durations."
+    },
+    {
+        "question": "What should a driver do if a parking limit sign is unclear?",
+        "options": [
+            "Ignore it",
+            "Ask another driver",
+            "Look for additional signage",
+            "Park for a short time"
+        ],
+        "correct_answer": "Look for additional signage",
+        "explanation": "If a parking limit sign is unclear, the best course of action is to seek additional signage or clarification before parking."
+    },
+    {
+        "question": "Can a parking limit sign be legally altered or removed by individuals?",
+        "options": [
+            "Yes, with permission",
+            "No, it's illegal",
+            "Yes, if it's confusing",
+            "No, only by local authorities"
+        ],
+        "correct_answer": "No, it's illegal",
+        "explanation": "Alteration or removal of parking limit signs by individuals is illegal and undermines local regulations."
+    },
+    {
+        "question": "What might happen if a driver exceeds the time limit placed by a parking limit sign?",
+        "options": [
+            "They will be fined",
+            "They will receive a warning",
+            "Their vehicle will be towed",
+            "They will be given a ticket"
+        ],
+        "correct_answer": "They will be fined",
+        "explanation": "Exceeding the parking limit can result in a fine issued by local parking enforcement."
+    },
+    {
+        "question": "What additional information may be included on a parking limit sign?",
+        "options": [
+            "Street cleaning days",
+            "Parking fees",
+            "Permit requirements",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Parking limit signs may include other critical information such as street cleaning days, parking fees, and permit requirements."
+    }
+]

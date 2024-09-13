@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a school zone sign typically indicate?",
+        "options": [
+            "No parking allowed",
+            "Reduced speed limit",
+            "One-way street",
+            "Pedestrian crossing only"
+        ],
+        "correct_answer": "Reduced speed limit",
+        "explanation": "A school zone sign usually indicates that drivers should reduce their speed limit to ensure the safety of children."
+    },
+    {
+        "question": "When should drivers be especially cautious in a school zone?",
+        "options": [
+            "During rush hour",
+            "When it is raining",
+            "When children are present",
+            "When the light is green"
+        ],
+        "correct_answer": "When children are present",
+        "explanation": "Drivers should be particularly careful in school zones when children are present, as they are more likely to be crossing the road."
+    },
+    {
+        "question": "What is a common feature of school zone signs?",
+        "options": [
+            "Flashing lights",
+            "Bright yellow color",
+            "Nearby parking lots",
+            "No U-turns allowed"
+        ],
+        "correct_answer": "Bright yellow color",
+        "explanation": "School zone signs are often bright yellow to draw attention and alert drivers to the presence of children."
+    },
+    {
+        "question": "How can drivers know when a school zone is active?",
+        "options": [
+            "By the time of day",
+            "By the sign's design",
+            "By the school bell",
+            "By police presence"
+        ],
+        "correct_answer": "By the time of day",
+        "explanation": "School zones are typically only active during certain hours, which are often determined based on school start and end times."
+    },
+    {
+        "question": "What speed limit is generally enforced in a school zone?",
+        "options": [
+            "25 mph",
+            "15 mph",
+            "35 mph",
+            "45 mph"
+        ],
+        "correct_answer": "15 mph",
+        "explanation": "In many areas, the speed limit in school zones is set at 15 mph to enhance safety for children during school hours."
+    },
+    {
+        "question": "What should a driver do when approaching a school zone sign decorated with children crossing?",
+        "options": [
+            "Speed up",
+            "Maintain speed",
+            "Slow down and prepare to stop",
+            "Honk the horn"
+        ],
+        "correct_answer": "Slow down and prepare to stop",
+        "explanation": "Drivers should slow down and be ready to stop because the sign indicates that children may be crossing the street."
+    },
+    {
+        "question": "Are there penalties for speeding in a school zone?",
+        "options": [
+            "Yes, higher fines",
+            "No, it's just a warning",
+            "Only for first-time offenders",
+            "Only during the weekdays"
+        ],
+        "correct_answer": "Yes, higher fines",
+        "explanation": "Speeding in a school zone typically results in higher fines to deter dangerous driving around children."
+    },
+    {
+        "question": "Which of the following might be found near a school zone sign?",
+        "options": [
+            "Traffic lights",
+            "Playground",
+            "Speed bumps",
+            "Handicapped parking"
+        ],
+        "correct_answer": "Speed bumps",
+        "explanation": "Speed bumps are often installed near school zones to help reduce vehicle speed and enhance safety."
+    },
+    {
+        "question": "Why might school zone signs vary from state to state?",
+        "options": [
+            "Different educational systems",
+            "State laws and regulations",
+            "Weather conditions",
+            "Population density"
+        ],
+        "correct_answer": "State laws and regulations",
+        "explanation": "School zone sign designs and regulations can differ by state due to varying laws and city ordinances."
+    },
+    {
+        "question": "What additional sign might accompany a school zone sign?",
+        "options": [
+            "Stop sign",
+            "Yield sign",
+            "Bus stop sign",
+            "Prohibit left turn sign"
+        ],
+        "correct_answer": "Bus stop sign",
+        "explanation": "A bus stop sign may be placed near a school zone sign to indicate safe areas for children waiting for or boarding buses."
+    }
+]

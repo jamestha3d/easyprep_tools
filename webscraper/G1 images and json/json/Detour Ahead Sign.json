@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Detour Ahead sign typically indicate?",
+        "options": [
+            "Road closed",
+            "Construction zone",
+            "Alternate route",
+            "Traffic jam"
+        ],
+        "correct_answer": "Alternate route",
+        "explanation": "A Detour Ahead sign informs drivers that they should prepare for an alternate route due to obstructions or conditions ahead."
+    },
+    {
+        "question": "When should drivers start looking for a detour when approaching a Detour Ahead sign?",
+        "options": [
+            "Immediately after the sign",
+            "300 feet before the sign",
+            "As soon as they see construction",
+            "Only when they reach the barricade"
+        ],
+        "correct_answer": "Immediately after the sign",
+        "explanation": "Drivers should begin looking for the detour as soon as they see the Detour Ahead sign to ensure a safe and timely transition."
+    },
+    {
+        "question": "Which of the following is NOT commonly associated with a Detour Ahead sign?",
+        "options": [
+            "Road work",
+            "Closed bridges",
+            "Traffic signals",
+            "Natural disasters"
+        ],
+        "correct_answer": "Traffic signals",
+        "explanation": "Traffic signals are not associated with a Detour Ahead sign; they regulate traffic flow rather than direct detours."
+    },
+    {
+        "question": "What color is the typical Detour Ahead sign?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Detour Ahead signs are usually yellow, which is a warning color to alert drivers to potential hazards or changes in the road conditions."
+    },
+    {
+        "question": "What actions should a driver take upon seeing a Detour Ahead sign?",
+        "options": [
+            "Speed up",
+            "Maintain speed",
+            "Prepare to change routes",
+            "Ignore the sign"
+        ],
+        "correct_answer": "Prepare to change routes",
+        "explanation": "Drivers should prepare to change routes as the sign indicates that an alternate route will be necessary due to conditions ahead."
+    },
+    {
+        "question": "Where are Detour Ahead signs usually placed?",
+        "options": [
+            "At the entrance of a city",
+            "Before the construction zone",
+            "In residential areas",
+            "At the end of a street"
+        ],
+        "correct_answer": "Before the construction zone",
+        "explanation": "Detour Ahead signs are strategically placed before the construction zone to give drivers ample warning to take an alternate route."
+    },
+    {
+        "question": "What might a driver encounter after following a detour indicated by a Detour Ahead sign?",
+        "options": [
+            "Clear road ahead",
+            "More construction",
+            "Traffic congestion",
+            "Road closure"
+        ],
+        "correct_answer": "More construction",
+        "explanation": "It's possible that a driver may encounter additional construction even after following a detour, as these situations can be widespread."
+    },
+    {
+        "question": "How does a Detour Ahead sign improve road safety?",
+        "options": [
+            "By ensuring all lanes are open",
+            "By providing advance notice",
+            "By making roads wider",
+            "By reducing the speed limit"
+        ],
+        "correct_answer": "By providing advance notice",
+        "explanation": "The sign improves road safety by alerting drivers in advance to prepare for changes, reducing the risk of accidents."
+    },
+    {
+        "question": "What should a driver do if they miss the Detour Ahead sign?",
+        "options": [
+            "Continue on the current route",
+            "Stop and turn around",
+            "Look for a way to turn back",
+            "Ask other drivers for a detour"
+        ],
+        "correct_answer": "Look for a way to turn back",
+        "explanation": "If a driver misses the sign, they should find a safe opportunity to turn around or assess alternate routes, as continuing may lead into the closed area."
+    },
+    {
+        "question": "What is the primary purpose of a Detour Ahead sign?",
+        "options": [
+            "To warn about wildlife",
+            "To redirect traffic safely",
+            "To indicate speed limits",
+            "To provide directions"
+        ],
+        "correct_answer": "To redirect traffic safely",
+        "explanation": "The main purpose of a Detour Ahead sign is to safely redirect traffic due to construction or hazards, ensuring efficient traffic flow."
+    }
+]

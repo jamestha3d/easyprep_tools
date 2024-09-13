@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does 'VMS' stand for in traffic management?",
+        "options": [
+            "Variable Message Sign",
+            "Visual Message System",
+            "Vehicle Motion Sensor",
+            "Variable Management System"
+        ],
+        "correct_answer": "Variable Message Sign",
+        "explanation": "VMS stands for Variable Message Sign, which are electronic signs used to provide information to drivers."
+    },
+    {
+        "question": "What is the primary purpose of Variable Message Signs?",
+        "options": [
+            "To display advertisements",
+            "To provide real-time traffic information",
+            "To monitor air quality",
+            "To guide pedestrians"
+        ],
+        "correct_answer": "To provide real-time traffic information",
+        "explanation": "The primary purpose of Variable Message Signs is to display real-time information about traffic conditions, such as congestion, accidents, and weather conditions."
+    },
+    {
+        "question": "Which of the following is a common use of Variable Message Signs?",
+        "options": [
+            "Informing about gas prices",
+            "Display of local news",
+            "Traffic alerts and directions",
+            "Promoting tourism"
+        ],
+        "correct_answer": "Traffic alerts and directions",
+        "explanation": "Variable Message Signs are commonly used for alerting drivers about traffic conditions and providing directions."
+    },
+    {
+        "question": "What technology is often used in Variable Message Signs?",
+        "options": [
+            "LEDs",
+            "LCD screens",
+            "Incandescent bulbs",
+            "Neon lights"
+        ],
+        "correct_answer": "LEDs",
+        "explanation": "LEDs are commonly used in Variable Message Signs due to their visibility, energy efficiency, and ability to display various colors."
+    },
+    {
+        "question": "How are Variable Message Signs typically controlled?",
+        "options": [
+            "Manually by operators",
+            "Automatically through sensors",
+            "Via a central control system",
+            "Using mobile apps"
+        ],
+        "correct_answer": "Via a central control system",
+        "explanation": "Variable Message Signs are typically controlled through a central control system that allows for updates and changes to be made quickly."
+    },
+    {
+        "question": "Where are Variable Message Signs commonly placed?",
+        "options": [
+            "On highways and major roads",
+            "In shopping malls",
+            "At airports",
+            "In schools"
+        ],
+        "correct_answer": "On highways and major roads",
+        "explanation": "Variable Message Signs are commonly placed on highways and major roads to inform drivers about current traffic situations."
+    },
+    {
+        "question": "Which of the following can be displayed on a Variable Message Sign?",
+        "options": [
+            "Speed limits",
+            "Weather warnings",
+            "Construction notices",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Variable Message Signs can display a variety of information, including speed limits, weather warnings, and construction notices."
+    },
+    {
+        "question": "What advantage do Variable Message Signs provide over traditional road signs?",
+        "options": [
+            "Cheaper to implement",
+            "Static information",
+            "Dynamic content updates",
+            "No electricity needed"
+        ],
+        "correct_answer": "Dynamic content updates",
+        "explanation": "Variable Message Signs provide the advantage of dynamic content updates, allowing for real-time changes based on current conditions."
+    },
+    {
+        "question": "Which agency is typically responsible for the installation and maintenance of Variable Message Signs?",
+        "options": [
+            "Local municipalities",
+            "Federal aviation agencies",
+            "Private road contractors",
+            "Public transportation authorities"
+        ],
+        "correct_answer": "Local municipalities",
+        "explanation": "Local municipalities are typically responsible for the installation and maintenance of Variable Message Signs on public roads."
+    },
+    {
+        "question": "What role do Variable Message Signs play in promoting road safety?",
+        "options": [
+            "They distract drivers",
+            "They provide crucial information",
+            "They replace traffic lights",
+            "They are only decorative"
+        ],
+        "correct_answer": "They provide crucial information",
+        "explanation": "Variable Message Signs play a significant role in promoting road safety by providing crucial information to drivers about road conditions and hazards."
+    }
+]

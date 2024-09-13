@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does the B3 - D road sign indicate?",
+        "options": [
+            "No entry",
+            "One-way traffic",
+            "Traffic signal ahead",
+            "Roundabout ahead"
+        ],
+        "correct_answer": "One-way traffic",
+        "explanation": "The B3 - D road sign signifies that drivers should proceed only in the direction indicated, indicating a one-way street."
+    },
+    {
+        "question": "Which direction should vehicles follow when seeing a B3 - D sign?",
+        "options": [
+            "Left",
+            "Right",
+            "Straight",
+            "In any direction"
+        ],
+        "correct_answer": "In any direction",
+        "explanation": "The B3 - D sign allows for one-way access, indicating that vehicles must follow the established direction, and does not restrict to left or right only."
+    },
+    {
+        "question": "What should a driver do when approaching a B3 - D sign?",
+        "options": [
+            "Stop immediately",
+            "Turn around",
+            "Proceed only in the indicated direction",
+            "Increase speed"
+        ],
+        "correct_answer": "Proceed only in the indicated direction",
+        "explanation": "Drivers are required to follow the direction approved by the B3 - D sign, ensuring safe navigation in a one-way zone."
+    },
+    {
+        "question": "Which of the following is a penalty for ignoring a B3 - D sign?",
+        "options": [
+            "Warning ticket",
+            "Parking fine",
+            "Traffic violation ticket",
+            "No penalty"
+        ],
+        "correct_answer": "Traffic violation ticket",
+        "explanation": "Disregarding the one-way directive of a B3 - D sign can result in a traffic violation ticket, as it poses a safety hazard."
+    },
+    {
+        "question": "Are bicycles allowed to go against the direction indicated by a B3 - D sign?",
+        "options": [
+            "Yes, bicycles can go in any direction",
+            "No, bicycles must follow the same rules as vehicles",
+            "Only if there are no cars",
+            "Yes, but only on weekends"
+        ],
+        "correct_answer": "No, bicycles must follow the same rules as vehicles",
+        "explanation": "Bicycles are required to adhere to the roadway regulations established by road signs, including the B3 - D sign."
+    },
+    {
+        "question": "How is the B3 - D road sign usually shaped?",
+        "options": [
+            "Square",
+            "Circular",
+            "Triangular",
+            "Rectangular"
+        ],
+        "correct_answer": "Rectangular",
+        "explanation": "The B3 - D road sign is typically rectangular, which is standard for directional traffic signs."
+    },
+    {
+        "question": "What color is the B3 - D road sign primarily?",
+        "options": [
+            "Red and white",
+            "Green and white",
+            "Blue and white",
+            "Yellow and black"
+        ],
+        "correct_answer": "Green and white",
+        "explanation": "The B3 - D sign uses green to denote permissible movement in a specific direction, familiar in road signage."
+    },
+    {
+        "question": "When driving past a B3 - D sign, what should drivers be cautious of?",
+        "options": [
+            "Oncoming traffic from the left",
+            "Pedestrians crossing",
+            "Cyclists riding against the flow",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Drivers should be vigilant for pedestrians, cyclists, and potential oncoming vehicles, ensuring safety on one-way streets."
+    },
+    {
+        "question": "What type of areas would commonly utilize a B3 - D road sign?",
+        "options": [
+            "Residential areas",
+            "Highways",
+            "Rural roads",
+            "Construction zones"
+        ],
+        "correct_answer": "Residential areas",
+        "explanation": "B3 - D signs are frequently found in residential areas to guide traffic flow effectively."
+    },
+    {
+        "question": "What is the primary purpose of the B3 - D road sign?",
+        "options": [
+            "To indicate speed limit",
+            "To prevent head-on collisions",
+            "To signal an accident area",
+            "To direct traffic flow"
+        ],
+        "correct_answer": "To direct traffic flow",
+        "explanation": "The B3 - D sign aims to inform drivers about one-way rules, ensuring organized and safe traffic flow."
+    }
+]

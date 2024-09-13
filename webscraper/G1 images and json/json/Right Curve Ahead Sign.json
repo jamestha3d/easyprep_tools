@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Right Curve Ahead sign indicate?",
+        "options": [
+            "A left turn ahead",
+            "A right turn ahead",
+            "A curve to the right ahead",
+            "A road closure"
+        ],
+        "correct_answer": "A curve to the right ahead",
+        "explanation": "The Right Curve Ahead sign specifically warns drivers about an upcoming curve to the right on the roadway."
+    },
+    {
+        "question": "What colors are typically used for a Right Curve Ahead sign?",
+        "options": [
+            "Red and white",
+            "Green and yellow",
+            "Yellow and black",
+            "Blue and white"
+        ],
+        "correct_answer": "Yellow and black",
+        "explanation": "Warning signs, including the Right Curve Ahead sign, are typically yellow with black text or symbols to alert drivers."
+    },
+    {
+        "question": "What shape is a Right Curve Ahead sign?",
+        "options": [
+            "Circular",
+            "Diamond",
+            "Rectangle",
+            "Octagonal"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "Warning signs, including the Right Curve Ahead sign, are usually diamond-shaped to indicate caution."
+    },
+    {
+        "question": "How should drivers respond to a Right Curve Ahead sign?",
+        "options": [
+            "Increase speed",
+            "Slow down and prepare for a turn",
+            "Ignore it",
+            "Signal their turn"
+        ],
+        "correct_answer": "Slow down and prepare for a turn",
+        "explanation": "Drivers should slow down and be prepared to navigate the curve safely after seeing the sign."
+    },
+    {
+        "question": "When might a Right Curve Ahead sign be placed on the road?",
+        "options": [
+            "On straight roads",
+            "At intersections",
+            "Before a right curve",
+            "On highways only"
+        ],
+        "correct_answer": "Before a right curve",
+        "explanation": "The sign is placed ahead of a right curve to warn drivers in advance, allowing them to adjust their speed accordingly."
+    },
+    {
+        "question": "What is the potential danger if a driver ignores a Right Curve Ahead sign?",
+        "options": [
+            "Getting lost",
+            "Driving too slowly",
+            "Going off-road",
+            "Taking the wrong exit"
+        ],
+        "correct_answer": "Going off-road",
+        "explanation": "Ignoring the sign may lead to loss of control while attempting to navigate the curve, causing the vehicle to go off-road."
+    },
+    {
+        "question": "In which situations is a Right Curve Ahead sign most important?",
+        "options": [
+            "Near school zones",
+            "In residential areas",
+            "On highways with high speed limits",
+            "In parking lots"
+        ],
+        "correct_answer": "On highways with high speed limits",
+        "explanation": "On highways, high speeds can make curves more dangerous, so it's crucial for drivers to heed these warnings."
+    },
+    {
+        "question": "What should drivers look for along with a Right Curve Ahead sign?",
+        "options": [
+            "Road markings",
+            "Traffic lights",
+            "Speed bumps",
+            "Stop signs"
+        ],
+        "correct_answer": "Road markings",
+        "explanation": "Road markings often complement the sign by indicating the appropriate path and advising on the curve's degree."
+    },
+    {
+        "question": "What could be the consequence of not reducing speed when approaching a Right Curve Ahead sign?",
+        "options": [
+            "More fuel efficiency",
+            "Better visibility",
+            "Potential accident",
+            "Less wear on tires"
+        ],
+        "correct_answer": "Potential accident",
+        "explanation": "Failing to reduce speed can lead to difficulties in navigating the curve, increasing the risk of an accident."
+    },
+    {
+        "question": "How does a Right Curve Ahead sign help improve road safety?",
+        "options": [
+            "By providing speed limits",
+            "By indicating no parking zones",
+            "By warning of potential road hazards",
+            "By directing traffic"
+        ],
+        "correct_answer": "By warning of potential road hazards",
+        "explanation": "The sign alerts drivers to upcoming changes in road direction, helping to prevent accidents and improve overall safety."
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a winding road sign indicate?",
+        "options": [
+            "A straight road ahead",
+            "Curvy road ahead",
+            "Road ends",
+            "Traffic signals ahead"
+        ],
+        "correct_answer": "Curvy road ahead",
+        "explanation": "The winding road sign alerts drivers to expect curves in the roadway, indicating they need to reduce speed and navigate carefully."
+    },
+    {
+        "question": "What shape is a typical winding road sign?",
+        "options": [
+            "Rectangular",
+            "Circular",
+            "Diamond",
+            "Octagonal"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "In most regions, a winding road sign is shaped like a diamond to attract attention and convey caution to drivers."
+    },
+    {
+        "question": "When you see a winding road sign, what should you do?",
+        "options": [
+            "Speed up",
+            "Maintain your speed",
+            "Slow down",
+            "Turn around"
+        ],
+        "correct_answer": "Slow down",
+        "explanation": "Drivers should slow down when approaching a winding road sign to maintain control and safely navigate the upcoming curves."
+    },
+    {
+        "question": "What colors are commonly used for winding road signs?",
+        "options": [
+            "Red and white",
+            "Green and yellow",
+            "Yellow and black",
+            "Blue and white"
+        ],
+        "correct_answer": "Yellow and black",
+        "explanation": "Winding road signs are usually yellow with black symbols, which serve as cautionary indicators for drivers."
+    },
+    {
+        "question": "What might be a hazard related to a winding road?",
+        "options": [
+            "Flat terrain",
+            "Wildlife crossings",
+            "Weather changes",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Winding roads can present various hazards, including wildlife crossings, sudden weather changes, and changes in terrain, making them potentially dangerous."
+    },
+    {
+        "question": "What is the primary purpose of road signs like the winding road sign?",
+        "options": [
+            "To beautify the landscape",
+            "To inform and warn drivers",
+            "To indicate speed limits",
+            "To direct traffic flow"
+        ],
+        "correct_answer": "To inform and warn drivers",
+        "explanation": "The primary purpose of a winding road sign is to inform and warn drivers about potential hazards, ensuring safe driving practices."
+    },
+    {
+        "question": "In which scenario would a winding road sign be most useful?",
+        "options": [
+            "In urban settings with traffic lights",
+            "On a freeway",
+            "In mountainous or hilly areas",
+            "At railroad crossings"
+        ],
+        "correct_answer": "In mountainous or hilly areas",
+        "explanation": "Winding road signs are most useful in mountainous or hilly areas where curves are common and roads may be less predictable."
+    },
+    {
+        "question": "What should you be cautious of when driving on a winding road?",
+        "options": [
+            "Other drivers overtaking",
+            "Low visibility",
+            "Driver fatigue",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "While driving on a winding road, one should be cautious of overtaking vehicles, limited visibility due to curves, and the potential for driver fatigue."
+    },
+    {
+        "question": "How can a driver prepare for encountering multiple winding road signs?",
+        "options": [
+            "Increase speed",
+            "Stay on a straight path",
+            "Practice defensive driving",
+            "Ignore the signs"
+        ],
+        "correct_answer": "Practice defensive driving",
+        "explanation": "Practicing defensive driving allows the driver to anticipate and respond to potential hazards, especially when navigating multiple winding road signs."
+    },
+    {
+        "question": "Do winding road signs always indicate the same degree of curvature?",
+        "options": [
+            "Yes",
+            "No, they can vary",
+            "Only in specific states",
+            "Only at night"
+        ],
+        "correct_answer": "No, they can vary",
+        "explanation": "Winding road signs can indicate different degrees of curvature, so drivers should not assume they all represent the same level of difficulty."
+    }
+]

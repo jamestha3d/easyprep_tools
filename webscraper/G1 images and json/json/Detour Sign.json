@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Detour Sign indicate?",
+        "options": [
+            "A road is closed ahead",
+            "A speed limit change",
+            "A stop sign",
+            "A pedestrian crossing"
+        ],
+        "correct_answer": "A road is closed ahead",
+        "explanation": "A Detour Sign is used to alert drivers that the usual route is blocked and to direct them to an alternative route."
+    },
+    {
+        "question": "When should a driver follow a Detour Sign?",
+        "options": [
+            "Only during daytime",
+            "If the main road is blocked",
+            "Only in urban areas",
+            "When instructed by a police officer"
+        ],
+        "correct_answer": "If the main road is blocked",
+        "explanation": "Drivers should follow Detour Signs when the main road is closed or obstructed, ensuring they find an alternate pathway."
+    },
+    {
+        "question": "What shape is a typical Detour Sign?",
+        "options": [
+            "Circular",
+            "Square",
+            "Rectangular",
+            "Diamond"
+        ],
+        "correct_answer": "Rectangular",
+        "explanation": "Detour Signs typically use a rectangular shape to denote changes in road conditions or directions."
+    },
+    {
+        "question": "What color is a common Detour Sign?",
+        "options": [
+            "Red",
+            "Green",
+            "Yellow",
+            "Orange"
+        ],
+        "correct_answer": "Orange",
+        "explanation": "Orange is commonly used for Detour Signs to indicate construction or road work, alerting drivers to a temporary change."
+    },
+    {
+        "question": "What action should drivers take when they see a Detour Sign?",
+        "options": [
+            "Accelerate to read it better",
+            "Ignore it if they know the route",
+            "Observe and follow the indicated route",
+            "Stop immediately"
+        ],
+        "correct_answer": "Observe and follow the indicated route",
+        "explanation": "Drivers should pay attention to Detour Signs and follow the alternative routes provided to avoid blocked areas."
+    },
+    {
+        "question": "What might cause the use of a Detour Sign?",
+        "options": [
+            "Routine maintenance",
+            "Traffic lights malfunctioning",
+            "Construction or an accident ahead",
+            "Weather conditions"
+        ],
+        "correct_answer": "Construction or an accident ahead",
+        "explanation": "Detour Signs are commonly used when a construction project or accident necessitates rerouting traffic away from the usual path."
+    },
+    {
+        "question": "What should a driver do if the Detour Sign is unclear?",
+        "options": [
+            "Guess the direction",
+            "Follow other vehicles",
+            "Pull over to find a map",
+            "Disregard it entirely"
+        ],
+        "correct_answer": "Pull over to find a map",
+        "explanation": "If the Detour Sign is unclear, it's safest to stop in a safe area and consult a map or GPS for better understanding."
+    },
+    {
+        "question": "Is it legal to ignore a Detour Sign?",
+        "options": [
+            "Yes, if you know a shortcut",
+            "No, it is against traffic laws",
+            "Yes, if you have a GPS",
+            "Only in emergencies"
+        ],
+        "correct_answer": "No, it is against traffic laws",
+        "explanation": "Ignoring a Detour Sign can lead to legal penalties as it is a traffic control device meant to ensure safety."
+    },
+    {
+        "question": "How do Detour Signs benefit road safety?",
+        "options": [
+            "They can confuse drivers",
+            "They help manage traffic flow",
+            "They increase travel time",
+            "They only serve to change road aesthetics"
+        ],
+        "correct_answer": "They help manage traffic flow",
+        "explanation": "Detour Signs guide drivers through alternative routes, which helps maintain smoother traffic flow and enhances road safety."
+    },
+    {
+        "question": "What might a Detour Sign be accompanied by?",
+        "options": [
+            "Traffic lights",
+            "Flashing lights",
+            "Additional directional signs",
+            "No additional information"
+        ],
+        "correct_answer": "Additional directional signs",
+        "explanation": "Detour Signs are often paired with additional directional signs to provide clear guidance on the new route."
+    }
+]

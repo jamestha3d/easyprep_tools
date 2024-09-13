@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a blue directional sign typically indicate?",
+        "options": [
+            "Hospital",
+            "Gas Station",
+            "Rest Area",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Blue directional signs provide information about services available to motorists, including hospitals, gas stations, and rest areas."
+    },
+    {
+        "question": "What shape is a yield sign?",
+        "options": [
+            "Circle",
+            "Triangle",
+            "Square",
+            "Octagon"
+        ],
+        "correct_answer": "Triangle",
+        "explanation": "A yield sign is a downward-pointing triangle, which indicates to drivers that they should slow down and yield the right of way to vehicles approaching from another direction."
+    },
+    {
+        "question": "Which color is used for directional road signs?",
+        "options": [
+            "Red",
+            "Green",
+            "Yellow",
+            "White"
+        ],
+        "correct_answer": "Green",
+        "explanation": "Green is used for directional signs, indicating routes and providing guidance on directions such as upcoming exits or distances to destinations."
+    },
+    {
+        "question": "What does a brown directional sign typically indicate?",
+        "options": [
+            "Parks",
+            "Restaurants",
+            "Tourist Attractions",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Brown directional signs are used to indicate cultural and recreational destinations, including parks, restaurants, and tourist attractions."
+    },
+    {
+        "question": "Which sign would you expect to see indicating a school zone?",
+        "options": [
+            "Circular sign",
+            "Diamond sign",
+            "Flag sign",
+            "Square sign"
+        ],
+        "correct_answer": "Diamond sign",
+        "explanation": "A diamond-shaped sign, often yellow, is used to indicate caution and alerts drivers that they are entering a school zone."
+    },
+    {
+        "question": "What does a green arrow on a traffic signal mean?",
+        "options": [
+            "Stop",
+            "Yield",
+            "Proceed in the direction of the arrow",
+            "Slow down"
+        ],
+        "correct_answer": "Proceed in the direction of the arrow",
+        "explanation": "A green arrow indicates that drivers may proceed safely in the direction the arrow points, as oncoming traffic is typically stopped."
+    },
+    {
+        "question": "Which road sign indicates a sharp turn ahead?",
+        "options": [
+            "Roundabout sign",
+            "Winding road sign",
+            "Curves sign",
+            "Sharp turn sign"
+        ],
+        "correct_answer": "Sharp turn sign",
+        "explanation": "A sharp turn sign, often depicted in a diamond shape with an arrow, warns drivers of a sharp change in the road direction."
+    },
+    {
+        "question": "What is the purpose of a detour sign?",
+        "options": [
+            "Indicate road closure",
+            "Guide vehicles onto alternative routes",
+            "Signal traffic to stop",
+            "None of the above"
+        ],
+        "correct_answer": "Guide vehicles onto alternative routes",
+        "explanation": "A detour sign informs drivers that the usual route is blocked and directs them to an alternative path."
+    },
+    {
+        "question": "What does a no parking sign typically look like?",
+        "options": [
+            "Red circle with a line through it",
+            "Yellow triangle",
+            "Green square",
+            "Blue rectangle"
+        ],
+        "correct_answer": "Red circle with a line through it",
+        "explanation": "A no parking sign features a red circle with a diagonal line across it, indicating that parking is prohibited in that area."
+    },
+    {
+        "question": "What does a pedestrian crossing sign indicate?",
+        "options": [
+            "Yield to pedestrians",
+            "No pedestrians allowed",
+            "Pedestrian-only zone",
+            "Pedestrian detour"
+        ],
+        "correct_answer": "Yield to pedestrians",
+        "explanation": "A pedestrian crossing sign alerts drivers to yield to pedestrians crossing the road at designated crosswalks."
+    }
+]

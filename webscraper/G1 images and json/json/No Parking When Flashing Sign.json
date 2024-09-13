@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a 'No Parking When Flashing' sign indicate?",
+        "options": [
+            "Parking is allowed at all times",
+            "Parking is prohibited when the lights are flashing",
+            "Parking is allowed only at night",
+            "Parking is allowed only on weekends"
+        ],
+        "correct_answer": "Parking is prohibited when the lights are flashing",
+        "explanation": "The flashing lights signal that parking is not permitted during certain times for safety or traffic management."
+    },
+    {
+        "question": "When would you typically need to pay attention to a 'No Parking When Flashing' sign?",
+        "options": [
+            "During holidays",
+            "During school hours",
+            "When construction is taking place",
+            "When the lights are flashing"
+        ],
+        "correct_answer": "When the lights are flashing",
+        "explanation": "The purpose of the sign is to inform drivers that they must not park when the flashing lights are activated."
+    },
+    {
+        "question": "What is the main purpose of a 'No Parking When Flashing' sign?",
+        "options": [
+            "To allow parking when police are present",
+            "To prevent congestion during specific times",
+            "To encourage resting spots for drivers",
+            "To increase parking revenue"
+        ],
+        "correct_answer": "To prevent congestion during specific times",
+        "explanation": "The sign is usually in place to manage traffic flow and ensure safety during peak hours or critical situations."
+    },
+    {
+        "question": "Can you park your car if the flashing lights are off?",
+        "options": [
+            "Yes, you can park anytime",
+            "Only for a brief period",
+            "No, parking is always prohibited",
+            "Only when there are no other cars"
+        ],
+        "correct_answer": "Yes, you can park anytime",
+        "explanation": "If the lights are off, the restriction is lifted, allowing drivers to legally park their vehicles."
+    },
+    {
+        "question": "What may happen if you park in violation of a 'No Parking When Flashing' sign?",
+        "options": [
+            "You will be rewarded",
+            "Your car may be towed or ticketed",
+            "Nothing will happen",
+            "You will be fined for illegal parking"
+        ],
+        "correct_answer": "Your car may be towed or ticketed",
+        "explanation": "Ignoring the restrictions can lead to penalties such as fines or having your vehicle impounded."
+    },
+    {
+        "question": "Where are 'No Parking When Flashing' signs most commonly found?",
+        "options": [
+            "Residential areas",
+            "Near schools and hospitals",
+            "In parking garages",
+            "On highways"
+        ],
+        "correct_answer": "Near schools and hospitals",
+        "explanation": "These areas often have increased traffic that requires management to ensure safety and access."
+    },
+    {
+        "question": "What are the consequences of ignoring a 'No Parking When Flashing' sign?",
+        "options": [
+            "Community service",
+            "Emergency services being called",
+            "A possible fine or towing of the vehicle",
+            "No consequences"
+        ],
+        "correct_answer": "A possible fine or towing of the vehicle",
+        "explanation": "Law enforcement may issue fines or tow vehicles parked in violation of the sign during active periods."
+    },
+    {
+        "question": "Why is it important to notice a 'No Parking When Flashing' sign?",
+        "options": [
+            "It is not important",
+            "To avoid violations and potential fines",
+            "To find parking spots",
+            "To understand local traffic laws"
+        ],
+        "correct_answer": "To avoid violations and potential fines",
+        "explanation": "Being aware of the sign helps drivers comply with parking regulations and avoid penalties."
+    },
+    {
+        "question": "How can drivers determine the hours during which the 'No Parking When Flashing' sign is active?",
+        "options": [
+            "Look for accompanying text or symbols on the sign",
+            "Ask a traffic officer",
+            "Make assumptions based on nearby signs",
+            "There are no specific hours"
+        ],
+        "correct_answer": "Look for accompanying text or symbols on the sign",
+        "explanation": "Typically, the sign will have additional information stating when the restrictions apply."
+    },
+    {
+        "question": "What action should drivers take if they see a 'No Parking When Flashing' sign and the lights are flashing?",
+        "options": [
+            "Park anyway",
+            "Look for an alternative parking spot",
+            "Wait until the lights stop flashing",
+            "Leave the area immediately"
+        ],
+        "correct_answer": "Look for an alternative parking spot",
+        "explanation": "Drivers should find a legal place to park to comply with the regulations indicated by the flashing lights."
+    }
+]

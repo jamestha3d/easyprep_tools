@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does the intersection sign (crossing triangular yield sign) indicate?",
+        "options": [
+            "Yield to vehicles",
+            "Stop completely",
+            "Proceed with caution",
+            "Pedestrian crossing"
+        ],
+        "correct_answer": "Yield to vehicles",
+        "explanation": "The intersection sign indicates that drivers should yield to traffic on the road they are entering."
+    },
+    {
+        "question": "At an intersection sign, what should a driver do if there are no other vehicles present?",
+        "options": [
+            "Continue driving without stopping",
+            "Stop completely",
+            "Slow down and proceed",
+            "Turn around"
+        ],
+        "correct_answer": "Slow down and proceed",
+        "explanation": "Drivers should slow down and proceed with caution, as they must still be aware of potential hazards."
+    },
+    {
+        "question": "When approaching an intersection sign, what is the safest action to take?",
+        "options": [
+            "Speed up to pass quickly",
+            "Turn without signaling",
+            "Look both ways",
+            "Ignore the sign"
+        ],
+        "correct_answer": "Look both ways",
+        "explanation": "Looking both ways ensures that drivers are aware of any oncoming traffic before proceeding."
+    },
+    {
+        "question": "What might happen if a driver ignores an intersection sign?",
+        "options": [
+            "Reduced speed",
+            "Traffic fines",
+            "Increased safety",
+            "No effect"
+        ],
+        "correct_answer": "Traffic fines",
+        "explanation": "Ignoring traffic signs can lead to traffic violations and fines due to potential dangers it creates."
+    },
+    {
+        "question": "Which of the following is true about the intersection sign?",
+        "options": [
+            "It always indicates a stop",
+            "It may lead to the end of a one-way street",
+            "It is only applicable to pedestrians",
+            "It suggests caution at the intersection"
+        ],
+        "correct_answer": "It suggests caution at the intersection",
+        "explanation": "The intersection sign is designed to remind drivers to approach intersections with caution."
+    },
+    {
+        "question": "How should a driver position their vehicle upon encountering an intersection sign?",
+        "options": [
+            "In the center of the intersection",
+            "On the sidewalk",
+            "At the right edge of the lane",
+            "At a complete stop until safe"
+        ],
+        "correct_answer": "At a complete stop until safe",
+        "explanation": "Stopping until it's safe ensures the driver is following traffic laws and prioritizing safety."
+    },
+    {
+        "question": "When is it acceptable to proceed through an intersection sign?",
+        "options": [
+            "After fully stopping and ensuring no traffic",
+            "Whenever you feel it\u2019s clear",
+            "During heavy traffic",
+            "If the light is green"
+        ],
+        "correct_answer": "After fully stopping and ensuring no traffic",
+        "explanation": "Only after ensuring there is no oncoming traffic can a driver safely proceed through an intersection."
+    },
+    {
+        "question": "What color are most intersection signs typically?",
+        "options": [
+            "Red",
+            "Green",
+            "Yellow",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Most intersection warning signs are yellow to alert drivers to potential changes in driving conditions."
+    },
+    {
+        "question": "Why are intersection signs important for pedestrian safety?",
+        "options": [
+            "They indicate traffic speed limits",
+            "They assert vehicle dominance over pedestrians",
+            "They warn drivers to look out for pedestrians",
+            "They are purely decorative"
+        ],
+        "correct_answer": "They warn drivers to look out for pedestrians",
+        "explanation": "Intersection signs help remind drivers to be vigilant for pedestrians crossing at intersections."
+    },
+    {
+        "question": "What action should a driver take when the intersection sign is malfunctioning?",
+        "options": [
+            "Ignore the sign",
+            "Treat it as a stop sign",
+            "Speed through the intersection",
+            "Report it to authorities"
+        ],
+        "correct_answer": "Report it to authorities",
+        "explanation": "Reporting a malfunctioning sign helps maintain road safety for all users."
+    }
+]

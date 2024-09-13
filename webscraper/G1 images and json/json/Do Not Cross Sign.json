@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Do Not Cross sign typically indicate?",
+        "options": [
+            "Crossing is allowed",
+            "Danger or prohibited area",
+            "A safe path",
+            "A parking restriction"
+        ],
+        "correct_answer": "Danger or prohibited area",
+        "explanation": "A Do Not Cross sign indicates that crossing is prohibited due to potential hazards or unsafe conditions."
+    },
+    {
+        "question": "Where would you most likely see a Do Not Cross sign?",
+        "options": [
+            "Construction sites",
+            "Parks",
+            "Hiking trails",
+            "Residential neighborhoods"
+        ],
+        "correct_answer": "Construction sites",
+        "explanation": "Do Not Cross signs are commonly used at construction sites to prevent unauthorized access to dangerous areas."
+    },
+    {
+        "question": "What color is a typical Do Not Cross sign?",
+        "options": [
+            "Red and white",
+            "Green and white",
+            "Blue and white",
+            "Yellow and black"
+        ],
+        "correct_answer": "Red and white",
+        "explanation": "Do Not Cross signs typically use red and white colors to signify danger or prohibition."
+    },
+    {
+        "question": "What is the main purpose of a Do Not Cross sign?",
+        "options": [
+            "To encourage crossing",
+            "To denote a pedestrian path",
+            "To warn or restrict access",
+            "To provide directions"
+        ],
+        "correct_answer": "To warn or restrict access",
+        "explanation": "The primary purpose of a Do Not Cross sign is to warn individuals of dangers and restrict access to unsafe areas."
+    },
+    {
+        "question": "When encountering a Do Not Cross sign, what should you do?",
+        "options": [
+            "Ignore it",
+            "Cross anyway",
+            "Turn back and find another route",
+            "Take a picture"
+        ],
+        "correct_answer": "Turn back and find another route",
+        "explanation": "The appropriate response is to heed the warning and look for an alternate, safe route."
+    },
+    {
+        "question": "Do Not Cross signs can be found near which of the following?",
+        "options": [
+            "Rivers",
+            "Train tracks",
+            "Sports fields",
+            "Shopping centers"
+        ],
+        "correct_answer": "Train tracks",
+        "explanation": "Do Not Cross signs are often placed near train tracks to prevent people from crossing where trains may be present."
+    },
+    {
+        "question": "A Do Not Cross sign could indicate which of the following risks?",
+        "options": [
+            "Flooding",
+            "Falling debris",
+            "Wildlife",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "A Do Not Cross sign may indicate various risks including flooding, falling debris, and wildlife, thus ensuring safety."
+    },
+    {
+        "question": "Is there a legal obligation to obey Do Not Cross signs?",
+        "options": [
+            "Yes",
+            "No",
+            "Only for pedestrians",
+            "Only for vehicles"
+        ],
+        "correct_answer": "Yes",
+        "explanation": "Obeying Do Not Cross signs is typically legally required to ensure public safety."
+    },
+    {
+        "question": "What might happen if someone ignores a Do Not Cross sign?",
+        "options": [
+            "Nothing",
+            "A fine",
+            "Possible injury or death",
+            "They are asked to leave"
+        ],
+        "correct_answer": "Possible injury or death",
+        "explanation": "Ignoring a Do Not Cross sign can lead to hazardous situations that may result in serious injury or even death."
+    },
+    {
+        "question": "Which of the following is NOT a reason to have a Do Not Cross sign?",
+        "options": [
+            "Traffic accidents",
+            "Environmental protection",
+            "Maintaining scenic views",
+            "Unsafe work zones"
+        ],
+        "correct_answer": "Maintaining scenic views",
+        "explanation": "Maintaining scenic views is not a valid safety reason for a Do Not Cross sign, unlike the others which relate to safety concerns."
+    }
+]

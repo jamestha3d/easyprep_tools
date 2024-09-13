@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a speed limit sign indicate?",
+        "options": [
+            "The maximum speed allowed",
+            "The minimum speed allowed",
+            "The average speed",
+            "The speed taken by an emergency vehicle"
+        ],
+        "correct_answer": "The maximum speed allowed",
+        "explanation": "Speed limit signs are designed to inform drivers of the maximum speed permitted on that road section."
+    },
+    {
+        "question": "What is the typical shape of a speed limit sign?",
+        "options": [
+            "Square",
+            "Circular",
+            "Octagonal",
+            "Triangular"
+        ],
+        "correct_answer": "Circular",
+        "explanation": "Speed limit signs are usually circular to indicate that they are regulatory signs."
+    },
+    {
+        "question": "What does a speed limit of 50 km/h generally indicate?",
+        "options": [
+            "Residential area",
+            "Highway",
+            "School zone",
+            "Rural road"
+        ],
+        "correct_answer": "Residential area",
+        "explanation": "A speed limit of 50 km/h is commonly seen in residential areas to ensure safety."
+    },
+    {
+        "question": "What should a driver do when they see a speed limit sign?",
+        "options": [
+            "Maintain their current speed",
+            "Slow down to the limit",
+            "Speed up to the limit",
+            "Ignore the sign"
+        ],
+        "correct_answer": "Slow down to the limit",
+        "explanation": "Drivers are required to adjust their speed to comply with the limit indicated on the sign."
+    },
+    {
+        "question": "What does a sign showing 'Speed Limit 30' typically indicate?",
+        "options": [
+            "30 miles per hour",
+            "30 kilometers per hour",
+            "30 meters per minute",
+            "30 feet per second"
+        ],
+        "correct_answer": "30 kilometers per hour",
+        "explanation": "In many countries, speed limits are displayed in kilometers per hour, unless otherwise specified."
+    },
+    {
+        "question": "What should drivers be aware of regarding changing speed limit signs?",
+        "options": [
+            "Speed limits remain constant everywhere",
+            "Drivers can ignore temporary signs",
+            "Speed limits can change based on conditions",
+            "Speed limits are always higher in cities"
+        ],
+        "correct_answer": "Speed limits can change based on conditions",
+        "explanation": "Drivers should be aware that speed limits can vary due to road conditions, construction, or weather."
+    },
+    {
+        "question": "What does an illuminated speed limit sign indicate?",
+        "options": [
+            "The sign is automated",
+            "It is under maintenance",
+            "The limit is temporarily increased",
+            "The limit is active, especially at night"
+        ],
+        "correct_answer": "The limit is active, especially at night",
+        "explanation": "Illuminated speed limit signs often convey important information to drivers during night hours or adverse conditions."
+    },
+    {
+        "question": "Consequences of exceeding a speed limit can include:",
+        "options": [
+            "Fines",
+            "Increased fuel efficiency",
+            "Decreased reaction time",
+            "Reduced tire wear"
+        ],
+        "correct_answer": "Fines",
+        "explanation": "Exceeding speed limits can result in monetary fines, points on the driver's license, and other penalties."
+    },
+    {
+        "question": "What does a speed limit sign with a thick red border typically indicate?",
+        "options": [
+            "Advisory speed limit",
+            "Temporary speed limit",
+            "Permanent speed limit",
+            "School zone speed limit"
+        ],
+        "correct_answer": "Permanent speed limit",
+        "explanation": "A speed limit sign with a thick red border typically indicates a standard, permanent speed limit."
+    },
+    {
+        "question": "When encountering a speed limit sign, what should a driver NOT do?",
+        "options": [
+            "Accelerate immediately",
+            "Observe and comply",
+            "Plan to reduce speed",
+            "Look for additional signs"
+        ],
+        "correct_answer": "Accelerate immediately",
+        "explanation": "Drivers should not accelerate immediately after encountering a speed limit sign; they must reduce their speed to comply with the limit."
+    }
+]

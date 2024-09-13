@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does the 'Bridge May Be Icy' sign typically indicate?",
+        "options": [
+            "Danger of ice formation",
+            "Construction ahead",
+            "Speed limit change",
+            "Detour instructions"
+        ],
+        "correct_answer": "Danger of ice formation",
+        "explanation": "The 'Bridge May Be Icy' sign warns drivers that conditions on the bridge may be slippery due to potential ice, even when air temperatures are above freezing."
+    },
+    {
+        "question": "In what weather conditions is the 'Bridge May Be Icy' sign most relevant?",
+        "options": [
+            "Heavy rain",
+            "Freezing temperatures",
+            "Sunny and warm",
+            "Windy conditions"
+        ],
+        "correct_answer": "Freezing temperatures",
+        "explanation": "The sign is most relevant in freezing temperatures, especially where ice can form on bridges before it does on roadways due to their elevated structure."
+    },
+    {
+        "question": "Which type of vehicles should be especially cautious when seeing the 'Bridge May Be Icy' sign?",
+        "options": [
+            "Motorcycles",
+            "Cars",
+            "Bicycles",
+            "All types of vehicles"
+        ],
+        "correct_answer": "All types of vehicles",
+        "explanation": "All types of vehicles can lose traction on icy bridges, making it important for every driver to exercise caution."
+    },
+    {
+        "question": "What should a driver do upon encountering a 'Bridge May Be Icy' sign?",
+        "options": [
+            "Speed up",
+            "Maintain speed",
+            "Reduce speed and prepare to stop",
+            "Ignore the sign"
+        ],
+        "correct_answer": "Reduce speed and prepare to stop",
+        "explanation": "Drivers should reduce their speed and prepare for possible icy conditions ahead to maintain control and prevent accidents."
+    },
+    {
+        "question": "Where are 'Bridge May Be Icy' signs usually placed?",
+        "options": [
+            "Near schools",
+            "At bridge entrances",
+            "In urban centers",
+            "On highways only"
+        ],
+        "correct_answer": "At bridge entrances",
+        "explanation": "These signs are typically placed at the entrances to bridges where ice formation is a concern, warning drivers before they cross."
+    },
+    {
+        "question": "What is the main hazard associated with driving on icy bridges?",
+        "options": [
+            "Reduced visibility",
+            "Falling debris",
+            "Loss of traction",
+            "Increased stopping distance"
+        ],
+        "correct_answer": "Loss of traction",
+        "explanation": "The main hazard is the loss of traction on icy surfaces, which can lead to skidding and a loss of vehicle control."
+    },
+    {
+        "question": "What might a driver notice about the temperature on a bridge compared to the road?",
+        "options": [
+            "Bridges are always colder",
+            "Bridges and roads are the same temperature",
+            "Roads are usually colder",
+            "Temperature varies greatly between them"
+        ],
+        "correct_answer": "Bridges are always colder",
+        "explanation": "Bridges are often colder than roadways because they are exposed to air on both sides, leading to faster cooling and potential ice formation."
+    },
+    {
+        "question": "When is the risk of icy bridges highest?",
+        "options": [
+            "In spring",
+            "During heavy rain",
+            "In winter, especially at night",
+            "During the day in summer"
+        ],
+        "correct_answer": "In winter, especially at night",
+        "explanation": "Icy conditions are most likely in winter, particularly at night when temperatures drop and when moisture can freeze."
+    },
+    {
+        "question": "How can drivers prepare for icy bridge conditions?",
+        "options": [
+            "Check the weather beforehand",
+            "Avoid driving on bridges",
+            "Use winter tires only",
+            "Decrease following distance"
+        ],
+        "correct_answer": "Check the weather beforehand",
+        "explanation": "Checking the weather allows drivers to anticipate icy conditions and drive cautiously when necessary."
+    },
+    {
+        "question": "What color is commonly used for the 'Bridge May Be Icy' sign?",
+        "options": [
+            "Green",
+            "Blue",
+            "Yellow",
+            "Red"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "The sign is typically yellow to indicate caution, alerting drivers to potential hazard conditions ahead."
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Construction Zone Begins Sign indicate?",
+        "options": [
+            "A pedestrian crossing",
+            "A school zone",
+            "An area under construction",
+            "A speed limit change"
+        ],
+        "correct_answer": "An area under construction",
+        "explanation": "The Construction Zone Begins Sign alerts drivers that they are entering an area where construction work is taking place, which may require additional caution."
+    },
+    {
+        "question": "What shape is typically associated with Construction Zone Begins signs?",
+        "options": [
+            "Square",
+            "Rectangular",
+            "Circular",
+            "Diamond"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "Construction Zone signs are typically diamond-shaped, which is used to indicate warning or caution."
+    },
+    {
+        "question": "What color is a Construction Zone Begins Sign usually?",
+        "options": [
+            "Red",
+            "Green",
+            "Orange",
+            "Yellow"
+        ],
+        "correct_answer": "Orange",
+        "explanation": "The orange color is used for construction signs to draw attention and indicate caution due to temporary conditions."
+    },
+    {
+        "question": "Where are Construction Zone Begins signs usually placed?",
+        "options": [
+            "At traffic lights",
+            "At the entrance of construction areas",
+            "At intersections",
+            "In parking lots"
+        ],
+        "correct_answer": "At the entrance of construction areas",
+        "explanation": "Construction Zone Signs are specifically placed at the entrance of construction areas to inform drivers of the upcoming work zone."
+    },
+    {
+        "question": "Why is it important to heed instructions from a Construction Zone Begins Sign?",
+        "options": [
+            "To maintain traffic speed",
+            "To ensure safety for workers and drivers",
+            "To avoid traffic jams",
+            "To understand the construction schedule"
+        ],
+        "correct_answer": "To ensure safety for workers and drivers",
+        "explanation": "Heeding instructions from these signs is crucial for the safety of both construction workers present and drivers passing through the area."
+    },
+    {
+        "question": "What is the primary purpose of a Construction Zone Begins Sign?",
+        "options": [
+            "To inform about local businesses",
+            "To alert drivers about upcoming construction",
+            "To indicate a detour",
+            "To announce traffic rules"
+        ],
+        "correct_answer": "To alert drivers about upcoming construction",
+        "explanation": "The primary purpose of the sign is to alert drivers that they are entering a construction area, requiring decreased speed and increased caution."
+    },
+    {
+        "question": "Which of the following might you see alongside a Construction Zone Begins Sign?",
+        "options": [
+            "Speed limit signs",
+            "Stop signs",
+            "Yield signs",
+            "End construction signs"
+        ],
+        "correct_answer": "Speed limit signs",
+        "explanation": "Speed limit signs may accompany a Construction Zone Begins sign to inform drivers of a reduced speed limit in the area due to construction."
+    },
+    {
+        "question": "Is a Construction Zone Begins Sign a permanent or temporary sign?",
+        "options": [
+            "Permanent sign",
+            "Temporary sign",
+            "Both",
+            "Neither"
+        ],
+        "correct_answer": "Temporary sign",
+        "explanation": "A Construction Zone Begins Sign is considered a temporary sign because it is only in place while construction is actively taking place."
+    },
+    {
+        "question": "What should drivers do when they see a Construction Zone Begins Sign?",
+        "options": [
+            "Speed up",
+            "Watch for workers and adjust speed",
+            "Ignore it",
+            "Change lanes immediately"
+        ],
+        "correct_answer": "Watch for workers and adjust speed",
+        "explanation": "Drivers should slow down and be vigilant for workers, tools, and machinery as they proceed through a construction zone."
+    },
+    {
+        "question": "How can a Construction Zone Begins Sign contribute to road safety?",
+        "options": [
+            "By promoting local businesses",
+            "By indicating weather conditions",
+            "By reducing speed and warning about hazards",
+            "By indicating traffic diversion"
+        ],
+        "correct_answer": "By reducing speed and warning about hazards",
+        "explanation": "The sign helps reduce the speed of vehicles entering potentially dangerous construction zones, thereby preventing accidents and enhancing safety."
+    }
+]

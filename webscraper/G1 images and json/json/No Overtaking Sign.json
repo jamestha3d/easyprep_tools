@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a No Overtaking Sign indicate?",
+        "options": [
+            "Overtaking is prohibited",
+            "Speed limit enforcement",
+            "Road work ahead",
+            "Pedestrian crossing"
+        ],
+        "correct_answer": "Overtaking is prohibited",
+        "explanation": "The No Overtaking Sign indicates that drivers are not allowed to pass other vehicles in that area."
+    },
+    {
+        "question": "Where is a No Overtaking Sign typically placed?",
+        "options": [
+            "At intersections",
+            "On highways",
+            "In school zones",
+            "On narrow roads"
+        ],
+        "correct_answer": "On narrow roads",
+        "explanation": "No Overtaking Signs are commonly used on narrow roads where it is unsafe to pass other vehicles."
+    },
+    {
+        "question": "What is the shape of the No Overtaking Sign?",
+        "options": [
+            "Circle",
+            "Triangle",
+            "Square",
+            "Rectangle"
+        ],
+        "correct_answer": "Circle",
+        "explanation": "The No Overtaking Sign is typically round, which is standard for regulatory signs."
+    },
+    {
+        "question": "What color is the No Overtaking Sign?",
+        "options": [
+            "Green",
+            "Red",
+            "Blue",
+            "Yellow"
+        ],
+        "correct_answer": "Red",
+        "explanation": "The No Overtaking Sign usually has a red circle with a diagonal slash, indicating a prohibition."
+    },
+    {
+        "question": "What should a driver do when approaching a No Overtaking Sign?",
+        "options": [
+            "Increase speed",
+            "Prepare to stop",
+            "Maintain speed",
+            "Do not overtake"
+        ],
+        "correct_answer": "Do not overtake",
+        "explanation": "Drivers must adhere to the No Overtaking Sign and refrain from passing other vehicles in that zone."
+    },
+    {
+        "question": "Can a driver be fined for ignoring a No Overtaking Sign?",
+        "options": [
+            "Yes",
+            "No",
+            "Only if caught on camera",
+            "Only during rush hour"
+        ],
+        "correct_answer": "Yes",
+        "explanation": "Ignoring a No Overtaking Sign is a traffic violation and can result in fines or penalties."
+    },
+    {
+        "question": "In which scenario would the No Overtaking Sign be most important?",
+        "options": [
+            "Open highways",
+            "Sharp curves",
+            "Residential areas",
+            "Wide streets"
+        ],
+        "correct_answer": "Sharp curves",
+        "explanation": "No Overtaking Signs are crucial in sharp curves where visibility is limited and overtaking would be dangerous."
+    },
+    {
+        "question": "What does a temporary No Overtaking Sign generally indicate?",
+        "options": [
+            "Construction work ahead",
+            "Road closed",
+            "Accident ahead",
+            "Reduced speed limit"
+        ],
+        "correct_answer": "Construction work ahead",
+        "explanation": "Temporary No Overtaking Signs are often placed to ensure safety during construction activities."
+    },
+    {
+        "question": "How does a No Overtaking Sign affect traffic flow?",
+        "options": [
+            "Increases speed",
+            "Improves safety",
+            "Reduces congestion",
+            "Has no impact"
+        ],
+        "correct_answer": "Improves safety",
+        "explanation": "The No Overtaking Sign is intended to enhance safety by preventing dangerous maneuvers in risky areas."
+    },
+    {
+        "question": "What fines might apply if a driver overtakes in a No Overtaking zone?",
+        "options": [
+            "No fines",
+            "1-2 penalty points",
+            "Highway fines only",
+            "Only warnings"
+        ],
+        "correct_answer": "1-2 penalty points",
+        "explanation": "Overtaking in a No Overtaking zone can result in penalties, often including points on the driver's license."
+    }
+]

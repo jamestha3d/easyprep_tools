@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a roundabout sign indicate?",
+        "options": [
+            "Yield to traffic",
+            "Stop before entering",
+            "No entry",
+            "Merge left"
+        ],
+        "correct_answer": "Yield to traffic",
+        "explanation": "A roundabout sign indicates that drivers should yield to traffic already in the roundabout before entering."
+    },
+    {
+        "question": "When approaching a roundabout, what should you do?",
+        "options": [
+            "Speed up to enter",
+            "Slow down and yield",
+            "Make a U-turn",
+            "Turn left immediately"
+        ],
+        "correct_answer": "Slow down and yield",
+        "explanation": "Drivers should slow down and yield to any traffic already circulating in the roundabout before entering."
+    },
+    {
+        "question": "Who has the right-of-way in a roundabout?",
+        "options": [
+            "Entering traffic",
+            "Traffic already in the roundabout",
+            "Pedestrians only",
+            "Bicycles only"
+        ],
+        "correct_answer": "Traffic already in the roundabout",
+        "explanation": "Traffic already inside the roundabout has the right-of-way over entering vehicles."
+    },
+    {
+        "question": "What is the primary benefit of roundabouts?",
+        "options": [
+            "Increased speed",
+            "Reduced traffic flow",
+            "Improved safety",
+            "More parking spaces"
+        ],
+        "correct_answer": "Improved safety",
+        "explanation": "Roundabouts are designed to reduce the likelihood of severe collisions, thus improving overall safety."
+    },
+    {
+        "question": "In a roundabout, which direction do vehicles travel?",
+        "options": [
+            "Clockwise",
+            "Counter-clockwise",
+            "Either direction",
+            "Depends on the country"
+        ],
+        "correct_answer": "Counter-clockwise",
+        "explanation": "In most countries, vehicles travel counter-clockwise around the central island in a roundabout."
+    },
+    {
+        "question": "Should you signal when exiting a roundabout?",
+        "options": [
+            "Yes, always",
+            "No, never",
+            "Only if there's traffic",
+            "Only if turning left"
+        ],
+        "correct_answer": "Yes, always",
+        "explanation": "Drivers should signal right when exiting a roundabout to indicate their intent to leave the roundabout."
+    },
+    {
+        "question": "What should you do if you miss your exit in a roundabout?",
+        "options": [
+            "Stop and back up",
+            "Continue around the roundabout",
+            "Signal and turn back",
+            "Stop and wait for a chance"
+        ],
+        "correct_answer": "Continue around the roundabout",
+        "explanation": "If a driver misses their exit, they should continue around the roundabout and take the next exit safely."
+    },
+    {
+        "question": "What should cyclists do when using a roundabout?",
+        "options": [
+            "Ride in the middle of the lane",
+            "Walk their bicycles",
+            "Yield to cars",
+            "Avoid using roundabouts"
+        ],
+        "correct_answer": "Yield to cars",
+        "explanation": "Cyclists should yield to vehicles already in the roundabout and can choose to walk their bicycles or ride carefully."
+    },
+    {
+        "question": "What does a circular traffic sign with arrows indicate?",
+        "options": [
+            "U-turn allowed",
+            "Roundabout ahead",
+            "No parking",
+            "One-way street"
+        ],
+        "correct_answer": "Roundabout ahead",
+        "explanation": "Circular traffic signs with arrows typically warn drivers that a roundabout is approaching."
+    },
+    {
+        "question": "If two vehicles arrive at the roundabout at the same time, who has the right-of-way?",
+        "options": [
+            "The vehicle on the left",
+            "The larger vehicle",
+            "The vehicle on the right",
+            "The first to arrive"
+        ],
+        "correct_answer": "The vehicle on the right",
+        "explanation": "In a roundabout, the vehicle to the right has the right-of-way when two vehicles arrive simultaneously."
+    }
+]

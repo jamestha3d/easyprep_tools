@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What is the purpose of an Emergency Detour Route Sign?",
+        "options": [
+            "To signify a scenic route",
+            "To provide alternative routes in emergencies",
+            "To indicate speed limits",
+            "To mark parking areas"
+        ],
+        "correct_answer": "To provide alternative routes in emergencies",
+        "explanation": "Emergency Detour Route Signs are specifically designed to guide drivers to alternate routes when normal traffic paths are obstructed due to emergencies such as accidents or road closures."
+    },
+    {
+        "question": "Which color is typically used for Emergency Detour Route Signs?",
+        "options": [
+            "Red",
+            "Green",
+            "Yellow",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Yellow is commonly used for warning signs, including Emergency Detour Route Signs, to alert drivers to potential hazards and changes in road conditions."
+    },
+    {
+        "question": "What shape are Emergency Detour Route Signs usually?",
+        "options": [
+            "Circular",
+            "Square",
+            "Triangular",
+            "Rectangular"
+        ],
+        "correct_answer": "Rectangular",
+        "explanation": "Emergency Detour Route Signs are typically rectangular, a shape that is commonly used for informational signs to provide clear, straight-to-the-point messages."
+    },
+    {
+        "question": "Who is responsible for placing Emergency Detour Route Signs?",
+        "options": [
+            "Local residents",
+            "Traffic management authorities",
+            "Private companies",
+            "Non-profit organizations"
+        ],
+        "correct_answer": "Traffic management authorities",
+        "explanation": "Traffic management authorities are responsible for placing Emergency Detour Route Signs to ensure they are positioned correctly and convey necessary information for public safety."
+    },
+    {
+        "question": "What should a driver do upon seeing an Emergency Detour Route Sign?",
+        "options": [
+            "Ignore it",
+            "Follow the detour instructions",
+            "Accelerate to bypass the area",
+            "Park immediately"
+        ],
+        "correct_answer": "Follow the detour instructions",
+        "explanation": "Drivers should follow the detour instructions provided by Emergency Detour Route Signs to safely navigate around hazards and maintain traffic flow."
+    },
+    {
+        "question": "When are Emergency Detour Route Signs typically deployed?",
+        "options": [
+            "During routine road maintenance",
+            "In case of accidents or road closures",
+            "For tourist guidance",
+            "At the start of every season"
+        ],
+        "correct_answer": "In case of accidents or road closures",
+        "explanation": "Emergency Detour Route Signs are deployed specifically during incidents like accidents or road closures to guide traffic away from danger and prevent congestion."
+    },
+    {
+        "question": "What additional information may be included on Emergency Detour Route Signs?",
+        "options": [
+            "Length of detour",
+            "Distance to nearest gas stations",
+            "Weather conditions",
+            "Local attractions"
+        ],
+        "correct_answer": "Length of detour",
+        "explanation": "Emergency Detour Route Signs may include the length of the detour to inform drivers of how far they need to travel off the main route."
+    },
+    {
+        "question": "How can Emergency Detour Route Signs improve road safety?",
+        "options": [
+            "By confusing drivers",
+            "By providing irrelevant information",
+            "By guiding traffic away from hazards",
+            "By increasing speed limits"
+        ],
+        "correct_answer": "By guiding traffic away from hazards",
+        "explanation": "By guiding traffic away from hazardous conditions, Emergency Detour Route Signs help to prevent accidents, reduce congestion, and promote safer driving environments."
+    },
+    {
+        "question": "What should drivers look for after passing an Emergency Detour Route Sign?",
+        "options": [
+            "Other signs indicating the detour",
+            "Information about local dining",
+            "Speed bump warnings",
+            "Traffic signal locations"
+        ],
+        "correct_answer": "Other signs indicating the detour",
+        "explanation": "Drivers should look for additional signs that continue to guide them along the detour path, ensuring they remain on the correct route until they can return to the main road."
+    },
+    {
+        "question": "What happens if a driver ignores an Emergency Detour Route Sign?",
+        "options": [
+            "They may be stopped by police",
+            "They can take any route they want",
+            "They will receive instructions via text",
+            "There are no consequences"
+        ],
+        "correct_answer": "They may be stopped by police",
+        "explanation": "Ignoring Emergency Detour Route Signs can lead drivers into dangerous situations. Authorities may stop them to redirect them to safety."
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a blue sign with a white letter 'P' indicate?",
+        "options": [
+            "Parking available",
+            "No parking",
+            "Pay parking",
+            "Loading zone"
+        ],
+        "correct_answer": "Parking available",
+        "explanation": "A blue sign with a white letter 'P' indicates designated parking areas for vehicles."
+    },
+    {
+        "question": "What does a green sign with a white symbol of a bed mean?",
+        "options": [
+            "Camping area",
+            "Rest area",
+            "Hotel",
+            "Hospital"
+        ],
+        "correct_answer": "Hotel",
+        "explanation": "A green sign with a white bed symbol indicates the presence of a hotel or lodging accommodations."
+    },
+    {
+        "question": "What does a brown sign with a white fork and knife symbolize?",
+        "options": [
+            "Food options available",
+            "No food service",
+            "Fast food only",
+            "Outdoor dining only"
+        ],
+        "correct_answer": "Food options available",
+        "explanation": "A brown sign with a fork and knife indicates that food services are available in the area."
+    },
+    {
+        "question": "What does a blue sign with a white wheelchair symbol signify?",
+        "options": [
+            "Accessible services",
+            "No access",
+            "Construction area",
+            "Emergency services"
+        ],
+        "correct_answer": "Accessible services",
+        "explanation": "A blue sign with a wheelchair symbol indicates that the services or facilities are accessible to people with disabilities."
+    },
+    {
+        "question": "What does a yellow sign with a black 'Gas' symbol indicate?",
+        "options": [
+            "Fuel station ahead",
+            "No gas available",
+            "Gas truck route",
+            "Alternative fuels"
+        ],
+        "correct_answer": "Fuel station ahead",
+        "explanation": "A yellow sign with a black 'Gas' symbol indicates that there is a fuel station in the vicinity."
+    },
+    {
+        "question": "What does a blue sign with a white letter 'I' represent?",
+        "options": [
+            "Information center",
+            "Inspection area",
+            "Industrial zone",
+            "Injury risk zone"
+        ],
+        "correct_answer": "Information center",
+        "explanation": "A blue sign with a white letter 'I' indicates the presence of an information center for travelers."
+    },
+    {
+        "question": "What does a brown sign featuring a tent icon indicate?",
+        "options": [
+            "Camping site",
+            "No camping",
+            "Picnic area",
+            "Hiking trail"
+        ],
+        "correct_answer": "Camping site",
+        "explanation": "A brown sign with a tent icon indicates nearby camping facilities or camping sites."
+    },
+    {
+        "question": "What does a green sign with a white 'M' inside a circle signify?",
+        "options": [
+            "Medical services",
+            "Military base",
+            "Museum",
+            "Marketplace"
+        ],
+        "correct_answer": "Medical services",
+        "explanation": "A green sign with a white 'M' means that medical services are available in the area."
+    },
+    {
+        "question": "What does a square blue sign with a white phone symbol indicate?",
+        "options": [
+            "Emergency services",
+            "Public telephone",
+            "Cell phone zone",
+            "No phone signal"
+        ],
+        "correct_answer": "Public telephone",
+        "explanation": "A blue square sign with a white phone symbol indicates the location of public telephone services."
+    },
+    {
+        "question": "What does a yellow sign with a black bed symbol indicate?",
+        "options": [
+            "Rest area ahead",
+            "Camping is prohibited",
+            "No accommodations",
+            "Hotel vacancy"
+        ],
+        "correct_answer": "Rest area ahead",
+        "explanation": "A yellow sign with a black bed symbol indicates an upcoming rest area where travelers can stop and rest."
+    }
+]

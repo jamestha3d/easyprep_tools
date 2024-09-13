@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Steep Grade Ahead sign indicate?",
+        "options": [
+            "A closed road",
+            "A sharp turn",
+            "A steep incline",
+            "A pedestrian crossing"
+        ],
+        "correct_answer": "A steep incline",
+        "explanation": "The Steep Grade Ahead sign alerts drivers to an upcoming steep incline that may require them to adjust their speed and gear."
+    },
+    {
+        "question": "What shape is the Steep Grade Ahead sign?",
+        "options": [
+            "Circular",
+            "Square",
+            "Diamond",
+            "Rectangular"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "The Steep Grade Ahead sign is typically diamond-shaped, which is used for warning signs indicating road conditions."
+    },
+    {
+        "question": "Which color is commonly used for the Steep Grade Ahead sign?",
+        "options": [
+            "Red",
+            "Blue",
+            "Yellow",
+            "Green"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Yellow is the standard color for warning signs, including the Steep Grade Ahead sign, to increase visibility and caution."
+    },
+    {
+        "question": "What should a driver do upon seeing a Steep Grade Ahead sign?",
+        "options": [
+            "Speed up",
+            "Slow down",
+            "Maintain speed",
+            "Change lanes"
+        ],
+        "correct_answer": "Slow down",
+        "explanation": "Drivers should slow down when they see a Steep Grade Ahead sign to safely navigate the steep incline that follows."
+    },
+    {
+        "question": "What type of vehicles might be more affected by steep grades?",
+        "options": [
+            "All vehicles equally",
+            "Heavy trucks",
+            "Bicycles",
+            "Motorcycles"
+        ],
+        "correct_answer": "Heavy trucks",
+        "explanation": "Heavy trucks may struggle with steep grades due to their weight and engine power, making it more important for them to heed the warning."
+    },
+    {
+        "question": "In which types of areas are Steep Grade Ahead signs commonly found?",
+        "options": [
+            "Urban areas",
+            "Flat areas",
+            "Mountainous areas",
+            "Industrial areas"
+        ],
+        "correct_answer": "Mountainous areas",
+        "explanation": "Steep Grade Ahead signs are commonly found in mountainous areas where inclines may be sudden and more pronounced."
+    },
+    {
+        "question": "What might happen if drivers ignore the Steep Grade Ahead sign?",
+        "options": [
+            "They will save time",
+            "Their vehicle could lose control",
+            "They will find the road easier",
+            "They will receive a reward"
+        ],
+        "correct_answer": "Their vehicle could lose control",
+        "explanation": "Ignoring the sign could lead to excessive speed on a steep decline, causing the vehicle to lose control and potentially lead to accidents."
+    },
+    {
+        "question": "How does a Steep Grade Ahead sign help drivers?",
+        "options": [
+            "Provides scenic views",
+            "Warns of upcoming terrain changes",
+            "Indicates speed limits",
+            "Offers directions"
+        ],
+        "correct_answer": "Warns of upcoming terrain changes",
+        "explanation": "The Steep Grade Ahead sign informs drivers of upcoming changes in road terrain, helping them prepare to adjust their driving accordingly."
+    },
+    {
+        "question": "Is the height indicated on a steep grade sign uniform across all roads?",
+        "options": [
+            "Yes",
+            "No, it varies",
+            "Only in urban areas",
+            "Only on highways"
+        ],
+        "correct_answer": "No, it varies",
+        "explanation": "The steep grade indicated can vary based on the specific location of the road and local regulations, thus not being uniform."
+    },
+    {
+        "question": "What is the typical grade percentage that might trigger a Steep Grade Ahead warning?",
+        "options": [
+            "5-10%",
+            "10-15%",
+            "15-20%",
+            "Over 20%"
+        ],
+        "correct_answer": "Over 20%",
+        "explanation": "Grades over 20% may prompt a Steep Grade Ahead sign to caution drivers of the significant incline they are approaching."
+    }
+]

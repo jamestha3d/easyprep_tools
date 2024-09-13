@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What is the primary purpose of the Bowesville Road Sign?",
+        "options": [
+            "To indicate a pedestrian crossing",
+            "To provide directions",
+            "To alert drivers of a speed limit",
+            "To warn about a sharp curve"
+        ],
+        "correct_answer": "To provide directions",
+        "explanation": "The Bowesville Road Sign is primarily used for directional guidance for drivers navigating the roadway."
+    },
+    {
+        "question": "Which of the following is a common feature of the Bowesville Road Sign?",
+        "options": [
+            "Illumination",
+            "Bilingual text",
+            "Reflective material",
+            "Digital display"
+        ],
+        "correct_answer": "Reflective material",
+        "explanation": "Bowesville Road Signs often use reflective materials to enhance visibility, especially at night."
+    },
+    {
+        "question": "In what region is the Bowesville Road Sign typically found?",
+        "options": [
+            "Urban areas",
+            "Rural areas",
+            "Suburban areas",
+            "Highway rest stops"
+        ],
+        "correct_answer": "Suburban areas",
+        "explanation": "The Bowesville Road Sign is commonly located in suburban areas where road navigation is essential for residents."
+    },
+    {
+        "question": "What color is the Bowesville Road Sign?",
+        "options": [
+            "Red",
+            "Green",
+            "Blue",
+            "Yellow"
+        ],
+        "correct_answer": "Green",
+        "explanation": "Green is commonly used for directional signs, including the Bowesville Road Sign, to indicate routes and directions."
+    },
+    {
+        "question": "What is one reason for the maintenance of the Bowesville Road Sign?",
+        "options": [
+            "To upgrade technology",
+            "To ensure visibility",
+            "To change its location",
+            "To include more text"
+        ],
+        "correct_answer": "To ensure visibility",
+        "explanation": "Regular maintenance is necessary to keep the Bowesville Road Sign visible and legible for drivers."
+    },
+    {
+        "question": "How is the Bowesville Road Sign typically mounted?",
+        "options": [
+            "On the ground",
+            "On poles",
+            "On buildings",
+            "On vehicles"
+        ],
+        "correct_answer": "On poles",
+        "explanation": "The Bowesville Road Sign is usually mounted on poles at appropriate heights to ensure visibility to drivers."
+    },
+    {
+        "question": "What type of information might the Bowesville Road Sign include?",
+        "options": [
+            "Construction warnings",
+            "Speed limits",
+            "Destination names",
+            "Traffic signals"
+        ],
+        "correct_answer": "Destination names",
+        "explanation": "Bowesville Road Signs typically include destination names to help guide drivers towards their intended routes."
+    },
+    {
+        "question": "What is the significance of the Bowesville Road Sign in traffic safety?",
+        "options": [
+            "It helps reduce noise",
+            "It informs about weather changes",
+            "It enhances driver awareness",
+            "It regulates vehicle speed"
+        ],
+        "correct_answer": "It enhances driver awareness",
+        "explanation": "The Bowesville Road Sign improves situational awareness for drivers, contributing to overall traffic safety."
+    },
+    {
+        "question": "What maintenance checks are typically performed on the Bowesville Road Sign?",
+        "options": [
+            "Color fading assessments",
+            "Position adjustment",
+            "Electrical inspections",
+            "Digital updates"
+        ],
+        "correct_answer": "Color fading assessments",
+        "explanation": "Routine checks for color fading are important to maintain the visibility and effectiveness of the Bowesville Road Sign."
+    },
+    {
+        "question": "What feature distinguishes the Bowesville Road Sign from other road signs?",
+        "options": [
+            "Its unique shape",
+            "Its reflective surface",
+            "Its illumination",
+            "Its size"
+        ],
+        "correct_answer": "Its reflective surface",
+        "explanation": "The reflective surface of the Bowesville Road Sign is a distinguishing feature that increases visibility at night."
+    }
+]

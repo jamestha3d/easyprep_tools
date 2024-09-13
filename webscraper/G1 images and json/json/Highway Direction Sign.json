@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a green highway direction sign indicate?",
+        "options": [
+            "Services available",
+            "Public transport available",
+            "Directions to destinations",
+            "Emergency services"
+        ],
+        "correct_answer": "Directions to destinations",
+        "explanation": "Green highway direction signs are used to provide guidance to drivers regarding directions to various destinations."
+    },
+    {
+        "question": "What is the purpose of a mile marker sign?",
+        "options": [
+            "Indicates major cities",
+            "Shows the number of lanes ahead",
+            "Indicates the distance from a starting point",
+            "Indicates speed limits"
+        ],
+        "correct_answer": "Indicates the distance from a starting point",
+        "explanation": "Mile marker signs show the distance traveled from a specific starting point, helping with navigation and emergency response."
+    },
+    {
+        "question": "What type of sign shows the distance to the next rest area?",
+        "options": [
+            "Warning sign",
+            "Regulatory sign",
+            "Guide sign",
+            "Construction sign"
+        ],
+        "correct_answer": "Guide sign",
+        "explanation": "Guide signs provide information about upcoming services, including distances to rest areas and points of interest."
+    },
+    {
+        "question": "What color are signs that indicate caution or warning?",
+        "options": [
+            "Blue",
+            "Green",
+            "Yellow",
+            "Red"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Yellow signs are used to alert drivers to caution or potential hazards ahead on the road."
+    },
+    {
+        "question": "What does a blue highway sign typically indicate?",
+        "options": [
+            "Speed limits",
+            "Services available",
+            "Direction to major cities",
+            "Construction zones"
+        ],
+        "correct_answer": "Services available",
+        "explanation": "Blue highway signs are commonly used to convey information about services such as gas stations, restaurants, and hospitals."
+    },
+    {
+        "question": "Which shape is commonly used for regulatory signs such as speed limits?",
+        "options": [
+            "Circular",
+            "Square",
+            "Diamond",
+            "Octagonal"
+        ],
+        "correct_answer": "Octagonal",
+        "explanation": "Octagonal signs, such as stop signs, are used to indicate regulatory commands, including speed limits and stopping requirements."
+    },
+    {
+        "question": "What is indicated by a diamond-shaped sign?",
+        "options": [
+            "Construction zones",
+            "Speed limits",
+            "Hazards or changes in road conditions",
+            "Rest areas"
+        ],
+        "correct_answer": "Hazards or changes in road conditions",
+        "explanation": "Diamond-shaped signs are used to warn drivers of potential hazards or changes in road conditions ahead."
+    },
+    {
+        "question": "What do white rectangular signs typically convey?",
+        "options": [
+            "Regulatory information",
+            "Directions",
+            "Warnings",
+            "Services"
+        ],
+        "correct_answer": "Regulatory information",
+        "explanation": "White rectangular signs are generally used for regulatory information such as speed limits and other traffic laws."
+    },
+    {
+        "question": "What kind of information is provided by 'Exit' signs on highways?",
+        "options": [
+            "Distance to the next gas station",
+            "Speed limits on exits",
+            "Exits for major roads or features",
+            "Safety warnings"
+        ],
+        "correct_answer": "Exits for major roads or features",
+        "explanation": "'Exit' signs inform drivers about upcoming exits for other major roads or features such as cities and attractions."
+    },
+    {
+        "question": "What should a driver do when approaching a sign with a flashing light?",
+        "options": [
+            "Speed up",
+            "Maintain current speed",
+            "Prepare to stop or yield",
+            "Ignore it"
+        ],
+        "correct_answer": "Prepare to stop or yield",
+        "explanation": "Flashing lights are used to alert drivers to stop or yield, indicating that caution is required."
+    }
+]

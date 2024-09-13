@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a pedestrian crossing sign typically indicate?",
+        "options": [
+            "No parking",
+            "Crosswalk ahead",
+            "Stop sign",
+            "One way only"
+        ],
+        "correct_answer": "Crosswalk ahead",
+        "explanation": "A pedestrian crossing sign indicates that there is a crosswalk ahead where pedestrians may cross the roadway."
+    },
+    {
+        "question": "What color is a standard pedestrian crossing sign?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Most pedestrian crossing signs are yellow, which is used to indicate caution and alert drivers to the presence of pedestrians."
+    },
+    {
+        "question": "What shape is a typical pedestrian crossing sign?",
+        "options": [
+            "Square",
+            "Circle",
+            "Octagon",
+            "Diamond"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "Pedestrian crossing signs are often diamond-shaped to signal caution to drivers and indicate a potential hazard."
+    },
+    {
+        "question": "When should drivers yield at a pedestrian crossing sign?",
+        "options": [
+            "Only if pedestrians are visible",
+            "Always",
+            "On weekends only",
+            "During school hours"
+        ],
+        "correct_answer": "Always",
+        "explanation": "Drivers are required to yield to pedestrians at all times when a pedestrian crossing sign is present, regardless of the visibility of pedestrians."
+    },
+    {
+        "question": "What should a pedestrian do when they see a pedestrian crossing sign?",
+        "options": [
+            "Run across quickly",
+            "Wait for a safe time",
+            "Ignore it",
+            "Only cross when traffic stops"
+        ],
+        "correct_answer": "Wait for a safe time",
+        "explanation": "Pedestrians should always wait for a safe opportunity to cross, ensuring that vehicles are yielding appropriately before stepping onto the crosswalk."
+    },
+    {
+        "question": "What happens if a pedestrian ignores the pedestrian crossing sign?",
+        "options": [
+            "They will get a ticket",
+            "They may endanger themselves",
+            "Nothing happens",
+            "They will be fined"
+        ],
+        "correct_answer": "They may endanger themselves",
+        "explanation": "Ignoring a pedestrian crossing sign can put pedestrians at risk of accidents as they might not be visible to approaching vehicles."
+    },
+    {
+        "question": "Which of the following is NOT a type of pedestrian crossing signal?",
+        "options": [
+            "Flashing yellow light",
+            "Solid red light",
+            "Flashing red light",
+            "Walk signal"
+        ],
+        "correct_answer": "Solid red light",
+        "explanation": "A solid red light is generally not used as a pedestrian crossing signal; it indicates that vehicles must stop, whereas the other options indicate safe crossing opportunities for pedestrians."
+    },
+    {
+        "question": "What is the purpose of a pedestrian crossing sign in urban areas?",
+        "options": [
+            "To allow more traffic flow",
+            "To increase business sales",
+            "To ensure pedestrian safety",
+            "To reduce speed limits"
+        ],
+        "correct_answer": "To ensure pedestrian safety",
+        "explanation": "The primary purpose of a pedestrian crossing sign is to increase safety for pedestrians by making drivers aware of pedestrian crossings."
+    },
+    {
+        "question": "What do flashing lights near a pedestrian crossing sign indicate?",
+        "options": [
+            "Traffic is speeding",
+            "Pedestrians should cross now",
+            "Drivers should be alert and slow down",
+            "There is a construction zone"
+        ],
+        "correct_answer": "Drivers should be alert and slow down",
+        "explanation": "Flashing lights near a pedestrian crossing sign alert drivers to be extra cautious and prepared to stop for pedestrians in the area."
+    },
+    {
+        "question": "What is a potential violation regarding pedestrian crossing signs?",
+        "options": [
+            "Cautioning pedestrians",
+            "Yielding to pedestrians",
+            "Failing to stop for pedestrians",
+            "Watching for vehicles"
+        ],
+        "correct_answer": "Failing to stop for pedestrians",
+        "explanation": "Drivers who fail to stop or yield for pedestrians at a designated crossing sign can be violating traffic laws and face penalties."
+    }
+]

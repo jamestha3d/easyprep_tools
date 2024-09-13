@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does the Survey Work Ahead sign indicate?",
+        "options": [
+            "Road construction ahead",
+            "Surveying activities in progress",
+            "Traffic signal ahead",
+            "Detour route"
+        ],
+        "correct_answer": "Surveying activities in progress",
+        "explanation": "The Survey Work Ahead sign alerts drivers that surveyors are conducting work in the area, which may require caution."
+    },
+    {
+        "question": "When should drivers be particularly cautious upon seeing a Survey Work Ahead sign?",
+        "options": [
+            "In rainy weather",
+            "During daylight hours",
+            "In construction zones",
+            "At night"
+        ],
+        "correct_answer": "In construction zones",
+        "explanation": "Drivers should be cautious in construction zones as there may be more workers and equipment, increasing the need for attention."
+    },
+    {
+        "question": "What color is the Survey Work Ahead sign typically?",
+        "options": [
+            "Yellow",
+            "Red",
+            "Blue",
+            "Green"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Survey Work Ahead signs are generally yellow, which indicates caution and warns of potential hazards ahead."
+    },
+    {
+        "question": "What should you do if you see a Survey Work Ahead sign?",
+        "options": [
+            "Speed up",
+            "Maintain speed",
+            "Reduce speed and be alert",
+            "Ignore it"
+        ],
+        "correct_answer": "Reduce speed and be alert",
+        "explanation": "Reducing speed and being alert allows drivers to safely navigate any potential changes or hazards in the area."
+    },
+    {
+        "question": "What type of survey work might be indicated by this sign?",
+        "options": [
+            "Roadside vegetation management",
+            "Utility relocation",
+            "Land surveying",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "The sign can indicate various types of survey work, including land surveying, utility relocation, and vegetation management."
+    },
+    {
+        "question": "What is the primary purpose of the Survey Work Ahead sign?",
+        "options": [
+            "To improve traffic flow",
+            "To warn of road repairs",
+            "To enhance driver awareness",
+            "To inform about new road signage"
+        ],
+        "correct_answer": "To enhance driver awareness",
+        "explanation": "The primary purpose of the Survey Work Ahead sign is to alert drivers to be cautious and aware of potential survey work activities."
+    },
+    {
+        "question": "Who is typically responsible for placing a Survey Work Ahead sign?",
+        "options": [
+            "Local government traffic authority",
+            "Individual drivers",
+            "Private survey companies",
+            "Emergency services"
+        ],
+        "correct_answer": "Local government traffic authority",
+        "explanation": "Local government traffic authorities are responsible for the placement and maintenance of traffic signs, including those related to survey work."
+    },
+    {
+        "question": "What should you look for after passing a Survey Work Ahead sign?",
+        "options": [
+            "New road markings",
+            "Workers and equipment",
+            "Traffic lights",
+            "Pedestrian crossings"
+        ],
+        "correct_answer": "Workers and equipment",
+        "explanation": "After passing the sign, drivers should be on the lookout for workers and equipment, ensuring a safe distance is maintained."
+    },
+    {
+        "question": "At what distance from the actual survey work site might a Survey Work Ahead sign be placed?",
+        "options": [
+            "500 feet",
+            "1000 feet",
+            "200 feet",
+            "300 feet"
+        ],
+        "correct_answer": "500 feet",
+        "explanation": "Survey Work Ahead signs are typically placed at least 500 feet away from the actual work site to give drivers ample time to react."
+    },
+    {
+        "question": "What is a common misconception about the Survey Work Ahead sign?",
+        "options": [
+            "It only applies to highway work",
+            "It means the road is closed",
+            "It indicates minor work only",
+            "It has no relevance for cyclists"
+        ],
+        "correct_answer": "It means the road is closed",
+        "explanation": "A common misconception is that the sign indicates the road is closed, whereas it actually means there may be survey activities ahead, not necessarily a closure."
+    }
+]

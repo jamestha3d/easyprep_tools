@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Yield sign indicate to drivers?",
+        "options": [
+            "To stop completely",
+            "To reduce speed and give way",
+            "To proceed without slowing down",
+            "To park the vehicle"
+        ],
+        "correct_answer": "To reduce speed and give way",
+        "explanation": "A Yield sign instructs drivers to slow down and yield the right of way to other vehicles or pedestrians."
+    },
+    {
+        "question": "What shape is a Yield sign?",
+        "options": [
+            "Square",
+            "Circular",
+            "Triangular",
+            "Octagonal"
+        ],
+        "correct_answer": "Triangular",
+        "explanation": "A Yield sign is shaped like a triangle, which is universally recognized for yielding the right of way."
+    },
+    {
+        "question": "When approaching a Yield sign, what should a driver do if there are no vehicles or pedestrians?",
+        "options": [
+            "Stop the vehicle",
+            "Speed up",
+            "Proceed without stopping",
+            "Honk the horn"
+        ],
+        "correct_answer": "Proceed without stopping",
+        "explanation": "If the way is clear, a driver may proceed without stopping, as the Yield sign indicates to give way only if necessary."
+    },
+    {
+        "question": "Where are Yield signs commonly placed?",
+        "options": [
+            "At intersections",
+            "On highways",
+            "In parking lots",
+            "Within school zones"
+        ],
+        "correct_answer": "At intersections",
+        "explanation": "Yield signs are typically found at intersections where vehicles must yield to traffic on another road."
+    },
+    {
+        "question": "What should a driver do if they see a Yield sign and there is traffic approaching?",
+        "options": [
+            "Continue driving at the same speed",
+            "Speed up to merge",
+            "Slow down and prepare to stop",
+            "Ignore the sign if they have the right of way"
+        ],
+        "correct_answer": "Slow down and prepare to stop",
+        "explanation": "Drivers must slow down and be prepared to stop if there is approaching traffic to ensure safety."
+    },
+    {
+        "question": "What color is a standard Yield sign?",
+        "options": [
+            "Red",
+            "Green",
+            "Yellow",
+            "White"
+        ],
+        "correct_answer": "Red",
+        "explanation": "A standard Yield sign is red and white, which helps it stand out to drivers."
+    },
+    {
+        "question": "What action is required if a driver disobeys a Yield sign?",
+        "options": [
+            "No action is needed",
+            "Possible traffic citation",
+            "Immediate arrest",
+            "Just a warning from police"
+        ],
+        "correct_answer": "Possible traffic citation",
+        "explanation": "Disobeying a Yield sign can result in a traffic citation for failing to yield the right of way."
+    },
+    {
+        "question": "In which scenario should a driver give way at a Yield sign?",
+        "options": [
+            "When they want to turn left",
+            "When another vehicle is already on the main road",
+            "When the road is clear",
+            "When they are speeding"
+        ],
+        "correct_answer": "When another vehicle is already on the main road",
+        "explanation": "Drivers must yield when another vehicle is approaching or already on the main road to avoid accidents."
+    },
+    {
+        "question": "What might happen if multiple drivers arrive at a Yield sign simultaneously?",
+        "options": [
+            "The first driver to arrive goes first",
+            "All drivers must stop",
+            "Yielding to the driver on the right is required",
+            "Any driver can proceed without stopping"
+        ],
+        "correct_answer": "Yielding to the driver on the right is required",
+        "explanation": "At Yield signs, if multiple drivers arrive simultaneously, the general rule is to yield to the driver on the right."
+    },
+    {
+        "question": "Are Yield signs used only in the United States?",
+        "options": [
+            "Yes, only in the United States",
+            "No, they are used worldwide",
+            "Only in North America",
+            "Only in Europe"
+        ],
+        "correct_answer": "No, they are used worldwide",
+        "explanation": "Yield signs are a part of the international road signage system and are used in many countries around the world."
+    }
+]

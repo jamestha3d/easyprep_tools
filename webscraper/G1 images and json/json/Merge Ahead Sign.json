@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does the Merge Ahead Sign indicate?",
+        "options": [
+            "A road closure ahead",
+            "A merging of lanes ahead",
+            "A pedestrian crossing",
+            "A stop sign ahead"
+        ],
+        "correct_answer": "A merging of lanes ahead",
+        "explanation": "The Merge Ahead Sign alerts drivers that the roadway will merge, requiring them to adjust their speed and positions."
+    },
+    {
+        "question": "Where is the Merge Ahead Sign typically placed?",
+        "options": [
+            "At intersections",
+            "Before lane merges",
+            "At construction sites",
+            "Near schools"
+        ],
+        "correct_answer": "Before lane merges",
+        "explanation": "The sign is strategically placed before lanes merge to give drivers adequate warning to prepare for the change."
+    },
+    {
+        "question": "What shape is a Merge Ahead Sign?",
+        "options": [
+            "Square",
+            "Circular",
+            "Diamond",
+            "Triangle"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "The Merge Ahead Sign is a diamond shape, which is commonly used for warning signs in traffic."
+    },
+    {
+        "question": "What is the typical color of a Merge Ahead Sign?",
+        "options": [
+            "Red",
+            "Blue",
+            "Yellow",
+            "Green"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "The Merge Ahead Sign is usually yellow, indicating caution and alerting drivers to potential hazards."
+    },
+    {
+        "question": "What should drivers do upon seeing a Merge Ahead Sign?",
+        "options": [
+            "Accelerate",
+            "Maintain speed",
+            "Prepare to merge",
+            "Stop immediately"
+        ],
+        "correct_answer": "Prepare to merge",
+        "explanation": "Drivers are advised to prepare to merge safely into another lane, ensuring they are aware of other vehicles."
+    },
+    {
+        "question": "What could happen if drivers ignore the Merge Ahead Sign?",
+        "options": [
+            "Traffic will flow smoothly",
+            "Increased risk of accidents",
+            "No impact on driving",
+            "Drivers will be fined"
+        ],
+        "correct_answer": "Increased risk of accidents",
+        "explanation": "Ignoring the sign can lead to collisions as drivers may not be ready to merge lanes safely."
+    },
+    {
+        "question": "What is the primary purpose of the Merge Ahead Sign?",
+        "options": [
+            "To inform about road conditions",
+            "To warn of a lane reduction",
+            "To indicate speed limits",
+            "To direct traffic flow"
+        ],
+        "correct_answer": "To warn of a lane reduction",
+        "explanation": "Its main purpose is to warn drivers that there will be a reduction in the number of lanes available."
+    },
+    {
+        "question": "In which situations might a Merge Ahead Sign be especially important?",
+        "options": [
+            "In heavy traffic",
+            "On bicycle paths",
+            "In parking lots",
+            "On highways only"
+        ],
+        "correct_answer": "In heavy traffic",
+        "explanation": "During heavy traffic, the sign is crucial for managing lane changes and preventing accidents."
+    },
+    {
+        "question": "What may accompany the Merge Ahead Sign to provide additional information?",
+        "options": [
+            "Speed limit signs",
+            "Yield signs",
+            "Lane closure signs",
+            "Stop signs"
+        ],
+        "correct_answer": "Lane closure signs",
+        "explanation": "Lane closure signs may accompany the Merge Ahead Sign to further inform drivers about the merging situation ahead."
+    },
+    {
+        "question": "Which type of vehicles are most affected by the Merge Ahead Sign?",
+        "options": [
+            "Only trucks",
+            "All motor vehicles",
+            "Bicycles only",
+            "Emergency vehicles"
+        ],
+        "correct_answer": "All motor vehicles",
+        "explanation": "The Merge Ahead Sign affects all motor vehicles on the roadway as it pertains to lane merging for safety."
+    }
+]

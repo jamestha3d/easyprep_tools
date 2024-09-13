@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a red octagon signify in traffic signs?",
+        "options": [
+            "Stop",
+            "Yield",
+            "No Entry",
+            "Speed Limit"
+        ],
+        "correct_answer": "Stop",
+        "explanation": "A red octagon is universally recognized as a stop sign, indicating that vehicles must come to a complete stop."
+    },
+    {
+        "question": "What should you do when you see a yellow caution sign?",
+        "options": [
+            "Speed up",
+            "Slow down and be cautious",
+            "Ignore it",
+            "Turn around"
+        ],
+        "correct_answer": "Slow down and be cautious",
+        "explanation": "A yellow caution sign alerts drivers to potential hazards and advises them to slow down and be prepared to react."
+    },
+    {
+        "question": "What does a triangular warning sign indicate?",
+        "options": [
+            "Traffic signals ahead",
+            "Yield or give way",
+            "No parking",
+            "School zone"
+        ],
+        "correct_answer": "Yield or give way",
+        "explanation": "A triangular sign typically indicates that drivers should yield to oncoming traffic or pedestrians."
+    },
+    {
+        "question": "In what scenario would you see a flashing red light?",
+        "options": [
+            "At a traffic signal intersection",
+            "In a school zone",
+            "At a pedestrian crossing",
+            "On a warning sign"
+        ],
+        "correct_answer": "At a traffic signal intersection",
+        "explanation": "A flashing red light indicates that drivers must come to a full stop and proceed only when it is safe, similar to a stop sign."
+    },
+    {
+        "question": "What should you do when encountering a road sign with a deer symbol?",
+        "options": [
+            "Speed up",
+            "Be alert for deer crossing",
+            "Ignore it",
+            "It means no deer allowed"
+        ],
+        "correct_answer": "Be alert for deer crossing",
+        "explanation": "A sign with a deer symbol warns drivers to be cautious as deer may cross the road, especially at dawn and dusk."
+    },
+    {
+        "question": "What does a 'Slippery when wet' sign warn you about?",
+        "options": [
+            "Road construction",
+            "Wet road conditions",
+            "Speed limit changes",
+            "Deer crossing"
+        ],
+        "correct_answer": "Wet road conditions",
+        "explanation": "This sign alerts drivers to the possibility of slippery conditions on the road due to rain or ice."
+    },
+    {
+        "question": "What does a no parking sign indicate?",
+        "options": [
+            "Parking allowed at all times",
+            "No parking during specific hours",
+            "Parking is prohibited at all times",
+            "Only for residents"
+        ],
+        "correct_answer": "Parking is prohibited at all times",
+        "explanation": "A no parking sign indicates that vehicles must not park in that area to ensure traffic flow and safety."
+    },
+    {
+        "question": "What does a sign with an orange background typically indicate?",
+        "options": [
+            "Construction zone",
+            "Danger",
+            "Emergency vehicle crossing",
+            "Detour"
+        ],
+        "correct_answer": "Construction zone",
+        "explanation": "An orange sign is used to warn drivers of construction zones where road work is taking place, requiring caution."
+    },
+    {
+        "question": "What type of sign is used to indicate pedestrian crossings?",
+        "options": [
+            "Circular",
+            "Square",
+            "Rectangular",
+            "Pentagonal"
+        ],
+        "correct_answer": "Rectangular",
+        "explanation": "Rectangular signs are often used to indicate pedestrian crossings, alerting drivers to be aware of pedestrians in that area."
+    },
+    {
+        "question": "What should you do when you see a 'Road Work Ahead' sign?",
+        "options": [
+            "Ignore it",
+            "Take an alternate route",
+            "Be prepared for delays and slow down",
+            "Speed up to pass quickly"
+        ],
+        "correct_answer": "Be prepared for delays and slow down",
+        "explanation": "This sign indicates that road construction or maintenance is ahead, and drivers should reduce speed and remain alert for changes in road conditions."
+    }
+]

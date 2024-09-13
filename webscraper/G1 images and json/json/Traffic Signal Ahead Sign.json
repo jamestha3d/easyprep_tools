@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Traffic Signal Ahead sign indicate?",
+        "options": [
+            "There is a traffic light coming up",
+            "You should speed up",
+            "You can proceed without stopping",
+            "There are road workers ahead"
+        ],
+        "correct_answer": "There is a traffic light coming up",
+        "explanation": "The Traffic Signal Ahead sign warns drivers that they will soon encounter a traffic signal, prompting them to prepare to stop or proceed with caution."
+    },
+    {
+        "question": "Why is it important to heed the Traffic Signal Ahead sign?",
+        "options": [
+            "To be aware of traffic controls ahead",
+            "To find a shortcut",
+            "To park legally",
+            "To reduce speed limits"
+        ],
+        "correct_answer": "To be aware of traffic controls ahead",
+        "explanation": "Ignoring this sign can lead to sudden stops or accidents as drivers may not be ready to respond to the upcoming traffic signal."
+    },
+    {
+        "question": "Which shape is typically associated with a Traffic Signal Ahead sign?",
+        "options": [
+            "Square",
+            "Octagon",
+            "Triangle",
+            "Circle"
+        ],
+        "correct_answer": "Square",
+        "explanation": "Traffic Signal Ahead signs are rectangular or square in shape, commonly used in regulatory or warning contexts on the road."
+    },
+    {
+        "question": "What should you do when you see a Traffic Signal Ahead sign?",
+        "options": [
+            "Continue with the same speed",
+            "Prepare to stop or slow down",
+            "Ignore it if no cars are around",
+            "Switch lanes immediately"
+        ],
+        "correct_answer": "Prepare to stop or slow down",
+        "explanation": "Seeing this sign means that a traffic signal is approaching, and drivers should adjust their speed accordingly."
+    },
+    {
+        "question": "What color is a Traffic Signal Ahead sign?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Traffic Signal Ahead signs are usually yellow, indicating caution and alerting drivers to the upcoming traffic signal."
+    },
+    {
+        "question": "In which situation is a Traffic Signal Ahead sign most useful?",
+        "options": [
+            "In a busy urban area",
+            "On a highway",
+            "In a residential neighborhood",
+            "At a construction site"
+        ],
+        "correct_answer": "In a busy urban area",
+        "explanation": "Urban areas typically have more traffic signals due to higher traffic density, making this sign crucial for safe driving."
+    },
+    {
+        "question": "What could happen if a driver fails to respond to a Traffic Signal Ahead sign?",
+        "options": [
+            "Nothing will happen",
+            "They might get a ticket",
+            "They can cause an accident",
+            "They will save time"
+        ],
+        "correct_answer": "They can cause an accident",
+        "explanation": "Failure to acknowledge this sign can lead to sudden stops by the vehicle in front or collisions with other vehicles if drivers do not slow down for the traffic signal."
+    },
+    {
+        "question": "Is the Traffic Signal Ahead sign indicated in advance of the actual traffic signal?",
+        "options": [
+            "Yes",
+            "No",
+            "Only sometimes",
+            "It depends on the weather"
+        ],
+        "correct_answer": "Yes",
+        "explanation": "The sign is placed in advance to give drivers adequate time to react and prepare for the upcoming traffic signal."
+    },
+    {
+        "question": "What should you not do upon seeing a Traffic Signal Ahead sign?",
+        "options": [
+            "Increase your speed",
+            "Look for pedestrians",
+            "Stay alert",
+            "Check your mirrors"
+        ],
+        "correct_answer": "Increase your speed",
+        "explanation": "Increasing speed when approaching a Traffic Signal Ahead sign is dangerous as it leaves less time to react to the signal's changes."
+    },
+    {
+        "question": "Who is responsible for adhering to the Traffic Signal Ahead sign?",
+        "options": [
+            "Only truck drivers",
+            "All drivers",
+            "Pedestrians",
+            "Motorcyclists only"
+        ],
+        "correct_answer": "All drivers",
+        "explanation": "Every driver on the road is responsible for observing and following traffic signs, including the Traffic Signal Ahead sign, to ensure safety."
+    }
+]

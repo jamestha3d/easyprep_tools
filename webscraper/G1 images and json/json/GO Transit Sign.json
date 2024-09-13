@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What is the primary purpose of GO Transit?",
+        "options": [
+            "Local bus services",
+            "Intercity travel",
+            "Commute services for the Greater Toronto Area",
+            "Travel to other provinces"
+        ],
+        "correct_answer": "Commute services for the Greater Toronto Area",
+        "explanation": "GO Transit primarily provides commuter services across the Greater Toronto Area, making it essential for daily travelers."
+    },
+    {
+        "question": "Which colors are predominantly used in the GO Transit branding?",
+        "options": [
+            "Red and White",
+            "Blue and Yellow",
+            "Green and White",
+            "Purple and Black"
+        ],
+        "correct_answer": "Green and White",
+        "explanation": "GO Transit uses a green and white color scheme for its branding, which is easily recognizable."
+    },
+    {
+        "question": "What type of vehicles does GO Transit mainly operate?",
+        "options": [
+            "Subway trains",
+            "High-speed trains",
+            "Light rail vehicles",
+            "Buses and trains"
+        ],
+        "correct_answer": "Buses and trains",
+        "explanation": "GO Transit mainly operates a fleet of buses and trains to provide its services."
+    },
+    {
+        "question": "How can passengers purchase tickets for GO Transit?",
+        "options": [
+            "Only at stations",
+            "Online and mobile app",
+            "Only through vending machines",
+            "By calling customer service"
+        ],
+        "correct_answer": "Online and mobile app",
+        "explanation": "Passengers can conveniently purchase tickets through the GO Transit website and mobile app, in addition to traditional methods."
+    },
+    {
+        "question": "Which regions does GO Transit primarily serve?",
+        "options": [
+            "National parks",
+            "Greater Toronto Area and surrounding regions",
+            "Metropolitan cities across Canada",
+            "Only urban centers"
+        ],
+        "correct_answer": "Greater Toronto Area and surrounding regions",
+        "explanation": "GO Transit focuses its services on the Greater Toronto Area and its surrounding regions, catering to commuters."
+    },
+    {
+        "question": "What does the GO Transit logo feature?",
+        "options": [
+            "A train silhouette",
+            "An abstract leaf",
+            "A stylized 'G' and 'O'",
+            "A clock face"
+        ],
+        "correct_answer": "A stylized 'G' and 'O'",
+        "explanation": "The GO Transit logo prominently features a stylized 'G' and 'O', representing the brand in a clear manner."
+    },
+    {
+        "question": "What is the frequency of GO Transit services during peak hours?",
+        "options": [
+            "Every hour",
+            "Every 15-30 minutes",
+            "Every half-day",
+            "Once a day"
+        ],
+        "correct_answer": "Every 15-30 minutes",
+        "explanation": "During peak hours, GO Transit typically runs services every 15 to 30 minutes to accommodate high commuter demand."
+    },
+    {
+        "question": "Can passengers bring bicycles on GO Transit vehicles?",
+        "options": [
+            "Only on weekends",
+            "Yes, with restrictions",
+            "No, bicycles are prohibited",
+            "Only on special trains"
+        ],
+        "correct_answer": "Yes, with restrictions",
+        "explanation": "Passengers are allowed to bring bicycles on GO Transit vehicles, but there are specific rules and designated areas for bikes."
+    },
+    {
+        "question": "What is the GO Train service known for?",
+        "options": [
+            "Long-distance travel",
+            "Frequent commuter services",
+            "Scenic routes for tourists",
+            "Providing free rides"
+        ],
+        "correct_answer": "Frequent commuter services",
+        "explanation": "The GO Train service is best known for offering frequent commuter services to accommodate daily travelers in the region."
+    },
+    {
+        "question": "What type of ticket options does GO Transit offer?",
+        "options": [
+            "Unlimited pass only",
+            "Single use and passes",
+            "Tickets only for seniors",
+            "Tickets for special events only"
+        ],
+        "correct_answer": "Single use and passes",
+        "explanation": "GO Transit provides various ticketing options including single-use tickets and passes for frequent riders."
+    }
+]
