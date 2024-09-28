@@ -33,7 +33,7 @@ def identify_image(image_path):
         "content": [
             {
             "type": "text",
-            "text": "What is the name of this road sign? respond with only the sign name and nothing else"
+            "text": "What is the name of this road sign? context: this is a road sign found in ontario, canada. use the Ontario MTO handbook as a guide. respond with only the sign name and nothing else. give a concise and accurate name"
             },
             {
             "type": "image_url",
@@ -125,8 +125,11 @@ def process_images(folder_path, new_folder_path='webscraper/road_signs/'):
                     print(filename, sign_name)
                 # Rename the image with the sign name
                 image_name = f"{sign_name['choices'][0]['message']['content']}"
+                if not re.search(r'\bsign\b', image_name, re.IGNORECASE):
+                    image_name += ' Sign'
                 friendly_image_name = image_name.replace(" ", "-")
                 new_filename = f"{friendly_image_name}.jpg"
+                
                 count += 1
                 try:
                     
@@ -134,7 +137,7 @@ def process_images(folder_path, new_folder_path='webscraper/road_signs/'):
                     print(count, 'NEW FILE NAME', new_filename)
 
                     with open(file_path, 'rb') as source_image:
-                        with open(new_file_path, 'w') as file:
+                        with open(new_file_path, 'wb') as file:
                             file.write(source_image.read())
                 except Exception as e:
                     print(e, new_folder_path)
@@ -143,8 +146,8 @@ def process_images(folder_path, new_folder_path='webscraper/road_signs/'):
                 # Generate Q&A in JSON format
                 # if 'sign' not in image_name and 'Sign' not in image_name and 'Signal':
                 #     image_name += ' sign'
-                if not re.search(r'\bsign\b', image_name, re.IGNORECASE):
-                    image_name += ' Sign'
+                # if not re.search(r'\bsign\b', image_name, re.IGNORECASE):
+                #     image_name += ' Sign'
                 qa_data = generate_qa_for_sign(image_name)
                 json_file_path = os.path.join(json_folder, f"{image_name}.json")
                 
