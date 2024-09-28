@@ -53,7 +53,7 @@ def identify_image(image_path):
 
 def generate_qa_for_sign(sign_name):
     print('Generating Questions for ', sign_name)
-    prompt = f'Generate exactly 10 questions about {sign_name} in strict JSON format. Each question should have the following structure:'
+    prompt = f'Using the Ontario MTO handbook as a guide, Generate exactly 10 questions about {sign_name} in strict JSON format. Each question should have the following structure:'
 
     prompt += """ {
     "question": "The question text",
@@ -125,19 +125,17 @@ def process_images(folder_path, new_folder_path='webscraper/road_signs/'):
                     print(filename, sign_name)
                 # Rename the image with the sign name
                 image_name = f"{sign_name['choices'][0]['message']['content']}"
-                new_filename = f"{image_name}.jpg"
+                friendly_image_name = image_name.replace(" ", "-")
+                new_filename = f"{friendly_image_name}.jpg"
                 count += 1
                 try:
                     
-
-                    # # Ensure the directory exists, creating it if it does not
-                    # if not os.path.exists(new_folder_path):
-                    #     os.makedirs(new_folder_path)
                     new_file_path = os.path.join(new_folder_path, new_filename)
-                    # os.rename(new_file_path, new_filename)
                     print(count, 'NEW FILE NAME', new_filename)
-                    with open(new_file_path, 'w') as file:
-                        file.write(new_filename)
+
+                    with open(file_path, 'rb') as source_image:
+                        with open(new_file_path, 'w') as file:
+                            file.write(source_image.read())
                 except Exception as e:
                     print(e, new_folder_path)
 
