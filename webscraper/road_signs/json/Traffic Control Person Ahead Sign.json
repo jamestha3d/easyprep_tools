@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does the Traffic Control Person Ahead Sign indicate?",
+        "options": [
+            "There is an accident ahead",
+            "Construction workers ahead",
+            "A traffic control person is directing traffic up ahead",
+            "Road is closed ahead"
+        ],
+        "correct_answer": "A traffic control person is directing traffic up ahead",
+        "explanation": "The sign specifically warns drivers that a traffic control person will be present to direct vehicles safely through the area."
+    },
+    {
+        "question": "When should you be especially cautious of the Traffic Control Person Ahead Sign?",
+        "options": [
+            "During the day only",
+            "In bad weather conditions",
+            "When you see construction zones",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Drivers should always exercise caution when they see this sign, especially during construction zones and poor weather conditions."
+    },
+    {
+        "question": "What should you do when you see a Traffic Control Person Ahead Sign?",
+        "options": [
+            "Speed up to get past quickly",
+            "Slow down and prepare to stop if necessary",
+            "Ignore the sign",
+            "Change lanes to avoid the area"
+        ],
+        "correct_answer": "Slow down and prepare to stop if necessary",
+        "explanation": "The sign is a warning to slow down and be ready to follow the directions of the traffic control person."
+    },
+    {
+        "question": "How should you respond if a traffic control person is present and is signaling you to stop?",
+        "options": [
+            "Continue driving past them",
+            "Stop and wait for instructions",
+            "Honk your horn",
+            "Drive in the opposite direction"
+        ],
+        "correct_answer": "Stop and wait for instructions",
+        "explanation": "It is essential to follow the signals of the traffic control person to ensure safety."
+    },
+    {
+        "question": "Where would you typically see a Traffic Control Person Ahead Sign?",
+        "options": [
+            "In residential areas only",
+            "In construction or maintenance zones",
+            "In parking lots",
+            "At intersections"
+        ],
+        "correct_answer": "In construction or maintenance zones",
+        "explanation": "This sign is mainly used in areas where construction or maintenance work is taking place to direct traffic safely."
+    },
+    {
+        "question": "What color is the Traffic Control Person Ahead Sign?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "The sign is yellow, which is used to indicate caution and alert drivers to be careful."
+    },
+    {
+        "question": "If the Traffic Control Person is waving you forward, what should you do?",
+        "options": [
+            "Wait for further instructions",
+            "Proceed carefully, watching for other vehicles",
+            "Drive fast to get through",
+            "Ignore the person and proceed"
+        ],
+        "correct_answer": "Proceed carefully, watching for other vehicles",
+        "explanation": "If a traffic control person is signaling you to go, it means it is safe to proceed, but you should still be cautious."
+    },
+    {
+        "question": "What is the main purpose of the Traffic Control Person Ahead Sign?",
+        "options": [
+            "To inform about speed limits",
+            "To indicate an upcoming traffic light",
+            "To alert drivers about a traffic control person managing the road",
+            "To indicate a gas station ahead"
+        ],
+        "correct_answer": "To alert drivers about a traffic control person managing the road",
+        "explanation": "The sign serves to inform drivers of the presence of a traffic control person who is facilitating safe traffic movement."
+    },
+    {
+        "question": "Can you proceed through an area where the Traffic Control Person is giving directions without stopping?",
+        "options": [
+            "Yes, if the road is clear",
+            "No, you must follow their instructions",
+            "Only if you are in a hurry",
+            "Yes, if no other cars are around"
+        ],
+        "correct_answer": "No, you must follow their instructions",
+        "explanation": "It is imperative to adhere to the instructions of the traffic control person for everyone's safety."
+    },
+    {
+        "question": "What should you be aware of when following a traffic control person's instructions?",
+        "options": [
+            "Only follow instructions during the day",
+            "Be mindful of pedestrians and other vehicles",
+            "Follow the person at all costs",
+            "Ignore any other signs"
+        ],
+        "correct_answer": "Be mindful of pedestrians and other vehicles",
+        "explanation": "While following the traffic control person's instructions, drivers must also stay aware of their surroundings, including pedestrians and other vehicles."
+    }
+]

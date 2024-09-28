@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Do Not Cross Sign indicate?",
+        "options": [
+            "Safe to cross",
+            "No entry for vehicles",
+            "Do not cross the road",
+            "Construction zone ahead"
+        ],
+        "correct_answer": "Do not cross the road",
+        "explanation": "The Do Not Cross Sign is used to inform pedestrians that crossing the road at that location is prohibited."
+    },
+    {
+        "question": "When you see a Do Not Cross Sign, what should you do?",
+        "options": [
+            "Cross the street quickly",
+            "Look for a valid crosswalk",
+            "Ignore the sign",
+            "Check for traffic"
+        ],
+        "correct_answer": "Look for a valid crosswalk",
+        "explanation": "The appropriate action upon seeing a Do Not Cross Sign is to find a designated area for crossing, such as a crosswalk."
+    },
+    {
+        "question": "Which of the following scenarios might have a Do Not Cross Sign?",
+        "options": [
+            "Busy intersection",
+            "Park entrance",
+            "Pedestrian-only area",
+            "Public parking lot"
+        ],
+        "correct_answer": "Busy intersection",
+        "explanation": "Do Not Cross Signs are often placed at busy intersections where crossing may be dangerous without proper signals."
+    },
+    {
+        "question": "What should you never do when a Do Not Cross Sign is displayed?",
+        "options": [
+            "Stop and look before proceeding",
+            "Wait for the signal",
+            "Cross the road",
+            "Check for vehicles"
+        ],
+        "correct_answer": "Cross the road",
+        "explanation": "Ignoring a Do Not Cross Sign and attempting to cross the road can lead to serious accidents."
+    },
+    {
+        "question": "In which of the following situations is it most important to heed a Do Not Cross Sign?",
+        "options": [
+            "When you are in a hurry",
+            "When it's raining",
+            "When there is heavy traffic",
+            "When there are no cars in sight"
+        ],
+        "correct_answer": "When there is heavy traffic",
+        "explanation": "It is crucial to heed a Do Not Cross Sign in heavy traffic situations to prevent accidents and ensure pedestrian safety."
+    },
+    {
+        "question": "What colors are typically used for a Do Not Cross Sign?",
+        "options": [
+            "Red and white",
+            "Green and white",
+            "Yellow and black",
+            "Blue and white"
+        ],
+        "correct_answer": "Red and white",
+        "explanation": "Do Not Cross Signs generally use red and white colors to indicate prohibition, capturing drivers' and pedestrians' attention."
+    },
+    {
+        "question": "How can ignoring a Do Not Cross Sign impact safety?",
+        "options": [
+            "It can improve traffic flow",
+            "It can confuse drivers",
+            "It can increase accident risk",
+            "It has no effect"
+        ],
+        "correct_answer": "It can increase accident risk",
+        "explanation": "Ignoring a Do Not Cross Sign can lead to dangerous scenarios, increasing the risk of accidents for pedestrians in traffic."
+    },
+    {
+        "question": "Where is it appropriate to look for alternatives if a Do Not Cross Sign is present?",
+        "options": [
+            "In residential areas",
+            "At traffic lights",
+            "On the highway",
+            "At a gas station"
+        ],
+        "correct_answer": "At traffic lights",
+        "explanation": "In areas with traffic lights, people should look for signals indicating when it is safe to cross, as they provide guidance that complements Do Not Cross Signs."
+    },
+    {
+        "question": "What does a Do Not Cross Sign help with in urban planning?",
+        "options": [
+            "Creating pedestrian zones",
+            "Managing traffic flow",
+            "Designing parks",
+            "Building stores"
+        ],
+        "correct_answer": "Managing traffic flow",
+        "explanation": "Do Not Cross Signs play a crucial role in urban planning to control pedestrian movement and ensure that traffic flows safely and efficiently."
+    },
+    {
+        "question": "What might a pedestrian do if they don't see any vehicles around a Do Not Cross Sign?",
+        "options": [
+            "Cross anyway",
+            "Wait for a signal",
+            "Look for another crossing point",
+            "Ignore the sign"
+        ],
+        "correct_answer": "Look for another crossing point",
+        "explanation": "Regardless of vehicle presence, pedestrians should respect the Do Not Cross Sign and seek an appropriate crossing point for safety."
+    }
+]

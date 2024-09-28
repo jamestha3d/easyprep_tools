@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a YIELD AHEAD sign indicate?",
+        "options": [
+            "Yield to vehicles ahead",
+            "Yield for pedestrians",
+            "Upcoming yield sign",
+            "Prepare to stop"
+        ],
+        "correct_answer": "Upcoming yield sign",
+        "explanation": "The YIELD AHEAD sign alerts drivers that they will soon encounter a yield sign and should prepare to give way."
+    },
+    {
+        "question": "When you see a YIELD AHEAD sign, what should you do?",
+        "options": [
+            "Speed up",
+            "Stop immediately",
+            "Prepare to yield",
+            "Ignore it"
+        ],
+        "correct_answer": "Prepare to yield",
+        "explanation": "Drivers should prepare to yield because the sign indicates that a yield sign is approaching."
+    },
+    {
+        "question": "Where might you typically see a YIELD AHEAD sign?",
+        "options": [
+            "Near a pedestrian crossing",
+            "At a stoplight",
+            "Before the intersection with a yield sign",
+            "In a construction zone"
+        ],
+        "correct_answer": "Before the intersection with a yield sign",
+        "explanation": "The YIELD AHEAD sign is placed to alert drivers prior to an intersection where they will need to yield."
+    },
+    {
+        "question": "What color is the YIELD AHEAD sign?",
+        "options": [
+            "Red",
+            "Green",
+            "Yellow",
+            "White"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "The YIELD AHEAD sign is typically yellow to warn drivers of an upcoming yield condition."
+    },
+    {
+        "question": "What should you look for when you see a YIELD AHEAD sign?",
+        "options": [
+            "Speed limit sign",
+            "Yield sign",
+            "Traffic lights",
+            "No parking sign"
+        ],
+        "correct_answer": "Yield sign",
+        "explanation": "Drivers should look for the yield sign that follows the YIELD AHEAD sign, indicating they need to yield to other traffic."
+    },
+    {
+        "question": "Which of the following actions is NOT appropriate when approaching a YIELD AHEAD sign?",
+        "options": [
+            "Slowing down",
+            "Looking for oncoming traffic",
+            "Running through the intersection",
+            "Preparing to yield"
+        ],
+        "correct_answer": "Running through the intersection",
+        "explanation": "Running through the intersection is unsafe and not appropriate; drivers must yield as indicated by the sign."
+    },
+    {
+        "question": "What should you do if the intersection is clear when you reach the yield after the YIELD AHEAD sign?",
+        "options": [
+            "Proceed without stopping",
+            "Come to a complete stop",
+            "Honk your horn",
+            "Turn around"
+        ],
+        "correct_answer": "Proceed without stopping",
+        "explanation": "If the intersection is clear, you can proceed without stopping after yielding appropriately."
+    },
+    {
+        "question": "Is the YIELD AHEAD sign a regulation sign?",
+        "options": [
+            "Yes",
+            "No",
+            "Sometimes",
+            "Only in rural areas"
+        ],
+        "correct_answer": "Yes",
+        "explanation": "The YIELD AHEAD sign is a regulatory sign intended to communicate important traffic yield regulations to drivers."
+    },
+    {
+        "question": "What does it mean if you ignore the YIELD AHEAD sign?",
+        "options": [
+            "You may get lost",
+            "You may cause an accident",
+            "You will be late",
+            "You will have to turn around"
+        ],
+        "correct_answer": "You may cause an accident",
+        "explanation": "Ignoring the YIELD AHEAD sign could lead to dangerous situations, including collisions with other vehicles."
+    },
+    {
+        "question": "What type of traffic control is the YIELD AHEAD sign a part of?",
+        "options": [
+            "Regulatory signs",
+            "Warning signs",
+            "Guide signs",
+            "Historical signs"
+        ],
+        "correct_answer": "Warning signs",
+        "explanation": "The YIELD AHEAD sign is considered a warning sign that informs drivers of an upcoming condition requiring caution."
+    }
+]

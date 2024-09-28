@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a road name sign indicate?",
+        "options": [
+            "The speed limit",
+            "The name of the road",
+            "The distance to the next city",
+            "The type of road"
+        ],
+        "correct_answer": "The name of the road",
+        "explanation": "A road name sign provides information about the name of the road to help drivers navigate."
+    },
+    {
+        "question": "Where are road name signs typically located?",
+        "options": [
+            "Only at intersections",
+            "On every street corner",
+            "Along the side of the road",
+            "In parking lots"
+        ],
+        "correct_answer": "Along the side of the road",
+        "explanation": "Road name signs are placed along the roadside to clearly identify the road for drivers."
+    },
+    {
+        "question": "What color is a standard road name sign in Ontario?",
+        "options": [
+            "Red",
+            "Green",
+            "Blue",
+            "Yellow"
+        ],
+        "correct_answer": "Green",
+        "explanation": "In Ontario, road name signs are typically green, indicating that they provide directional information."
+    },
+    {
+        "question": "What information can be found on a road name sign?",
+        "options": [
+            "Only the road name",
+            "Road name and speed limit",
+            "Road name and important landmarks",
+            "Road name and destination"
+        ],
+        "correct_answer": "Only the road name",
+        "explanation": "Road name signs primarily display the name of the road without additional information."
+    },
+    {
+        "question": "What type of sign is used to indicate a highway?",
+        "options": [
+            "Warning sign",
+            "Regulatory sign",
+            "Information sign",
+            "Route sign"
+        ],
+        "correct_answer": "Route sign",
+        "explanation": "Route signs indicate the designation of a road or a highway, while road name signs provide the name."
+    },
+    {
+        "question": "How can road name signs assist in navigation?",
+        "options": [
+            "By providing GPS coordinates",
+            "By identifying road names",
+            "By indicating traffic lights",
+            "By showing parking regulations"
+        ],
+        "correct_answer": "By identifying road names",
+        "explanation": "Road name signs help drivers identify their current location and prepare for upcoming turns or intersections."
+    },
+    {
+        "question": "What should you do if you cannot see a road name sign?",
+        "options": [
+            "Speed up to find another sign",
+            "Stop and wait for assistance",
+            "Use maps or GPS",
+            "Ignore it and continue driving"
+        ],
+        "correct_answer": "Use maps or GPS",
+        "explanation": "If a road name sign is not visible, using alternative navigation methods can help ensure you remain on the correct route."
+    },
+    {
+        "question": "What is the importance of maintaining clear visibility of road name signs?",
+        "options": [
+            "To enhance roadside aesthetics",
+            "To improve navigation",
+            "To reduce traffic congestion",
+            "To comply with local laws"
+        ],
+        "correct_answer": "To improve navigation",
+        "explanation": "Clear visibility of road name signs is crucial for helping drivers navigate safely and efficiently."
+    },
+    {
+        "question": "What should a driver do when approaching a road name sign?",
+        "options": [
+            "Accelerate to get past it quickly",
+            "Read the sign and plan the next move",
+            "Ignore it if they know the area",
+            "Change lanes immediately"
+        ],
+        "correct_answer": "Read the sign and plan the next move",
+        "explanation": "Drivers should read road name signs to be aware of their location and prepare for any necessary maneuvers."
+    },
+    {
+        "question": "Why are road names displayed in capital letters on signs?",
+        "options": [
+            "For decorative purposes",
+            "To save space",
+            "To enhance visibility and readability",
+            "Because they are required by law"
+        ],
+        "correct_answer": "To enhance visibility and readability",
+        "explanation": "Using capital letters improves the visibility and readability of road names, which is essential for safe driving."
+    }
+]

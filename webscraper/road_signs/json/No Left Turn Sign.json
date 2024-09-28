@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a No Left Turn sign indicate?",
+        "options": [
+            "You cannot make a left turn",
+            "You cannot make a right turn",
+            "You cannot make a U-turn",
+            "You must yield to oncoming traffic"
+        ],
+        "correct_answer": "You cannot make a left turn",
+        "explanation": "A No Left Turn sign specifically prohibits drivers from making a left turn at that intersection."
+    },
+    {
+        "question": "Where would you typically find a No Left Turn sign?",
+        "options": [
+            "At intersections",
+            "On highways",
+            "In parking lots",
+            "Near school zones"
+        ],
+        "correct_answer": "At intersections",
+        "explanation": "No Left Turn signs are commonly placed at intersections where turning left is prohibited for safety or traffic flow reasons."
+    },
+    {
+        "question": "What should you do if you encounter a No Left Turn sign?",
+        "options": [
+            "Make a left turn if safe",
+            "Look for a detour",
+            "Turn right or go straight",
+            "Ignore the sign"
+        ],
+        "correct_answer": "Turn right or go straight",
+        "explanation": "If a No Left Turn sign is present, you must either go straight through the intersection or turn right."
+    },
+    {
+        "question": "Can you make a U-turn if there is a No Left Turn sign?",
+        "options": [
+            "Yes, U-turns are allowed",
+            "No, U-turns are also prohibited",
+            "Only if the road is clear",
+            "Only in emergencies"
+        ],
+        "correct_answer": "No, U-turns are also prohibited",
+        "explanation": "A No Left Turn sign generally also prohibits U-turns because they involve turning left."
+    },
+    {
+        "question": "Why might a No Left Turn sign be installed?",
+        "options": [
+            "To reduce traffic congestion",
+            "To improve pedestrian safety",
+            "To allow for better visibility",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "No Left Turn signs can be used for multiple reasons, including reducing congestion, enhancing safety for pedestrians, and improving driver visibility."
+    },
+    {
+        "question": "What is the signal that a No Left Turn sign gives to drivers?",
+        "options": [
+            "Proceed with caution",
+            "Obey the speed limit",
+            "You must stop",
+            "Do not make a left turn"
+        ],
+        "correct_answer": "Do not make a left turn",
+        "explanation": "The primary message of a No Left Turn sign is a direct instruction to drivers to refrain from making left turns."
+    },
+    {
+        "question": "What type of intersection would likely NOT have a No Left Turn sign?",
+        "options": [
+            "T-intersections",
+            "Roundabouts",
+            "Four-way intersections with no restrictions",
+            "Intersections near schools"
+        ],
+        "correct_answer": "Four-way intersections with no restrictions",
+        "explanation": "A four-way intersection without left turn restrictions would not have a No Left Turn sign, since left turns are permissible."
+    },
+    {
+        "question": "If a No Left Turn sign is present, what is the consequence of ignoring it?",
+        "options": [
+            "Receiving a warning",
+            "Increased insurance rates",
+            "Potential traffic fines",
+            "No consequences"
+        ],
+        "correct_answer": "Potential traffic fines",
+        "explanation": "Ignoring a No Left Turn sign can lead to traffic fines and penalties as it is a violation of traffic laws."
+    },
+    {
+        "question": "In which scenario would a No Left Turn sign be most useful?",
+        "options": [
+            "Heavy pedestrian traffic",
+            "High-speed roadways",
+            "Low visibility conditions",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "No Left Turn signs are useful in scenarios of heavy pedestrian traffic, high-speed roadways, and low visibility conditions to enhance safety."
+    },
+    {
+        "question": "What color is typically used for a No Left Turn sign?",
+        "options": [
+            "Red",
+            "Green",
+            "Yellow",
+            "Blue"
+        ],
+        "correct_answer": "Red",
+        "explanation": "No Left Turn signs are usually red, indicating a prohibition to ensure high visibility to drivers."
+    }
+]

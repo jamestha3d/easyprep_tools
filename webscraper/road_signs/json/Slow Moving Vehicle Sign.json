@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Slow Moving Vehicle (SMV) sign indicate?",
+        "options": [
+            "The vehicle can travel at any speed",
+            "The vehicle travels no faster than 40 km/h",
+            "The vehicle is always parked",
+            "The vehicle is in reverse"
+        ],
+        "correct_answer": "The vehicle travels no faster than 40 km/h",
+        "explanation": "A Slow Moving Vehicle sign is designed to alert drivers that the vehicle will not exceed speeds of 40 km/h, allowing them to adjust their speed and driving behavior accordingly."
+    },
+    {
+        "question": "Where is a Slow Moving Vehicle sign typically found?",
+        "options": [
+            "On highways only",
+            "On all vehicles",
+            "On vehicles that are designed for slow travel or agricultural use",
+            "Only on trailers"
+        ],
+        "correct_answer": "On vehicles that are designed for slow travel or agricultural use",
+        "explanation": "SMV signs are specifically required for vehicles like tractors and other slow-moving agricultural equipment to warn other road users of their reduced speed."
+    },
+    {
+        "question": "What color is a Slow Moving Vehicle sign?",
+        "options": [
+            "Red",
+            "Orange",
+            "Yellow",
+            "Green"
+        ],
+        "correct_answer": "Orange",
+        "explanation": "The Slow Moving Vehicle sign is orange with a reflective triangle to enhance visibility, especially in low-light conditions."
+    },
+    {
+        "question": "When should a driver expect to see a Slow Moving Vehicle sign?",
+        "options": [
+            "On busy highways",
+            "When approaching construction zones",
+            "When near farms or rural areas",
+            "In parking lots"
+        ],
+        "correct_answer": "When near farms or rural areas",
+        "explanation": "Drivers are likely to encounter SMV signs in rural or agricultural areas where slow-moving vehicles are more common, such as farms and backroads."
+    },
+    {
+        "question": "What is the shape of the Slow Moving Vehicle sign?",
+        "options": [
+            "Circle",
+            "Square",
+            "Triangle",
+            "Diamond"
+        ],
+        "correct_answer": "Triangle",
+        "explanation": "The SMV sign is a triangular shape, which is a recognized indicator for caution and slow movement in road signage."
+    },
+    {
+        "question": "What should a driver do upon seeing a Slow Moving Vehicle sign?",
+        "options": [
+            "Speed up to pass the vehicle quickly",
+            "Maintain the current speed",
+            "Reduce speed and prepare to pass safely",
+            "Ignore it"
+        ],
+        "correct_answer": "Reduce speed and prepare to pass safely",
+        "explanation": "The presence of an SMV sign signals to drivers to slow down and, if safe, prepare to pass the slow-moving vehicle carefully."
+    },
+    {
+        "question": "Are all slow vehicles required to display a Slow Moving Vehicle sign?",
+        "options": [
+            "Yes, all slow vehicles",
+            "Only agricultural vehicles",
+            "Only vehicles on public roads",
+            "Only vehicles in urban areas"
+        ],
+        "correct_answer": "Only agricultural vehicles",
+        "explanation": "Not all slow vehicles are required to display an SMV sign; it is specifically mandated for farm and agricultural vehicles."
+    },
+    {
+        "question": "What is the primary purpose of the Slow Moving Vehicle sign?",
+        "options": [
+            "To indicate a hazard",
+            "To provide directions",
+            "To warn of slow-moving vehicles",
+            "To mark a construction zone"
+        ],
+        "correct_answer": "To warn of slow-moving vehicles",
+        "explanation": "The primary purpose of the SMV sign is to inform other drivers that a vehicle is moving slowly, which allows them to adjust their speed and increase safety."
+    },
+    {
+        "question": "Is the Slow Moving Vehicle sign required to be on the back of the vehicle?",
+        "options": [
+            "Yes, it must be visible from behind",
+            "No, it can be on the side",
+            "Only enforceable during the day",
+            "Only legally required on trucks"
+        ],
+        "correct_answer": "Yes, it must be visible from behind",
+        "explanation": "The SMV sign must be displayed on the back of vehicles to ensure that it is visible to any vehicles approaching from behind."
+    },
+    {
+        "question": "What action is illegal when encountering a Slow Moving Vehicle on the road?",
+        "options": [
+            "Overtaking on the right",
+            "Yielding to the SMV",
+            "Speeding past without caution",
+            "Slowing down to pass"
+        ],
+        "correct_answer": "Speeding past without caution",
+        "explanation": "It is illegal and dangerous to speed past a slow-moving vehicle without taking the necessary caution, compromising safety for both the slow-moving vehicle and surrounding traffic."
+    }
+]

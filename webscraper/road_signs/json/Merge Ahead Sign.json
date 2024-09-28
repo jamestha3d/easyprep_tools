@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Merge Ahead sign indicate?",
+        "options": [
+            "An upcoming intersection",
+            "A lane reduction",
+            "A detour ahead",
+            "Flashing lights ahead"
+        ],
+        "correct_answer": "A lane reduction",
+        "explanation": "A Merge Ahead sign indicates that one lane will be ending soon, and vehicles from the remaining lane will need to merge."
+    },
+    {
+        "question": "What should you do when you see a Merge Ahead sign?",
+        "options": [
+            "Accelerate to pass another vehicle",
+            "Prepare to merge safely",
+            "Come to a complete stop",
+            "Change lanes immediately"
+        ],
+        "correct_answer": "Prepare to merge safely",
+        "explanation": "Drivers should prepare to merge safely and adjust their speed and position well in advance of the merge."
+    },
+    {
+        "question": "Where would you typically see a Merge Ahead sign?",
+        "options": [
+            "At a stop sign",
+            "Near an exit ramp",
+            "Before entering an express lane",
+            "Before a Traffic Circle"
+        ],
+        "correct_answer": "Before entering an express lane",
+        "explanation": "Merge Ahead signs are commonly placed before lanes are about to end or when entering an express lane where merging is necessary."
+    },
+    {
+        "question": "Which of the following should you avoid when merging?",
+        "options": [
+            "Braking suddenly",
+            "Using your turn signal",
+            "Checking mirrors",
+            "Maintaining a safe following distance"
+        ],
+        "correct_answer": "Braking suddenly",
+        "explanation": "Sudden braking can lead to accidents; it is essential to merge smoothly without abrupt actions."
+    },
+    {
+        "question": "What color is a Merge Ahead sign typically?",
+        "options": [
+            "Red",
+            "Green",
+            "Yellow",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Merge Ahead signs are typically yellow, indicating caution about an upcoming merge situation."
+    },
+    {
+        "question": "What should larger vehicles do when they see a Merge Ahead sign?",
+        "options": [
+            "Ignore as they have the right of way",
+            "Merge sooner than smaller vehicles",
+            "Proceed without changing lanes",
+            "Prepare to adjust their speed and merge cautiously"
+        ],
+        "correct_answer": "Prepare to adjust their speed and merge cautiously",
+        "explanation": "Larger vehicles should be aware that they may need more space to merge safely and thus should adjust their speeds carefully."
+    },
+    {
+        "question": "If you are in a lane that is about to end due to a Merge Ahead sign, what is the best practice?",
+        "options": [
+            "Speed up to the end of the lane",
+            "Merge early and smoothly",
+            "Wait till the last minute",
+            "Change lanes aggressively"
+        ],
+        "correct_answer": "Merge early and smoothly",
+        "explanation": "Merging early and smoothly helps prevent disruption in traffic flow and reduces the risk of accidents."
+    },
+    {
+        "question": "How should a driver react to vehicles trying to merge from a lane indicated by a Merge Ahead sign?",
+        "options": [
+            "Honk loudly",
+            "Accelerate to block them",
+            "Create space for them to merge",
+            "Remain in place without change"
+        ],
+        "correct_answer": "Create space for them to merge",
+        "explanation": "Creating space allows for a smoother merge and promotes safe driving practices."
+    },
+    {
+        "question": "Can the Merge Ahead sign be used in both construction zones and regular roadways?",
+        "options": [
+            "Only in construction zones",
+            "Only on highways",
+            "Yes, in both situations",
+            "Only in urban areas"
+        ],
+        "correct_answer": "Yes, in both situations",
+        "explanation": "The Merge Ahead sign is utilized in various situations, including construction zones and regular roadways, to alert drivers of merging conditions."
+    },
+    {
+        "question": "What might occur if drivers do not follow the Merge Ahead sign instructions?",
+        "options": [
+            "Increased speed limits",
+            "Traffic delays and collisions",
+            "Improved road conditions",
+            "No effect on driving"
+        ],
+        "correct_answer": "Traffic delays and collisions",
+        "explanation": "Ignoring the Merge Ahead sign can lead to traffic delays and increase the likelihood of collisions due to improper merging behavior."
+    }
+]

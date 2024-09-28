@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What is the primary purpose of street name signs?",
+        "options": [
+            "To provide directions",
+            "To identify locations",
+            "To display local advertisements",
+            "To indicate speed limits"
+        ],
+        "correct_answer": "To identify locations",
+        "explanation": "Street name signs are designed primarily to help identify specific streets and intersections for drivers and pedestrians."
+    },
+    {
+        "question": "Where are street name signs typically located?",
+        "options": [
+            "At the center of intersections",
+            "At the ends of streets",
+            "On traffic lights",
+            "On the curb"
+        ],
+        "correct_answer": "At the center of intersections",
+        "explanation": "Street name signs are usually placed at the center of intersections to clearly mark the names of the streets that meet there."
+    },
+    {
+        "question": "Which color is commonly used for street name signs in Ontario?",
+        "options": [
+            "Blue",
+            "Green",
+            "Red",
+            "Yellow"
+        ],
+        "correct_answer": "Green",
+        "explanation": "In Ontario, green is the standard color for street name signs as it provides good visibility and is easily recognized."
+    },
+    {
+        "question": "What shape are street name signs generally?",
+        "options": [
+            "Square",
+            "Circular",
+            "Rectangular",
+            "Triangular"
+        ],
+        "correct_answer": "Rectangular",
+        "explanation": "Rectangular shapes are most commonly used for street name signs as they can clearly display the street name and other relevant information."
+    },
+    {
+        "question": "What should drivers do if a street name sign is obscured?",
+        "options": [
+            "Ignore it",
+            "Report it to local authorities",
+            "Take a guess",
+            "Drive slowly until they can see"
+        ],
+        "correct_answer": "Report it to local authorities",
+        "explanation": "If a street name sign is obscured, drivers should report it to local authorities so that it can be fixed for the safety of all road users."
+    },
+    {
+        "question": "What information is typically found on a street name sign?",
+        "options": [
+            "Street name only",
+            "Street name and speed limit",
+            "Street name and address range",
+            "Street name and local attractions"
+        ],
+        "correct_answer": "Street name only",
+        "explanation": "Street name signs usually display the name of the street only; additional information like speed limits or addresses is found on other signs."
+    },
+    {
+        "question": "During what conditions should you be particularly attentive to street name signs?",
+        "options": [
+            "Only at night",
+            "In fog, rain, or snow",
+            "When driving in familiar areas",
+            "During road construction"
+        ],
+        "correct_answer": "In fog, rain, or snow",
+        "explanation": "Adverse weather conditions like fog, rain, or snow can impair visibility, making it crucial to pay extra attention to street name signs."
+    },
+    {
+        "question": "Why might some streets not have name signs?",
+        "options": [
+            "They are private roads",
+            "They are under construction",
+            "They are newly established",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Some streets may not have name signs because they are private, under construction, or newly established and not yet designated."
+    },
+    {
+        "question": "What font is typically used on street name signs for better legibility?",
+        "options": [
+            "Script font",
+            "Sans serif font",
+            "Serif font",
+            "Decorative font"
+        ],
+        "correct_answer": "Sans serif font",
+        "explanation": "Sans serif fonts are used on street name signs because they are easier to read from a distance and at high speeds."
+    },
+    {
+        "question": "How often should street name signs be maintained or updated?",
+        "options": [
+            "Once a year",
+            "Every five years",
+            "As needed",
+            "Once every decade"
+        ],
+        "correct_answer": "As needed",
+        "explanation": "Street name signs should be maintained or updated as needed to ensure clarity and visibility, especially after damage or wear."
+    }
+]

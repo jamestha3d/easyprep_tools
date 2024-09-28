@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a construction zone sign generally indicate?",
+        "options": [
+            "Start of roadwork",
+            "End of roadwork",
+            "Speed limit increase",
+            "No parking zone"
+        ],
+        "correct_answer": "Start of roadwork",
+        "explanation": "Construction zone signs are used to indicate the beginning of roadwork and alert drivers to changes in the driving conditions."
+    },
+    {
+        "question": "What color are most construction zone signs?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Most construction zone signs are yellow to enhance visibility and indicate caution in areas where construction is taking place."
+    },
+    {
+        "question": "What should you do when approaching a construction zone sign?",
+        "options": [
+            "Speed up",
+            "Ignore the sign",
+            "Slow down",
+            "Change lanes immediately"
+        ],
+        "correct_answer": "Slow down",
+        "explanation": "Drivers should slow down when approaching a construction zone sign to ensure their safety and the safety of construction workers."
+    },
+    {
+        "question": "What might you see alongside a construction zone sign?",
+        "options": [
+            "Pedestrian crossing",
+            "Detour signs",
+            "Traffic lights",
+            "Park signs"
+        ],
+        "correct_answer": "Detour signs",
+        "explanation": "Detour signs are often placed alongside construction zone signs to provide alternative routes for drivers when the main road is closed."
+    },
+    {
+        "question": "What is a common speed limit in construction zones?",
+        "options": [
+            "50 km/h",
+            "80 km/h",
+            "30 km/h",
+            "100 km/h"
+        ],
+        "correct_answer": "30 km/h",
+        "explanation": "In many cases, a reduced speed limit of 30 km/h is implemented in construction zones to protect workers and reduce the risk of accidents."
+    },
+    {
+        "question": "What does a 'Road Work Ahead' sign typically indicate?",
+        "options": [
+            "Completed road work",
+            "Shift in traffic patterns",
+            "Upcoming construction area",
+            "Road closure"
+        ],
+        "correct_answer": "Upcoming construction area",
+        "explanation": "'Road Work Ahead' signs alert drivers that they are approaching an area where construction is taking place, requiring caution."
+    },
+    {
+        "question": "What is the purpose of a flag person in a construction zone?",
+        "options": [
+            "Direct traffic",
+            "Sell tickets",
+            "Take measurements",
+            "Supervise construction"
+        ],
+        "correct_answer": "Direct traffic",
+        "explanation": "Flag persons are employed in construction zones to direct traffic safely through or around the area where work is being done."
+    },
+    {
+        "question": "What happens if you speed in a construction zone?",
+        "options": [
+            "You will be rewarded",
+            "You may face increased fines",
+            "You will be escorted out",
+            "Nothing will happen"
+        ],
+        "correct_answer": "You may face increased fines",
+        "explanation": "Many jurisdictions impose higher fines for speeding in construction zones to deter reckless driving that endangers workers and other motorists."
+    },
+    {
+        "question": "When are construction zone signs most likely to be present?",
+        "options": [
+            "During winter",
+            "When schools are out",
+            "During off-peak hours",
+            "During road maintenance periods"
+        ],
+        "correct_answer": "During road maintenance periods",
+        "explanation": "Construction zone signs are commonly used during road maintenance periods, alerting drivers to active work and potential hazards."
+    },
+    {
+        "question": "If you see a construction zone sign, what should you especially watch for?",
+        "options": [
+            "Animals crossing",
+            "Construction workers",
+            "Traffic lights changing",
+            "Street vendors"
+        ],
+        "correct_answer": "Construction workers",
+        "explanation": "Drivers should be particularly vigilant for construction workers in the area when they see a construction zone sign, as their safety is paramount."
+    }
+]

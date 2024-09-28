@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What symbol is commonly used to represent accessible parking?",
+        "options": [
+            "Wheelchair symbol",
+            "Car symbol",
+            "Bicycle symbol",
+            "Person walking symbol"
+        ],
+        "correct_answer": "Wheelchair symbol",
+        "explanation": "The wheelchair symbol is universally recognized as the indicator for accessible parking."
+    },
+    {
+        "question": "Who is eligible to use accessible parking spaces?",
+        "options": [
+            "Anyone",
+            "Only people with disabilities",
+            "Only people over 65",
+            "Only caregivers"
+        ],
+        "correct_answer": "Only people with disabilities",
+        "explanation": "Accessible parking spaces are designated specifically for individuals with disabilities who possess a valid permit."
+    },
+    {
+        "question": "What is required to park in an accessible parking space?",
+        "options": [
+            "A regular parking ticket",
+            "A valid disability permit",
+            "No payment required",
+            "A special vehicle"
+        ],
+        "correct_answer": "A valid disability permit",
+        "explanation": "You must display a valid accessible parking permit to legally park in an accessible parking space."
+    },
+    {
+        "question": "What does the sign indicating an accessible parking space typically include?",
+        "options": [
+            "Hours of operation",
+            "Wheelchair symbol and permit number",
+            "Only a wheelchair symbol",
+            "A fine amount"
+        ],
+        "correct_answer": "Wheelchair symbol and permit number",
+        "explanation": "Accessible parking signs include the wheelchair symbol and often a permit number to denote the space's criteria."
+    },
+    {
+        "question": "Are accessible parking spaces always located near building entrances?",
+        "options": [
+            "Yes",
+            "No",
+            "Only in large parking lots",
+            "Only in shopping malls"
+        ],
+        "correct_answer": "Yes",
+        "explanation": "Accessible parking spaces are required to be closer to building entrances to facilitate easier access for individuals with disabilities."
+    },
+    {
+        "question": "What can happen if someone parks in an accessible parking space without a permit?",
+        "options": [
+            "Nothing, it's allowed",
+            "Sent a warning",
+            "Fine or ticket",
+            "Towed immediately"
+        ],
+        "correct_answer": "Fine or ticket",
+        "explanation": "Parking in an accessible parking space without a valid permit can result in a fine or ticket as it violates parking regulations."
+    },
+    {
+        "question": "How is the size of accessible parking spaces different from regular parking spaces?",
+        "options": [
+            "They are the same size",
+            "They are larger",
+            "They are smaller",
+            "They have no designated size"
+        ],
+        "correct_answer": "They are larger",
+        "explanation": "Accessible parking spaces are larger than standard spaces to accommodate the needs of individuals with disabilities, including space for wheelchair access."
+    },
+    {
+        "question": "Can a vehicle displaying an accessible parking permit park in any parking space?",
+        "options": [
+            "Yes, anywhere",
+            "Only in reserved accessible spaces",
+            "Only in designated spots",
+            "Only in private lots"
+        ],
+        "correct_answer": "Only in reserved accessible spaces",
+        "explanation": "A vehicle displaying an accessible parking permit must park only in designated accessible parking spaces and cannot park in regular spaces without authorization."
+    },
+    {
+        "question": "What is the purpose of accessible parking spaces?",
+        "options": [
+            "To decrease traffic",
+            "To provide convenience for everyone",
+            "To assist those with mobility challenges",
+            "To make parking easier for trucks"
+        ],
+        "correct_answer": "To assist those with mobility challenges",
+        "explanation": "The primary purpose of accessible parking spaces is to provide convenient access for individuals with mobility challenges, ensuring they can access buildings and services."
+    },
+    {
+        "question": "What does the MTO handbook recommend for accessible parking regulations?",
+        "options": [
+            "All vehicles should park freely",
+            "Permits should be displayed visibly",
+            "Charges should not apply",
+            "Spaces should not be marked"
+        ],
+        "correct_answer": "Permits should be displayed visibly",
+        "explanation": "The MTO handbook recommends that valid accessible parking permits must be clearly visible to avoid penalties and to ensure enforcement."
+    }
+]

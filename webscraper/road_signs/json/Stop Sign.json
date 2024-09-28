@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a stop sign indicate to drivers?",
+        "options": [
+            "Slow down",
+            "Prepare to yield",
+            "Come to a complete stop",
+            "Proceed with caution"
+        ],
+        "correct_answer": "Come to a complete stop",
+        "explanation": "A stop sign instructs drivers to come to a complete stop at the intersection before proceeding."
+    },
+    {
+        "question": "How far must a driver stop from a stop sign?",
+        "options": [
+            "At the stop line",
+            "Within 10 feet",
+            "At least 20 feet",
+            "Anywhere before the sign"
+        ],
+        "correct_answer": "At the stop line",
+        "explanation": "Drivers must stop at the stop line, if present, or at the point where they can effectively see cross traffic."
+    },
+    {
+        "question": "What should you do if there is no traffic at a stop sign?",
+        "options": [
+            "Continue driving without stopping",
+            "Slow down and roll through the stop",
+            "Come to a complete stop",
+            "Honk the horn before proceeding"
+        ],
+        "correct_answer": "Come to a complete stop",
+        "explanation": "Even if there is no traffic, the law requires drivers to come to a complete stop at a stop sign."
+    },
+    {
+        "question": "If two vehicles arrive at a stop sign at the same time, who has the right of way?",
+        "options": [
+            "The vehicle on the left",
+            "The vehicle on the right",
+            "The larger vehicle",
+            "The vehicle with more passengers"
+        ],
+        "correct_answer": "The vehicle on the right",
+        "explanation": "In the event of a tie at a stop sign, the vehicle on the right has the right of way."
+    },
+    {
+        "question": "What is the penalty for failing to obey a stop sign in Ontario?",
+        "options": [
+            "Warning only",
+            "Fine and demerit points",
+            "Community service",
+            "Vehicle impoundment"
+        ],
+        "correct_answer": "Fine and demerit points",
+        "explanation": "Violating a stop sign can result in a monetary fine and demerit points added to the driver's license."
+    },
+    {
+        "question": "What action should a driver take if they miss a stop sign?",
+        "options": [
+            "Make a U-turn to return",
+            "Continue driving cautiously",
+            "Turn around at the next intersection",
+            "Go back to where they missed it"
+        ],
+        "correct_answer": "Continue driving cautiously",
+        "explanation": "If a driver misses a stop sign, they should continue driving cautiously and obey the next traffic signs."
+    },
+    {
+        "question": "At a four-way stop, how should drivers determine who goes first?",
+        "options": [
+            "The fastest driver goes first",
+            "The driver who arrives first goes first",
+            "All drivers go simultaneously",
+            "The largest vehicle goes first"
+        ],
+        "correct_answer": "The driver who arrives first goes first",
+        "explanation": "At a four-way stop, the first vehicle to arrive at the intersection has the right of way."
+    },
+    {
+        "question": "What is the shape of a stop sign?",
+        "options": [
+            "Circle",
+            "Triangle",
+            "Octagon",
+            "Square"
+        ],
+        "correct_answer": "Octagon",
+        "explanation": "The stop sign is uniquely shaped as an octagon, which helps it be easily recognized."
+    },
+    {
+        "question": "What color is a standard stop sign?",
+        "options": [
+            "Red",
+            "Green",
+            "Yellow",
+            "Blue"
+        ],
+        "correct_answer": "Red",
+        "explanation": "The standard color for stop signs is red, which signifies to drivers that they must stop."
+    },
+    {
+        "question": "In poor visibility conditions, what should a driver do at a stop sign?",
+        "options": [
+            "Speed up to clear the intersection quickly",
+            "Roll through without stopping",
+            "Use extra caution and stop completely",
+            "Ignore the sign if traffic is clear"
+        ],
+        "correct_answer": "Use extra caution and stop completely",
+        "explanation": "In poor visibility conditions, it is crucial for drivers to stop completely and assess the situation carefully."
+    }
+]

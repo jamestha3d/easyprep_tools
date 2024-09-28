@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a No Passing sign indicate?",
+        "options": [
+            "You can pass if it's safe",
+            "No passing is allowed",
+            "You must slow down",
+            "You can only pass trucks"
+        ],
+        "correct_answer": "No passing is allowed",
+        "explanation": "A No Passing sign indicates that drivers are prohibited from overtaking and passing other vehicles in that area."
+    },
+    {
+        "question": "Where is a No Passing sign usually located?",
+        "options": [
+            "On straight roads",
+            "Near intersections",
+            "In areas with limited visibility",
+            "At the end of a highway"
+        ],
+        "correct_answer": "In areas with limited visibility",
+        "explanation": "No Passing signs are typically placed in areas where visibility is restricted, such as curves or hills."
+    },
+    {
+        "question": "What should you do when you see a No Passing sign?",
+        "options": [
+            "Begin to pass cautiously",
+            "Maintain your speed",
+            "Look for an opportunity to pass",
+            "Do not pass until the sign is gone"
+        ],
+        "correct_answer": "Do not pass until the sign is gone",
+        "explanation": "When you see a No Passing sign, you must refrain from passing until you reach a point where it is safe and legal to do so."
+    },
+    {
+        "question": "Is there ever an exception to the No Passing sign?",
+        "options": [
+            "Yes, during daytime",
+            "Yes, for bicycles",
+            "No, it is always enforced",
+            "Yes, on weekends only"
+        ],
+        "correct_answer": "No, it is always enforced",
+        "explanation": "No Passing signs are enforced regardless of time or vehicle type, meaning no overtaking is allowed."
+    },
+    {
+        "question": "What might happen if you ignore a No Passing sign?",
+        "options": [
+            "You could receive a warning",
+            "You could be fined or penalized",
+            "Nothing will happen",
+            "You might cause an accident"
+        ],
+        "correct_answer": "You could be fined or penalized",
+        "explanation": "Ignoring a No Passing sign can result in fines or penalties, as it is a violation of traffic regulations."
+    },
+    {
+        "question": "What color are No Passing signs typically?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "No Passing signs are typically yellow with black text to alert drivers of the restriction."
+    },
+    {
+        "question": "What should drivers do if they are in the process of passing when they see a No Passing sign?",
+        "options": [
+            "Complete the pass quickly",
+            "Slow down immediately",
+            "Continue to pass if it's safe",
+            "Pull over and stop"
+        ],
+        "correct_answer": "Slow down immediately",
+        "explanation": "If a driver sees a No Passing sign while already passing, they should slow down and return to their lane if it is safe."
+    },
+    {
+        "question": "How can a No Passing sign enhance road safety?",
+        "options": [
+            "By allowing faster traffic",
+            "By reducing lane changes",
+            "By preventing overtaking in dangerous areas",
+            "By increasing traffic flow"
+        ],
+        "correct_answer": "By preventing overtaking in dangerous areas",
+        "explanation": "No Passing signs are crucial for preventing overtaking in areas where visibility is poor, thus enhancing overall road safety."
+    },
+    {
+        "question": "In which situation is passing likely to be most dangerous?",
+        "options": [
+            "On highways",
+            "In residential areas",
+            "On hills or curves",
+            "In parking lots"
+        ],
+        "correct_answer": "On hills or curves",
+        "explanation": "Passing on hills or curves can be particularly dangerous due to limited visibility, which is why No Passing signs are often placed there."
+    },
+    {
+        "question": "What is the legal implication of disobeying a No Passing sign?",
+        "options": [
+            "It's a minor infraction",
+            "It might lead to a license suspension",
+            "It's considered a serious traffic violation",
+            "There are no legal implications"
+        ],
+        "correct_answer": "It's considered a serious traffic violation",
+        "explanation": "Disobeying a No Passing sign can be classified as a serious traffic violation, leading to fines and points on your license."
+    }
+]

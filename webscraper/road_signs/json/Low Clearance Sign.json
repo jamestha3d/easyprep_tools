@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a low clearance sign indicate?",
+        "options": [
+            "A road is closed",
+            "A height restriction",
+            "A speed limit",
+            "A detour"
+        ],
+        "correct_answer": "A height restriction",
+        "explanation": "A low clearance sign informs drivers of a height limit they must adhere to, indicating that vehicles exceeding that height cannot safely pass."
+    },
+    {
+        "question": "When approaching a low clearance sign, what should drivers do?",
+        "options": [
+            "Speed up to pass quickly",
+            "Slow down and assess their vehicle's height",
+            "Ignore the sign if they feel they can fit",
+            "Turn around immediately"
+        ],
+        "correct_answer": "Slow down and assess their vehicle's height",
+        "explanation": "Drivers should always slow down and ensure their vehicle's height is within the limit specified by the low clearance sign before proceeding."
+    },
+    {
+        "question": "What can happen if a driver ignores a low clearance sign?",
+        "options": [
+            "Nothing, it's just a suggestion",
+            "Their vehicle might get damaged",
+            "They will receive a fine",
+            "They will be redirected"
+        ],
+        "correct_answer": "Their vehicle might get damaged",
+        "explanation": "Ignoring a low clearance sign can lead to serious damage to the vehicle, as it may not have enough clearance to pass under structures such as bridges or overpasses."
+    },
+    {
+        "question": "What color are most low clearance signs?",
+        "options": [
+            "Green",
+            "Red",
+            "Yellow",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Most low clearance signs are yellow, which is used to caution drivers about potential hazards ahead."
+    },
+    {
+        "question": "What acronym is often associated with low clearance signs to ensure safety?",
+        "options": [
+            "AIM",
+            "STOP",
+            "DRIVE",
+            "HOPE"
+        ],
+        "correct_answer": "AIM",
+        "explanation": "AIM stands for Assess, Identify, and Manage, which helps drivers make safe decisions when approaching low clearance areas."
+    },
+    {
+        "question": "What is a common measurement displayed on a low clearance sign?",
+        "options": [
+            "Width in meters",
+            "Height in feet",
+            "Speed limit",
+            "Distance to next exit"
+        ],
+        "correct_answer": "Height in feet",
+        "explanation": "Low clearance signs typically display the maximum height in feet to inform drivers of the clearance available beneath structures."
+    },
+    {
+        "question": "How can a driver determine their vehicle's height?",
+        "options": [
+            "By checking the manual",
+            "By estimating visually",
+            "By asking passengers",
+            "By ignoring it"
+        ],
+        "correct_answer": "By checking the manual",
+        "explanation": "The driver's manual contains specifications for the vehicle's height, which is essential for ensuring safe passage under low clearance signs."
+    },
+    {
+        "question": "What should larger vehicles do when they approach a low clearance sign?",
+        "options": [
+            "Go around the obstacle",
+            "Drive faster to fit",
+            "Stop and wait for traffic",
+            "Proceed with caution"
+        ],
+        "correct_answer": "Go around the obstacle",
+        "explanation": "Larger vehicles should look for alternative routes rather than attempting to pass under structures with low clearance that could cause damage."
+    },
+    {
+        "question": "What should drivers do if they are unsure about their vehicle's height?",
+        "options": [
+            "Proceed with caution",
+            "Turn back and find another route",
+            "Ask another driver",
+            "Follow the car in front"
+        ],
+        "correct_answer": "Turn back and find another route",
+        "explanation": "If drivers are unsure of their vehicle\u2019s height, the safest option is to turn back to avoid risking damage to their vehicle."
+    },
+    {
+        "question": "What should a driver do if they encounter a low clearance sign after it is too late to turn around?",
+        "options": [
+            "Accelerate",
+            "Proceed carefully and slowly",
+            "Call for help",
+            "Attempt to fit through"
+        ],
+        "correct_answer": "Proceed carefully and slowly",
+        "explanation": "If already committed, proceeding slowly may allow for safe navigation under the structure if the clearance can accommodate the vehicle."
+    }
+]

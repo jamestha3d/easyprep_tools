@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does the 'Bridge May Be Iced Over' sign indicate?",
+        "options": [
+            "Bridges are safe for crossing",
+            "Bridges may be more slippery than roads",
+            "Bridges are under construction",
+            "Bridges have a weight limit"
+        ],
+        "correct_answer": "Bridges may be more slippery than roads",
+        "explanation": "The sign warns that the surface of the bridge may not be treated the same way as the roadway, leading to potentially icy conditions."
+    },
+    {
+        "question": "When should you be especially cautious of the 'Bridge May Be Iced Over' sign?",
+        "options": [
+            "During summer months",
+            "In the spring",
+            "During winter and early spring",
+            "At night only"
+        ],
+        "correct_answer": "During winter and early spring",
+        "explanation": "Icy conditions are most likely to occur during winter and early spring when temperatures fluctuate, leading to the formation of ice on bridges."
+    },
+    {
+        "question": "What should you do if you see a 'Bridge May Be Iced Over' sign while driving?",
+        "options": [
+            "Speed up to get over the bridge quickly",
+            "Maintain a safe speed and increase following distance",
+            "Ignore the sign",
+            "Change lanes immediately"
+        ],
+        "correct_answer": "Maintain a safe speed and increase following distance",
+        "explanation": "Driving cautiously and increasing your following distance helps prevent accidents due to unexpected slippery conditions."
+    },
+    {
+        "question": "Which of the following is NOT a characteristic of ice on bridges?",
+        "options": [
+            "It forms differently than on roadways",
+            "It can appear without warning",
+            "It is thicker than ice on roads",
+            "It can melt faster than on roads"
+        ],
+        "correct_answer": "It is thicker than ice on roads",
+        "explanation": "Ice on bridges can be just as thin or even thinner than on roads, and it often forms and melts more quickly due to the air flow beneath."
+    },
+    {
+        "question": "What should drivers reduce when approaching a bridge with this sign?",
+        "options": [
+            "Their speed",
+            "Their alertness",
+            "Their engine power",
+            "Their visibility"
+        ],
+        "correct_answer": "Their speed",
+        "explanation": "Reducing speed helps to enhance control of the vehicle on potentially slippery surfaces."
+    },
+    {
+        "question": "Which of the following conditions is most likely to cause ice on a bridge?",
+        "options": [
+            "Foggy weather",
+            "Heavy rainfall",
+            "Freezing temperatures",
+            "Sunny days"
+        ],
+        "correct_answer": "Freezing temperatures",
+        "explanation": "Freezing temperatures can lead to ice formation on bridges, especially when the air temperature is below freezing."
+    },
+    {
+        "question": "What is the primary risk associated with driving on an iced-over bridge?",
+        "options": [
+            "Loss of vehicle control",
+            "Flat tires",
+            "Increased fuel consumption",
+            "Overheating engine"
+        ],
+        "correct_answer": "Loss of vehicle control",
+        "explanation": "The main risk of icy conditions is losing traction, which can lead to dangerous situations and loss of vehicle control."
+    },
+    {
+        "question": "What is recommended to check before crossing a bridge in winter conditions?",
+        "options": [
+            "Weather alerts",
+            "Construction updates",
+            "Traffic light status",
+            "All of the above"
+        ],
+        "correct_answer": "Weather alerts",
+        "explanation": "Staying informed about weather alerts can help forewarn drivers about icy conditions or other hazards."
+    },
+    {
+        "question": "Should cyclists be concerned about the 'Bridge May Be Iced Over' sign?",
+        "options": [
+            "No, they are unaffected",
+            "Yes, they can also slip",
+            "Only in summer",
+            "Only if it's snowing"
+        ],
+        "correct_answer": "Yes, they can also slip",
+        "explanation": "Cyclists are also at risk for slipping on icy surfaces, just like motor vehicles."
+    },
+    {
+        "question": "How can you visually identify icy conditions on a bridge?",
+        "options": [
+            "By checking for snow",
+            "By looking for shiny spots",
+            "By measuring the temperature",
+            "By seeing other vehicles crossing safely"
+        ],
+        "correct_answer": "By looking for shiny spots",
+        "explanation": "Shiny spots on a bridge often indicate ice formation, which can be very slick and dangerous."
+    }
+]

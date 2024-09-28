@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What color is the Emergency Detour Route Sign?",
+        "options": [
+            "Red",
+            "Green",
+            "Blue",
+            "Yellow"
+        ],
+        "correct_answer": "Green",
+        "explanation": "Emergency Detour Route Signs are green to provide clear visibility and aid drivers in identifying alternate routes."
+    },
+    {
+        "question": "What does an Emergency Detour Route Sign indicate?",
+        "options": [
+            "A road is permanently closed",
+            "A temporary detour due to an emergency",
+            "A construction zone",
+            "A speed limit change"
+        ],
+        "correct_answer": "A temporary detour due to an emergency",
+        "explanation": "The Emergency Detour Route Sign is used to direct drivers to a temporary route in response to emergencies or road closures."
+    },
+    {
+        "question": "When should you follow an Emergency Detour Route Sign?",
+        "options": [
+            "Only during daytime",
+            "Only when there is traffic",
+            "When directed to detour due to emergencies",
+            "Never"
+        ],
+        "correct_answer": "When directed to detour due to emergencies",
+        "explanation": "Drivers should follow Emergency Detour Route Signs during emergencies or when directed due to road closures to ensure safety."
+    },
+    {
+        "question": "What shape are the Emergency Detour Route Signs?",
+        "options": [
+            "Square",
+            "Circular",
+            "Rectangular",
+            "Triangular"
+        ],
+        "correct_answer": "Rectangular",
+        "explanation": "Emergency Detour Route Signs are typically rectangular, which is standard for directional signage."
+    },
+    {
+        "question": "What information is typically included on an Emergency Detour Route Sign?",
+        "options": [
+            "Distance to the detour",
+            "Name of the road",
+            "Direction of the detour",
+            "Local attractions"
+        ],
+        "correct_answer": "Direction of the detour",
+        "explanation": "Emergency Detour Route Signs primarily provide information on the direction drivers should take to follow the detour."
+    },
+    {
+        "question": "Where are Emergency Detour Route Signs commonly placed?",
+        "options": [
+            "In parking lots",
+            "At intersections",
+            "On residential streets",
+            "In commercial areas"
+        ],
+        "correct_answer": "At intersections",
+        "explanation": "Emergency Detour Route Signs are strategically placed at intersections to guide drivers effectively around closed roadways."
+    },
+    {
+        "question": "What should drivers do when they see an Emergency Detour Route Sign?",
+        "options": [
+            "Ignore it if they know the area",
+            "Slow down and follow the sign",
+            "Take a different route",
+            "Park their vehicle"
+        ],
+        "correct_answer": "Slow down and follow the sign",
+        "explanation": "Drivers should slow down and follow the Emergency Detour Route Sign to navigate safely around closures or hazards."
+    },
+    {
+        "question": "Is it permissible to operate a motor vehicle on detour routes?",
+        "options": [
+            "Yes, always",
+            "No, never",
+            "Only if directed by a sign",
+            "Only if traffic is light"
+        ],
+        "correct_answer": "Yes, always",
+        "explanation": "Operating a vehicle on established detour routes is permissible as these routes are designed for traffic during emergencies."
+    },
+    {
+        "question": "Who is responsible for placing Emergency Detour Route Signs?",
+        "options": [
+            "Local businesses",
+            "Municipalities or regional authorities",
+            "The public",
+            "Private road owners"
+        ],
+        "correct_answer": "Municipalities or regional authorities",
+        "explanation": "Municipalities and regional authorities are responsible for placing Emergency Detour Route Signs during road closures or emergencies."
+    },
+    {
+        "question": "When are Emergency Detour Route Signs most frequently used?",
+        "options": [
+            "During holidays",
+            "During bad weather",
+            "During construction",
+            "During emergency situations"
+        ],
+        "correct_answer": "During emergency situations",
+        "explanation": "Emergency Detour Route Signs are most frequently used during emergency situations to redirect traffic away from hazardous areas."
+    }
+]

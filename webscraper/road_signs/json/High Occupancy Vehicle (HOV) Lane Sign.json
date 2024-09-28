@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does the HOV lane sign indicate?",
+        "options": [
+            "A lane for solo drivers",
+            "A lane reserved for carpools",
+            "A lane for trucks only",
+            "A lane for emergency vehicles"
+        ],
+        "correct_answer": "A lane reserved for carpools",
+        "explanation": "HOV (High Occupancy Vehicle) lanes are specifically designated for vehicles carrying multiple passengers to encourage carpooling."
+    },
+    {
+        "question": "Who is allowed to use the HOV lane?",
+        "options": [
+            "Only public transport",
+            "Vehicles with two or more passengers",
+            "Only trucks",
+            "All vehicles at all times"
+        ],
+        "correct_answer": "Vehicles with two or more passengers",
+        "explanation": "HOV lanes are intended for vehicles with two or more occupants to promote carpooling and reduce traffic congestion."
+    },
+    {
+        "question": "What does a solid white line next to the HOV lane mean?",
+        "options": [
+            "You can change lanes at any time",
+            "You cannot change lanes into the HOV lane",
+            "The lane is closed",
+            "You can stop in this lane"
+        ],
+        "correct_answer": "You cannot change lanes into the HOV lane",
+        "explanation": "A solid white line indicates that changing lanes into the HOV lane is prohibited."
+    },
+    {
+        "question": "During what times are HOV restrictions typically in effect?",
+        "options": [
+            "Midday only",
+            "Morning and evening rush hours",
+            "24/7",
+            "Weekends only"
+        ],
+        "correct_answer": "Morning and evening rush hours",
+        "explanation": "HOV lane restrictions are most commonly in place during peak traffic hours to help reduce congestion."
+    },
+    {
+        "question": "What should you do if you are driving alone and mistakenly enter an HOV lane?",
+        "options": [
+            "Stay in the lane until the exit",
+            "Immediately exit the lane",
+            "Drive faster to avoid getting fined",
+            "Ignore the signs"
+        ],
+        "correct_answer": "Immediately exit the lane",
+        "explanation": "If you are driving alone, you must exit the HOV lane as soon as it is safe to do so."
+    },
+    {
+        "question": "What is the main purpose of HOV lanes?",
+        "options": [
+            "To increase traffic flow",
+            "To allow trucks to travel faster",
+            "To provide parking space",
+            "To reduce fuel consumption"
+        ],
+        "correct_answer": "To increase traffic flow",
+        "explanation": "HOV lanes help to maximize road efficiency by promoting carpooling, which can reduce the number of vehicles on the road."
+    },
+    {
+        "question": "Are motorcycles permitted in HOV lanes?",
+        "options": [
+            "Only if they have a passenger",
+            "Yes, all the time",
+            "No, never",
+            "Only during certain hours"
+        ],
+        "correct_answer": "Yes, all the time",
+        "explanation": "Motorcycles are typically allowed to use HOV lanes regardless of the number of passengers."
+    },
+    {
+        "question": "What may happen if you violate HOV lane regulations?",
+        "options": [
+            "You will receive a warning",
+            "You may get a fine",
+            "Nothing happens",
+            "You can appeal to a court"
+        ],
+        "correct_answer": "You may get a fine",
+        "explanation": "Violating HOV regulations can result in monetary fines, as the rules are enforced to maintain their intended purpose."
+    },
+    {
+        "question": "Which vehicles may use HOV lanes during restricted hours?",
+        "options": [
+            "Only bicycles",
+            "All vehicles",
+            "Vehicles with designated number of occupants",
+            "Only emergency vehicles"
+        ],
+        "correct_answer": "Vehicles with designated number of occupants",
+        "explanation": "HOV lanes are specifically meant for vehicles that meet the minimum occupancy requirements during restricted hours."
+    },
+    {
+        "question": "What is a common feature found next to HOV lane signs?",
+        "options": [
+            "Speed limit signs",
+            "Road closure signs",
+            "Carpooling rules",
+            "No parking signs"
+        ],
+        "correct_answer": "Carpooling rules",
+        "explanation": "HOV lane signs usually include information on the number of occupants required to use the lane and any applicable hours of operation."
+    }
+]

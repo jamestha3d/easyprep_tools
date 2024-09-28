@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a green snowmobile route sign typically indicate?",
+        "options": [
+            "Access to a snowmobile trail",
+            "A caution area ahead",
+            "A point of interest",
+            "A snowmobile parking area"
+        ],
+        "correct_answer": "Access to a snowmobile trail",
+        "explanation": "Green snowmobile route signs indicate that you are entering a designated snowmobile trail."
+    },
+    {
+        "question": "What is the purpose of a yellow snowmobile caution sign?",
+        "options": [
+            "Caution: Reduced visibility ahead",
+            "End of snowmobile trail",
+            "Maintenance area",
+            "Access to a snowmobile rental service"
+        ],
+        "correct_answer": "Caution: Reduced visibility ahead",
+        "explanation": "Yellow caution signs warn riders of potential hazards or changes in trail conditions."
+    },
+    {
+        "question": "What does a red snowmobile sign typically signify?",
+        "options": [
+            "Access point to a service area",
+            "Danger or hazard present",
+            "End of a snowmobile route",
+            "Warning of wildlife crossing"
+        ],
+        "correct_answer": "Danger or hazard present",
+        "explanation": "Red signs indicate a hazard that snowmobilers should be aware of and take precautions to avoid."
+    },
+    {
+        "question": "What should you do when you see a sign indicating the end of a snowmobile route?",
+        "options": [
+            "Turn back immediately",
+            "Speed up to exit the area",
+            "Look for another route",
+            "Ignore it if you know the area"
+        ],
+        "correct_answer": "Look for another route",
+        "explanation": "Seeing the end of a snowmobile route means you must find another way; ignoring it could lead to unsafe situations."
+    },
+    {
+        "question": "What kind of sign indicates a snowmobile parking area?",
+        "options": [
+            "Blue with a snowmobile icon",
+            "Green with a snowflake",
+            "Yellow triangle",
+            "Red rectangular sign"
+        ],
+        "correct_answer": "Blue with a snowmobile icon",
+        "explanation": "Blue signs are used to designate official parking areas for snowmobile users."
+    },
+    {
+        "question": "What does a warning sign with a deer symbol indicate?",
+        "options": [
+            "Deer crossing area",
+            "Snowmobile service station",
+            "Trail maintenance ahead",
+            "Significant trail elevation change"
+        ],
+        "correct_answer": "Deer crossing area",
+        "explanation": "This sign warns snowmobilers to be cautious of potential wildlife, particularly deer, crossing the trail."
+    },
+    {
+        "question": "What should you observe when you see a sign for a snowmobile trail junction?",
+        "options": [
+            "Join any nearby trail",
+            "Choose your direction carefully",
+            "Ignore the sign if you know where to go",
+            "Speed up to reach the junction"
+        ],
+        "correct_answer": "Choose your direction carefully",
+        "explanation": "At a junction, it's important to take your time and ensure you choose the correct trail to avoid getting lost."
+    },
+    {
+        "question": "What type of sign is used to indicate a snowmobile trail that is closed?",
+        "options": [
+            "Orange with a snowmobile icon",
+            "Red with a cross",
+            "Yellow advisory sign",
+            "Green warning sign"
+        ],
+        "correct_answer": "Red with a cross",
+        "explanation": "A sign with a red cross indicates that a snowmobile trail is closed to riders."
+    },
+    {
+        "question": "What does a sign with a speed limit symbol indicate?",
+        "options": [
+            "Recommended speed limit",
+            "Enforced speed limit",
+            "Speed zone to avoid accidents",
+            "Maximum speed allowed is 50 km/h"
+        ],
+        "correct_answer": "Enforced speed limit",
+        "explanation": "Speed limit signs indicate the maximum speed allowed on that particular trail, and violations can result in penalties."
+    },
+    {
+        "question": "What is indicated by a sign that has a warning about 'Trail Maintenance?'",
+        "options": [
+            "Trail is closed",
+            "Slow down and be cautious",
+            "You can proceed without worries",
+            "Trail conditions are optimal"
+        ],
+        "correct_answer": "Slow down and be cautious",
+        "explanation": "This sign indicates that maintenance work is ongoing, and riders should slow down and be aware of possible hazards."
+    }
+]

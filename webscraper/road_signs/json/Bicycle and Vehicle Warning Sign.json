@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a sign with a bicycle symbol typically indicate?",
+        "options": [
+            "No bicycles allowed",
+            "Bicycle lane ahead",
+            "Shared road with bicycles",
+            "Bicycles must yield to vehicles"
+        ],
+        "correct_answer": "Bicycle lane ahead",
+        "explanation": "A sign with a bicycle symbol generally indicates that a dedicated bicycle lane is present or approaching."
+    },
+    {
+        "question": "What should you do when you see a 'Bicycles may be present' warning sign?",
+        "options": [
+            "Increase speed",
+            "Be prepared to encounter cyclists",
+            "Ignore and continue driving",
+            "Reduce speed unnecessarily"
+        ],
+        "correct_answer": "Be prepared to encounter cyclists",
+        "explanation": "This sign warns drivers that bicycles may be on the road, prompting them to be cautious and aware of cyclists."
+    },
+    {
+        "question": "When approaching a 'Bicycle Crossing' sign, what action is recommended?",
+        "options": [
+            "Speed up to cross quickly",
+            "Slow down and watch for cyclists",
+            "Stop completely",
+            "Ignore the sign if no cyclists are visible"
+        ],
+        "correct_answer": "Slow down and watch for cyclists",
+        "explanation": "The 'Bicycle Crossing' sign advises motorists to reduce speed and be vigilant for cyclists crossing the road."
+    },
+    {
+        "question": "What does a yellow diamond sign with a bicycle icon indicate?",
+        "options": [
+            "Bicycle parking available",
+            "Bicycle rental station nearby",
+            "Winding road with bicycles",
+            "Bicycle traffic may be present"
+        ],
+        "correct_answer": "Bicycle traffic may be present",
+        "explanation": "A yellow diamond sign featuring a bicycle icon alerts drivers to the possible presence of bicycle traffic ahead."
+    },
+    {
+        "question": "How should a driver respond to a 'Bicycles Using Full Lane' sign?",
+        "options": [
+            "Assume it's a normal lane",
+            "Share the lane with cyclists",
+            "Overtake without caution",
+            "Honk to alert cyclists"
+        ],
+        "correct_answer": "Share the lane with cyclists",
+        "explanation": "This sign indicates that cyclists may take the full lane due to road conditions, and drivers should accommodate them safely."
+    },
+    {
+        "question": "What does a sign indicating 'Cyclist Yield Ahead' mean?",
+        "options": [
+            "Cyclists must stop",
+            "Drivers must yield to bicycles",
+            "Bicycles do not have right of way",
+            "Cyclists should slow down and yield"
+        ],
+        "correct_answer": "Cyclists should slow down and yield",
+        "explanation": "This sign warns that cyclists should be prepared to yield to others at an intersection or crossing."
+    },
+    {
+        "question": "What is the primary purpose of bicycle warning signs?",
+        "options": [
+            "To guide cyclists",
+            "To alert drivers of potential bicycle traffic",
+            "To prohibit bicycles in certain areas",
+            "To promote bicycle safety education"
+        ],
+        "correct_answer": "To alert drivers of potential bicycle traffic",
+        "explanation": "Bicycle warning signs are designed to inform drivers that bicycles may be on or crossing the road, enhancing safety for all."
+    },
+    {
+        "question": "What should you expect when approaching a sign that mentions 'Bicycle Path End'?",
+        "options": [
+            "Path is safe for bicycles",
+            "Bicycles may need to join road traffic",
+            "Bicycles have a dedicated lane ahead",
+            "Bicycles must dismount"
+        ],
+        "correct_answer": "Bicycles may need to join road traffic",
+        "explanation": "The 'Bicycle Path End' sign indicates that cyclists must leave a dedicated path and navigate with regular road traffic."
+    },
+    {
+        "question": "When you see a 'Bicycle Parking' sign, what does it signify?",
+        "options": [
+            "No bicycles allowed",
+            "Bicycles must be parked elsewhere",
+            "Designated area for bicycle parking",
+            "Bicycles may cause traffic delays"
+        ],
+        "correct_answer": "Designated area for bicycle parking",
+        "explanation": "This sign indicates that there is a designated area specifically for parking bicycles."
+    },
+    {
+        "question": "What is the significance of a 'Right Turn Yield to Bicycles' sign?",
+        "options": [
+            "Bicycles must yield to vehicles at all times",
+            "Vehicles must turn first before cyclists",
+            "Drivers should yield to bicyclists when making a right turn",
+            "Bicycles are not allowed to turn right"
+        ],
+        "correct_answer": "Drivers should yield to bicyclists when making a right turn",
+        "explanation": "This sign reminds drivers that they must yield the right of way to cyclists when making a right turn at an intersection."
+    }
+]

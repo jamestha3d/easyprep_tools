@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a winding road sign indicate?",
+        "options": [
+            "Straight road ahead",
+            "Curvy road ahead",
+            "Road construction",
+            "Slow speed zone"
+        ],
+        "correct_answer": "Curvy road ahead",
+        "explanation": "The winding road sign warns drivers that the road will crest with curves, advising them to reduce speed and be prepared for the changes in direction."
+    },
+    {
+        "question": "Which shape is typically used for a winding road sign?",
+        "options": [
+            "Circle",
+            "Square",
+            "Diamond",
+            "Triangle"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "Winding road signs are diamond-shaped, which is a standard shape used for warning signs in the Road Signs system."
+    },
+    {
+        "question": "What should a driver do when approaching a winding road sign?",
+        "options": [
+            "Speed up",
+            "Maintain current speed",
+            "Slow down",
+            "Change lanes"
+        ],
+        "correct_answer": "Slow down",
+        "explanation": "Drivers should slow down when approaching a winding road sign to safely navigate the upcoming curves."
+    },
+    {
+        "question": "What is the purpose of the winding road sign?",
+        "options": [
+            "To indicate a scenic view",
+            "To warn about potential road hazards",
+            "To mark a school zone",
+            "To indicate a rest area"
+        ],
+        "correct_answer": "To warn about potential road hazards",
+        "explanation": "The winding road sign serves to alert drivers about potential challenges on the road ahead, specifically the sharp curves."
+    },
+    {
+        "question": "In which situations might you see a winding road sign?",
+        "options": [
+            "In urban areas",
+            "On highways",
+            "In mountainous regions",
+            "Near airports"
+        ],
+        "correct_answer": "In mountainous regions",
+        "explanation": "Winding road signs are commonly found in mountainous or hilly areas where roads have lots of curves, helping to ensure safe driving."
+    },
+    {
+        "question": "What are the typical colors used for a winding road sign?",
+        "options": [
+            "Blue and white",
+            "Red and white",
+            "Yellow and black",
+            "Green and white"
+        ],
+        "correct_answer": "Yellow and black",
+        "explanation": "Winding road signs use a yellow background with black symbols to alert drivers to caution and potential dangers."
+    },
+    {
+        "question": "If you see a winding road sign, what actions should you prioritize?",
+        "options": [
+            "Increase speed",
+            "Look for pedestrians",
+            "Be prepared to steer sharply",
+            "Check rearview mirror"
+        ],
+        "correct_answer": "Be prepared to steer sharply",
+        "explanation": "Seeing a winding road sign means that the driver should be ready to alter their steering significantly to safely manage the curves ahead."
+    },
+    {
+        "question": "Which type of vehicle should especially be cautious when they see a winding road sign?",
+        "options": [
+            "Electric cars",
+            "SUVs",
+            "Motorcycles",
+            "Bicycles"
+        ],
+        "correct_answer": "Motorcycles",
+        "explanation": "Motorcycles, due to their smaller wheelbase and higher center of gravity, are especially affected by sharp curves, requiring more caution."
+    },
+    {
+        "question": "What distance before reaching a windy road sign is it effective to reduce speed?",
+        "options": [
+            "Immediately upon seeing the sign",
+            "100 meters",
+            "200 meters",
+            "300 meters"
+        ],
+        "correct_answer": "200 meters",
+        "explanation": "It is advisable to reduce speed at least 200 meters before reaching the curves indicated by a winding road sign to ensure safety."
+    },
+    {
+        "question": "Can a winding road sign indicate both right and left turns?",
+        "options": [
+            "Yes",
+            "No",
+            "Only left",
+            "Only right"
+        ],
+        "correct_answer": "Yes",
+        "explanation": "A winding road sign can indicate multiple curves and turns in both directions, meaning that drivers should be prepared for both left and right curves."
+    }
+]

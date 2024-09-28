@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What is the primary purpose of destination signs?",
+        "options": [
+            "To indicate speed limits",
+            "To provide directions and destinations",
+            "To warn about hazards",
+            "To show traffic regulations"
+        ],
+        "correct_answer": "To provide directions and destinations",
+        "explanation": "Destination signs are used primarily to guide drivers to specific locations, such as cities, towns, or attractions."
+    },
+    {
+        "question": "Which color is typically used for destination signs on highways?",
+        "options": [
+            "Red",
+            "Green",
+            "Blue",
+            "Yellow"
+        ],
+        "correct_answer": "Green",
+        "explanation": "Green is the standard color for destination signs, as it indicates directions to various places."
+    },
+    {
+        "question": "What symbol might you see on a destination sign indicating a hospital?",
+        "options": [
+            "H",
+            "H+",
+            "H@",
+            "H#"
+        ],
+        "correct_answer": "H",
+        "explanation": "The letter 'H' is universally recognized as a symbol for hospitals on road signs."
+    },
+    {
+        "question": "Which of the following is NOT usually a category indicated by destination signs?",
+        "options": [
+            "Tourist attractions",
+            "Street names",
+            "Shopping centers",
+            "Ports"
+        ],
+        "correct_answer": "Street names",
+        "explanation": "Street names are generally not indicated on destination signs; those signs focus on broader locations and attractions."
+    },
+    {
+        "question": "How is the distance to a destination usually displayed on a sign?",
+        "options": [
+            "In kilometers",
+            "In miles",
+            "In feet",
+            "In minutes"
+        ],
+        "correct_answer": "In kilometers",
+        "explanation": "In Ontario, distances to destinations are typically displayed in kilometers."
+    },
+    {
+        "question": "What does a brown background on a destination sign typically represent?",
+        "options": [
+            "Roadside services",
+            "Recreational or cultural points of interest",
+            "Emergency services",
+            "Community centers"
+        ],
+        "correct_answer": "Recreational or cultural points of interest",
+        "explanation": "Brown background signs indicate recreational or cultural points of interest, like parks or historical sites."
+    },
+    {
+        "question": "What should you look for when following destination signs to ensure you're choosing the right route?",
+        "options": [
+            "The size of the sign",
+            "The clarity of the print",
+            "The number of signs",
+            "The accuracy of the directions provided"
+        ],
+        "correct_answer": "The accuracy of the directions provided",
+        "explanation": "It is crucial to assess the accuracy of the directions provided on signs to ensure you're on the right path."
+    },
+    {
+        "question": "What do multiple destination signs in a row usually indicate?",
+        "options": [
+            "Confusion for drivers",
+            "National parks nearby",
+            "Road construction ahead",
+            "That several nearby destinations are accessible from the same route"
+        ],
+        "correct_answer": "That several nearby destinations are accessible from the same route",
+        "explanation": "Multiple destination signs in a row generally provide information about several accessible destinations along the same route."
+    },
+    {
+        "question": "If a destination sign shows an arrow, what does it indicate?",
+        "options": [
+            "To stop the vehicle",
+            "To provide an alternative route",
+            "To change lanes",
+            "The direction of the destination"
+        ],
+        "correct_answer": "The direction of the destination",
+        "explanation": "An arrow on a destination sign indicates the direction in which the destination is located."
+    },
+    {
+        "question": "When should you start looking for destination signs?",
+        "options": [
+            "Immediately after leaving home",
+            "As you approach the destination",
+            "While driving on main roads",
+            "Before you leave"
+        ],
+        "correct_answer": "While driving on main roads",
+        "explanation": "Destination signs are typically placed along main roads to guide drivers effectively while en route."
+    }
+]

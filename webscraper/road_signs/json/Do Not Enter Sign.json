@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Do Not Enter sign indicate?",
+        "options": [
+            "Traffic is allowed",
+            "No entry to vehicles",
+            "One-way street",
+            "Pedestrian access only"
+        ],
+        "correct_answer": "No entry to vehicles",
+        "explanation": "A Do Not Enter sign clearly indicates that vehicles are not permitted to enter the street or area beyond the sign."
+    },
+    {
+        "question": "Where is a Do Not Enter sign typically placed?",
+        "options": [
+            "At pedestrian crossings",
+            "At the entrance of a one-way street",
+            "At parking lots",
+            "At intersections with stop signs"
+        ],
+        "correct_answer": "At the entrance of a one-way street",
+        "explanation": "Do Not Enter signs are commonly placed at the beginning of one-way streets to prevent drivers from going in the wrong direction."
+    },
+    {
+        "question": "What should you do if you see a Do Not Enter sign while driving?",
+        "options": [
+            "Ignore it if the road is clear",
+            "Turn around",
+            "Speed up to get through",
+            "Stop and wait"
+        ],
+        "correct_answer": "Turn around",
+        "explanation": "If you see a Do Not Enter sign, you must turn around to avoid entering a restricted area or going against traffic."
+    },
+    {
+        "question": "Can a Do Not Enter sign be used in combination with other signs?",
+        "options": [
+            "No, it stands alone",
+            "Yes, with speed limit signs",
+            "Yes, with one-way signs",
+            "Yes, with warning signs"
+        ],
+        "correct_answer": "Yes, with one-way signs",
+        "explanation": "Do Not Enter signs can be used alongside one-way signs to reinforce the direction of traffic flow."
+    },
+    {
+        "question": "What color is a Do Not Enter sign?",
+        "options": [
+            "Green",
+            "Yellow",
+            "Red and white",
+            "Blue"
+        ],
+        "correct_answer": "Red and white",
+        "explanation": "Do Not Enter signs are standardized to have a red background with a white horizontal bar to indicate that entry is prohibited."
+    },
+    {
+        "question": "What are the consequences of ignoring a Do Not Enter sign?",
+        "options": [
+            "Nothing happens",
+            "You might get lost",
+            "You may be fined or cause an accident",
+            "You might be commended for bravery"
+        ],
+        "correct_answer": "You may be fined or cause an accident",
+        "explanation": "Ignoring a Do Not Enter sign can lead to traffic violations, accidents, and potential legal repercussions."
+    },
+    {
+        "question": "What action should a driver take if they mistakenly enter a road marked with a Do Not Enter sign?",
+        "options": [
+            "Stop and reverse",
+            "Proceed cautiously",
+            "Pull over and wait for help",
+            "Turn around safely when possible"
+        ],
+        "correct_answer": "Turn around safely when possible",
+        "explanation": "If a driver mistakenly enters a restricted road, they should carefully turn around when safe to do so to adhere to the traffic laws."
+    },
+    {
+        "question": "Who is responsible for following the Do Not Enter sign?",
+        "options": [
+            "Only professional drivers",
+            "All road users",
+            "Pedestrians only",
+            "Local authorities"
+        ],
+        "correct_answer": "All road users",
+        "explanation": "Every road user, including pedestrians and cyclists, must follow the guidance provided by Do Not Enter signs to ensure safety."
+    },
+    {
+        "question": "During what conditions might a Do Not Enter sign become more critical?",
+        "options": [
+            "During day time",
+            "During adverse weather conditions",
+            "When traffic is low",
+            "At night only"
+        ],
+        "correct_answer": "During adverse weather conditions",
+        "explanation": "In adverse weather, visibility may be reduced and the risk of accidents increases, making it vital for drivers to heed Do Not Enter signs."
+    },
+    {
+        "question": "What is a common misconception about Do Not Enter signs?",
+        "options": [
+            "They are only for cars",
+            "They are usually ignored",
+            "They only apply to trucks",
+            "They indicate an exit"
+        ],
+        "correct_answer": "They are only for cars",
+        "explanation": "A common misconception is that Do Not Enter signs only apply to cars, but they are relevant for all forms of traffic, including bicycles and pedestrians."
+    }
+]

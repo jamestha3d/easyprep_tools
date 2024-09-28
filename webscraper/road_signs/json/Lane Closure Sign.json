@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a lane closure sign typically indicate?",
+        "options": [
+            "All lanes are closed",
+            "One lane is closed",
+            "Road is open",
+            "Construction site ahead"
+        ],
+        "correct_answer": "One lane is closed",
+        "explanation": "A lane closure sign advises drivers that one lane is closed, often due to construction or maintenance."
+    },
+    {
+        "question": "What color is a standard lane closure sign?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Lane closure signs are usually yellow, which signifies caution."
+    },
+    {
+        "question": "When should you start looking for lane closure signs?",
+        "options": [
+            "Immediately upon entering the highway",
+            "Only when you see cones",
+            "At a safe distance before the closure",
+            "After passing the closure"
+        ],
+        "correct_answer": "At a safe distance before the closure",
+        "explanation": "It is important to be aware of lane closures well in advance to prepare for changes in traffic patterns."
+    },
+    {
+        "question": "What should you do when you see a lane closure sign?",
+        "options": [
+            "Speed up",
+            "Maintain your speed",
+            "Slow down and follow posted detours",
+            "Ignore it"
+        ],
+        "correct_answer": "Slow down and follow posted detours",
+        "explanation": "Drivers should slow down and follow any detours provided to ensure safety and smooth traffic flow."
+    },
+    {
+        "question": "What is the purpose of showing an arrow on a lane closure sign?",
+        "options": [
+            "To indicate speed limit",
+            "To guide traffic into an open lane",
+            "To signal a pedestrian crossing",
+            "To provide information about weather conditions"
+        ],
+        "correct_answer": "To guide traffic into an open lane",
+        "explanation": "The arrow on a lane closure sign points drivers toward the open lane to ensure they know where to go."
+    },
+    {
+        "question": "In which scenario would you most likely encounter a lane closure sign?",
+        "options": [
+            "On a sunny day",
+            "When roads are dry",
+            "During construction work",
+            "In heavy traffic without construction"
+        ],
+        "correct_answer": "During construction work",
+        "explanation": "Lane closure signs are most commonly used during construction work to manage traffic safely."
+    },
+    {
+        "question": "Which of the following is a common mistake drivers make when approaching a lane closure?",
+        "options": [
+            "Deciding to turn back",
+            "Changing lanes abruptly",
+            "Ignoring the sign altogether",
+            "Driving cautiously"
+        ],
+        "correct_answer": "Changing lanes abruptly",
+        "explanation": "Drivers often make the mistake of changing lanes abruptly, which can lead to accidents and traffic disruptions."
+    },
+    {
+        "question": "What should you be cautious of in addition to lane closure signs?",
+        "options": [
+            "Wildlife crossings",
+            "Emergency vehicles",
+            "Flaggers and construction workers",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "In addition to lane closure signs, drivers should be cautious of flaggers, construction workers, and other unexpected hazards."
+    },
+    {
+        "question": "What happens if you ignore a lane closure sign?",
+        "options": [
+            "Nothing serious",
+            "You may receive a fine",
+            "Only delays in traffic",
+            "You're likely to find an alternate route"
+        ],
+        "correct_answer": "You may receive a fine",
+        "explanation": "Ignoring a lane closure sign can result in fines or legal repercussions, as it poses risks to safety."
+    },
+    {
+        "question": "What additional signage might accompany a lane closure sign?",
+        "options": [
+            "Speed limit signs",
+            "Yield signs",
+            "Detour signs",
+            "Stop signs"
+        ],
+        "correct_answer": "Detour signs",
+        "explanation": "Detour signs are often placed near lane closure signs to provide alternative routes for drivers."
+    }
+]

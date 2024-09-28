@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a narrow road sign indicate?",
+        "options": [
+            "Road is wide ahead",
+            "Road narrows ahead",
+            "Road ends",
+            "Road is under construction"
+        ],
+        "correct_answer": "Road narrows ahead",
+        "explanation": "The narrow road sign warns drivers that the road ahead is about to become narrower, which requires caution."
+    },
+    {
+        "question": "What should you do when you see a narrow road sign?",
+        "options": [
+            "Speed up",
+            "Slow down",
+            "Maintain speed",
+            "Ignore it"
+        ],
+        "correct_answer": "Slow down",
+        "explanation": "Slowing down is advised to prepare for the reduced road width and ensure safety."
+    },
+    {
+        "question": "Where would you typically find a narrow road sign?",
+        "options": [
+            "In open highways",
+            "In urban areas",
+            "At the beginning of a narrow section",
+            "In parking lots"
+        ],
+        "correct_answer": "At the beginning of a narrow section",
+        "explanation": "The sign is placed at the start of the area where the road width decreases."
+    },
+    {
+        "question": "What should you be especially cautious of when driving on a narrow road?",
+        "options": [
+            "Large vehicles passing",
+            "Speed limits",
+            "Traffic signals",
+            "Pedestrian crossings"
+        ],
+        "correct_answer": "Large vehicles passing",
+        "explanation": "Narrow roads often make it challenging for large vehicles to pass, requiring extra caution."
+    },
+    {
+        "question": "What type of driving maneuvers are advised on narrow roads?",
+        "options": [
+            "Frequent lane changes",
+            "Aggressive overtaking",
+            "Gentle steering and slowing down",
+            "Driving with high speed"
+        ],
+        "correct_answer": "Gentle steering and slowing down",
+        "explanation": "Gentle steering and reduced speed help maintain control and ensure safety on narrower sections."
+    },
+    {
+        "question": "Is it important to be aware of oncoming traffic when on a narrow road?",
+        "options": [
+            "No, it's not important",
+            "Yes, it is very important",
+            "Only if road markings allow",
+            "Only if driving at night"
+        ],
+        "correct_answer": "Yes, it is very important",
+        "explanation": "On narrow roads, the passing of oncoming traffic can be tight, making it crucial to be mindful of other vehicles."
+    },
+    {
+        "question": "If a vehicle is approaching in the opposite direction on a narrow road, what should you do?",
+        "options": [
+            "Honk the horn",
+            "Accelerate to pass first",
+            "Pull over to give space",
+            "Ignore and continue driving"
+        ],
+        "correct_answer": "Pull over to give space",
+        "explanation": "Pulling over provides enough room for vehicles to navigate the narrow section safely."
+    },
+    {
+        "question": "Which of the following vehicles might have difficulty on a narrow road?",
+        "options": [
+            "Bicycles",
+            "Compact cars",
+            "Buses",
+            "Motorcycles"
+        ],
+        "correct_answer": "Buses",
+        "explanation": "Buses, due to their size, may have difficulty maneuvering through narrow road sections."
+    },
+    {
+        "question": "What is a significant risk associated with narrow roads?",
+        "options": [
+            "High frequency of traffic signals",
+            "Risk of head-on collisions",
+            "Excessive speed limits",
+            "Wide driving lanes"
+        ],
+        "correct_answer": "Risk of head-on collisions",
+        "explanation": "The limited space on narrow roads increases the chances of vehicles colliding head-on."
+    },
+    {
+        "question": "Should you be more alert for pedestrians when driving on a narrow road?",
+        "options": [
+            "Yes, always",
+            "No, it\u2019s not necessary",
+            "Only if there's a pedestrian crossing",
+            "Only during rush hour"
+        ],
+        "correct_answer": "Yes, always",
+        "explanation": "Narrow roads often lack sidewalks and can require drivers to be vigilant for pedestrians walking near the road."
+    }
+]

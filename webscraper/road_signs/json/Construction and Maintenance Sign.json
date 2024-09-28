@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a 'Construction Ahead' sign indicate?",
+        "options": [
+            "Road is closed",
+            "Construction work is upcoming",
+            "Detour is required",
+            "Road is open"
+        ],
+        "correct_answer": "Construction work is upcoming",
+        "explanation": "The 'Construction Ahead' sign alerts drivers that they are approaching a construction zone where work is taking place."
+    },
+    {
+        "question": "What should drivers do when they see a 'Road Work Ahead' sign?",
+        "options": [
+            "Speed up to pass quickly",
+            "Maintain speed",
+            "Slow down and prepare to stop",
+            "Ignore the sign"
+        ],
+        "correct_answer": "Slow down and prepare to stop",
+        "explanation": "The 'Road Work Ahead' sign warns drivers to slow down as they may encounter workers or changes in the road."
+    },
+    {
+        "question": "What color are construction signs typically?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Blue",
+            "Green"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Construction signs are usually yellow to grab attention and warn drivers of potential hazards."
+    },
+    {
+        "question": "What does a 'Detour' sign instruct drivers to do?",
+        "options": [
+            "Continue straight",
+            "Turn right",
+            "Follow an alternate route",
+            "Stop immediately"
+        ],
+        "correct_answer": "Follow an alternate route",
+        "explanation": "A 'Detour' sign directs drivers to take a different path due to road closures or construction."
+    },
+    {
+        "question": "What is the significance of flaggers at a construction site?",
+        "options": [
+            "They direct traffic",
+            "They are there for safety inspections",
+            "They operate machinery",
+            "They take breaks"
+        ],
+        "correct_answer": "They direct traffic",
+        "explanation": "Flaggers are trained personnel who manage traffic flow to ensure safety in construction zones."
+    },
+    {
+        "question": "What should you do if you see an 'End Road Work' sign?",
+        "options": [
+            "Accelerate quickly",
+            "Prepare to drive as usual",
+            "Look for further instructions",
+            "Change lanes immediately"
+        ],
+        "correct_answer": "Prepare to drive as usual",
+        "explanation": "'End Road Work' signals that the construction zone is finished and normal driving conditions resume."
+    },
+    {
+        "question": "What does a 'Road Closed Ahead' sign mean?",
+        "options": [
+            "Road is permanently closed",
+            "Construction work is complete",
+            "Drivers must turn around or find an alternate route",
+            "Only emergency vehicles can enter"
+        ],
+        "correct_answer": "Drivers must turn around or find an alternate route",
+        "explanation": "A 'Road Closed Ahead' sign informs drivers that they cannot proceed and must divert their route."
+    },
+    {
+        "question": "What does a 'Slow Moving Vehicle' sign indicate in a construction zone?",
+        "options": [
+            "All vehicles must stop",
+            "Construction vehicles may move slowly",
+            "Drivers can speed up",
+            "Normal navigation applies"
+        ],
+        "correct_answer": "Construction vehicles may move slowly",
+        "explanation": "The 'Slow Moving Vehicle' sign signals that certain vehicles in the construction area will be moving at reduced speeds."
+    },
+    {
+        "question": "Which sign warns of workers on the road?",
+        "options": [
+            "Construction Ahead",
+            "Pedestrian Crossing",
+            "Worker Safety Zone",
+            "Traffic Light Ahead"
+        ],
+        "correct_answer": "Construction Ahead",
+        "explanation": "The 'Construction Ahead' sign serves as a warning that there may be workers present along the road."
+    },
+    {
+        "question": "What should drivers do if they encounter a 'One Lane Road Ahead' sign?",
+        "options": [
+            "Merge as soon as possible",
+            "Ignore and stay in their lane",
+            "Speed up to pass quickly",
+            "Stay in one lane only"
+        ],
+        "correct_answer": "Merge as soon as possible",
+        "explanation": "'One Lane Road Ahead' indicates that drivers must merge into a single lane, and they should do so safely and promptly."
+    }
+]

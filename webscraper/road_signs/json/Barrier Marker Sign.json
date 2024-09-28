@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What is the purpose of a barrier marker sign?",
+        "options": [
+            "To indicate a pedestrian crossing",
+            "To warn of an upcoming curve",
+            "To mark the edge of a road or obstacle",
+            "To show speed limits"
+        ],
+        "correct_answer": "To mark the edge of a road or obstacle",
+        "explanation": "Barrier marker signs are used to indicate the presence of obstacles or to mark the edges of the roadway, helping to guide drivers safely."
+    },
+    {
+        "question": "What shape is a typical barrier marker sign?",
+        "options": [
+            "Circular",
+            "Square",
+            "Triangle",
+            "Diamond"
+        ],
+        "correct_answer": "Square",
+        "explanation": "Barrier marker signs are typically square or rectangular in shape, which helps them stand out and convey important information."
+    },
+    {
+        "question": "When should you pay special attention to barrier marker signs?",
+        "options": [
+            "During sunny weather",
+            "When visibility is poor",
+            "At traffic lights",
+            "During the night only"
+        ],
+        "correct_answer": "When visibility is poor",
+        "explanation": "Barrier marker signs are critical for guiding drivers in low visibility conditions such as fog, rain, or at night."
+    },
+    {
+        "question": "What color is a standard barrier marker sign usually?",
+        "options": [
+            "Red",
+            "Green",
+            "Yellow",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Barrier marker signs are typically yellow to alert drivers to potential hazards or obstacles ahead."
+    },
+    {
+        "question": "What action should you take when you see a barrier marker sign?",
+        "options": [
+            "Speed up",
+            "Prepare to stop",
+            "Maintain speed",
+            "Pay close attention and adjust driving accordingly"
+        ],
+        "correct_answer": "Pay close attention and adjust driving accordingly",
+        "explanation": "Seeing a barrier marker sign means you need to be vigilant about possible obstacles or changes in the road route."
+    },
+    {
+        "question": "In which scenario is a barrier marker sign most likely used?",
+        "options": [
+            "In a clear and straight road section",
+            "At a parking lot entrance",
+            "Along a winding mountain road",
+            "On highways without any obstacles"
+        ],
+        "correct_answer": "Along a winding mountain road",
+        "explanation": "Barrier marker signs are used along winding or hilly roads where there can be unexpected curves or obstacles."
+    },
+    {
+        "question": "How do barrier marker signs help in road safety?",
+        "options": [
+            "They reduce speed limits",
+            "They highlight danger zones",
+            "They indicate speed bumps",
+            "They allow overtaking"
+        ],
+        "correct_answer": "They highlight danger zones",
+        "explanation": "By marking potential hazards, barrier marker signs help drivers to be aware of danger zones and take necessary precautions."
+    },
+    {
+        "question": "Which of the following is NOT a characteristic of barrier marker signs?",
+        "options": [
+            "Reflective surfaces",
+            "Bright colors",
+            "Small size",
+            "Commonly used at night"
+        ],
+        "correct_answer": "Small size",
+        "explanation": "Barrier marker signs are usually larger and designed to be easily visible, especially at night or in poor conditions."
+    },
+    {
+        "question": "What should you do if you see a barrier marker sign indicating an obstacle?",
+        "options": [
+            "Ignore it if the road is clear",
+            "Change lanes quickly",
+            "Slow down and proceed with caution",
+            "Overtake the vehicle in front of you"
+        ],
+        "correct_answer": "Slow down and proceed with caution",
+        "explanation": "The presence of a barrier marker sign indicates an obstacle ahead, so slowing down and being cautious is essential for safety."
+    },
+    {
+        "question": "What commonly follows a barrier marker sign?",
+        "options": [
+            "A stop sign",
+            "A yield sign",
+            "A road closure",
+            "A hazard or an obstacle"
+        ],
+        "correct_answer": "A hazard or an obstacle",
+        "explanation": "Barrier marker signs indicate that there may be a hazard or road obstruction that needs to be approached with caution."
+    }
+]

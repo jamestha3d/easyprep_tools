@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a blue route sign indicate?",
+        "options": [
+            "Emergency services",
+            "Traffic regulations",
+            "Service facilities",
+            "Construction zones"
+        ],
+        "correct_answer": "Service facilities",
+        "explanation": "Blue route signs are used to indicate service facilities such as gas stations, restaurants, and lodging."
+    },
+    {
+        "question": "Which color is used for warning signs about road conditions?",
+        "options": [
+            "Green",
+            "Yellow",
+            "Blue",
+            "Red"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Yellow is the color used for warning signs to alert drivers about road conditions or hazards."
+    },
+    {
+        "question": "What does a green route sign generally indicate?",
+        "options": [
+            "Direction",
+            "Construction",
+            "Warning",
+            "Detour"
+        ],
+        "correct_answer": "Direction",
+        "explanation": "Green route signs are primarily used to provide directional information to drivers regarding routes and exits."
+    },
+    {
+        "question": "What is the purpose of a white route sign?",
+        "options": [
+            "Regulatory information",
+            "Warning about hazards",
+            "Directional guidance",
+            "Road construction"
+        ],
+        "correct_answer": "Regulatory information",
+        "explanation": "White route signs convey regulatory information such as speed limits, or specific rules that drivers must follow."
+    },
+    {
+        "question": "What would a brown route sign typically signify?",
+        "options": [
+            "Tourist attractions",
+            "Hospital locations",
+            "Fuel stations",
+            "Construction areas"
+        ],
+        "correct_answer": "Tourist attractions",
+        "explanation": "Brown route signs are used to denote areas of recreational or cultural interest, such as parks and historical sites."
+    },
+    {
+        "question": "What type of sign alerts drivers to construction zones?",
+        "options": [
+            "Yellow fluorescent",
+            "Green",
+            "Blue",
+            "Red"
+        ],
+        "correct_answer": "Yellow fluorescent",
+        "explanation": "Yellow fluorescent signs are used specifically to alert drivers about construction zones and temporary hazards."
+    },
+    {
+        "question": "What does a red route sign generally indicate?",
+        "options": [
+            "Stop or prohibition",
+            "Caution",
+            "Information",
+            "Guidance"
+        ],
+        "correct_answer": "Stop or prohibition",
+        "explanation": "Red route signs convey actually stopping or prohibiting certain actions on the road, like 'No entry' or 'Stop'."
+    },
+    {
+        "question": "How can you identify a one-way street using route signs?",
+        "options": [
+            "Red signs",
+            "Green arrows",
+            "White signs with arrows",
+            "Yellow warning signs"
+        ],
+        "correct_answer": "White signs with arrows",
+        "explanation": "One-way streets are indicated by white signs that display arrows showing the allowed direction of travel."
+    },
+    {
+        "question": "Which sign indicates that a highway exit is approaching?",
+        "options": [
+            "Route marker sign",
+            "Exit sign",
+            "Warning sign",
+            "Direction sign"
+        ],
+        "correct_answer": "Exit sign",
+        "explanation": "Exit signs inform drivers that an upcoming exit from the highway is approaching."
+    },
+    {
+        "question": "What does a hexagonal stop sign mean?",
+        "options": [
+            "Yield to oncoming traffic",
+            "Come to a full stop",
+            "Proceed with caution",
+            "No parking"
+        ],
+        "correct_answer": "Come to a full stop",
+        "explanation": "A hexagonal stop sign instructs drivers to come to a complete stop before proceeding at the intersection."
+    }
+]

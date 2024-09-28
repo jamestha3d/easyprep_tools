@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a green exit sign indicate?",
+        "options": [
+            "That the exit is closed",
+            "That the exit is open and safe",
+            "That the exit is for emergencies only",
+            "That the exit leads to a basement"
+        ],
+        "correct_answer": "That the exit is open and safe",
+        "explanation": "A green exit sign is used to indicate that an exit is available for safe use."
+    },
+    {
+        "question": "When should you follow an exit sign?",
+        "options": [
+            "When there is a fire",
+            "When there is a usual exit",
+            "Only after hours",
+            "When instructed by staff"
+        ],
+        "correct_answer": "When there is a fire",
+        "explanation": "Exit signs are primarily for emergency situations, guiding individuals to safety during events like a fire."
+    },
+    {
+        "question": "What color background is typically used for exit signs?",
+        "options": [
+            "Red",
+            "Blue",
+            "Green",
+            "White"
+        ],
+        "correct_answer": "Green",
+        "explanation": "Most exit signs feature a green background, which is recognized universally as a signal for safe exit."
+    },
+    {
+        "question": "Which shape is commonly used for exit signs?",
+        "options": [
+            "Circle",
+            "Rectangle",
+            "Triangle",
+            "Square"
+        ],
+        "correct_answer": "Rectangle",
+        "explanation": "Exit signs are typically designed in rectangular shapes to ensure maximum visibility and clear understanding."
+    },
+    {
+        "question": "Which of the following is NOT a requirement for exit signs?",
+        "options": [
+            "They must be illuminated",
+            "They must have arrows showing exit direction",
+            "They can be any color",
+            "They must be placed at all exits"
+        ],
+        "correct_answer": "They can be any color",
+        "explanation": "Exit signs must adhere to specific color requirements, most commonly green, not just any color."
+    },
+    {
+        "question": "What additional information may an exit sign provide?",
+        "options": [
+            "Distance to the exit",
+            "Number of exits available",
+            "Emergency contact number",
+            "Direction of exit"
+        ],
+        "correct_answer": "Direction of exit",
+        "explanation": "Exit signs often include arrows or directional indicators to guide individuals on the correct path to safety."
+    },
+    {
+        "question": "How should exit signs be maintained?",
+        "options": [
+            "Regularly cleaned and checked for functionality",
+            "Replaced every year",
+            "Only checked when there is a fire drill",
+            "Reaching out to emergency services"
+        ],
+        "correct_answer": "Regularly cleaned and checked for functionality",
+        "explanation": "Regular maintenance ensures exit signs are clear, visible, and functioning correctly during emergencies."
+    },
+    {
+        "question": "Which of the following locations DO NOT require exit signs?",
+        "options": [
+            "Public buildings",
+            "Residential homes",
+            "Shopping malls",
+            "Airports"
+        ],
+        "correct_answer": "Residential homes",
+        "explanation": "Residential homes typically do not require exit signs, as they are primarily mandated in public buildings and larger complexes."
+    },
+    {
+        "question": "Are exit signs required in areas where there are automated alarm systems?",
+        "options": [
+            "Yes, regardless of alarm systems",
+            "No, the alarms are sufficient",
+            "Only if the alarms are disabled",
+            "Only during specific hours"
+        ],
+        "correct_answer": "Yes, regardless of alarm systems",
+        "explanation": "Even with automated alarms, exit signs are crucial in guiding individuals to safety during emergencies."
+    },
+    {
+        "question": "What is the main purpose of exit signs?",
+        "options": [
+            "To indicate restrooms",
+            "To guide people to safety",
+            "To provide directions to parking",
+            "To mark employee areas"
+        ],
+        "correct_answer": "To guide people to safety",
+        "explanation": "The primary function of exit signs is to provide guidance to safe exits during emergencies, such as fires or evacuations."
+    }
+]

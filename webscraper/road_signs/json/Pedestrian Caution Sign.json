@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a pedestrian caution sign indicate?",
+        "options": [
+            "Pedestrians are not allowed",
+            "Watch for pedestrians",
+            "Pedestrians have right of way",
+            "Speed limit in pedestrian areas"
+        ],
+        "correct_answer": "Watch for pedestrians",
+        "explanation": "The pedestrian caution sign warns drivers to be aware of pedestrians and to be prepared to stop."
+    },
+    {
+        "question": "What color is typically used for pedestrian caution signs?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Blue",
+            "Green"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Pedestrian caution signs are usually yellow to alert drivers to be cautious and vigilant."
+    },
+    {
+        "question": "When should drivers expect to see pedestrian caution signs?",
+        "options": [
+            "In residential areas",
+            "Near schools",
+            "At crosswalks",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Pedestrian caution signs are placed in areas where pedestrians are likely to cross, such as residential areas, near schools, and at crosswalks."
+    },
+    {
+        "question": "What should a driver do upon seeing a pedestrian caution sign?",
+        "options": [
+            "Speed up",
+            "Maintain speed",
+            "Slow down and be alert",
+            "Ignore it"
+        ],
+        "correct_answer": "Slow down and be alert",
+        "explanation": "Drivers should slow down and be cautious to ensure the safety of pedestrians who may be crossing."
+    },
+    {
+        "question": "Pedestrian caution signs are most important in which area?",
+        "options": [
+            "Highways",
+            "Business districts",
+            "Residential neighborhoods",
+            "Remote areas"
+        ],
+        "correct_answer": "Residential neighborhoods",
+        "explanation": "Pedestrian caution signs are especially important in residential neighborhoods where children and families may be present."
+    },
+    {
+        "question": "What action is required if a driver encounters a pedestrian at a crosswalk with a caution sign?",
+        "options": [
+            "Stop and yield",
+            "Honk horn",
+            "Speed past",
+            "Change lanes"
+        ],
+        "correct_answer": "Stop and yield",
+        "explanation": "Drivers must stop and yield the right of way to pedestrians at crosswalks to ensure their safety."
+    },
+    {
+        "question": "True or False: A pedestrian caution sign means pedestrians can walk anywhere.",
+        "options": [
+            "True",
+            "False",
+            "Depends on the area",
+            "Not specified"
+        ],
+        "correct_answer": "False",
+        "explanation": "A pedestrian caution sign does not grant pedestrians the right to walk anywhere; it raises awareness that they may be crossing in marked areas."
+    },
+    {
+        "question": "Which of the following is a common sign accompanying a pedestrian caution sign?",
+        "options": [
+            "Yield sign",
+            "Speed limit sign",
+            "Stop sign",
+            "No entry sign"
+        ],
+        "correct_answer": "Yield sign",
+        "explanation": "A yield sign is often placed near pedestrian areas to indicate that drivers must yield to pedestrians."
+    },
+    {
+        "question": "What are drivers encouraged to do when they see a pedestrian caution sign?",
+        "options": [
+            "Use their mobile devices",
+            "Take no action",
+            "Be vigilant and prepared to stop",
+            "Increase speed"
+        ],
+        "correct_answer": "Be vigilant and prepared to stop",
+        "explanation": "Drivers are encouraged to remain vigilant and ready to stop when they see a pedestrian caution sign for the safety of all."
+    },
+    {
+        "question": "What is the consequence of ignoring a pedestrian caution sign?",
+        "options": [
+            "No consequences",
+            "Legal penalties",
+            "Lower insurance rates",
+            "Increased speed limits"
+        ],
+        "correct_answer": "Legal penalties",
+        "explanation": "Ignoring a pedestrian caution sign can lead to legal consequences, including fines and penalties for endangering pedestrians."
+    }
+]

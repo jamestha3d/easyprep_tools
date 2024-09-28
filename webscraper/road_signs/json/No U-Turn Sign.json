@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a No U-Turn sign indicate?",
+        "options": [
+            "U-turns are allowed",
+            "U-turns are prohibited",
+            "U-turns are encouraged",
+            "U-turns are optional"
+        ],
+        "correct_answer": "U-turns are prohibited",
+        "explanation": "A No U-Turn sign clearly indicates that making a U-turn at the junction is not allowed for safety reasons."
+    },
+    {
+        "question": "When should you observe a No U-Turn sign?",
+        "options": [
+            "At intersections",
+            "In parking lots",
+            "On highways",
+            "In residential areas"
+        ],
+        "correct_answer": "At intersections",
+        "explanation": "No U-Turn signs are typically placed at intersections where U-turns could pose a danger to other vehicles."
+    },
+    {
+        "question": "What should you do if you encounter a No U-Turn sign while driving?",
+        "options": [
+            "Make a U-turn cautiously",
+            "Proceed straight or turn right/left",
+            "Ignore the sign if it's not busy",
+            "Stop and wait for further instructions"
+        ],
+        "correct_answer": "Proceed straight or turn right/left",
+        "explanation": "If you encounter a No U-Turn sign, you should comply by not making a U-turn and instead choose a different route."
+    },
+    {
+        "question": "Are there any exceptions to the No U-Turn rule?",
+        "options": [
+            "Yes, in emergencies",
+            "Yes, when traffic is not present",
+            "No, there are no exceptions",
+            "Yes, for commercial vehicles only"
+        ],
+        "correct_answer": "No, there are no exceptions",
+        "explanation": "No U-Turn signs apply to all vehicles without exception, ensuring uniform traffic flow and safety."
+    },
+    {
+        "question": "What type of roadway feature is typically found near a No U-Turn sign?",
+        "options": [
+            "Traffic lights",
+            "Speed bumps",
+            "Roundabouts",
+            "Pedestrian crossings"
+        ],
+        "correct_answer": "Traffic lights",
+        "explanation": "No U-Turn signs are usually found at controlled intersections where traffic lights are present to manage vehicle flow."
+    },
+    {
+        "question": "What might happen if you ignore a No U-Turn sign?",
+        "options": [
+            "You may receive a ticket",
+            "You will be praised for your driving skills",
+            "Nothing, it's just a suggestion",
+            "You might improve traffic flow"
+        ],
+        "correct_answer": "You may receive a ticket",
+        "explanation": "Ignoring a No U-Turn sign can result in a traffic violation, leading to potential fines or penalties."
+    },
+    {
+        "question": "How can a No U-Turn sign contribute to road safety?",
+        "options": [
+            "By increasing traffic confusion",
+            "By reducing the likelihood of accidents",
+            "By promoting faster driving",
+            "By allowing more turns"
+        ],
+        "correct_answer": "By reducing the likelihood of accidents",
+        "explanation": "No U-Turn signs help to minimize the risk of collisions by preventing turns in high-traffic or dangerous areas."
+    },
+    {
+        "question": "What is the legal consequence of making a U-turn where prohibited?",
+        "options": [
+            "Warning only",
+            "Civil lawsuit",
+            "License suspension",
+            "Traffic violation penalty"
+        ],
+        "correct_answer": "Traffic violation penalty",
+        "explanation": "Making a U-turn where it is prohibited can result in a traffic violation, attracting fines or other penalties."
+    },
+    {
+        "question": "What is the common color of a No U-Turn sign?",
+        "options": [
+            "Green",
+            "Red",
+            "Blue",
+            "Yellow"
+        ],
+        "correct_answer": "Red",
+        "explanation": "No U-Turn signs are typically red, indicating the prohibition of the maneuver."
+    },
+    {
+        "question": "Where would you likely see a No U-Turn sign?",
+        "options": [
+            "Near a school zone",
+            "On a private road",
+            "At a freeway entrance",
+            "At a busy intersection"
+        ],
+        "correct_answer": "At a busy intersection",
+        "explanation": "You are likely to see a No U-Turn sign at busy intersections to manage traffic and prevent safety hazards."
+    }
+]

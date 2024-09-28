@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What is a Community Safety Zone?",
+        "options": [
+            "A zone with increased speed limits",
+            "A zone with reduced fines",
+            "A zone where fines are doubled for certain violations",
+            "A zone with no traffic laws"
+        ],
+        "correct_answer": "A zone where fines are doubled for certain violations",
+        "explanation": "Community Safety Zones are established to promote safety, particularly for vulnerable road users, and violations in these zones typically incur increased fines."
+    },
+    {
+        "question": "Why are fines increased in Community Safety Zones?",
+        "options": [
+            "To generate more revenue for the city",
+            "To deter dangerous driving behaviors",
+            "To encourage speeding",
+            "To make traffic laws more complicated"
+        ],
+        "correct_answer": "To deter dangerous driving behaviors",
+        "explanation": "The increased fines aim to enhance compliance with traffic laws and promote safer driving habits in areas where vulnerable populations are present."
+    },
+    {
+        "question": "Which of the following often falls under Community Safety Zones?",
+        "options": [
+            "Highways",
+            "School zones",
+            "Rural areas",
+            "Industrial zones"
+        ],
+        "correct_answer": "School zones",
+        "explanation": "School zones are a common example of Community Safety Zones, where extra caution is needed due to the presence of children."
+    },
+    {
+        "question": "What happens if you speed in a Community Safety Zone?",
+        "options": [
+            "You will be warned",
+            "You may receive a ticket with higher fines",
+            "There are no consequences",
+            "Speeding is encouraged"
+        ],
+        "correct_answer": "You may receive a ticket with higher fines",
+        "explanation": "In Community Safety Zones, speeding results in higher fines as a deterrent to unsafe driving behaviors."
+    },
+    {
+        "question": "What is the role of signage in Community Safety Zones?",
+        "options": [
+            "Merely decorative",
+            "Inform drivers of increased fines and the presence of vulnerable road users",
+            "To confuse drivers",
+            "To limit parking"
+        ],
+        "correct_answer": "Inform drivers of increased fines and the presence of vulnerable road users",
+        "explanation": "The signage serves to alert drivers about the heightened penalties and the importance of driving cautiously in these areas."
+    },
+    {
+        "question": "Where can you typically find Community Safety Zones?",
+        "options": [
+            "In residential areas",
+            "In industrial parks",
+            "Near public transit stations",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Community Safety Zones can be located in various areas where there is a concern for safety, including residential areas, around public transit stations, and in industrial parks."
+    },
+    {
+        "question": "What is the maximum speed limit typically enforced in a Community Safety Zone?",
+        "options": [
+            "40 km/h",
+            "50 km/h",
+            "60 km/h",
+            "80 km/h"
+        ],
+        "correct_answer": "40 km/h",
+        "explanation": "In many municipalities, the maximum speed limit in Community Safety Zones is often set to 40 km/h to enhance safety for pedestrians and other vulnerable road users."
+    },
+    {
+        "question": "Are all traffic violations treated the same way in Community Safety Zones?",
+        "options": [
+            "Yes, all violations are equal",
+            "No, some violations incur higher penalties",
+            "All violations are ignored",
+            "Only parking violations are penalized"
+        ],
+        "correct_answer": "No, some violations incur higher penalties",
+        "explanation": "Certain violations, such as speeding or careless driving, can result in increased fines specifically within Community Safety Zones."
+    },
+    {
+        "question": "How can drivers identify Community Safety Zones?",
+        "options": [
+            "By looking for speed bumps",
+            "By noticing a lack of traffic signals",
+            "By the presence of Community Safety Zone signs",
+            "By the absence of other vehicles"
+        ],
+        "correct_answer": "By the presence of Community Safety Zone signs",
+        "explanation": "Community Safety Zones are marked by specific signage to inform drivers that they are entering an area with increased fines for certain traffic violations."
+    },
+    {
+        "question": "What is the purpose of Community Safety Zones?",
+        "options": [
+            "Increase vehicle speed",
+            "Enhance roadway aesthetics",
+            "Improve safety for pedestrians and cyclists",
+            "None of the above"
+        ],
+        "correct_answer": "Improve safety for pedestrians and cyclists",
+        "explanation": "The primary purpose of Community Safety Zones is to enhance the safety of vulnerable road users, including pedestrians and cyclists, by encouraging more cautious driving behavior."
+    }
+]

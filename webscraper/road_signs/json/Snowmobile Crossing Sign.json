@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does the Snowmobile Crossing Sign indicate?",
+        "options": [
+            "Snowmobiles might cross the road",
+            "Only snowmobiles can use this road",
+            "No snowmobiles allowed",
+            "You are entering a snowmobile zone"
+        ],
+        "correct_answer": "Snowmobiles might cross the road",
+        "explanation": "The Snowmobile Crossing Sign warns drivers that snowmobiles may cross the road ahead, emphasizing the need for caution."
+    },
+    {
+        "question": "When should drivers be particularly vigilant for the Snowmobile Crossing Sign?",
+        "options": [
+            "In winter months",
+            "During summer",
+            "At night only",
+            "When it rains"
+        ],
+        "correct_answer": "In winter months",
+        "explanation": "Drivers should be especially cautious during winter months when snowmobiles are more likely to be active and crossing roads."
+    },
+    {
+        "question": "What color is the Snowmobile Crossing Sign?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "The Snowmobile Crossing Sign is typically yellow, which is used for warning signs to alert drivers to potential hazards."
+    },
+    {
+        "question": "What is the shape of the Snowmobile Crossing Sign?",
+        "options": [
+            "Circular",
+            "Diamond",
+            "Square",
+            "Rectangular"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "The Snowmobile Crossing Sign is diamond-shaped, which is a common shape for warning signs indicating caution."
+    },
+    {
+        "question": "Which vehicles do the Snowmobile Crossing Sign specifically pertain to?",
+        "options": [
+            "Cars",
+            "Trucks",
+            "Snowmobiles",
+            "Bicycles"
+        ],
+        "correct_answer": "Snowmobiles",
+        "explanation": "The sign specifically pertains to snowmobiles, indicating that they may be crossing the road and require attention from drivers."
+    },
+    {
+        "question": "What should a driver do upon seeing the Snowmobile Crossing Sign?",
+        "options": [
+            "Accelerate quickly",
+            "Slow down and prepare to stop",
+            "Ignore it",
+            "Honk the horn"
+        ],
+        "correct_answer": "Slow down and prepare to stop",
+        "explanation": "Drivers should slow down and be prepared to stop because snowmobiles may be crossing the road, ensuring safety for all."
+    },
+    {
+        "question": "Where is the Snowmobile Crossing Sign commonly located?",
+        "options": [
+            "In urban areas",
+            "Near ski resorts",
+            "On rural roads",
+            "In parking lots"
+        ],
+        "correct_answer": "On rural roads",
+        "explanation": "The Snowmobile Crossing Sign is typically found on rural roads where snowmobiles are more likely to cross paths with vehicular traffic."
+    },
+    {
+        "question": "What action is illegal according to traffic laws regarding the Snowmobile Crossing Sign?",
+        "options": [
+            "Stopping at the sign",
+            "Driving over the sign",
+            "Ignoring the sign",
+            "Taking a picture of the sign"
+        ],
+        "correct_answer": "Ignoring the sign",
+        "explanation": "Ignoring the Snowmobile Crossing Sign can be illegal, as it puts both the driver and snowmobilers at risk of accidents."
+    },
+    {
+        "question": "What additional precaution should drivers take when crossing areas marked with a Snowmobile Crossing Sign?",
+        "options": [
+            "Look for pedestrians",
+            "Speed up to pass quickly",
+            "Check for wildlife",
+            "Be alert for other vehicles"
+        ],
+        "correct_answer": "Look for pedestrians",
+        "explanation": "Drivers should also look out for pedestrians and other vehicles, as the area may have high foot and vehicle traffic in addition to snowmobiles."
+    },
+    {
+        "question": "How can visibility be affected in areas with a Snowmobile Crossing Sign?",
+        "options": [
+            "Visibility is always clear",
+            "Visibility can be reduced by snow",
+            "Visibility increases at night",
+            "There are no visibility issues"
+        ],
+        "correct_answer": "Visibility can be reduced by snow",
+        "explanation": "In winter conditions, visibility can be reduced by falling snow or road conditions, making it imperative for drivers to be extra cautious in areas marked by the Snowmobile Crossing Sign."
+    }
+]

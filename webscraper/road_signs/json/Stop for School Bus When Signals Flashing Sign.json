@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What should you do when you see a school bus with its red lights flashing?",
+        "options": [
+            "Speed up and pass the bus",
+            "Stop and wait",
+            "Honk your horn",
+            "Ignore and continue driving"
+        ],
+        "correct_answer": "Stop and wait",
+        "explanation": "When a school bus has its red lights flashing, it signifies that children are boarding or disembarking from the bus, and you must stop to ensure their safety."
+    },
+    {
+        "question": "What is the minimum distance you must stop from a school bus when the lights are flashing?",
+        "options": [
+            "5 meters",
+            "10 meters",
+            "20 meters",
+            "No specific distance"
+        ],
+        "correct_answer": "20 meters",
+        "explanation": "Drivers must stop at least 20 meters from a school bus when the red lights are flashing to provide a safe space for children."
+    },
+    {
+        "question": "When is it okay to pass a school bus with its lights flashing?",
+        "options": [
+            "During a heavy rainstorm",
+            "When you are in a rush",
+            "Never",
+            "If the bus is on the opposite side of a divided road"
+        ],
+        "correct_answer": "If the bus is on the opposite side of a divided road",
+        "explanation": "Passing a school bus with flashing lights is only permitted if you are on the opposite side of a divided road with a median."
+    },
+    {
+        "question": "What are the penalties for failing to stop for a school bus when its lights are flashing?",
+        "options": [
+            "A warning",
+            "Points on your license and a fine",
+            "No penalties",
+            "Only a fine"
+        ],
+        "correct_answer": "Points on your license and a fine",
+        "explanation": "Failing to stop for a school bus can result in points being added to your driving record and a monetary fine."
+    },
+    {
+        "question": "What should you do if a school bus has its red lights flashing and you are on the other side of a divided highway?",
+        "options": [
+            "Slow down but continue driving",
+            "Stop your vehicle",
+            "Pass the bus slowly",
+            "None of the above"
+        ],
+        "correct_answer": "None of the above",
+        "explanation": "On a divided highway, if you are on the other side, you do not need to stop when the school bus has its red lights flashing."
+    },
+    {
+        "question": "Why is it important to stop for a school bus when its lights are flashing?",
+        "options": [
+            "The law requires it",
+            "It is safer for children",
+            "Both A and B",
+            "It looks good"
+        ],
+        "correct_answer": "Both A and B",
+        "explanation": "Stopping for a school bus with flashing lights is not only mandated by law but also crucial for the safety of children."
+    },
+    {
+        "question": "What should you do if a driver behind you is honking while you are stopped for a school bus?",
+        "options": [
+            "Ignore them",
+            "Start driving",
+            "Signal them to stop",
+            "Call the police"
+        ],
+        "correct_answer": "Ignore them",
+        "explanation": "You should remain stopped until the lights are no longer flashing, regardless of other drivers' actions or impatience."
+    },
+    {
+        "question": "What is the primary purpose of the flashing red lights on a school bus?",
+        "options": [
+            "To warn other vehicles",
+            "To attract attention",
+            "To indicate a stop",
+            "To indicate a speed limit"
+        ],
+        "correct_answer": "To indicate a stop",
+        "explanation": "The primary purpose of the flashing red lights is to indicate that the bus is stopped and children are either boarding or disembarking, thus requiring other vehicles to stop."
+    },
+    {
+        "question": "In addition to stopping your vehicle, what should you be particularly cautious about when a school bus has its flashing lights on?",
+        "options": [
+            "Sounding your horn",
+            "Watching out for children",
+            "Speeding away",
+            "Looking at your phone"
+        ],
+        "correct_answer": "Watching out for children",
+        "explanation": "It's essential to be mindful of children who may be crossing the road or approaching the bus when its lights are flashing."
+    },
+    {
+        "question": "What is the consequence of overtaking a school bus with its flashing lights on?",
+        "options": [
+            "You may receive a fine",
+            "You may lose your license",
+            "You may avoid an accident",
+            "None of the above"
+        ],
+        "correct_answer": "You may receive a fine",
+        "explanation": "Overtaking a school bus while its red lights are flashing can result in fines and penalties as it poses serious risks to children's safety."
+    }
+]

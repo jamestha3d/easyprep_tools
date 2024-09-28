@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a school bus loading zone sign indicate?",
+        "options": [
+            "Parking is allowed at all times",
+            "Loading and unloading of school children only",
+            "No stopping at any time",
+            "Regular parking for all vehicles"
+        ],
+        "correct_answer": "Loading and unloading of school children only",
+        "explanation": "A school bus loading zone sign signifies that the area is designated specifically for the loading and unloading of school children, and vehicles should not park there during designated times."
+    },
+    {
+        "question": "When can a driver stop in a school bus loading zone?",
+        "options": [
+            "At any time",
+            "Only when picking up or dropping off passengers",
+            "Only during school hours",
+            "When no school buses are present"
+        ],
+        "correct_answer": "Only when picking up or dropping off passengers",
+        "explanation": "Drivers are only permitted to stop in a school bus loading zone when actively picking up or dropping off school children. Stopping for any other reason is prohibited."
+    },
+    {
+        "question": "What is the consequence of stopping in a school bus loading zone when it is not allowed?",
+        "options": [
+            "Warning ticket only",
+            "Immediate towing",
+            "Fines and penalties",
+            "No consequences"
+        ],
+        "correct_answer": "Fines and penalties",
+        "explanation": "Stopping in a school bus loading zone during restricted times can result in fines and penalties, as it endangers the safety of children."
+    },
+    {
+        "question": "Are drivers allowed to pass a school bus loading zone while children are present?",
+        "options": [
+            "Yes, if the bus is not moving",
+            "Yes, always",
+            "No, never",
+            "Yes, but at a reduced speed"
+        ],
+        "correct_answer": "No, never",
+        "explanation": "Drivers must not pass a school bus loading zone when children are present, as this creates a significant safety hazard."
+    },
+    {
+        "question": "What should a driver do when they see a school bus loading zone sign?",
+        "options": [
+            "Drive through without stopping",
+            "Reduce speed and remain alert",
+            "Stop immediately",
+            "Park their vehicle there"
+        ],
+        "correct_answer": "Reduce speed and remain alert",
+        "explanation": "Upon seeing a school bus loading zone sign, drivers should reduce their speed and remain alert for children and school buses."
+    },
+    {
+        "question": "What time restrictions might apply to a school bus loading zone sign?",
+        "options": [
+            "24/7 enforcement",
+            "Only during summer months",
+            "Limited to school days only",
+            "Open access after 5 PM"
+        ],
+        "correct_answer": "Limited to school days only",
+        "explanation": "School bus loading zones often have time restrictions that apply only during school days when children are being transported."
+    },
+    {
+        "question": "What should you do if you see a school bus with its lights flashing in a loading zone?",
+        "options": [
+            "Honk your horn",
+            "Speed up to pass",
+            "Stop and wait",
+            "Ignore it"
+        ],
+        "correct_answer": "Stop and wait",
+        "explanation": "When a school bus has its lights flashing, it indicates that children are loading or unloading, and drivers must stop and wait until the lights are off."
+    },
+    {
+        "question": "Are pedestrians allowed in a school bus loading zone?",
+        "options": [
+            "Yes, always",
+            "No, never",
+            "Only if there are designated crosswalks",
+            "Only if children are present"
+        ],
+        "correct_answer": "Only if there are designated crosswalks",
+        "explanation": "Pedestrians can enter school bus loading zones only if there are designated crosswalks, ensuring their safety."
+    },
+    {
+        "question": "What does a double solid line in a school bus loading zone signify?",
+        "options": [
+            "Allowed to park on both sides",
+            "No crossing the line",
+            "Warning of upcoming school zone",
+            "Free parking during school hours"
+        ],
+        "correct_answer": "No crossing the line",
+        "explanation": "A double solid line in a school bus loading zone signifies that drivers are not allowed to cross the line, reinforcing safety in areas with children."
+    },
+    {
+        "question": "What is one key rule for drivers in school bus loading zones?",
+        "options": [
+            "Always park at the curb",
+            "Watch for children at any time",
+            "Use high beams for visibility",
+            "Drive as fast as possible"
+        ],
+        "correct_answer": "Watch for children at any time",
+        "explanation": "Drivers must always be vigilant and watch for children in school bus loading zones to ensure their safety."
+    }
+]

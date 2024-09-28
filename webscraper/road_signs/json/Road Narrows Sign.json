@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does the Road Narrows sign indicate?",
+        "options": [
+            "The road is about to widen",
+            "The road is about to narrow",
+            "There is a sharp turn ahead",
+            "End of a divided highway"
+        ],
+        "correct_answer": "The road is about to narrow",
+        "explanation": "The Road Narrows sign informs drivers that the roadway will be reduced in width, requiring caution."
+    },
+    {
+        "question": "What shape is the Road Narrows sign?",
+        "options": [
+            "Circular",
+            "Square",
+            "Diamond",
+            "Rectangle"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "Road Narrows signs are typically shaped like a diamond to alert drivers to changes in road conditions."
+    },
+    {
+        "question": "What color is the Road Narrows sign?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "The Road Narrows sign is yellow, which is used for warning signs to alert drivers of upcoming hazards."
+    },
+    {
+        "question": "When approaching a Road Narrows sign, what should a driver do?",
+        "options": [
+            "Speed up",
+            "Maintain speed",
+            "Slow down and be prepared to adjust",
+            "Change lanes immediately"
+        ],
+        "correct_answer": "Slow down and be prepared to adjust",
+        "explanation": "Drivers should slow down and prepare to adjust their driving as the road narrows, ensuring safety."
+    },
+    {
+        "question": "What type of areas usually have Road Narrows signs?",
+        "options": [
+            "Residential areas",
+            "Highway construction zones",
+            "Crowded urban areas",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Road Narrows signs may be found in various areas where the roadway width changes, including residential and urban settings."
+    },
+    {
+        "question": "What should drivers be aware of when passing through a Road Narrows area?",
+        "options": [
+            "Expect oncoming traffic",
+            "There may be pedestrians",
+            "Increased likelihood of accidents",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Drivers should be cautious of oncoming traffic and pedestrians, as reduced space increases risk, hence all situations should be considered."
+    },
+    {
+        "question": "Can the Road Narrows sign have additional information below it?",
+        "options": [
+            "Yes",
+            "No",
+            "Only in rural areas",
+            "Only in urban areas"
+        ],
+        "correct_answer": "Yes",
+        "explanation": "Sometimes additional signs may be placed below to provide further instructions or details regarding the narrowing."
+    },
+    {
+        "question": "How can a driver prepare for curves associated with Road Narrows signs?",
+        "options": [
+            "Practice drifting",
+            "Ignore the sign",
+            "Slow down and look ahead",
+            "Stay in the center of the lane"
+        ],
+        "correct_answer": "Slow down and look ahead",
+        "explanation": "Slowing down helps the driver navigate safely, and looking ahead allows them to anticipate any road conditions."
+    },
+    {
+        "question": "What is the primary purpose of the Road Narrows sign?",
+        "options": [
+            "To notify of construction",
+            "To indicate a speed limit",
+            "To alert drivers to a change in road width",
+            "To mark the start of a one-way street"
+        ],
+        "correct_answer": "To alert drivers to a change in road width",
+        "explanation": "The primary purpose of the Road Narrows sign is to inform drivers of changes in the road width that may affect their driving."
+    },
+    {
+        "question": "What action should a driver take if they see a Road Narrows sign and are in a large vehicle?",
+        "options": [
+            "Continue at high speed",
+            "Stay alert and plan to maneuver",
+            "Change lanes immediately",
+            "Stop immediately"
+        ],
+        "correct_answer": "Stay alert and plan to maneuver",
+        "explanation": "Large vehicle operators must be especially cautious and plan for safe maneuvering as the road narrows."
+    }
+]

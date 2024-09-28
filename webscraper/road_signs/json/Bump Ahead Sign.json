@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Bump Ahead sign indicate?",
+        "options": [
+            "Roadwork ahead",
+            "Upcoming speed limit change",
+            "Uneven road surface",
+            "Pedestrian crossing"
+        ],
+        "correct_answer": "Uneven road surface",
+        "explanation": "The Bump Ahead sign alerts drivers to an uneven surface on the road, prompting them to reduce speed for safety."
+    },
+    {
+        "question": "When should you start reducing speed after seeing a Bump Ahead sign?",
+        "options": [
+            "Immediately",
+            "When you reach the sign",
+            "After crossing the sign",
+            "Only if the road looks uneven"
+        ],
+        "correct_answer": "Immediately",
+        "explanation": "Drivers should begin to reduce speed as soon as they see the Bump Ahead sign to ensure safe passage over the uneven surface."
+    },
+    {
+        "question": "What is the shape of a Bump Ahead sign?",
+        "options": [
+            "Circular",
+            "Square",
+            "Diamond",
+            "Rectangular"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "Bump Ahead signs are typically diamond-shaped to indicate caution and alert drivers to potential hazards."
+    },
+    {
+        "question": "What color is a Bump Ahead sign?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "The Bump Ahead sign is yellow, which is used for warning signs that indicate potential hazards on the road."
+    },
+    {
+        "question": "What should you do if you encounter a bump after seeing the sign?",
+        "options": [
+            "Accelerate quickly",
+            "Maintain your speed",
+            "Decelerate smoothly",
+            "Steer in a different direction"
+        ],
+        "correct_answer": "Decelerate smoothly",
+        "explanation": "To safely navigate bumps, drivers should decelerate smoothly to avoid losing control of the vehicle."
+    },
+    {
+        "question": "In what situations are Bump Ahead signs commonly used?",
+        "options": [
+            "In school zones",
+            "Near construction sites",
+            "On highways",
+            "All of the above"
+        ],
+        "correct_answer": "Near construction sites",
+        "explanation": "Bump Ahead signs are frequently used near construction sites where road surfaces may be uneven due to ongoing work."
+    },
+    {
+        "question": "What should you be cautious of when driving over a bump?",
+        "options": [
+            "Loose gravel",
+            "Increased vehicle speed",
+            "Unrestrained passengers",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Drivers should be cautious of loose gravel, as well as ensuring their vehicle is under control and passengers are secured when crossing bumps."
+    },
+    {
+        "question": "What might happen if you ignore a Bump Ahead sign?",
+        "options": [
+            "Increased fuel efficiency",
+            "Improved braking response",
+            "Damage to your vehicle",
+            "Higher speed limits"
+        ],
+        "correct_answer": "Damage to your vehicle",
+        "explanation": "Ignoring a Bump Ahead sign may result in damage to your vehicle due to hitting the bump at high speed."
+    },
+    {
+        "question": "Is it more important to pay attention to a Bump Ahead sign at night?",
+        "options": [
+            "Yes",
+            "No",
+            "Only if it's raining",
+            "Not necessary"
+        ],
+        "correct_answer": "Yes",
+        "explanation": "It is crucial to pay attention to Bump Ahead signs at night because visibility is reduced and bumps may be less noticeable."
+    },
+    {
+        "question": "What is a common mistake made by drivers when approaching a Bump Ahead sign?",
+        "options": [
+            "Braking too hard",
+            "Accelerating",
+            "Ignoring the sign",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Common mistakes include braking too hard, accelerating, or ignoring the sign altogether, all of which can lead to unsafe driving conditions."
+    }
+]

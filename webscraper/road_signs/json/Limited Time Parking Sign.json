@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Limited Time Parking sign indicate?",
+        "options": [
+            "Parking is allowed indefinitely",
+            "Parking is allowed only for a specified duration",
+            "Parking is prohibited at all times",
+            "Parking is allowed for residents only"
+        ],
+        "correct_answer": "Parking is allowed only for a specified duration",
+        "explanation": "A Limited Time Parking sign specifies the maximum duration for which you can park your vehicle in that area."
+    },
+    {
+        "question": "How can you determine the maximum parking duration from a Limited Time Parking sign?",
+        "options": [
+            "By checking the sign's color",
+            "By reading the information displayed on the sign",
+            "By observing other parked cars",
+            "By asking a nearby resident"
+        ],
+        "correct_answer": "By reading the information displayed on the sign",
+        "explanation": "The sign will clearly state the allowed parking duration, often indicated as hours and minutes."
+    },
+    {
+        "question": "What might happen if you exceed the time limit indicated by the Limited Time Parking sign?",
+        "options": [
+            "You may receive a warning",
+            "You can park for an unlimited time",
+            "You may get a parking ticket",
+            "You have to vacate the parking spot immediately"
+        ],
+        "correct_answer": "You may get a parking ticket",
+        "explanation": "Exceeding the time limit generally results in a parking ticket being issued, as it violates the parking regulations."
+    },
+    {
+        "question": "In which scenario might a Limited Time Parking sign typically be found?",
+        "options": [
+            "In front of residential homes",
+            "Near busy shopping areas",
+            "In no-parking zones",
+            "At construction sites"
+        ],
+        "correct_answer": "Near busy shopping areas",
+        "explanation": "Limited Time Parking signs are often placed in areas with high turnover, like shopping centers, to ensure availability."
+    },
+    {
+        "question": "Can you park overnight in a Limited Time Parking zone?",
+        "options": [
+            "Yes, always",
+            "No, unless the sign states otherwise",
+            "Only if you have a special permit",
+            "Yes, if you hide your vehicle"
+        ],
+        "correct_answer": "No, unless the sign states otherwise",
+        "explanation": "Generally, Limited Time Parking zones restrict parking during certain hours, and overnight parking is not permitted unless specified."
+    },
+    {
+        "question": "What should you do if the Limited Time Parking sign is damaged and unreadable?",
+        "options": [
+            "Assume parking is free",
+            "Park without concern",
+            "Contact the local authorities",
+            "Move to another parking spot"
+        ],
+        "correct_answer": "Contact the local authorities",
+        "explanation": "It is important to report a damaged sign so that it can be repaired, ensuring compliance with local parking regulations."
+    },
+    {
+        "question": "Are Limited Time Parking signs enforceable?",
+        "options": [
+            "No, they are just suggestions",
+            "Yes, they are legally enforceable",
+            "Only if a police officer is present",
+            "No, they only apply to certain vehicles"
+        ],
+        "correct_answer": "Yes, they are legally enforceable",
+        "explanation": "Limited Time Parking signs are part of municipal parking regulations and violations can lead to fines."
+    },
+    {
+        "question": "What is commonly indicated in parentheses under the Limited Time Parking hours?",
+        "options": [
+            "The location of restrooms",
+            "The days on which the restrictions apply",
+            "The types of vehicles allowed",
+            "The parking fee"
+        ],
+        "correct_answer": "The days on which the restrictions apply",
+        "explanation": "Parentheses often clarify when the parking limitations are in effect, assisting drivers in adhering to regulations."
+    },
+    {
+        "question": "What does it indicate if a Limited Time Parking sign states '2-hour parking 9 AM to 5 PM'?",
+        "options": [
+            "You can park for two hours anytime",
+            "You can park for a maximum of two hours only between 9 AM and 5 PM",
+            "You can't park any time during those hours",
+            "You can park overnight"
+        ],
+        "correct_answer": "You can park for a maximum of two hours only between 9 AM and 5 PM",
+        "explanation": "This indicates that the 2-hour limit is strictly enforced only during the specified hours, allowing for longer parking outside those times."
+    },
+    {
+        "question": "If you see a sign for 'Limited Time Parking', what is your first action?",
+        "options": [
+            "Ignore it",
+            "Look for the time restrictions",
+            "Park without checking",
+            "Notify a nearby driver"
+        ],
+        "correct_answer": "Look for the time restrictions",
+        "explanation": "Before parking, you should always check the sign for any time limits to avoid penalties."
+    }
+]

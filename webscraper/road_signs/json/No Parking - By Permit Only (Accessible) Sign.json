@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a 'No Parking - By Permit Only (Accessible)' sign indicate?",
+        "options": [
+            "Anyone can park there",
+            "Only vehicles with an accessible permit can park there",
+            "No vehicles are allowed to park there at any time",
+            "Only residents can park there"
+        ],
+        "correct_answer": "Only vehicles with an accessible permit can park there",
+        "explanation": "The sign clearly indicates that parking is restricted to vehicles displaying an accessible parking permit."
+    },
+    {
+        "question": "Where are 'No Parking - By Permit Only (Accessible)' signs typically placed?",
+        "options": [
+            "In general parking areas",
+            "In front of residential homes",
+            "In accessible parking spaces",
+            "In loading zones"
+        ],
+        "correct_answer": "In accessible parking spaces",
+        "explanation": "These signs are specifically designated for accessible parking spaces which are meant for individuals with disabilities."
+    },
+    {
+        "question": "What should you do if you see a vehicle parked in a 'No Parking - By Permit Only (Accessible)' area without a permit?",
+        "options": [
+            "Leave a note on the car",
+            "Call the authorities",
+            "Wait for the owner to return",
+            "Take a photo and post it online"
+        ],
+        "correct_answer": "Call the authorities",
+        "explanation": "Unauthorized vehicles in accessible spaces should be reported to authorities to ensure compliance with parking regulations."
+    },
+    {
+        "question": "Who is eligible to use spaces marked with 'No Parking - By Permit Only (Accessible)' signs?",
+        "options": [
+            "Anyone with a driver's license",
+            "Individuals with a valid accessible parking permit",
+            "Anyone who needs extra space",
+            "Only seniors"
+        ],
+        "correct_answer": "Individuals with a valid accessible parking permit",
+        "explanation": "The spaces are reserved for those who possess a valid accessible parking permit, which serves as proof of their need."
+    },
+    {
+        "question": "What can happen if you park in a 'No Parking - By Permit Only (Accessible)' space without a permit?",
+        "options": [
+            "You may receive a warning",
+            "Your vehicle can be towed",
+            "You might receive a parking ticket",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Parking in these spaces without permission can result in warnings, tickets, or even towing, as it is a violation of parking regulations."
+    },
+    {
+        "question": "How are 'No Parking - By Permit Only (Accessible)' designations enforced?",
+        "options": [
+            "By random inspections",
+            "By parking meter attendants only",
+            "By visible permit checks and complaints",
+            "By local law enforcement only"
+        ],
+        "correct_answer": "By visible permit checks and complaints",
+        "explanation": "Enforcement usually involves checking for visible permits and responding to complaints about unauthorized vehicles."
+    },
+    {
+        "question": "What markings accompany a 'No Parking - By Permit Only (Accessible)' sign?",
+        "options": [
+            "Yellow lines",
+            "Red curbs",
+            "Blue lines",
+            "Green markings"
+        ],
+        "correct_answer": "Blue lines",
+        "explanation": "Accessible parking spaces are often marked by blue lines that indicate the special parking provisions for those with disabilities."
+    },
+    {
+        "question": "What should a driver do if they need to park in an accessible space but do not have a permit?",
+        "options": [
+            "Look for a similar space nearby",
+            "Ask a friend to park for them",
+            "Park anyway and hope for no consequences",
+            "Find alternative parking"
+        ],
+        "correct_answer": "Find alternative parking",
+        "explanation": "If a driver does not possess a valid permit, they should seek alternative parking options to avoid legal issues."
+    },
+    {
+        "question": "Is it acceptable to use someone else's accessible parking permit?",
+        "options": [
+            "Yes, if you are close friends",
+            "Yes, if the person is with you",
+            "No, it is illegal",
+            "Only if the regular permit holder approves"
+        ],
+        "correct_answer": "No, it is illegal",
+        "explanation": "Using someone else's accessible permit is against the law and can lead to serious penalties."
+    },
+    {
+        "question": "What is the purpose of a 'No Parking - By Permit Only (Accessible)' sign?",
+        "options": [
+            "To limit parking for convenience",
+            "To ensure that accessible spaces are available for those who need them",
+            "To collect parking fees",
+            "To enforce a time limit for parking"
+        ],
+        "correct_answer": "To ensure that accessible spaces are available for those who need them",
+        "explanation": "The sign is intended to protect the availability of accessible parking for individuals with disabilities, ensuring they have access to necessary facilities."
+    }
+]

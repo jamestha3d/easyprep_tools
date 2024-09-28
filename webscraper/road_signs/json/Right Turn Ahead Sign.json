@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Right Turn Ahead sign indicate?",
+        "options": [
+            "A left turn is prohibited",
+            "A right turn is soon required",
+            "A pedestrian crossing is ahead",
+            "There is a stop sign ahead"
+        ],
+        "correct_answer": "A right turn is soon required",
+        "explanation": "The Right Turn Ahead sign warns drivers that a right turn is approaching and they should be prepared to make the turn."
+    },
+    {
+        "question": "When should a driver start to reduce speed upon seeing a Right Turn Ahead sign?",
+        "options": [
+            "Immediately when they see the sign",
+            "At the intersection",
+            "Once they hear traffic signs",
+            "Only if traffic is heavy"
+        ],
+        "correct_answer": "Immediately when they see the sign",
+        "explanation": "Drivers should reduce speed and prepare for the turn as soon as they see the Right Turn Ahead sign to maintain safety."
+    },
+    {
+        "question": "Which of the following is a proper action when approaching a Right Turn Ahead sign?",
+        "options": [
+            "Speed up to make the turn quickly",
+            "Watch for pedestrians and cyclists",
+            "Ignore the sign if clear",
+            "Stop unless directed to go"
+        ],
+        "correct_answer": "Watch for pedestrians and cyclists",
+        "explanation": "It's important for drivers to be aware of pedestrians and cyclists that may be near the intersection when turning right."
+    },
+    {
+        "question": "Can a driver make a right turn at a red light if a Right Turn Ahead sign is present?",
+        "options": [
+            "Yes, always",
+            "No, never",
+            "Yes, unless otherwise posted",
+            "It depends on the vehicle"
+        ],
+        "correct_answer": "Yes, unless otherwise posted",
+        "explanation": "Drivers can make a right turn on red after stopping, unless there is a sign indicating otherwise."
+    },
+    {
+        "question": "What shape is a Right Turn Ahead sign typically?",
+        "options": [
+            "Circular",
+            "Triangle",
+            "Square",
+            "Diamond"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "The Right Turn Ahead sign is usually a diamond shape, which is standard for warning signs."
+    },
+    {
+        "question": "What color is the Right Turn Ahead sign?",
+        "options": [
+            "Red",
+            "Green",
+            "Yellow",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "The Right Turn Ahead sign is commonly yellow, indicating caution and warning to drivers."
+    },
+    {
+        "question": "How far in advance can a Right Turn Ahead sign be placed before the intersection?",
+        "options": [
+            "50 meters",
+            "100 meters",
+            "150 meters",
+            "200 meters"
+        ],
+        "correct_answer": "150 meters",
+        "explanation": "Right Turn Ahead signs are typically placed about 150 meters before the turn to give drivers adequate warning."
+    },
+    {
+        "question": "What action should a driver take if the Right Turn Ahead sign is obscured?",
+        "options": [
+            "Ignore it",
+            "Proceed without caution",
+            "Slow down and look for other signs",
+            "Turn right immediately"
+        ],
+        "correct_answer": "Slow down and look for other signs",
+        "explanation": "If a sign is obscured, drivers should slow down and be vigilant for other traffic control devices or signals."
+    },
+    {
+        "question": "What should a driver do if they miss the right turn sign?",
+        "options": [
+            "Make a U-turn",
+            "Continue driving and find a safe place to turn around",
+            "Stop immediately",
+            "Turn right at the next intersection without warning"
+        ],
+        "correct_answer": "Continue driving and find a safe place to turn around",
+        "explanation": "If a driver misses the right turn sign, they should continue to drive safely and find a proper area to turn around instead of making illegal maneuvers."
+    },
+    {
+        "question": "Is the Right Turn Ahead sign applicable only to vehicles making a right turn?",
+        "options": [
+            "Yes, only for right-turning vehicles",
+            "No, it applies to all vehicles",
+            "Only for bicycles",
+            "Only for trucks"
+        ],
+        "correct_answer": "No, it applies to all vehicles",
+        "explanation": "The Right Turn Ahead sign serves as a warning for all vehicles approaching the intersection, indicating that a right turn is expected."
+    }
+]

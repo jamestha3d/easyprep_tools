@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a 'Road Work Ahead' sign indicate?",
+        "options": [
+            "Construction work is starting",
+            "Road maintenance is ongoing",
+            "Potential hazards due to road work",
+            "Speed limit changes"
+        ],
+        "correct_answer": "Potential hazards due to road work",
+        "explanation": "A 'Road Work Ahead' sign alerts drivers that they should be cautious due to potential hazards related to road work."
+    },
+    {
+        "question": "When should drivers begin to slow down when they see a 'Road Work Ahead' sign?",
+        "options": [
+            "Immediately upon seeing the sign",
+            "Only if there is a worker present",
+            "When they are within 100 feet of the work zone",
+            "After passing the sign"
+        ],
+        "correct_answer": "Immediately upon seeing the sign",
+        "explanation": "Drivers should begin to slow down immediately upon seeing a 'Road Work Ahead' sign to ensure safety as they approach the work zone."
+    },
+    {
+        "question": "What color are 'Road Work Ahead' signs typically?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "'Road Work Ahead' signs are typically yellow, which is used to alert drivers to caution and potential hazards."
+    },
+    {
+        "question": "How far in advance should 'Road Work Ahead' signs be placed before a work zone?",
+        "options": [
+            "At least 500 feet",
+            "At least 1000 feet",
+            "At least 200 feet",
+            "At least 300 feet"
+        ],
+        "correct_answer": "At least 500 feet",
+        "explanation": "'Road Work Ahead' signs are usually placed at least 500 feet in advance to give drivers sufficient time to react."
+    },
+    {
+        "question": "What is a common consequence of ignoring a 'Road Work Ahead' sign?",
+        "options": [
+            "Reduced fuel efficiency",
+            "Increased travel time",
+            "Accidents or collisions",
+            "Fines for speeding"
+        ],
+        "correct_answer": "Accidents or collisions",
+        "explanation": "Ignoring a 'Road Work Ahead' sign can lead to accidents or collisions due to unexpected road conditions."
+    },
+    {
+        "question": "What should you do if you encounter a 'Road Work Ahead' sign during heavy traffic?",
+        "options": [
+            "Speed up to get through quickly",
+            "Merge into the next lane",
+            "Maintain a safe speed and be alert",
+            "Ignore it"
+        ],
+        "correct_answer": "Maintain a safe speed and be alert",
+        "explanation": "Maintaining a safe speed and being alert is essential to navigate through the work zone safely."
+    },
+    {
+        "question": "What additional signs might accompany a 'Road Work Ahead' sign?",
+        "options": [
+            "Speed limit signs",
+            "One-way signs",
+            "Detour signs",
+            "Yield signs"
+        ],
+        "correct_answer": "Detour signs",
+        "explanation": "Detour signs often accompany 'Road Work Ahead' signs to redirect traffic due to road restrictions or closures."
+    },
+    {
+        "question": "What is the main purpose of the 'Road Work Ahead' sign?",
+        "options": [
+            "To advertise the construction company",
+            "To warn drivers of upcoming road conditions",
+            "To indicate the time of the road work",
+            "To show the speed limit in the area"
+        ],
+        "correct_answer": "To warn drivers of upcoming road conditions",
+        "explanation": "The 'Road Work Ahead' sign's main purpose is to warn drivers of changing conditions and potential hazards due to ongoing road work."
+    },
+    {
+        "question": "In addition to observing 'Road Work Ahead' signs, what else should drivers be aware of?",
+        "options": [
+            "The car in front of them",
+            "Traffic lights only",
+            "Road workers' signals",
+            "Only the pavement conditions"
+        ],
+        "correct_answer": "Road workers' signals",
+        "explanation": "Drivers should be aware of road workers' signals as these can provide additional instructions for safe navigation through the work zone."
+    },
+    {
+        "question": "What is the general rule regarding speed in construction zones indicated by a 'Road Work Ahead' sign?",
+        "options": [
+            "Speed limit is doubled",
+            "Speed limit remains the same",
+            "Speed limit is often reduced",
+            "Speed is not enforced"
+        ],
+        "correct_answer": "Speed limit is often reduced",
+        "explanation": "In construction zones indicated by a 'Road Work Ahead' sign, the speed limit is often reduced to ensure the safety of workers and drivers."
+    }
+]

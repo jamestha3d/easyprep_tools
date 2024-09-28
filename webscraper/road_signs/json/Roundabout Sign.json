@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What sign is typically used to indicate a roundabout ahead?",
+        "options": [
+            "Yield",
+            "Stop",
+            "Roundabout",
+            "Traffic Signal"
+        ],
+        "correct_answer": "Roundabout",
+        "explanation": "The roundabout sign is specifically designed to inform drivers that they will be entering a roundabout and should prepare to yield."
+    },
+    {
+        "question": "When approaching a roundabout, what should you do?",
+        "options": [
+            "Speed up to enter quickly",
+            "Yield to traffic already in the roundabout",
+            "Stop completely before entering",
+            "Take any exit as soon as possible"
+        ],
+        "correct_answer": "Yield to traffic already in the roundabout",
+        "explanation": "Drivers must yield to vehicles that are already in the roundabout to ensure safe merging and minimize collisions."
+    },
+    {
+        "question": "Which lane should you choose when approaching a roundabout to turn left?",
+        "options": [
+            "Any lane",
+            "Left lane",
+            "Right lane",
+            "Middle lane"
+        ],
+        "correct_answer": "Left lane",
+        "explanation": "You should choose the left lane to exit at the left or straight, ensuring proper navigation inside the roundabout."
+    },
+    {
+        "question": "What should you do if you miss your exit in a roundabout?",
+        "options": [
+            "Stop and reverse",
+            "Proceed to the next exit",
+            "Make a U-turn",
+            "Honk your horn"
+        ],
+        "correct_answer": "Proceed to the next exit",
+        "explanation": "If you miss your exit, continue around the roundabout and exit at the next opportunity rather than attempting to back up."
+    },
+    {
+        "question": "What is the primary benefit of roundabouts compared to traditional intersections?",
+        "options": [
+            "They eliminate all traffic",
+            "They reduce the chance of serious accidents",
+            "They are cheaper to build",
+            "They allow for faster speeds"
+        ],
+        "correct_answer": "They reduce the chance of serious accidents",
+        "explanation": "Roundabouts are designed to reduce conflict points and slow down traffic, thus minimizing the severity of collisions."
+    },
+    {
+        "question": "When is it appropriate to use your turn signal in a roundabout?",
+        "options": [
+            "Only when entering the roundabout",
+            "Only when exiting the roundabout",
+            "Whenever you change lanes",
+            "Never"
+        ],
+        "correct_answer": "Only when exiting the roundabout",
+        "explanation": "Using a turn signal when exiting the roundabout communicates your intentions to other drivers and ensures safe merging."
+    },
+    {
+        "question": "Who has the right of way at a roundabout?",
+        "options": [
+            "Vehicles already in the roundabout",
+            "Vehicles entering the roundabout",
+            "Pedestrians only",
+            "All vehicles equally"
+        ],
+        "correct_answer": "Vehicles already in the roundabout",
+        "explanation": "Vehicles in the roundabout have the right of way, ensuring a steady flow of traffic and reducing potential accidents."
+    },
+    {
+        "question": "How should pedestrians navigate roundabouts?",
+        "options": [
+            "Run quickly through",
+            "Use designated crosswalks and wait for gaps",
+            "Cross anywhere",
+            "Walk on the road without looking"
+        ],
+        "correct_answer": "Use designated crosswalks and wait for gaps",
+        "explanation": "Pedestrians should always use designated crosswalks and ensure that traffic has cleared before crossing to maintain safety."
+    },
+    {
+        "question": "At a roundabout, what should you do if an emergency vehicle approaches?",
+        "options": [
+            "Speed up and exit quickly",
+            "Stay put until the vehicle passes",
+            "Move to the right and yield",
+            "Ignore and continue as normal"
+        ],
+        "correct_answer": "Move to the right and yield",
+        "explanation": "Drivers should pull over to the right and yield to emergency vehicles, allowing them to pass through safely."
+    },
+    {
+        "question": "Which type of vehicle is allowed to drive in a roundabout?",
+        "options": [
+            "Only cars",
+            "Bicycles and pedestrians only",
+            "All types of vehicles",
+            "Only buses and trucks"
+        ],
+        "correct_answer": "All types of vehicles",
+        "explanation": "Roundabouts are designed to accommodate all types of vehicles, including cars, trucks, and bicycles, provided they follow the rules."
+    }
+]

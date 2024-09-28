@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Stop Ahead sign indicate?",
+        "options": [
+            "A stop is ahead",
+            "You must turn right",
+            "Speed limit ahead",
+            "You can continue driving"
+        ],
+        "correct_answer": "A stop is ahead",
+        "explanation": "A Stop Ahead sign warns drivers that a stop sign is approaching, allowing them to prepare to stop."
+    },
+    {
+        "question": "When should you begin to slow down upon seeing a Stop Ahead sign?",
+        "options": [
+            "Immediately",
+            "At the stop sign",
+            "After passing the sign",
+            "Only if the road is busy"
+        ],
+        "correct_answer": "Immediately",
+        "explanation": "Drivers should slow down immediately upon seeing a Stop Ahead sign to ensure they can stop safely at the upcoming stop sign."
+    },
+    {
+        "question": "What shape is a Stop Ahead sign typically?",
+        "options": [
+            "Circle",
+            "Triangle",
+            "Diamond",
+            "Rectangle"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "Stop Ahead signs are usually diamond-shaped, which is typical for warning signs."
+    },
+    {
+        "question": "What color is the background of a Stop Ahead sign?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "The background of a Stop Ahead sign is yellow, indicating caution and alerting drivers to potential danger."
+    },
+    {
+        "question": "How far in advance is a Stop Ahead sign usually placed from the stop sign?",
+        "options": [
+            "100 feet",
+            "150 feet",
+            "200 feet",
+            "300 feet"
+        ],
+        "correct_answer": "200 feet",
+        "explanation": "A Stop Ahead sign is typically placed about 200 feet in advance of the stop sign to give drivers ample time to prepare."
+    },
+    {
+        "question": "What should you do if you see a Stop Ahead sign at night?",
+        "options": [
+            "Ignore it",
+            "Accelerate",
+            "Prepare to stop",
+            "Look for traffic lights"
+        ],
+        "correct_answer": "Prepare to stop",
+        "explanation": "Drivers should always prepare to stop when they see a Stop Ahead sign, regardless of the time of day."
+    },
+    {
+        "question": "What do white light reflections on a Stop Ahead sign indicate?",
+        "options": [
+            "The sign is broken",
+            "Time to speed up",
+            "Increased visibility at night",
+            "No need to stop"
+        ],
+        "correct_answer": "Increased visibility at night",
+        "explanation": "The white light reflections on a Stop Ahead sign enhance visibility at night, helping drivers notice it more easily."
+    },
+    {
+        "question": "Which of the following is NOT appropriate behavior when approaching a Stop Ahead sign?",
+        "options": [
+            "Checking for pedestrians",
+            "Using your phone",
+            "Slowing down",
+            "Watching for other vehicles"
+        ],
+        "correct_answer": "Using your phone",
+        "explanation": "Using your phone while approaching a Stop Ahead sign is dangerous and distracting, and should be avoided."
+    },
+    {
+        "question": "What action is required after seeing a Stop Ahead sign in the context of traffic rules?",
+        "options": [
+            "Proceed without stopping",
+            "Stop at the marked line",
+            "Yield to pedestrians",
+            "Increase speed to catch up"
+        ],
+        "correct_answer": "Stop at the marked line",
+        "explanation": "Drivers are required to stop at the marked line or the intersection after heeding a Stop Ahead sign."
+    },
+    {
+        "question": "Can a Stop Ahead sign be used by itself without a stop sign?",
+        "options": [
+            "Yes",
+            "No",
+            "Only in construction zones",
+            "Only in rural areas"
+        ],
+        "correct_answer": "No",
+        "explanation": "A Stop Ahead sign is intended to work in conjunction with a stop sign, as it advises drivers of the upcoming stop requirement."
+    }
+]

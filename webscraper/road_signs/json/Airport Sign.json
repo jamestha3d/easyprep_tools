@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a solid yellow line on a taxiway indicate?",
+        "options": [
+            "Taxiway centerline",
+            "Caution area",
+            "Runway threshold",
+            "No entry"
+        ],
+        "correct_answer": "Taxiway centerline",
+        "explanation": "A solid yellow line indicates the taxiway centerline, guiding pilots along the taxiway."
+    },
+    {
+        "question": "What does a dashed yellow line signify?",
+        "options": [
+            "Holding position",
+            "Taxiway edge",
+            "Caution area",
+            "Runway edge"
+        ],
+        "correct_answer": "Taxiway edge",
+        "explanation": "A dashed yellow line marks the edge of the taxiway, indicating the area that should be avoided."
+    },
+    {
+        "question": "What does an 'X' symbol on the runway indicate?",
+        "options": [
+            "Runway closed",
+            "Runway open",
+            "Taxi not allowed",
+            "Emergency landing"
+        ],
+        "correct_answer": "Runway closed",
+        "explanation": "An 'X' symbol indicates that the runway is closed for use."
+    },
+    {
+        "question": "What color are mandatory instruction signs at airports?",
+        "options": [
+            "Red with white text",
+            "Green with white text",
+            "Yellow with black text",
+            "Blue with white text"
+        ],
+        "correct_answer": "Red with white text",
+        "explanation": "Mandatory instruction signs have a red background with white text to indicate rules that must be followed."
+    },
+    {
+        "question": "What does a blue signs indicate at an airport?",
+        "options": [
+            "Taxiway information",
+            "Runway information",
+            "Information for pilots",
+            "Warning signs"
+        ],
+        "correct_answer": "Information for pilots",
+        "explanation": "Blue signs provide information to pilots, such as directions to terminals and services."
+    },
+    {
+        "question": "What do yellow signs with black text indicate?",
+        "options": [
+            "Caution areas",
+            "Information areas",
+            "Runway edges",
+            "Taxiway intersections"
+        ],
+        "correct_answer": "Caution areas",
+        "explanation": "Yellow signs with black text are used to caution pilots about potential hazards."
+    },
+    {
+        "question": "What is the purpose of a holding position sign?",
+        "options": [
+            "To guide aircraft to the runway",
+            "To indicate waiting spots",
+            "To stop aircraft before crossing a runway",
+            "To indicate fuel stations"
+        ],
+        "correct_answer": "To stop aircraft before crossing a runway",
+        "explanation": "A holding position sign is used to prevent aircraft from entering a runway when it is not safe."
+    },
+    {
+        "question": "What does a directional sign with arrows show?",
+        "options": [
+            "Where to park",
+            "Taxiway directions",
+            "Runway numbers",
+            "Weather updates"
+        ],
+        "correct_answer": "Taxiway directions",
+        "explanation": "Directional signs show pilots the necessary route to take along taxiways."
+    },
+    {
+        "question": "What is typically indicated by a solid green light?",
+        "options": [
+            "Runway in use",
+            "Taxi route available",
+            "Emergency status",
+            "Pilot guidance"
+        ],
+        "correct_answer": "Runway in use",
+        "explanation": "A solid green light indicates that a runway is in use and safe for landing or takeoff."
+    },
+    {
+        "question": "When would pilots primarily rely on airport signage?",
+        "options": [
+            "During heavy traffic",
+            "In poor visibility conditions",
+            "While taxiing and on the runway",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Pilots rely on airport signage in various situations to ensure safe navigation on the airport surface."
+    }
+]

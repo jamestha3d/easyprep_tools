@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does the HOV sign indicate?",
+        "options": [
+            "High-Speed Lane",
+            "High Occupancy Vehicle Lane",
+            "Heavy Vehicle Lane",
+            "Hiking Trail"
+        ],
+        "correct_answer": "High Occupancy Vehicle Lane",
+        "explanation": "The HOV sign indicates a lane designated for vehicles with multiple occupants to promote carpooling and reduce congestion."
+    },
+    {
+        "question": "What is the typical minimum occupancy requirement for using an HOV lane?",
+        "options": [
+            "1 person",
+            "2 persons",
+            "3 persons",
+            "4 persons"
+        ],
+        "correct_answer": "2 persons",
+        "explanation": "Most HOV lanes require a minimum of 2 persons in the vehicle, including the driver, to qualify for use of the lane."
+    },
+    {
+        "question": "What is the main purpose of HOV lanes?",
+        "options": [
+            "To increase traffic speed",
+            "To accommodate emergency vehicles",
+            "To decrease road congestion",
+            "To collect tolls"
+        ],
+        "correct_answer": "To decrease road congestion",
+        "explanation": "HOV lanes are designed to decrease congestion by encouraging carpooling and maximizing the number of passengers in vehicles."
+    },
+    {
+        "question": "When are HOV lanes typically in effect?",
+        "options": [
+            "24 hours",
+            "Weekdays only",
+            "During rush hour",
+            "Evenings and weekends"
+        ],
+        "correct_answer": "During rush hour",
+        "explanation": "HOV lanes are usually in effect during peak traffic periods, often referred to as rush hour, to maximize their congestion-reducing benefits."
+    },
+    {
+        "question": "Are motorcycles allowed in HOV lanes?",
+        "options": [
+            "Yes, always",
+            "No, never",
+            "Only if carrying a passenger",
+            "Only if under certain conditions"
+        ],
+        "correct_answer": "Yes, always",
+        "explanation": "Motorcycles are often exempt from occupancy requirements in HOV lanes, allowing them to use these lanes regardless of the number of riders."
+    },
+    {
+        "question": "What should you do if you are in an HOV lane and your passenger leaves?",
+        "options": [
+            "Continue driving",
+            "Exit the lane immediately",
+            "Wait for a new passenger",
+            "Call for assistance"
+        ],
+        "correct_answer": "Exit the lane immediately",
+        "explanation": "If the number of occupants drops below the required minimum, you should exit the HOV lane as it is no longer permissible to be in that lane."
+    },
+    {
+        "question": "Can single-occupancy vehicles use HOV lanes during off-peak hours?",
+        "options": [
+            "Yes, always",
+            "No, never",
+            "Only if they have a special permit",
+            "Only if it's a holiday"
+        ],
+        "correct_answer": "Yes, always",
+        "explanation": "Single-occupancy vehicles may use HOV lanes if they are not in operation, typically during off-peak hours when the restrictions are lifted."
+    },
+    {
+        "question": "What happens if a vehicle is caught illegally using an HOV lane?",
+        "options": [
+            "No penalties",
+            "Warning only",
+            "Fines or tickets",
+            "Mandatory traffic school"
+        ],
+        "correct_answer": "Fines or tickets",
+        "explanation": "Vehicles that illegally use HOV lanes may be subject to fines or tickets as a penalty for non-compliance with the lane\u2019s regulations."
+    },
+    {
+        "question": "How are HOV lane rules typically enforced?",
+        "options": [
+            "Traffic cameras",
+            "Police patrols",
+            "Random checks",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "HOV lane rules can be enforced through various methods including traffic cameras, police patrols, and random checks to ensure compliance."
+    },
+    {
+        "question": "What symbol is often associated with HOV lanes?",
+        "options": [
+            "Bicycle symbol",
+            "Carpool symbol",
+            "Electric vehicle symbol",
+            "Speed limit sign"
+        ],
+        "correct_answer": "Carpool symbol",
+        "explanation": "The carpool symbol, which often represents multiple occupants, is typically used to indicate HOV lanes to promote carpooling."
+    }
+]

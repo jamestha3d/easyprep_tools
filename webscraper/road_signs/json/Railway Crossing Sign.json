@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a railway crossing sign indicate?",
+        "options": [
+            "No U-turn",
+            "Stop",
+            "Danger ahead",
+            "Railway crossing ahead"
+        ],
+        "correct_answer": "Railway crossing ahead",
+        "explanation": "A railway crossing sign warns drivers that they are approaching a point where a railway line intersects the road."
+    },
+    {
+        "question": "When approaching a railway crossing sign, what should a driver do?",
+        "options": [
+            "Speed up",
+            "Slow down and prepare to stop",
+            "Ignore the sign",
+            "Turn around"
+        ],
+        "correct_answer": "Slow down and prepare to stop",
+        "explanation": "Drivers should reduce speed and be ready to stop for any oncoming trains at a railway crossing."
+    },
+    {
+        "question": "What is the shape of a typical railway crossing warning sign?",
+        "options": [
+            "Square",
+            "Circular",
+            "Triangular",
+            "Diamond"
+        ],
+        "correct_answer": "Circular",
+        "explanation": "Railway crossing signs are typically circular to signal danger and alert drivers to the upcoming crossing."
+    },
+    {
+        "question": "If you see a railway crossing sign along with flashing lights, what should you do?",
+        "options": [
+            "Continue driving",
+            "Stop immediately",
+            "Honk your horn",
+            "Speed up to cross"
+        ],
+        "correct_answer": "Stop immediately",
+        "explanation": "Flashing lights at a railway crossing indicate that a train is approaching, and drivers must stop to ensure their safety."
+    },
+    {
+        "question": "What color is a railway crossing sign usually?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Railway crossing signs are generally yellow to enhance visibility and caution drivers about potential danger."
+    },
+    {
+        "question": "What should a driver do if there are no lights or gates at a railway crossing?",
+        "options": [
+            "Proceed with caution",
+            "Ignore the sign",
+            "Speed up",
+            "Turn around"
+        ],
+        "correct_answer": "Proceed with caution",
+        "explanation": "In the absence of lights or gates, drivers must carefully look for trains and cross only when it is safe to do so."
+    },
+    {
+        "question": "What does the additional 'X' symbol on some railway crossing signs indicate?",
+        "options": [
+            "No entry",
+            "Stop here",
+            "Railway tracks ahead",
+            "Train station nearby"
+        ],
+        "correct_answer": "Railway tracks ahead",
+        "explanation": "'X' symbols indicate that drivers are approaching tracks and should be alert for potential train crossings."
+    },
+    {
+        "question": "What is a common misinterpretation of railway crossing signs?",
+        "options": [
+            "They mean to stop for any vehicle",
+            "They indicate a pedestrian crossing",
+            "They only apply at night",
+            "They signify the end of a road"
+        ],
+        "correct_answer": "They signify the end of a road",
+        "explanation": "Some drivers may mistakenly think railway crossing signs signify the end of a road, but they only indicate a train crossing."
+    },
+    {
+        "question": "What additional caution should motorcyclists take when approaching a railway crossing sign?",
+        "options": [
+            "None, it's the same as for cars",
+            "Avoid railway tracks at all times",
+            "Be aware of loose gravel or debris",
+            "Wear additional protective gear"
+        ],
+        "correct_answer": "Be aware of loose gravel or debris",
+        "explanation": "Motorcyclists should be particularly cautious of loose gravel or debris that could affect their control when crossing the tracks."
+    },
+    {
+        "question": "When are railway crossing signs essential to drivers?",
+        "options": [
+            "Only during daylight",
+            "Every time they approach a crossing",
+            "Only in bad weather",
+            "During rush hour"
+        ],
+        "correct_answer": "Every time they approach a crossing",
+        "explanation": "Railway crossing signs are crucial for safety and should be heeded every time a driver approaches a railway crossing."
+    }
+]

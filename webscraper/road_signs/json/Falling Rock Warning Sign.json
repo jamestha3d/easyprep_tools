@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Falling Rock Warning Sign indicate?",
+        "options": [
+            "Rocks may fall from slopes",
+            "Road construction ahead",
+            "Speed limit change",
+            "Pedestrian crossing"
+        ],
+        "correct_answer": "Rocks may fall from slopes",
+        "explanation": "The Falling Rock Warning Sign alerts drivers that there is a risk of rocks falling onto the road, typically in hilly or mountainous areas."
+    },
+    {
+        "question": "What shape is the Falling Rock Warning Sign?",
+        "options": [
+            "Triangle",
+            "Rectangle",
+            "Circle",
+            "Diamond"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "The Falling Rock Warning Sign is a diamond-shaped sign, which is used to indicate warning hazards ahead."
+    },
+    {
+        "question": "When you see a Falling Rock Warning Sign, what should you do?",
+        "options": [
+            "Speed up",
+            "Slow down and be alert",
+            "Ignore it",
+            "Change lanes"
+        ],
+        "correct_answer": "Slow down and be alert",
+        "explanation": "Upon seeing a Falling Rock Warning Sign, drivers should slow down and remain cautious as rocks could fall onto the roadway."
+    },
+    {
+        "question": "Where are Falling Rock Warning Signs commonly found?",
+        "options": [
+            "Flat roads",
+            "Curved roads in urban areas",
+            "Hilly or mountainous roads",
+            "Near schools"
+        ],
+        "correct_answer": "Hilly or mountainous roads",
+        "explanation": "These signs are typically placed in areas where there is a higher risk of rocks falling due to the natural landscape."
+    },
+    {
+        "question": "What color is the background of the Falling Rock Warning Sign?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Blue",
+            "Green"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "The Falling Rock Warning Sign has a yellow background, which is a standard color for warning signs indicating caution."
+    },
+    {
+        "question": "If you ignore a Falling Rock Warning Sign, what could happen?",
+        "options": [
+            "Nothing will happen",
+            "You might encounter falling rocks",
+            "You will be fined",
+            "You will gain time"
+        ],
+        "correct_answer": "You might encounter falling rocks",
+        "explanation": "Ignoring the warning could lead to dangerous situations, as rocks may indeed fall onto the roadway, posing serious risks to drivers."
+    },
+    {
+        "question": "In addition to the sign, what other measures might indicate falling rock hazards?",
+        "options": [
+            "Traffic lights",
+            "Roadside cameras",
+            "Reflective markers",
+            "Rockfall fences"
+        ],
+        "correct_answer": "Rockfall fences",
+        "explanation": "Rockfall fences may be installed along roads where falling rocks are a known hazard, in addition to the warning signs."
+    },
+    {
+        "question": "What might a driver experience if they do not heed the Falling Rock Warning Sign?",
+        "options": [
+            "Increased fuel efficiency",
+            "Reduced speed",
+            "Increased risk of accidents",
+            "Shorter travel times"
+        ],
+        "correct_answer": "Increased risk of accidents",
+        "explanation": "Failure to heed the Falling Rock Warning Sign can result in serious accidents if rocks fall onto the road unexpectedly."
+    },
+    {
+        "question": "Which of the following is true about the Falling Rock Warning Sign and its visibility?",
+        "options": [
+            "It should only be visible in daytime",
+            "It is designed to be visible under all conditions",
+            "It can be ignored on high-speed roads",
+            "It is less important than other signs"
+        ],
+        "correct_answer": "It is designed to be visible under all conditions",
+        "explanation": "The Falling Rock Warning Sign is designed for visibility in various conditions, ensuring drivers are alerted regardless of daylight or weather."
+    },
+    {
+        "question": "How should drivers react when approaching a Falling Rock Warning Sign in foggy conditions?",
+        "options": [
+            "Maintain speed",
+            "Aggressively overtake other vehicles",
+            "Reduce speed and drive cautiously",
+            "Use high beams"
+        ],
+        "correct_answer": "Reduce speed and drive cautiously",
+        "explanation": "In foggy conditions, drivers should reduce speed and continue to drive cautiously, as visibility may be limited and the risk of encountering falling rocks is heightened."
+    }
+]

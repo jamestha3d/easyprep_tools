@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Right Curve Sign indicate?",
+        "options": [
+            "A left turn",
+            "A right curve ahead",
+            "A steep hill",
+            "A pedestrian crossing"
+        ],
+        "correct_answer": "A right curve ahead",
+        "explanation": "The Right Curve Sign warns drivers that the road will curve to the right ahead, and they should prepare for the change in direction."
+    },
+    {
+        "question": "When should you begin to slow down upon seeing a Right Curve Sign?",
+        "options": [
+            "After the curve",
+            "Immediately upon seeing the sign",
+            "Only if the road appears slippery",
+            "If there are vehicles behind you"
+        ],
+        "correct_answer": "Immediately upon seeing the sign",
+        "explanation": "Drivers should begin to slow down when they see a Right Curve Sign to ensure safe navigation through the curve."
+    },
+    {
+        "question": "What color is the Right Curve Sign typically?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Orange"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "The Right Curve Sign is usually yellow, which is a caution color indicating that drivers should be alert and ready to adjust their speed."
+    },
+    {
+        "question": "What is one possible hazard associated with a right curve?",
+        "options": [
+            "Blind spots",
+            "Steep inclines",
+            "Traffic signals",
+            "Pedestrian zones"
+        ],
+        "correct_answer": "Blind spots",
+        "explanation": "Right curves can create blind spots for drivers, making it more difficult to see vehicles or pedestrians that may be in the curve."
+    },
+    {
+        "question": "What should you do if weather conditions make the right curve slippery?",
+        "options": [
+            "Increase your speed",
+            "Maintain your speed",
+            "Slow down further than usual",
+            "Change lanes"
+        ],
+        "correct_answer": "Slow down further than usual",
+        "explanation": "In slippery conditions, it's important to slow down more than usual to maintain control and safely navigate the curve."
+    },
+    {
+        "question": "What other signage might accompany a Right Curve Sign?",
+        "options": [
+            "Stop Sign",
+            "Speed Limit Sign",
+            "Pedestrian Crossing Sign",
+            "No Parking Sign"
+        ],
+        "correct_answer": "Speed Limit Sign",
+        "explanation": "A Speed Limit Sign may accompany a Right Curve Sign to indicate a reduced speed that is safe for the curve."
+    },
+    {
+        "question": "How should you position your vehicle when approaching a right curve?",
+        "options": [
+            "Stay in the left lane",
+            "Stay in the center lane",
+            "Move to the right side of your lane",
+            "Switch lanes frequently"
+        ],
+        "correct_answer": "Move to the right side of your lane",
+        "explanation": "Positioning your vehicle towards the right side of your lane allows for better visibility and safety when navigating a right curve."
+    },
+    {
+        "question": "What is a common mistake drivers make when approaching a right curve?",
+        "options": [
+            "Ignoring the speed limit",
+            "Looking straight ahead",
+            "Turning too sharply",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Drivers often make the mistake of ignoring the speed limit, failing to look around for hazards, or turning too sharply when navigating right curves."
+    },
+    {
+        "question": "What should you do if you see a Right Curve Sign while driving a large vehicle?",
+        "options": [
+            "Ignore it",
+            "Accelerate to clear the curve quickly",
+            "Slow down and ensure stability",
+            "Switch to a different route"
+        ],
+        "correct_answer": "Slow down and ensure stability",
+        "explanation": "Large vehicles require more time and space to navigate curves safely, so it's important to slow down to maintain stability through the curve."
+    },
+    {
+        "question": "What impact does a Right Curve Sign have on your driving speed?",
+        "options": [
+            "Increases speed limits",
+            "No impact",
+            "Recommends reducing speed",
+            "Encourages speeding"
+        ],
+        "correct_answer": "Recommends reducing speed",
+        "explanation": "A Right Curve Sign typically indicates that drivers should reduce their speed to safely navigate the upcoming road curve."
+    }
+]

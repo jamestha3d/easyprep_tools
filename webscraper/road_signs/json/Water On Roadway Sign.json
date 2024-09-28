@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Water On Roadway sign indicate?",
+        "options": [
+            "Flooding ahead",
+            "Slippery conditions",
+            "Road construction",
+            "Animal crossing"
+        ],
+        "correct_answer": "Flooding ahead",
+        "explanation": "The Water On Roadway sign warns drivers of flooding conditions on the road ahead, indicating they need to drive with caution."
+    },
+    {
+        "question": "When should you reduce speed upon seeing a Water On Roadway sign?",
+        "options": [
+            "Only during nighttime",
+            "When the road is visibly wet",
+            "Whenever you see the sign",
+            "Only in rainy weather"
+        ],
+        "correct_answer": "Whenever you see the sign",
+        "explanation": "Drivers should reduce speed whenever they see the Water On Roadway sign to ensure safety, regardless of current weather conditions."
+    },
+    {
+        "question": "What is the primary purpose of the Water On Roadway sign?",
+        "options": [
+            "To indicate a construction zone",
+            "To warn of possible flooding",
+            "To show a pedestrian crossing",
+            "To signal a speed limit change"
+        ],
+        "correct_answer": "To warn of possible flooding",
+        "explanation": "The primary purpose of the Water On Roadway sign is to warn drivers of possible flooding ahead, helping to prevent accidents."
+    },
+    {
+        "question": "What should a driver do if they encounter a flooded roadway?",
+        "options": [
+            "Speed through the water",
+            "Turn around and find an alternative route",
+            "Proceed with caution",
+            "Stop and wait for the water to recede"
+        ],
+        "correct_answer": "Turn around and find an alternative route",
+        "explanation": "If a driver encounters a flooded roadway, the safest course of action is to turn around and seek an alternative route to avoid potential hazards."
+    },
+    {
+        "question": "Which of the following is a common consequence of ignoring a Water On Roadway sign?",
+        "options": [
+            "Increased travel time",
+            "Getting stuck in water",
+            "Arriving at the destination faster",
+            "Improved fuel efficiency"
+        ],
+        "correct_answer": "Getting stuck in water",
+        "explanation": "Ignoring a Water On Roadway sign can lead to getting stuck in water, which poses serious risks to the driver and the vehicle."
+    },
+    {
+        "question": "What should drivers be vigilant about in addition to the Water On Roadway sign?",
+        "options": [
+            "Weather forecasts",
+            "Animal behavior",
+            "Roadwork signs",
+            "Traffic lights"
+        ],
+        "correct_answer": "Weather forecasts",
+        "explanation": "Drivers should be mindful of weather forecasts, as heavy rain can lead to flooding, and being informed helps them make safe travel decisions."
+    },
+    {
+        "question": "How can rain contribute to hazardous conditions as indicated by the Water On Roadway sign?",
+        "options": [
+            "By causing fog",
+            "By increasing traffic jams",
+            "By making the road slippery",
+            "By creating noise"
+        ],
+        "correct_answer": "By making the road slippery",
+        "explanation": "Rain can create slippery conditions on the road, which the Water On Roadway sign aims to warn drivers about to promote safer driving."
+    },
+    {
+        "question": "What should be considered before driving through standing water?",
+        "options": [
+            "Depth of water",
+            "Color of the water",
+            "Temperature of the water",
+            "Distance to the destination"
+        ],
+        "correct_answer": "Depth of water",
+        "explanation": "Before driving through standing water, the depth should be assessed to avoid potential damage to the vehicle and ensure safety."
+    },
+    {
+        "question": "Where is the Water On Roadway sign typically placed?",
+        "options": [
+            "At exits",
+            "Before a dip in the road",
+            "Before the flooded area",
+            "At traffic lights"
+        ],
+        "correct_answer": "Before the flooded area",
+        "explanation": "The Water On Roadway sign is usually placed before an area that is known to be flooded, giving drivers advance warning."
+    },
+    {
+        "question": "What driving behavior is recommended upon approaching a Water On Roadway sign?",
+        "options": [
+            "Increase speed",
+            "Maintain current speed",
+            "Slow down and evaluate the situation",
+            "Change lanes quickly"
+        ],
+        "correct_answer": "Slow down and evaluate the situation",
+        "explanation": "It is recommended to slow down and evaluate the situation upon approaching the Water On Roadway sign, ensuring safe navigation through potential hazards."
+    }
+]

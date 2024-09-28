@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a 'No Right Turn on Red' sign indicate?",
+        "options": [
+            "You can turn right after stopping",
+            "You must turn right regardless of the signal",
+            "You cannot turn right on a red light",
+            "You can turn right only during certain hours"
+        ],
+        "correct_answer": "You cannot turn right on a red light",
+        "explanation": "The sign explicitly prohibits turning right while the traffic signal is red, ensuring safety at intersections."
+    },
+    {
+        "question": "When should drivers obey a 'No Right Turn on Red' sign?",
+        "options": [
+            "Only when pedestrians are present",
+            "At all times when the signal is red",
+            "When there is heavy traffic",
+            "When turning would obstruct traffic"
+        ],
+        "correct_answer": "At all times when the signal is red",
+        "explanation": "The sign is a directive that must be followed regardless of other conditions, providing clear rules for all drivers."
+    },
+    {
+        "question": "What additional action is recommended when approaching a 'No Right Turn on Red' sign?",
+        "options": [
+            "Speed up to clear the intersection",
+            "Prepare to stop and yield to pedestrians",
+            "Honk to alert other drivers",
+            "Look for pedestrians before the sign"
+        ],
+        "correct_answer": "Prepare to stop and yield to pedestrians",
+        "explanation": "Drivers must be cautious and prepared to stop, always yielding to pedestrians, even when the sign is in place."
+    },
+    {
+        "question": "What should a driver do if they see a 'No Right Turn on Red' sign but the intersection is clear?",
+        "options": [
+            "Make the turn anyway",
+            "Wait until the light turns green",
+            "Turn left instead",
+            "Continue straight without stopping"
+        ],
+        "correct_answer": "Wait until the light turns green",
+        "explanation": "The prohibition applies irrespective of traffic conditions, meaning drivers must wait for a green signal before turning."
+    },
+    {
+        "question": "Where are 'No Right Turn on Red' signs typically placed?",
+        "options": [
+            "Before the intersection",
+            "On signal poles",
+            "On the road surface",
+            "On building walls"
+        ],
+        "correct_answer": "On signal poles",
+        "explanation": "These signs are usually mounted on or near traffic signal poles to ensure visibility and adherence to traffic laws."
+    },
+    {
+        "question": "Who is affected by the 'No Right Turn on Red' sign?",
+        "options": [
+            "Only commercial drivers",
+            "All drivers approaching the intersection",
+            "Only local drivers",
+            "Only drivers turning from the left"
+        ],
+        "correct_answer": "All drivers approaching the intersection",
+        "explanation": "The sign applies to every driver at the intersection, establishing rules to enhance safety for all road users."
+    },
+    {
+        "question": "What is the purpose of a 'No Right Turn on Red' sign?",
+        "options": [
+            "To increase traffic flow",
+            "To improve safety at certain intersections",
+            "To allow more vehicles to turn",
+            "To reduce waiting time at lights"
+        ],
+        "correct_answer": "To improve safety at certain intersections",
+        "explanation": "These signs are implemented where right turns on red may pose a risk to pedestrians or cause congestion."
+    },
+    {
+        "question": "What might happen if a driver ignores a 'No Right Turn on Red' sign?",
+        "options": [
+            "They might get a warning",
+            "They could be involved in an accident",
+            "They will always get away with it",
+            "They can turn without any consequences"
+        ],
+        "correct_answer": "They could be involved in an accident",
+        "explanation": "Ignoring the sign can lead to dangerous situations for pedestrians and other vehicles, impacting everyone's safety."
+    },
+    {
+        "question": "Is it permissible to turn right on red if there is no 'No Right Turn on Red' sign?",
+        "options": [
+            "Only if the road is clear",
+            "Only if it's safe",
+            "Always",
+            "Never"
+        ],
+        "correct_answer": "Only if it's safe",
+        "explanation": "If no sign prohibits it, a driver may turn right on red after a complete stop and ensuring it is safe to do so."
+    },
+    {
+        "question": "What should a driver check for before making a right turn on red where permitted?",
+        "options": [
+            "Traffic signals only",
+            "Pedestrians and other vehicles",
+            "The speed limit",
+            "Time of day"
+        ],
+        "correct_answer": "Pedestrians and other vehicles",
+        "explanation": "Drivers must ensure the pathway is clear of pedestrians and other vehicles to ensure a safe turn."
+    }
+]

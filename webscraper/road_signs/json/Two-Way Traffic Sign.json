@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a two-way traffic sign indicate?",
+        "options": [
+            "You are entering a one-way street",
+            "Traffic flows in both directions",
+            "No entry",
+            "A pedestrian zone"
+        ],
+        "correct_answer": "Traffic flows in both directions",
+        "explanation": "A two-way traffic sign indicates that vehicles should be prepared for oncoming traffic from the opposite direction."
+    },
+    {
+        "question": "Which sign indicates the start of two-way traffic?",
+        "options": [
+            "One-way sign",
+            "Two-way traffic sign",
+            "No entry sign",
+            "Yield sign"
+        ],
+        "correct_answer": "Two-way traffic sign",
+        "explanation": "The two-way traffic sign specifically signals the transition to a road where vehicles can travel in both directions."
+    },
+    {
+        "question": "How should drivers react when they see a two-way traffic sign?",
+        "options": [
+            "Speed up",
+            "Prepare for oncoming vehicles",
+            "Ignore the sign",
+            "Continue without caution"
+        ],
+        "correct_answer": "Prepare for oncoming vehicles",
+        "explanation": "Drivers should always prepare for oncoming traffic when a two-way traffic sign is present to ensure safety."
+    },
+    {
+        "question": "Two-way traffic signs are commonly used in which area?",
+        "options": [
+            "Residential areas",
+            "One-way streets",
+            "Highways",
+            "Mountain roads"
+        ],
+        "correct_answer": "Residential areas",
+        "explanation": "Two-way traffic signs are typically found in residential areas and streets where traffic flows in both directions."
+    },
+    {
+        "question": "What color is a standard two-way traffic sign?",
+        "options": [
+            "Red",
+            "Green",
+            "Yellow",
+            "Black and white"
+        ],
+        "correct_answer": "Black and white",
+        "explanation": "Two-way traffic signs are primarily black and white to ensure high visibility and clear communication."
+    },
+    {
+        "question": "What should you do if you see a two-way traffic sign and you are not familiar with the area?",
+        "options": [
+            "Slow down and observe",
+            "Accelerate through the area",
+            "Turn back",
+            "Ignore surroundings"
+        ],
+        "correct_answer": "Slow down and observe",
+        "explanation": "Slowing down and observing is crucial to safely analyze the traffic situation in unfamiliar areas with two-way signs."
+    },
+    {
+        "question": "Is a two-way traffic sign a regulatory or informational sign?",
+        "options": [
+            "Regulatory",
+            "Informational",
+            "Warning",
+            "Advisory"
+        ],
+        "correct_answer": "Regulatory",
+        "explanation": "A two-way traffic sign serves as a regulatory sign, providing essential information about traffic flow requirements."
+    },
+    {
+        "question": "What might happen if a driver ignores a two-way traffic sign?",
+        "options": [
+            "Nothing serious",
+            "Happy driving",
+            "Traffic accidents",
+            "Increased speeds"
+        ],
+        "correct_answer": "Traffic accidents",
+        "explanation": "Ignoring a two-way traffic sign can lead to traffic accidents due to potential head-on collisions from oncoming vehicles."
+    },
+    {
+        "question": "If a two-way traffic sign is incorrectly placed, what should happen?",
+        "options": [
+            "Drivers continue as normal",
+            "Local authorities should be notified",
+            "Nothing can be done",
+            "Wait for signs to be fixed"
+        ],
+        "correct_answer": "Local authorities should be notified",
+        "explanation": "Incorrectly placed signs can cause confusion and danger on the roads, so it\u2019s important to notify local authorities for correction."
+    },
+    {
+        "question": "What should a driver always do upon noticing a two-way traffic sign?",
+        "options": [
+            "Keep the same speed",
+            "Expect bicycles and pedestrians",
+            "Pay attention to signage",
+            "Ignore speed limits"
+        ],
+        "correct_answer": "Pay attention to signage",
+        "explanation": "A driver should always pay attention to signage to navigate safely and follow traffic rules effectively."
+    }
+]

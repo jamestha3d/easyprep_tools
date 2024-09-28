@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does the Medial Barrier Ahead Sign indicate?",
+        "options": [
+            "There is a police checkpoint ahead",
+            "You are approaching a barrier in the median",
+            "Road construction is ahead",
+            "There is a school zone ahead"
+        ],
+        "correct_answer": "You are approaching a barrier in the median",
+        "explanation": "The Medial Barrier Ahead Sign warns drivers that they are approaching a physical barrier in the median, which is designed to improve safety by preventing crossover collisions."
+    },
+    {
+        "question": "What shape is the Medial Barrier Ahead Sign?",
+        "options": [
+            "Triangle",
+            "Circle",
+            "Square",
+            "Diamond"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "The Medial Barrier Ahead Sign is typically shaped like a diamond to indicate caution and alert drivers to potential hazards."
+    },
+    {
+        "question": "How should drivers react upon seeing a Medial Barrier Ahead Sign?",
+        "options": [
+            "Accelerate to get past quickly",
+            "Maintain speed",
+            "Prepare to slow down and be cautious",
+            "Change lanes immediately"
+        ],
+        "correct_answer": "Prepare to slow down and be cautious",
+        "explanation": "Drivers should prepare to slow down and be cautious when they see the Medial Barrier Ahead Sign to navigate safely around the approaching barrier."
+    },
+    {
+        "question": "In what type of areas is the Medial Barrier Ahead Sign commonly found?",
+        "options": [
+            "Rural areas",
+            "Urban areas with heavy traffic",
+            "Residential neighborhoods",
+            "Mountainous regions"
+        ],
+        "correct_answer": "Urban areas with heavy traffic",
+        "explanation": "The Medial Barrier Ahead Sign is commonly found in urban areas with heavy traffic where median barriers are installed to enhance safety."
+    },
+    {
+        "question": "What color is the background of the Medial Barrier Ahead Sign?",
+        "options": [
+            "Green",
+            "Yellow",
+            "Blue",
+            "Red"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "The Medial Barrier Ahead Sign typically has a yellow background which is used to signify caution and alert drivers to potential hazards."
+    },
+    {
+        "question": "What is the main purpose of the Medial Barrier Ahead Sign?",
+        "options": [
+            "To reduce speed limits",
+            "To indicate a turn ahead",
+            "To warn of a physical barrier",
+            "To suggest a rest area"
+        ],
+        "correct_answer": "To warn of a physical barrier",
+        "explanation": "The main purpose of the Medial Barrier Ahead Sign is to warn drivers about the presence of a physical barrier in the median that could impact their driving."
+    },
+    {
+        "question": "What should you do if you see the Medial Barrier Ahead Sign and are unsure about the conditions ahead?",
+        "options": [
+            "Ignore the sign",
+            "Speed up to pass quickly",
+            "Stay alert and maintain control of your vehicle",
+            "Change to the left lane"
+        ],
+        "correct_answer": "Stay alert and maintain control of your vehicle",
+        "explanation": "If uncertain about conditions ahead, drivers should stay alert and maintain control of their vehicle to ensure safety when approaching the barrier."
+    },
+    {
+        "question": "What is a potential consequence of ignoring the Medial Barrier Ahead Sign?",
+        "options": [
+            "Increased fuel efficiency",
+            "Accident or collision risk",
+            "Reduced travel time",
+            "Road closures"
+        ],
+        "correct_answer": "Accident or collision risk",
+        "explanation": "Ignoring the Medial Barrier Ahead Sign can lead to increased risk of accidents or collisions as drivers may not be prepared for the physical barrier."
+    },
+    {
+        "question": "What does an illuminated version of the Medial Barrier Ahead Sign usually signify at night?",
+        "options": [
+            "Roadwork is complete",
+            "The barrier is active and hazardous",
+            "Normal driving conditions",
+            "Weather alerts"
+        ],
+        "correct_answer": "The barrier is active and hazardous",
+        "explanation": "An illuminated version of the Medial Barrier Ahead Sign at night indicates that the barrier is active, meaning drivers need to be particularly cautious."
+    },
+    {
+        "question": "What type of vehicles particularly need to heed the Medial Barrier Ahead Sign?",
+        "options": [
+            "Motorcycles only",
+            "All vehicles including large trucks and buses",
+            "Emergency vehicles only",
+            "Bicycles"
+        ],
+        "correct_answer": "All vehicles including large trucks and buses",
+        "explanation": "All vehicles, including large trucks and buses, need to heed the Medial Barrier Ahead Sign, as they require more space and time to maneuver safely."
+    }
+]

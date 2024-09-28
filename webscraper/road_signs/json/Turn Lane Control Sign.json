@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Turn Lane Control Sign indicate?",
+        "options": [
+            "It allows vehicles to turn",
+            "It prohibits all turns",
+            "It only allows left turns",
+            "It indicates a lane merge"
+        ],
+        "correct_answer": "It allows vehicles to turn",
+        "explanation": "The Turn Lane Control Sign is used to indicate that vehicles are permitted to turn left or right from a designated lane."
+    },
+    {
+        "question": "Which color is typically used for Turn Lane Control Signs?",
+        "options": [
+            "Red",
+            "Green",
+            "Blue",
+            "Yellow"
+        ],
+        "correct_answer": "Green",
+        "explanation": "Green is often used to indicate that movement is permitted, including turning from a lane."
+    },
+    {
+        "question": "When should a driver be alert for a Turn Lane Control Sign?",
+        "options": [
+            "During heavy traffic",
+            "When approaching intersections",
+            "During night driving",
+            "In residential areas"
+        ],
+        "correct_answer": "When approaching intersections",
+        "explanation": "Drivers should be alert for Turn Lane Control Signs when approaching intersections where turns are allowed."
+    },
+    {
+        "question": "What should a driver do if the Turn Lane Control Sign indicates a turn is permitted?",
+        "options": [
+            "Make the turn immediately",
+            "Yield to pedestrians",
+            "Signal and merge into another lane",
+            "Ignore the sign"
+        ],
+        "correct_answer": "Yield to pedestrians",
+        "explanation": "Even if a turn is permitted, drivers must yield to pedestrians before making the turn."
+    },
+    {
+        "question": "What does a red Turn Lane Control Sign signify?",
+        "options": [
+            "Turn is allowed",
+            "No turns allowed",
+            "Yield before turning",
+            "Only left turns allowed"
+        ],
+        "correct_answer": "No turns allowed",
+        "explanation": "A red Turn Lane Control Sign signifies that no turns are allowed from that lane."
+    },
+    {
+        "question": "What type of turn may be indicated by a Turn Lane Control Sign with an arrow?",
+        "options": [
+            "U-turn only",
+            "Left turn only",
+            "Right turn only",
+            "Straight only"
+        ],
+        "correct_answer": "Left turn only",
+        "explanation": "An arrow on a Turn Lane Control Sign typically indicates that only left turns are allowed from that lane."
+    },
+    {
+        "question": "When approaching a Turn Lane Control Sign, what is the recommended action?",
+        "options": [
+            "Accelerate past the sign",
+            "Look for pedestrians",
+            "Change lanes quickly",
+            "Ignore the sign"
+        ],
+        "correct_answer": "Look for pedestrians",
+        "explanation": "Drivers should always look for pedestrians and other vehicles when approaching a Turn Lane Control Sign."
+    },
+    {
+        "question": "How can Turn Lane Control Signs improve traffic flow?",
+        "options": [
+            "By allowing more vehicles to park",
+            "By indicating where turns are permitted",
+            "By banning all traffic",
+            "By signaling pedestrians to stop"
+        ],
+        "correct_answer": "By indicating where turns are permitted",
+        "explanation": "Turn Lane Control Signs help drivers understand where they can legally turn, thus improving overall traffic flow."
+    },
+    {
+        "question": "True or False: A yellow Turn Lane Control Sign means turn only when safe.",
+        "options": [
+            "True",
+            "False",
+            "Depends on the vehicle",
+            "Only for heavy vehicles"
+        ],
+        "correct_answer": "True",
+        "explanation": "A yellow Turn Lane Control Sign indicates that turns are allowed but should only be made when safe to do so."
+    },
+    {
+        "question": "Which of the following is NOT a feature of Turn Lane Control Signs?",
+        "options": [
+            "Directional arrows",
+            "Text instructions",
+            "Pedestrian symbols",
+            "Speed limit indication"
+        ],
+        "correct_answer": "Speed limit indication",
+        "explanation": "Turn Lane Control Signs do not indicate speed limits; they focus on turn permissions and directions."
+    }
+]

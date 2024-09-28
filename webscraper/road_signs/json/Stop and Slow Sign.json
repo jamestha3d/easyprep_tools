@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Stop sign indicate?",
+        "options": [
+            "Yield to pedestrian",
+            "Come to a complete stop",
+            "Proceed with caution",
+            "Speed up to the intersection"
+        ],
+        "correct_answer": "Come to a complete stop",
+        "explanation": "A Stop sign requires drivers to come to a complete stop before proceeding."
+    },
+    {
+        "question": "What is the shape of a Stop sign?",
+        "options": [
+            "Rectangle",
+            "Circle",
+            "Octagon",
+            "Triangle"
+        ],
+        "correct_answer": "Octagon",
+        "explanation": "The Stop sign is uniquely shaped like an octagon to easily identify it."
+    },
+    {
+        "question": "When should you obey a Slow sign?",
+        "options": [
+            "Only in bad weather",
+            "Always when present",
+            "Only in construction zones",
+            "Never"
+        ],
+        "correct_answer": "Always when present",
+        "explanation": "A Slow sign indicates that drivers should reduce their speed for safety, whenever it's present."
+    },
+    {
+        "question": "What color is a Stop sign?",
+        "options": [
+            "Green",
+            "Yellow",
+            "Red",
+            "Blue"
+        ],
+        "correct_answer": "Red",
+        "explanation": "The Stop sign is red to signal drivers to stop immediately."
+    },
+    {
+        "question": "What does a Slow sign commonly indicate?",
+        "options": [
+            "Pedestrian area ahead",
+            "Heavy traffic anticipated",
+            "Construction or maintenance work",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "A Slow sign may be used in various situations requiring reduced speed for safety."
+    },
+    {
+        "question": "What should you do when you approach a Stop sign?",
+        "options": [
+            "Look left and right and continue",
+            "Stop, then proceed if clear",
+            "Speed up to beat other cars",
+            "Ignore it if no one is around"
+        ],
+        "correct_answer": "Stop, then proceed if clear",
+        "explanation": "Drivers must stop completely, check for traffic, and only proceed if safe."
+    },
+    {
+        "question": "What could happen if you ignore a Stop sign?",
+        "options": [
+            "Nothing, it's just a suggestion",
+            "You could receive a fine",
+            "You will automatically go to traffic school",
+            "You might miss the next turn"
+        ],
+        "correct_answer": "You could receive a fine",
+        "explanation": "Ignoring a Stop sign can result in traffic violations and fines."
+    },
+    {
+        "question": "What is one key thing to remember about Slow signs?",
+        "options": [
+            "They only apply to trucks",
+            "They are only seen in rural areas",
+            "They are temporary and often placed for safety",
+            "They are only for drivers with permits"
+        ],
+        "correct_answer": "They are temporary and often placed for safety",
+        "explanation": "Slow signs are typically used in temporary situations to ensure driver safety."
+    },
+    {
+        "question": "How far before a Stop sign should you start slowing down?",
+        "options": [
+            "Only when you reach the sign",
+            "About 100 feet in advance",
+            "According to the traffic flow",
+            "There is no need to slow down"
+        ],
+        "correct_answer": "About 100 feet in advance",
+        "explanation": "It's advised to start slowing down well in advance of the Stop sign for a safe stop."
+    },
+    {
+        "question": "Can cyclists be required to stop at Stop signs?",
+        "options": [
+            "No, they are exempt",
+            "Yes, they must also stop",
+            "Only if a car is coming",
+            "Only in certain provinces"
+        ],
+        "correct_answer": "Yes, they must also stop",
+        "explanation": "Cyclists are subject to the same traffic rules and must obey Stop signs."
+    }
+]

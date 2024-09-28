@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a 'No Standing By Permit Only' sign indicate?",
+        "options": [
+            "No parking allowed",
+            "Parking allowed for anyone",
+            "Standing allowed without a permit",
+            "Standing allowed only with a permit"
+        ],
+        "correct_answer": "Standing allowed only with a permit",
+        "explanation": "The sign indicates that standing is permitted only for vehicles that have the appropriate permit displayed."
+    },
+    {
+        "question": "If you do not have a permit, what should you do when you see a 'No Standing By Permit Only' sign?",
+        "options": [
+            "Park and risk a ticket",
+            "Stand briefly and leave",
+            "Find a parking space elsewhere",
+            "Call the authorities"
+        ],
+        "correct_answer": "Find a parking space elsewhere",
+        "explanation": "Without a permit, standing is prohibited, and you should seek alternative parking options to avoid penalties."
+    },
+    {
+        "question": "Can you stop momentarily in a 'No Standing By Permit Only' zone if you have a passenger?",
+        "options": [
+            "Yes, it's allowed",
+            "No, it's not permissible",
+            "Only if you're in a hurry",
+            "Yes, if you have a child in the vehicle"
+        ],
+        "correct_answer": "No, it's not permissible",
+        "explanation": "The sign indicates that standing is prohibited, which includes stopping even briefly unless you have a permit."
+    },
+    {
+        "question": "What might happen if you violate the 'No Standing By Permit Only' regulation?",
+        "options": [
+            "Nothing, it's only a suggestion",
+            "You may receive a fine",
+            "Your vehicle will be towed",
+            "Both a fine and towing may occur"
+        ],
+        "correct_answer": "Both a fine and towing may occur",
+        "explanation": "Illegally standing in a prohibited area can result in fines and the risk of having your vehicle towed."
+    },
+    {
+        "question": "Where would you typically find a 'No Standing By Permit Only' sign?",
+        "options": [
+            "Residential areas",
+            "Public parks",
+            "Loading zones",
+            "Government buildings"
+        ],
+        "correct_answer": "Government buildings",
+        "explanation": "Such signs are commonly found near government facilities where controlled access for authorized vehicles is necessary."
+    },
+    {
+        "question": "Who is generally authorized to stand in a 'No Standing By Permit Only' area?",
+        "options": [
+            "Anyone who stops",
+            "Permit holders only",
+            "Delivery drivers",
+            "Local residents"
+        ],
+        "correct_answer": "Permit holders only",
+        "explanation": "The area is designated for use exclusively by those who possess the appropriate permit, ensuring only authorized vehicles can stand there."
+    },
+    {
+        "question": "Why is it important to respect 'No Standing By Permit Only' signs?",
+        "options": [
+            "It helps maintain order",
+            "It's a suggestion",
+            "It allows everyone to park",
+            "It's rarely enforced"
+        ],
+        "correct_answer": "It helps maintain order",
+        "explanation": "Respecting these signs ensures that designated areas remain accessible for authorized users, promoting overall traffic and parking management."
+    },
+    {
+        "question": "What should you do if you see a vehicle without a permit in a 'No Standing By Permit Only' area?",
+        "options": [
+            "Ignore it",
+            "Report it",
+            "Take a picture",
+            "Ask the driver to leave"
+        ],
+        "correct_answer": "Report it",
+        "explanation": "If an unauthorized vehicle is occupying the space, reporting it to local authorities can help enforce parking regulations."
+    },
+    {
+        "question": "Are there exceptions to the 'No Standing By Permit Only' rule?",
+        "options": [
+            "Yes, for emergency vehicles",
+            "No exceptions",
+            "Yes, during specific hours",
+            "Yes, for residents only"
+        ],
+        "correct_answer": "Yes, for emergency vehicles",
+        "explanation": "Emergency vehicles may be exempt from certain parking restrictions in order to respond quickly to situations."
+    },
+    {
+        "question": "What are the potential consequences for an unauthorized vehicle standing in a 'No Standing By Permit Only' area?",
+        "options": [
+            "Nothing will happen",
+            "Warning notice",
+            "Fine and towing",
+            "Temporary ban from parking"
+        ],
+        "correct_answer": "Fine and towing",
+        "explanation": "Unauthorized vehicles can be subject to fines and may be towed to ensure compliance with parking regulations."
+    }
+]

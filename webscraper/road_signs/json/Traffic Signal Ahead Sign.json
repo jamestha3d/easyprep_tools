@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Traffic Signal Ahead sign indicate?",
+        "options": [
+            "There is a pedestrian crossing",
+            "Traffic lights are coming up",
+            "Stop sign ahead",
+            "Yield sign ahead"
+        ],
+        "correct_answer": "Traffic lights are coming up",
+        "explanation": "The Traffic Signal Ahead sign warns drivers that they should prepare to stop for a traffic signal."
+    },
+    {
+        "question": "What color is the Traffic Signal Ahead sign typically?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "The Traffic Signal Ahead sign is yellow to alert drivers to the upcoming traffic signal."
+    },
+    {
+        "question": "Who is required to heed the Traffic Signal Ahead sign?",
+        "options": [
+            "Motorists only",
+            "Bicyclists only",
+            "All road users",
+            "Pedestrians only"
+        ],
+        "correct_answer": "All road users",
+        "explanation": "All road users must heed the Traffic Signal Ahead sign to ensure safety at intersections."
+    },
+    {
+        "question": "When should drivers expect the Traffic Signal Ahead sign to be present?",
+        "options": [
+            "On rural roads only",
+            "Near intersections",
+            "On highways",
+            "In parking lots"
+        ],
+        "correct_answer": "Near intersections",
+        "explanation": "The Traffic Signal Ahead sign is placed near intersections where traffic signals are likely to be found."
+    },
+    {
+        "question": "What should a driver do upon seeing a Traffic Signal Ahead sign?",
+        "options": [
+            "Speed up",
+            "Prepare to stop",
+            "Ignore it if they are in a hurry",
+            "Change lanes immediately"
+        ],
+        "correct_answer": "Prepare to stop",
+        "explanation": "Drivers should prepare to stop when they see the Traffic Signal Ahead sign since a traffic signal may be ahead."
+    },
+    {
+        "question": "What is the purpose of the Traffic Signal Ahead sign?",
+        "options": [
+            "To indicate speed limits",
+            "To warn of upcoming traffic conditions",
+            "To direct traffic flow",
+            "To inform of road construction"
+        ],
+        "correct_answer": "To warn of upcoming traffic conditions",
+        "explanation": "The Traffic Signal Ahead sign serves the purpose of warning drivers about upcoming traffic signals, prompting them to adjust their speed."
+    },
+    {
+        "question": "Can the Traffic Signal Ahead sign be found in both urban and rural areas?",
+        "options": [
+            "Yes",
+            "No",
+            "Only in urban areas",
+            "Only in rural areas"
+        ],
+        "correct_answer": "Yes",
+        "explanation": "The Traffic Signal Ahead sign can be found in both urban and rural areas where traffic signals are present."
+    },
+    {
+        "question": "What action is discouraged upon encountering a Traffic Signal Ahead sign?",
+        "options": [
+            "Slowing down",
+            "Ignoring it",
+            "Maintaining speed",
+            "Stopping if necessary"
+        ],
+        "correct_answer": "Ignoring it",
+        "explanation": "Ignoring the Traffic Signal Ahead sign can lead to dangerous situations, as drivers need to be aware of the approaching traffic signal."
+    },
+    {
+        "question": "What might a driver observe following the Traffic Signal Ahead sign?",
+        "options": [
+            "Road work signs",
+            "Speed limit signs",
+            "Yield signs",
+            "Traffic signals"
+        ],
+        "correct_answer": "Traffic signals",
+        "explanation": "After seeing the Traffic Signal Ahead sign, the next thing drivers are likely to encounter will be traffic signals."
+    },
+    {
+        "question": "Which of the following is NOT a reason for placing a Traffic Signal Ahead sign?",
+        "options": [
+            "To increase road awareness",
+            "To reduce traffic accidents",
+            "To promote speeding",
+            "To prepare vehicles for a stop"
+        ],
+        "correct_answer": "To promote speeding",
+        "explanation": "The Traffic Signal Ahead sign is intended to promote safety and caution, not speeding."
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does the Emergency Vehicles Turn Around Sign indicate?",
+        "options": [
+            "It's a warning for upcoming construction",
+            "Emergency vehicles may need to turn around",
+            "It's a parking restriction sign",
+            "It's a detour sign"
+        ],
+        "correct_answer": "Emergency vehicles may need to turn around",
+        "explanation": "The Emergency Vehicles Turn Around Sign informs drivers that emergency vehicles will require the space to turn around, suggesting that the area may not be suitable for regular traffic."
+    },
+    {
+        "question": "When should you yield to an Emergency Vehicles Turn Around Sign?",
+        "options": [
+            "Whenever you see it",
+            "Only if there are visible emergency vehicles",
+            "In residential areas only",
+            "When directed by a police officer"
+        ],
+        "correct_answer": "Only if there are visible emergency vehicles",
+        "explanation": "You should yield when you clearly see emergency vehicles needing to turn around, as indicated by the sign, to allow for a safe passage."
+    },
+    {
+        "question": "Is the Emergency Vehicles Turn Around Sign a regulatory or informational sign?",
+        "options": [
+            "Regulatory",
+            "Informational",
+            "Warning",
+            "None of the above"
+        ],
+        "correct_answer": "Regulatory",
+        "explanation": "The sign is considered a regulatory sign as it provides crucial instructions regarding the behavior of drivers in the presence of emergency vehicles."
+    },
+    {
+        "question": "What should you do if you encounter an Emergency Vehicles Turn Around Sign while driving?",
+        "options": [
+            "Speed up to pass quickly",
+            "Slow down and look for emergency vehicles",
+            "Ignore the sign",
+            "Turn around immediately"
+        ],
+        "correct_answer": "Slow down and look for emergency vehicles",
+        "explanation": "It's important to slow down and assess the situation; this allows you to yield appropriately if necessary for emergency vehicles."
+    },
+    {
+        "question": "How is the Emergency Vehicles Turn Around Sign typically shaped?",
+        "options": [
+            "Square",
+            "Round",
+            "Rectangular",
+            "Triangular"
+        ],
+        "correct_answer": "Rectangular",
+        "explanation": "The Emergency Vehicles Turn Around Sign is typically rectangular in shape, conforming to standard traffic sign shapes."
+    },
+    {
+        "question": "What color is usually associated with the Emergency Vehicles Turn Around Sign?",
+        "options": [
+            "Red",
+            "Blue",
+            "Yellow",
+            "Green"
+        ],
+        "correct_answer": "Blue",
+        "explanation": "The sign usually has a blue background, which is commonly used for signs that provide information related to emergencies."
+    },
+    {
+        "question": "What can happen if drivers do not heed the Emergency Vehicles Turn Around Sign?",
+        "options": [
+            "Nothing, it's just a suggestion",
+            "They may receive a fine",
+            "They can cause accidents",
+            "Both B and C"
+        ],
+        "correct_answer": "Both B and C",
+        "explanation": "Ignoring the sign can lead to legal penalties, such as fines, and can also create dangerous situations that could result in accidents."
+    },
+    {
+        "question": "Where would you most likely find an Emergency Vehicles Turn Around Sign?",
+        "options": [
+            "Near highways",
+            "In park areas",
+            "Street intersections",
+            "Near hospitals"
+        ],
+        "correct_answer": "Street intersections",
+        "explanation": "These signs are often placed at street intersections where emergency vehicles might need to turn around quickly, ensuring they can respond to incidents effectively."
+    },
+    {
+        "question": "Do Emergency Vehicles Turn Around Signs apply only to police vehicles?",
+        "options": [
+            "Yes",
+            "No",
+            "Only to fire trucks",
+            "Only to ambulances"
+        ],
+        "correct_answer": "No",
+        "explanation": "The signs apply to all emergency vehicles, including police, fire trucks, and ambulances, as they may all need to maneuver quickly in emergencies."
+    },
+    {
+        "question": "What is the primary purpose of the Emergency Vehicles Turn Around Sign?",
+        "options": [
+            "To indicate detours",
+            "To inform of a speed limit change",
+            "To facilitate emergency response",
+            "To mark no passing zones"
+        ],
+        "correct_answer": "To facilitate emergency response",
+        "explanation": "The primary purpose of the sign is to facilitate emergency response by allowing emergency vehicles to turn around safely without obstruction from other vehicles."
+    }
+]

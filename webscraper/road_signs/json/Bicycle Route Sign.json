@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Bicycle Route Sign typically signify?",
+        "options": [
+            "A bike path ahead",
+            "A bicycle maintenance station",
+            "A bike route or lane",
+            "A bike rental location"
+        ],
+        "correct_answer": "A bike route or lane",
+        "explanation": "A Bicycle Route Sign indicates a designated route for bicyclists, providing safe and efficient pathways."
+    },
+    {
+        "question": "What color are Bicycle Route Signs generally?",
+        "options": [
+            "Red",
+            "Green",
+            "Blue",
+            "Yellow"
+        ],
+        "correct_answer": "Green",
+        "explanation": "Bicycle Route Signs are usually green, indicating that it is a designated route for cyclists."
+    },
+    {
+        "question": "What shape are Bicycle Route Signs often displayed in?",
+        "options": [
+            "Circular",
+            "Square",
+            "Rectangular",
+            "Diamond"
+        ],
+        "correct_answer": "Rectangular",
+        "explanation": "Bicycle Route Signs are often rectangular, which helps them stand out and be easily recognized by cyclists."
+    },
+    {
+        "question": "What is indicated by a Bicycle Route Signs with an arrow?",
+        "options": [
+            "End of bike lane",
+            "Direction of the bike route",
+            "Next bike repair station",
+            "No cycling allowed"
+        ],
+        "correct_answer": "Direction of the bike route",
+        "explanation": "An arrow on a Bicycle Route Sign points the way to continue on the designated bike route."
+    },
+    {
+        "question": "How are Bicycle Route Signs beneficial for cyclists?",
+        "options": [
+            "They indicate speed limits",
+            "They provide path information",
+            "They designate bicycle parking",
+            "They show traffic signals"
+        ],
+        "correct_answer": "They provide path information",
+        "explanation": "Bicycle Route Signs help cyclists navigate their route safely and efficiently by providing information about where to ride."
+    },
+    {
+        "question": "What should a cyclist do when they see a Bicycle Route Sign with a warning?",
+        "options": [
+            "Ignore it",
+            "Be cautious as hazards may exist",
+            "Speed up",
+            "Change direction immediately"
+        ],
+        "correct_answer": "Be cautious as hazards may exist",
+        "explanation": "Warning signs associated with Bicycle Route Signs indicate possible hazards along the path, and cyclists should proceed with caution."
+    },
+    {
+        "question": "Are Bicycle Route Signs used only in urban areas?",
+        "options": [
+            "Yes",
+            "No, they are also in rural areas",
+            "Only in parks",
+            "Only for racing cyclists"
+        ],
+        "correct_answer": "No, they are also in rural areas",
+        "explanation": "Bicycle Route Signs are used in both urban and rural areas to guide cyclists along designated routes."
+    },
+    {
+        "question": "What additional information might be included on a Bicycle Route Sign?",
+        "options": [
+            "Distance to the next city",
+            "Types of bicycles allowed",
+            "Bike repair shop contacts",
+            "Nearby attractions"
+        ],
+        "correct_answer": "Distance to the next city",
+        "explanation": "Some Bicycle Route Signs include mileage or distance markers to inform cyclists of how far they are from specific destinations."
+    },
+    {
+        "question": "What should you do if a Bicycle Route Sign is missing?",
+        "options": [
+            "Panic and stop riding",
+            "Avoid the area completely",
+            "Look for alternative routes",
+            "Consult a map or GPS"
+        ],
+        "correct_answer": "Consult a map or GPS",
+        "explanation": "If a Bicycle Route Sign is missing, cyclists should use a map or GPS to find their way safely along the route."
+    },
+    {
+        "question": "Who is responsible for maintaining Bicycle Route Signs?",
+        "options": [
+            "Cyclists",
+            "Local municipalities",
+            "Provincial government",
+            "Recreational clubs"
+        ],
+        "correct_answer": "Local municipalities",
+        "explanation": "Local municipalities are typically responsible for the maintenance and installation of Bicycle Route Signs to ensure they are visible and informative for cyclists."
+    }
+]

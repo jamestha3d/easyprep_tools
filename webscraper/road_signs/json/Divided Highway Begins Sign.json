@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Divided Highway Begins sign indicate?",
+        "options": [
+            "You are entering a one-way street",
+            "The highway ahead is divided by a median",
+            "You must turn left ahead",
+            "The speed limit is increasing"
+        ],
+        "correct_answer": "The highway ahead is divided by a median",
+        "explanation": "The Divided Highway Begins sign indicates that the road you are entering is divided, meaning there is a median separating the lanes of traffic."
+    },
+    {
+        "question": "When you see a Divided Highway Begins sign, what should you do?",
+        "options": [
+            "Increase your speed",
+            "Stay in the left lane",
+            "Look out for merging traffic",
+            "Prepare to change direction"
+        ],
+        "correct_answer": "Look out for merging traffic",
+        "explanation": "You should be aware that traffic may be merging from a side road as you enter a divided highway."
+    },
+    {
+        "question": "Where is the Divided Highway Begins sign typically placed?",
+        "options": [
+            "Before an intersection",
+            "At the start of the divided highway",
+            "Immediately after the median",
+            "At roadside rest areas"
+        ],
+        "correct_answer": "At the start of the divided highway",
+        "explanation": "The sign is placed at the point where the highway begins to be divided, to alert drivers of the upcoming road conditions."
+    },
+    {
+        "question": "What color is the Divided Highway Begins sign?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Blue",
+            "Green"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "The color of the Divided Highway Begins sign is yellow, which is used for warning signs."
+    },
+    {
+        "question": "What shape is the Divided Highway Begins sign?",
+        "options": [
+            "Circular",
+            "Square",
+            "Diamond",
+            "Rectangle"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "Warning signs, such as the Divided Highway Begins sign, are typically diamond-shaped to signify potential hazards ahead."
+    },
+    {
+        "question": "Why is it important to heed the Divided Highway Begins sign?",
+        "options": [
+            "To know the speed limit",
+            "To reduce fuel consumption",
+            "To prepare for different driving conditions",
+            "To understand toll charges"
+        ],
+        "correct_answer": "To prepare for different driving conditions",
+        "explanation": "This sign serves as a warning to drivers that the driving conditions are changing, so it is critical for safety."
+    },
+    {
+        "question": "How does a divided highway affect driving behavior?",
+        "options": [
+            "Drivers must always go faster",
+            "Drivers should keep right except to pass",
+            "No lane restrictions exist",
+            "All vehicles must switch lanes"
+        ],
+        "correct_answer": "Drivers should keep right except to pass",
+        "explanation": "On divided highways, it is common practice for slower traffic to keep to the right, ensuring smoother flow and safety."
+    },
+    {
+        "question": "What should you be cautious of after seeing the Divided Highway Begins sign?",
+        "options": [
+            "Pedestrians crossing the highway",
+            "Bicycles on the side of the road",
+            "Increased speed limits",
+            "Possible merging vehicles from the left"
+        ],
+        "correct_answer": "Possible merging vehicles from the left",
+        "explanation": "Once entering a divided highway, there could be vehicles merging from entering ramps on either side, making it necessary to be vigilant."
+    },
+    {
+        "question": "If you miss the Divided Highway Begins sign, what could happen?",
+        "options": [
+            "You may not know about the road changes",
+            "You will incur a fine",
+            "You must turn back immediately",
+            "You can't continue driving"
+        ],
+        "correct_answer": "You may not know about the road changes",
+        "explanation": "Missing this sign can lead to unexpected driving conditions and may affect your ability to navigate the highway safely."
+    },
+    {
+        "question": "Is a Divided Highway Begins sign only for large highways?",
+        "options": [
+            "Yes, only major highways",
+            "No, it can be for any divided road",
+            "Only for interstate routes",
+            "Only for urban streets"
+        ],
+        "correct_answer": "No, it can be for any divided road",
+        "explanation": "Divided Highway Begins signs are used on any road that becomes divided, not just major highways, to inform drivers of potential hazards."
+    }
+]

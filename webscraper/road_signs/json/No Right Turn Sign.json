@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a No Right Turn sign indicate?",
+        "options": [
+            "You can turn right",
+            "You cannot turn right",
+            "You must turn right",
+            "You can turn left only"
+        ],
+        "correct_answer": "You cannot turn right",
+        "explanation": "A No Right Turn sign indicates that drivers are prohibited from making a right turn at that intersection."
+    },
+    {
+        "question": "When should you be especially cautious of a No Right Turn sign?",
+        "options": [
+            "During rush hour",
+            "At night",
+            "In bad weather",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Drivers should be cautious of the No Right Turn sign at all times, particularly during conditions that affect visibility or traffic flow."
+    },
+    {
+        "question": "What should you do if you encounter a No Right Turn sign while driving?",
+        "options": [
+            "Ignore it if the road is clear",
+            "Make a U-turn",
+            "Find an alternative route",
+            "Stop at the sign and wait"
+        ],
+        "correct_answer": "Find an alternative route",
+        "explanation": "If you encounter a No Right Turn sign, you must obey it and find an alternative route to continue your journey."
+    },
+    {
+        "question": "Are there any exceptions to a No Right Turn sign?",
+        "options": [
+            "Yes, for emergency vehicles",
+            "Yes, for bicycles",
+            "No, there are no exceptions",
+            "Yes, for delivery vehicles"
+        ],
+        "correct_answer": "Yes, for emergency vehicles",
+        "explanation": "Emergency vehicles may legally make a right turn despite the No Right Turn sign when responding to emergencies."
+    },
+    {
+        "question": "Can a No Right Turn sign be enforced by law?",
+        "options": [
+            "Yes, it can lead to fines",
+            "No, it is just a suggestion",
+            "Yes, but only during certain hours",
+            "No, only in parking lots"
+        ],
+        "correct_answer": "Yes, it can lead to fines",
+        "explanation": "Ignoring a No Right Turn sign can result in traffic violations and fines, as it is a legally enforceable regulation."
+    },
+    {
+        "question": "What should you watch for when approaching a No Right Turn sign?",
+        "options": [
+            "Pedestrians crossing",
+            "Traffic signals",
+            "Road conditions",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "When approaching a No Right Turn sign, it is crucial to be aware of pedestrians, traffic signals, and the overall road conditions for safety."
+    },
+    {
+        "question": "How are No Right Turn signs typically marked on the road?",
+        "options": [
+            "With arrows",
+            "By yellow paint",
+            "With a rectangular red sign",
+            "With a red light"
+        ],
+        "correct_answer": "With a rectangular red sign",
+        "explanation": "No Right Turn signs are usually marked with a rectangular sign that has a red circle with a slash across it, indicating the prohibition."
+    },
+    {
+        "question": "What is the risk of ignoring a No Right Turn sign?",
+        "options": [
+            "Increased traffic flow",
+            "Accidental right turns",
+            "Traffic accidents",
+            "None, it's safe"
+        ],
+        "correct_answer": "Traffic accidents",
+        "explanation": "Ignoring a No Right Turn sign can lead to traffic accidents, endangering the driver and other road users by causing unexpected maneuvers."
+    },
+    {
+        "question": "Who is responsible for adhering to No Right Turn signs?",
+        "options": [
+            "Only the driver",
+            "Only pedestrians",
+            "Local government",
+            "Traffic enforcement"
+        ],
+        "correct_answer": "Only the driver",
+        "explanation": "It is the responsibility of the driver to adhere to traffic signs, including No Right Turn signs, to ensure road safety."
+    },
+    {
+        "question": "What action should you take if you approach a No Right Turn sign?",
+        "options": [
+            "Slow down and turn anyway",
+            "Stop and wait",
+            "Look for a way to turn left",
+            "Come to a complete stop and reverse"
+        ],
+        "correct_answer": "Look for a way to turn left",
+        "explanation": "When encountering a No Right Turn sign, the appropriate action is to look for alternatives, such as making a legal left turn or finding an alternative route."
+    }
+]

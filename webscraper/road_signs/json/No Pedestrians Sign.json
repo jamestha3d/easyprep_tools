@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a 'No Pedestrians' sign indicate?",
+        "options": [
+            "Pedestrians are allowed to enter",
+            "No parking is allowed",
+            "Pedestrians are not allowed to enter",
+            "Bicycles are forbidden"
+        ],
+        "correct_answer": "Pedestrians are not allowed to enter",
+        "explanation": "A 'No Pedestrians' sign clearly indicates that pedestrians are prohibited from entering that area for safety or regulatory reasons."
+    },
+    {
+        "question": "Where would you typically see a 'No Pedestrians' sign?",
+        "options": [
+            "On a busy highway",
+            "In a park",
+            "At a school playground",
+            "On a residential street"
+        ],
+        "correct_answer": "On a busy highway",
+        "explanation": "'No Pedestrians' signs are often found in locations where pedestrian access is dangerous, such as on busy highways where vehicles are traveling at high speeds."
+    },
+    {
+        "question": "What should you do if you see a 'No Pedestrians' sign?",
+        "options": [
+            "Ignore the sign",
+            "Cross the street immediately",
+            "Find an alternative route",
+            "Stay put"
+        ],
+        "correct_answer": "Find an alternative route",
+        "explanation": "If you see a 'No Pedestrians' sign, it indicates that you should not enter that area as it may not be safe for pedestrians."
+    },
+    {
+        "question": "Can a 'No Pedestrians' sign be on private property?",
+        "options": [
+            "Yes, always",
+            "No, only on public roads",
+            "Only in government areas",
+            "Only during certain hours"
+        ],
+        "correct_answer": "Yes, always",
+        "explanation": "A 'No Pedestrians' sign can be placed on private property to restrict pedestrian access as desired by the property owner."
+    },
+    {
+        "question": "What is the typical shape of a 'No Pedestrians' sign?",
+        "options": [
+            "Circle",
+            "Square",
+            "Triangle",
+            "Octagon"
+        ],
+        "correct_answer": "Circle",
+        "explanation": "The 'No Pedestrians' sign is typically round, which is a common shape for regulatory signs indicating prohibitions."
+    },
+    {
+        "question": "Does a 'No Pedestrians' sign apply to cyclists as well?",
+        "options": [
+            "Yes, always",
+            "No, only for pedestrians",
+            "Only during the day",
+            "Only during the night"
+        ],
+        "correct_answer": "Yes, always",
+        "explanation": "When a 'No Pedestrians' sign is posted, it generally applies to all non-motorized traffic, including cyclists."
+    },
+    {
+        "question": "What is the primary purpose of a 'No Pedestrians' sign?",
+        "options": [
+            "To increase traffic speed",
+            "To guide pedestrians",
+            "To ensure safety",
+            "To reduce noise"
+        ],
+        "correct_answer": "To ensure safety",
+        "explanation": "The main purpose of a 'No Pedestrians' sign is to ensure the safety of both pedestrians and drivers by preventing dangerous interactions."
+    },
+    {
+        "question": "Is it ever permissible to ignore a 'No Pedestrians' sign?",
+        "options": [
+            "Yes, if you are in a hurry",
+            "Yes, if there are no vehicles",
+            "No, it must always be obeyed",
+            "No, unless you are carrying something"
+        ],
+        "correct_answer": "No, it must always be obeyed",
+        "explanation": "Ignoring a 'No Pedestrians' sign can pose serious safety risks and is considered unlawful."
+    },
+    {
+        "question": "What color is a standard 'No Pedestrians' sign?",
+        "options": [
+            "Red",
+            "Green",
+            "Yellow",
+            "Blue"
+        ],
+        "correct_answer": "Red",
+        "explanation": "A 'No Pedestrians' sign is typically red, signaling a prohibition or warning to enhance visibility."
+    },
+    {
+        "question": "What action might be enforced for not adhering to a 'No Pedestrians' sign?",
+        "options": [
+            "A fine",
+            "Community service",
+            "A warning",
+            "Nothing at all"
+        ],
+        "correct_answer": "A fine",
+        "explanation": "Violating a 'No Pedestrians' sign can lead to legal consequences, such as fines, for disregarding safety regulations."
+    }
+]

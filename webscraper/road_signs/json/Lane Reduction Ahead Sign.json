@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does the Lane Reduction Ahead sign indicate?",
+        "options": [
+            "Lanes are merging",
+            "Road is closed",
+            "Reduced speed limit",
+            "Traffic signal ahead"
+        ],
+        "correct_answer": "Lanes are merging",
+        "explanation": "The Lane Reduction Ahead sign informs drivers that the number of lanes available for travel will decrease ahead."
+    },
+    {
+        "question": "When should you start preparing to merge when you see a Lane Reduction Ahead sign?",
+        "options": [
+            "Immediately",
+            "A few meters before the sign",
+            "A few hundred meters before the sign",
+            "Only at the merge point"
+        ],
+        "correct_answer": "A few hundred meters before the sign",
+        "explanation": "Drivers should begin preparing to merge well in advance of the lane reduction to ensure a smooth transition."
+    },
+    {
+        "question": "What action is recommended when approaching a Lane Reduction Ahead sign?",
+        "options": [
+            "Speed up to avoid congestion",
+            "Merge into the other lane",
+            "Slow down and prepare to merge",
+            "Change lanes abruptly"
+        ],
+        "correct_answer": "Slow down and prepare to merge",
+        "explanation": "It's important to slow down and carefully prepare to merge to maintain safety on the road."
+    },
+    {
+        "question": "What shape is the Lane Reduction Ahead sign?",
+        "options": [
+            "Circular",
+            "Square",
+            "Triangular",
+            "Rectangular"
+        ],
+        "correct_answer": "Rectangular",
+        "explanation": "The Lane Reduction Ahead sign is typically rectangular in shape."
+    },
+    {
+        "question": "What color is the Lane Reduction Ahead sign?",
+        "options": [
+            "Yellow",
+            "Red",
+            "Blue",
+            "Green"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "The Lane Reduction Ahead sign is yellow, which indicates caution for drivers."
+    },
+    {
+        "question": "If two lanes are merging into one, how should drivers respond?",
+        "options": [
+            "Biblical principles",
+            "Take turns merging",
+            "Race to the front",
+            "Ignore other vehicles"
+        ],
+        "correct_answer": "Take turns merging",
+        "explanation": "Drivers should alternate in merging to maintain order and safety."
+    },
+    {
+        "question": "What is the most important thing to remember when approaching a Lane Reduction Ahead sign?",
+        "options": [
+            "Ignore the sign",
+            "Accelerate to get ahead",
+            "Stay alert and follow traffic flow",
+            "Pull over immediately"
+        ],
+        "correct_answer": "Stay alert and follow traffic flow",
+        "explanation": "Staying alert and following the flow of traffic is critical for maintaining safety and avoiding accidents."
+    },
+    {
+        "question": "What should you do if traffic is backed up at the lane reduction?",
+        "options": [
+            "Blow your horn",
+            "Stay calm and wait your turn",
+            "Force your way into the lane",
+            "Drive on the shoulder"
+        ],
+        "correct_answer": "Stay calm and wait your turn",
+        "explanation": "Staying calm and patient helps ensure safety and prevents road rage incidents."
+    },
+    {
+        "question": "What should you do if another driver is trying to merge in front of you?",
+        "options": [
+            "Speed up to block them",
+            "Slow down to let them in",
+            "Ignore them",
+            "Make hand gestures"
+        ],
+        "correct_answer": "Slow down to let them in",
+        "explanation": "Allowing merging drivers to enter safely helps avoid collisions and promotes courteous driving."
+    },
+    {
+        "question": "Why is it important to observe the Lane Reduction Ahead sign?",
+        "options": [
+            "To speed up",
+            "To avoid a ticket",
+            "To ensure smooth traffic flow",
+            "To change lanes frequently"
+        ],
+        "correct_answer": "To ensure smooth traffic flow",
+        "explanation": "Observing and responding appropriately to the Lane Reduction Ahead sign helps maintain safe and efficient traffic movement."
+    }
+]

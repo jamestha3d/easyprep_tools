@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What shape is the Bicycle Warning Sign?",
+        "options": [
+            "Circular",
+            "Triangular",
+            "Square",
+            "Rectangular"
+        ],
+        "correct_answer": "Triangular",
+        "explanation": "Bicycle Warning Signs are typically shaped like a triangle to alert drivers to the presence of cyclists ahead."
+    },
+    {
+        "question": "What color background does a Bicycle Warning Sign have?",
+        "options": [
+            "Red",
+            "Green",
+            "Yellow",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "The background of a Bicycle Warning Sign is yellow, which is used to indicate caution to drivers."
+    },
+    {
+        "question": "What does a Bicycle Warning Sign indicate?",
+        "options": [
+            "Bicycle parking area",
+            "Bicycles may be present on the road",
+            "Bicycle repair shop ahead",
+            "Bicycle race zone"
+        ],
+        "correct_answer": "Bicycles may be present on the road",
+        "explanation": "The sign warns drivers that they may encounter cyclists on the road, prompting them to be cautious."
+    },
+    {
+        "question": "Where are Bicycle Warning Signs typically placed?",
+        "options": [
+            "In residential areas",
+            "Near schools only",
+            "On bus stops",
+            "In areas with bicycle traffic"
+        ],
+        "correct_answer": "In areas with bicycle traffic",
+        "explanation": "Bicycle Warning Signs are usually found in places where bicycle traffic is expected, to enhance safety for both cyclists and drivers."
+    },
+    {
+        "question": "What should a driver do upon seeing a Bicycle Warning Sign?",
+        "options": [
+            "Speed up",
+            "Ignore the sign",
+            "Be more alert and prepared to share the road",
+            "Park their vehicle"
+        ],
+        "correct_answer": "Be more alert and prepared to share the road",
+        "explanation": "Drivers should be more vigilant and ready to accommodate cyclists as the warning sign indicates their probable presence."
+    },
+    {
+        "question": "What does the symbol on a Bicycle Warning Sign typically depict?",
+        "options": [
+            "A motor vehicle",
+            "A bicycle",
+            "A pedestrian",
+            "A skateboard"
+        ],
+        "correct_answer": "A bicycle",
+        "explanation": "The symbol on the Bicycle Warning Sign is a representation of a bicycle, directly indicating the type of road users to be expected."
+    },
+    {
+        "question": "What is the purpose of using a yellow color on the Bicycle Warning Sign?",
+        "options": [
+            "To attract more cyclists",
+            "To indicate caution",
+            "To signify a bike lane is nearby",
+            "To warn of heavy traffic"
+        ],
+        "correct_answer": "To indicate caution",
+        "explanation": "Yellow is commonly used on warning signs because it signals caution and alerts drivers to be careful."
+    },
+    {
+        "question": "When should a driver start looking for cyclists after seeing a Bicycle Warning Sign?",
+        "options": [
+            "Immediately after passing the sign",
+            "Before reaching the sign",
+            "Only at night",
+            "Only during weekends"
+        ],
+        "correct_answer": "Before reaching the sign",
+        "explanation": "Drivers should begin looking for cyclists before reaching the sign to ensure they are prepared to react appropriately."
+    },
+    {
+        "question": "What other signs might accompany a Bicycle Warning Sign?",
+        "options": [
+            "Speed limit signs",
+            "No parking signs",
+            "Traffic signal signs",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Bicycle Warning Signs can be accompanied by various types of signs that help manage traffic flow and ensure safety."
+    },
+    {
+        "question": "In what situation might a Bicycle Warning Sign be particularly important?",
+        "options": [
+            "During a rainstorm",
+            "In a busy downtown area",
+            "At night only",
+            "On a highway"
+        ],
+        "correct_answer": "In a busy downtown area",
+        "explanation": "Busy downtown areas often have high cyclist traffic, making the Bicycle Warning Sign crucial for ensuring safety for all road users."
+    }
+]

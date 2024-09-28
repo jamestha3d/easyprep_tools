@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What do distance signs indicate?",
+        "options": [
+            "Direction to a destination",
+            "Distance to a destination",
+            "Speed limits",
+            "Traffic signals"
+        ],
+        "correct_answer": "Distance to a destination",
+        "explanation": "Distance signs provide the driver with information about how far away a specific destination is."
+    },
+    {
+        "question": "What is the shape of a distance sign?",
+        "options": [
+            "Square",
+            "Circular",
+            "Rectangular",
+            "Triangular"
+        ],
+        "correct_answer": "Rectangular",
+        "explanation": "Distance signs are typically rectangular in shape, which allows for clearer legibility from a distance."
+    },
+    {
+        "question": "What color are standard distance signs in Ontario?",
+        "options": [
+            "Red",
+            "Green",
+            "Blue",
+            "Yellow"
+        ],
+        "correct_answer": "Green",
+        "explanation": "In Ontario, distance signs are predominantly green, which is commonly used for guidance and informational signs."
+    },
+    {
+        "question": "What information may be included on a distance sign?",
+        "options": [
+            "Travel times",
+            "Warning about hazards",
+            "Directions to attractions",
+            "Distance to cities or towns"
+        ],
+        "correct_answer": "Distance to cities or towns",
+        "explanation": "Distance signs primarily indicate how far a driver is from specific cities or towns."
+    },
+    {
+        "question": "How are distances typically measured on distance signs?",
+        "options": [
+            "Miles",
+            "Kilometers",
+            "Yards",
+            "Feet"
+        ],
+        "correct_answer": "Kilometers",
+        "explanation": "In Canada, including Ontario, distances on road signs are measured in kilometers."
+    },
+    {
+        "question": "Are distance signs used only on highways?",
+        "options": [
+            "Yes, only on highways",
+            "No, also on local roads",
+            "Only in urban areas",
+            "Only in rural areas"
+        ],
+        "correct_answer": "No, also on local roads",
+        "explanation": "Distance signs can be found on both highways and local roads to assist drivers in navigation."
+    },
+    {
+        "question": "If a distance sign shows 'Toronto 120 km', what does that mean?",
+        "options": [
+            "Toronto is 120 minutes away",
+            "You are 120 km from Toronto",
+            "Toronto is 120 km behind you",
+            "You are 120 miles from Toronto"
+        ],
+        "correct_answer": "You are 120 km from Toronto",
+        "explanation": "The sign indicates the distance left to travel to reach Toronto, not the travel time."
+    },
+    {
+        "question": "What type of destinations might be shown on distance signs?",
+        "options": [
+            "Emergency services",
+            "Rest areas",
+            "Tourist attractions",
+            "All of the above"
+        ],
+        "correct_answer": "Tourist attractions",
+        "explanation": "Distance signs can include information about various destinations, including major tourist attractions."
+    },
+    {
+        "question": "What should drivers do when they see a distance sign?",
+        "options": [
+            "Speed up to reach the distance",
+            "Pay attention to distances to navigate",
+            "Ignore it if they know the route",
+            "Stop and take a photo"
+        ],
+        "correct_answer": "Pay attention to distances to navigate",
+        "explanation": "Drivers should be aware of distance signs to help them navigate their route effectively."
+    },
+    {
+        "question": "What does a distance sign usually not provide?",
+        "options": [
+            "Distance",
+            "Direction",
+            "Travel time",
+            "Destination name"
+        ],
+        "correct_answer": "Travel time",
+        "explanation": "Distance signs typically provide information about distance and destination names, but not estimated travel times."
+    }
+]

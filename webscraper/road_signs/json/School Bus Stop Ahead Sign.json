@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does the School Bus Stop Ahead sign indicate?",
+        "options": [
+            "Traffic is about to speed up",
+            "You are approaching a school zone",
+            "A school bus will be stopping ahead",
+            "There is a speed limit change"
+        ],
+        "correct_answer": "A school bus will be stopping ahead",
+        "explanation": "The sign alerts drivers that a school bus is expected to stop in the vicinity, requiring extra caution."
+    },
+    {
+        "question": "What should a driver do when they see a School Bus Stop Ahead sign?",
+        "options": [
+            "Speed up",
+            "Prepare to stop",
+            "Change lanes",
+            "Ignore the sign"
+        ],
+        "correct_answer": "Prepare to stop",
+        "explanation": "Drivers should be prepared to stop for a school bus that may be picking up or dropping off children."
+    },
+    {
+        "question": "When is it required to stop for a school bus?",
+        "options": [
+            "Only when the lights are flashing",
+            "At all times",
+            "When the bus is on the same side as the driver",
+            "When the bus has its stop sign extended"
+        ],
+        "correct_answer": "When the bus has its stop sign extended",
+        "explanation": "Drivers must stop when a school bus has its stop sign extended and lights flashing to protect children getting on or off."
+    },
+    {
+        "question": "What is the typical color of a School Bus Stop Ahead sign?",
+        "options": [
+            "Red",
+            "Blue",
+            "Yellow",
+            "Green"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "The School Bus Stop Ahead sign is typically yellow to alert drivers of the potential danger related to school buses."
+    },
+    {
+        "question": "What should you do if there is no oncoming traffic when a school bus stops?",
+        "options": [
+            "Pass the bus quickly",
+            "Slow down and proceed with caution",
+            "Continue at normal speed",
+            "Wait until the bus leaves"
+        ],
+        "correct_answer": "Wait until the bus leaves",
+        "explanation": "You must wait for the bus to extend its stop sign and lights to ensure children's safety before you can proceed."
+    },
+    {
+        "question": "What might you see as you approach a School Bus Stop Ahead sign?",
+        "options": [
+            "Flashing bus lights",
+            "A red stop sign",
+            "A pedestrian crossing",
+            "A speed limit sign"
+        ],
+        "correct_answer": "Flashing bus lights",
+        "explanation": "Flashing lights on a school bus indicate that it is stopping or has stopped to allow children to enter or exit."
+    },
+    {
+        "question": "What is the penalty for not stopping for a school bus?",
+        "options": [
+            "Warning only",
+            "A fine and points on your license",
+            "Mandatory community service",
+            "No penalty at all"
+        ],
+        "correct_answer": "A fine and points on your license",
+        "explanation": "Failing to stop for a school bus can lead to significant fines and demerit points on your driving record."
+    },
+    {
+        "question": "How should drivers proceed after passing a School Bus Stop Ahead sign when there is no bus present?",
+        "options": [
+            "Drive normally",
+            "Turn around",
+            "Speed up",
+            "Stay vigilant for potential bus activity"
+        ],
+        "correct_answer": "Stay vigilant for potential bus activity",
+        "explanation": "Even after passing the sign, drivers should remain cautious as a bus may appear suddenly."
+    },
+    {
+        "question": "In what environments are School Bus Stop Ahead signs usually posted?",
+        "options": [
+            "Rural areas only",
+            "Suburban and urban areas",
+            "Highway locations",
+            "Private property"
+        ],
+        "correct_answer": "Suburban and urban areas",
+        "explanation": "These signs are typically found in suburban and urban settings where school buses frequently operate."
+    },
+    {
+        "question": "What may indicate that a school bus is about to stop?",
+        "options": [
+            "The bus driver waving",
+            "The vehicle's brake lights activating",
+            "The School Bus Stop Ahead sign being visible",
+            "The sound of a horn"
+        ],
+        "correct_answer": "The School Bus Stop Ahead sign being visible",
+        "explanation": "The visibility of the School Bus Stop Ahead sign is a key indication that a school bus may soon stop."
+    }
+]

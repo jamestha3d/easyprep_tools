@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Construction Ahead sign indicate?",
+        "options": [
+            "There is a detour",
+            "Road construction is taking place ahead",
+            "The road is closed",
+            "There is an accident ahead"
+        ],
+        "correct_answer": "Road construction is taking place ahead",
+        "explanation": "The Construction Ahead sign alerts drivers that road work is occurring in the area ahead, requiring caution."
+    },
+    {
+        "question": "What shape is a Construction Ahead sign?",
+        "options": [
+            "Circle",
+            "Rectangle",
+            "Diamond",
+            "Octagon"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "Construction Ahead signs are typically diamond-shaped, which is a standard for warning signs."
+    },
+    {
+        "question": "When should you start slowing down upon seeing a Construction Ahead sign?",
+        "options": [
+            "Immediately upon seeing the sign",
+            "Only when the cones are visible",
+            "When you see workers",
+            "When the speed limit decreases"
+        ],
+        "correct_answer": "Immediately upon seeing the sign",
+        "explanation": "It's important to reduce speed as soon as you see the Construction Ahead sign to ensure safety."
+    },
+    {
+        "question": "What color is generally used for a Construction Ahead sign?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Yellow is used for warning signs, such as Construction Ahead, to alert drivers to potential hazards."
+    },
+    {
+        "question": "What should you do if you encounter a Construction Ahead sign?",
+        "options": [
+            "Speed up to get through quickly",
+            "Start looking for an alternate route",
+            "Maintain current speed",
+            "Prepare to stop or slow down as necessary"
+        ],
+        "correct_answer": "Prepare to stop or slow down as necessary",
+        "explanation": "Drivers should always be prepared to stop or slow down when approaching construction zones."
+    },
+    {
+        "question": "How far in advance is a Construction Ahead sign typically placed before the actual work zone?",
+        "options": [
+            "50 meters",
+            "100 meters",
+            "200 meters",
+            "300 meters"
+        ],
+        "correct_answer": "200 meters",
+        "explanation": "Construction Ahead signs are usually placed approximately 200 meters before the construction area, providing adequate notice to drivers."
+    },
+    {
+        "question": "In addition to slowing down, what else should drivers be aware of when they see a Construction Ahead sign?",
+        "options": [
+            "Traffic cones and barriers",
+            "Pedestrians running",
+            "Animals crossing",
+            "No other vehicles present"
+        ],
+        "correct_answer": "Traffic cones and barriers",
+        "explanation": "Drivers should be mindful of traffic cones and barriers that may be present to direct traffic safely through construction zones."
+    },
+    {
+        "question": "What is a common consequence of ignoring a Construction Ahead sign?",
+        "options": [
+            "Arriving at the destination faster",
+            "Improved road conditions",
+            "Receiving a traffic citation",
+            "No particular consequence"
+        ],
+        "correct_answer": "Receiving a traffic citation",
+        "explanation": "Ignoring construction signs can lead to fines or citations due to the endangerment of workers and other drivers."
+    },
+    {
+        "question": "During construction, what might the Construction Ahead sign be accompanied by?",
+        "options": [
+            "Speed limit signs",
+            "Yield signs",
+            "Stop signs",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Construction zones often have additional signage, including speed limit signs and yield signs, to guide drivers safely through."
+    },
+    {
+        "question": "What is the primary purpose of the Construction Ahead sign?",
+        "options": [
+            "To direct traffic",
+            "To warn drivers about potential hazards ahead",
+            "To advertise for construction companies",
+            "To indicate a scenic route upcoming"
+        ],
+        "correct_answer": "To warn drivers about potential hazards ahead",
+        "explanation": "The main purpose of the Construction Ahead sign is to alert drivers to potential hazards due to construction activities on the road."
+    }
+]

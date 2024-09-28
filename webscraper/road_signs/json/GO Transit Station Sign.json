@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What color is the background of the GO Transit station signs?",
+        "options": [
+            "Blue",
+            "Green",
+            "Red",
+            "Yellow"
+        ],
+        "correct_answer": "Green",
+        "explanation": "The background of the GO Transit station signs is green, which is a distinctive color representing GO Transit."
+    },
+    {
+        "question": "What symbol is prominently featured on GO Transit station signs?",
+        "options": [
+            "Train",
+            "Bus",
+            "Plane",
+            "Car"
+        ],
+        "correct_answer": "Train",
+        "explanation": "GO Transit station signs feature the train symbol, indicating that these stations serve train services."
+    },
+    {
+        "question": "What information is typically displayed on a GO Transit station sign?",
+        "options": [
+            "Departure times",
+            "Weather",
+            "Traffic updates",
+            "Local news"
+        ],
+        "correct_answer": "Departure times",
+        "explanation": "GO Transit station signs provide information on departure times for upcoming trains or buses."
+    },
+    {
+        "question": "How is the GO Transit logo positioned on the station signs?",
+        "options": [
+            "Top left",
+            "Top right",
+            "Center",
+            "Bottom"
+        ],
+        "correct_answer": "Center",
+        "explanation": "The GO Transit logo is centrally located on the station signs for clear visibility and recognition."
+    },
+    {
+        "question": "What language is primarily used on GO Transit station signs?",
+        "options": [
+            "English",
+            "French",
+            "Bilingual",
+            "Spanish"
+        ],
+        "correct_answer": "Bilingual",
+        "explanation": "GO Transit station signs typically feature both English and French, reflecting Ontario's bilingual nature."
+    },
+    {
+        "question": "In addition to train services, what other transportation option is commonly associated with GO Transit signs?",
+        "options": [
+            "Taxis",
+            "Bicycles",
+            "Local buses",
+            "Car rentals"
+        ],
+        "correct_answer": "Local buses",
+        "explanation": "GO Transit signs often indicate connections to local bus services, enhancing transit options for passengers."
+    },
+    {
+        "question": "Which of the following is NOT typically found on a GO Transit station sign?",
+        "options": [
+            "Train schedule",
+            "Emergency contact info",
+            "Weather report",
+            "Station name"
+        ],
+        "correct_answer": "Weather report",
+        "explanation": "Weather reports are not typically included on GO Transit station signs, as they focus on transit-related information."
+    },
+    {
+        "question": "What kind of directional information might you find on a GO Transit station sign?",
+        "options": [
+            "Nearby restaurants",
+            "Next train direction",
+            "Road conditions",
+            "Shopping areas"
+        ],
+        "correct_answer": "Next train direction",
+        "explanation": "GO Transit station signs provide directional information for the next train, helping passengers navigate effectively."
+    },
+    {
+        "question": "What is the primary purpose of the GO Transit station signs?",
+        "options": [
+            "Advertising",
+            "Information",
+            "Decoration",
+            "Security"
+        ],
+        "correct_answer": "Information",
+        "explanation": "The primary purpose of GO Transit station signs is to provide essential information about transit services to passengers."
+    },
+    {
+        "question": "What is the font style used on GO Transit signs generally designed for?",
+        "options": [
+            "Decoration",
+            "Readability",
+            "Stylization",
+            "Artistic expression"
+        ],
+        "correct_answer": "Readability",
+        "explanation": "The font style on GO Transit signs is specifically designed for readability to ensure clear communication of important information."
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a route marker sign indicate?",
+        "options": [
+            "Traffic rules",
+            "Direction to destinations",
+            "Road construction",
+            "Speed limits"
+        ],
+        "correct_answer": "Direction to destinations",
+        "explanation": "Route marker signs provide information on the routes leading to different destinations."
+    },
+    {
+        "question": "Which color is typically used for route marker signs?",
+        "options": [
+            "Red",
+            "Green",
+            "Blue",
+            "Yellow"
+        ],
+        "correct_answer": "Green",
+        "explanation": "Green is the standard color used for route marker signs to denote routes leading to specific locations."
+    },
+    {
+        "question": "What shape are route marker signs generally?",
+        "options": [
+            "Rectangle",
+            "Circle",
+            "Triangle",
+            "Square"
+        ],
+        "correct_answer": "Rectangle",
+        "explanation": "Route marker signs are usually rectangular in shape, which is a common design for indicating routes."
+    },
+    {
+        "question": "What information might you find on a route marker sign?",
+        "options": [
+            "Distance to a destination",
+            "Traffic alerts",
+            "Vehicle restrictions",
+            "Pedestrian crossings"
+        ],
+        "correct_answer": "Distance to a destination",
+        "explanation": "Route marker signs often display the distance to various destinations to aid drivers in navigation."
+    },
+    {
+        "question": "How do you identify a provincial highway route marker sign?",
+        "options": [
+            "A blue circle",
+            "A red diamond",
+            "A white square",
+            "A green shield"
+        ],
+        "correct_answer": "A green shield",
+        "explanation": "In Ontario, provincial highway route markers are identified by a green shield shape."
+    },
+    {
+        "question": "What does a route marker sign with a specific number represent?",
+        "options": [
+            "Type of vehicle allowed",
+            "Distance to next stop",
+            "Specific route number",
+            "Speed limit"
+        ],
+        "correct_answer": "Specific route number",
+        "explanation": "The number on a route marker sign designates a specific route for navigation purposes."
+    },
+    {
+        "question": "Where can you typically find route marker signs?",
+        "options": [
+            "Near school zones",
+            "On highways and major roads",
+            "In parking lots",
+            "At traffic signals"
+        ],
+        "correct_answer": "On highways and major roads",
+        "explanation": "Route marker signs are primarily placed on highways and major roads to guide drivers."
+    },
+    {
+        "question": "What should a driver do upon seeing a route marker sign?",
+        "options": [
+            "Ignore it",
+            "Prepare for changes in direction",
+            "Speed up",
+            "Stop quickly"
+        ],
+        "correct_answer": "Prepare for changes in direction",
+        "explanation": "Drivers should pay attention to route marker signs as they often indicate upcoming turns or changes in direction."
+    },
+    {
+        "question": "Are route marker signs uniform across Canada?",
+        "options": [
+            "Yes",
+            "No, they vary by province",
+            "Only in major cities",
+            "Only for highways"
+        ],
+        "correct_answer": "No, they vary by province",
+        "explanation": "Route marker signs can differ between provinces, reflecting local routes and design standards."
+    },
+    {
+        "question": "What action should you take if a route marker sign is missing or obscured?",
+        "options": [
+            "Continue driving normally",
+            "Drive cautiously and look for other signs",
+            "Ignore the route",
+            "Speed up to find the next sign"
+        ],
+        "correct_answer": "Drive cautiously and look for other signs",
+        "explanation": "If a route marker sign is missing, it is crucial to drive carefully and seek other navigational signs for guidance."
+    }
+]

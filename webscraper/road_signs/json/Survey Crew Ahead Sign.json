@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a 'Survey Crew Ahead' sign indicate?",
+        "options": [
+            "Road construction ahead",
+            "Presence of surveyors working",
+            "Potential animal crossing",
+            "Speed limit change"
+        ],
+        "correct_answer": "Presence of surveyors working",
+        "explanation": "The 'Survey Crew Ahead' sign warns drivers that surveyors or construction workers are operating in the area, requiring caution."
+    },
+    {
+        "question": "When approaching a 'Survey Crew Ahead' sign, what should you do?",
+        "options": [
+            "Speed up to pass quickly",
+            "Maintain speed",
+            "Slow down and be alert",
+            "Ignore the sign"
+        ],
+        "correct_answer": "Slow down and be alert",
+        "explanation": "Drivers should slow down and be attentive to their surroundings as the area may have workers present."
+    },
+    {
+        "question": "Where may you typically find a 'Survey Crew Ahead' sign?",
+        "options": [
+            "Near schools",
+            "In residential areas",
+            "On highways",
+            "At construction zones"
+        ],
+        "correct_answer": "At construction zones",
+        "explanation": "The 'Survey Crew Ahead' sign is commonly posted near construction zones where surveys are being performed."
+    },
+    {
+        "question": "What colors are typically used for a 'Survey Crew Ahead' sign?",
+        "options": [
+            "Red and white",
+            "Yellow and black",
+            "Green and blue",
+            "Orange and white"
+        ],
+        "correct_answer": "Yellow and black",
+        "explanation": "The 'Survey Crew Ahead' sign typically features yellow and black colors to designate caution and alert drivers."
+    },
+    {
+        "question": "What is the primary purpose of a 'Survey Crew Ahead' sign?",
+        "options": [
+            "To inform about road closures",
+            "To indicate nearby restaurants",
+            "To warn of potential hazards",
+            "To let drivers know about surveyors working"
+        ],
+        "correct_answer": "To let drivers know about surveyors working",
+        "explanation": "The sign's main purpose is to inform drivers that surveyors are working in the area, so they should proceed with caution."
+    },
+    {
+        "question": "If you see a 'Survey Crew Ahead' sign, what behavior should you avoid?",
+        "options": [
+            "Looking for surveyors",
+            "Using your phone",
+            "Lowering your speed",
+            "Being aware of your surroundings"
+        ],
+        "correct_answer": "Using your phone",
+        "explanation": "Drivers should avoid distractions such as using their phones to ensure they remain focused on the road and any workers."
+    },
+    {
+        "question": "What is the recommended action if you encounter a 'Survey Crew Ahead' sign during inclement weather?",
+        "options": [
+            "Ignore the sign",
+            "Drive faster to get through quickly",
+            "Increase your following distance and reduce speed",
+            "Continue at normal speed"
+        ],
+        "correct_answer": "Increase your following distance and reduce speed",
+        "explanation": "In inclement weather, conditions may be more hazardous, so it's important to increase following distance and reduce speed for safety."
+    },
+    {
+        "question": "How do 'Survey Crew Ahead' signs relate to overall road safety?",
+        "options": [
+            "They enhance aesthetic road design",
+            "They remind drivers of speed limits",
+            "They inform drivers about changing road conditions",
+            "They promote road rage"
+        ],
+        "correct_answer": "They inform drivers about changing road conditions",
+        "explanation": "These signs contribute to road safety by informing drivers about the presence of workers and potential hazards, prompting safer driving behavior."
+    },
+    {
+        "question": "What should you expect in an area marked by a 'Survey Crew Ahead' sign?",
+        "options": [
+            "Heavy traffic",
+            "Workers and equipment",
+            "Wildlife crossings",
+            "Maintenance work only at night"
+        ],
+        "correct_answer": "Workers and equipment",
+        "explanation": "In areas marked by this sign, you can expect surveyors and possibly construction equipment, necessitating caution."
+    },
+    {
+        "question": "Is a 'Survey Crew Ahead' sign temporary or permanent?",
+        "options": [
+            "Permanent",
+            "Temporary",
+            "Both",
+            "Irrelevant"
+        ],
+        "correct_answer": "Temporary",
+        "explanation": "The 'Survey Crew Ahead' sign is typically a temporary sign used during active surveying or construction projects."
+    }
+]

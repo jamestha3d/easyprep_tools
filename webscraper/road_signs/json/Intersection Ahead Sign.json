@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does an 'Intersection Ahead' sign indicate?",
+        "options": [
+            "You should turn left",
+            "Approaching a junction",
+            "Road maintenance ahead",
+            "Pedestrian crossing"
+        ],
+        "correct_answer": "Approaching a junction",
+        "explanation": "The 'Intersection Ahead' sign warns drivers that they are approaching an intersection where they need to be alert for other vehicles or pedestrians."
+    },
+    {
+        "question": "Which shape is the 'Intersection Ahead' sign?",
+        "options": [
+            "Circular",
+            "Square",
+            "Diamond",
+            "Triangle"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "The 'Intersection Ahead' sign is shaped like a diamond, which is used to indicate warning signs."
+    },
+    {
+        "question": "When should you start slowing down when you see an 'Intersection Ahead' sign?",
+        "options": [
+            "Immediately",
+            "Only when you see vehicles",
+            "At the intersection",
+            "Never"
+        ],
+        "correct_answer": "Immediately",
+        "explanation": "Drivers should start slowing down immediately when they see an 'Intersection Ahead' sign to prepare for the upcoming junction."
+    },
+    {
+        "question": "Are 'Intersection Ahead' signs used for all types of intersections?",
+        "options": [
+            "Yes, for all",
+            "Only for major intersections",
+            "Only for minor intersections",
+            "No, some intersections do not require them"
+        ],
+        "correct_answer": "Yes, for all",
+        "explanation": "'Intersection Ahead' signs are used for all types of intersections to warn drivers to be alert and reduce speed."
+    },
+    {
+        "question": "What color is the 'Intersection Ahead' sign?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "The 'Intersection Ahead' sign is yellow, the standard color for warning signs, indicating caution."
+    },
+    {
+        "question": "What should you do if you see a 'T' intersection sign ahead?",
+        "options": [
+            "Turn right only",
+            "Prepare to stop",
+            "Yield to pedestrians",
+            "None of the above"
+        ],
+        "correct_answer": "Prepare to stop",
+        "explanation": "If you see a 'T' intersection ahead, you should prepare to stop because the road may end, requiring a turn."
+    },
+    {
+        "question": "Does an 'Intersection Ahead' sign imply that traffic control devices are present?",
+        "options": [
+            "Yes, always",
+            "No, never",
+            "Sometimes",
+            "Only if marked"
+        ],
+        "correct_answer": "Sometimes",
+        "explanation": "An 'Intersection Ahead' sign does not guarantee traffic control devices are present, so drivers should still proceed with caution."
+    },
+    {
+        "question": "What is one primary reason to heed the 'Intersection Ahead' warning?",
+        "options": [
+            "To increase speed",
+            "To decrease fuel consumption",
+            "To avoid accidents",
+            "To follow the law"
+        ],
+        "correct_answer": "To avoid accidents",
+        "explanation": "The primary reason to heed the 'Intersection Ahead' warning is to avoid accidents, as intersections are common sites for collisions."
+    },
+    {
+        "question": "What should you look for as you approach an intersection indicated by a warning sign?",
+        "options": [
+            "Streetlights",
+            "Traffic conditions",
+            "Signs indicating speed",
+            "Road surface texture"
+        ],
+        "correct_answer": "Traffic conditions",
+        "explanation": "As you approach an intersection indicated by a warning sign, observing traffic conditions is vital to navigate safely."
+    },
+    {
+        "question": "How can weather conditions affect your response to an 'Intersection Ahead' sign?",
+        "options": [
+            "It doesn't affect at all",
+            "You should speed up",
+            "You need to slow down more",
+            "You should ignore it"
+        ],
+        "correct_answer": "You need to slow down more",
+        "explanation": "Weather conditions, such as rain or snow, can require a driver to slow down more when approaching an intersection for better control."
+    }
+]

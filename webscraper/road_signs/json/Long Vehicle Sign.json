@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Long Vehicle Sign indicate?",
+        "options": [
+            "The vehicle is a bus",
+            "The vehicle is over 10 meters long",
+            "The vehicle is carrying hazardous materials",
+            "The vehicle is operating during high winds"
+        ],
+        "correct_answer": "The vehicle is over 10 meters long",
+        "explanation": "A Long Vehicle Sign is used to alert other drivers that the vehicle is longer than the standard length, usually over 10 meters."
+    },
+    {
+        "question": "Where should a Long Vehicle Sign be displayed?",
+        "options": [
+            "On the front bumper",
+            "On the rear of the vehicle",
+            "On the roof",
+            "On the sides of the vehicle"
+        ],
+        "correct_answer": "On the rear of the vehicle",
+        "explanation": "The Long Vehicle Sign must be prominently displayed on the rear of the vehicle to notify drivers approaching from behind."
+    },
+    {
+        "question": "What color is a Long Vehicle Sign typically?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "The Long Vehicle Sign is typically yellow with black lettering to ensure high visibility and to alert other drivers."
+    },
+    {
+        "question": "What should drivers do when they see a Long Vehicle Sign?",
+        "options": [
+            "Speed up to pass the vehicle",
+            "Maintain a safe distance",
+            "Honk to alert the driver",
+            "Always switch lanes immediately"
+        ],
+        "correct_answer": "Maintain a safe distance",
+        "explanation": "Drivers should maintain a safe distance to ensure there is enough space for the long vehicle to maneuver, especially when turning."
+    },
+    {
+        "question": "Which vehicles commonly use Long Vehicle Signs?",
+        "options": [
+            "Trucks and buses",
+            "Motorcycles",
+            "Sedans",
+            "SUVs"
+        ],
+        "correct_answer": "Trucks and buses",
+        "explanation": "Long Vehicle Signs are typically used by trucks and buses, which are often longer than standard vehicles."
+    },
+    {
+        "question": "How can Long Vehicle Signs enhance road safety?",
+        "options": [
+            "By increasing the vehicle's speed",
+            "By warning other drivers of potential hazards",
+            "By allowing the vehicle to block more lanes",
+            "By reducing traffic"
+        ],
+        "correct_answer": "By warning other drivers of potential hazards",
+        "explanation": "Long Vehicle Signs help to warn other drivers about the size of the vehicle, which can prevent accidents and enhance overall road safety."
+    },
+    {
+        "question": "During which conditions is a Long Vehicle Sign especially important?",
+        "options": [
+            "In clear weather",
+            "At night",
+            "In busy traffic",
+            "In poor visibility conditions"
+        ],
+        "correct_answer": "In poor visibility conditions",
+        "explanation": "In poor visibility conditions, such as fog or rain, the Long Vehicle Sign becomes crucial for alerting other drivers to the presence and size of the vehicle."
+    },
+    {
+        "question": "What is the minimum length a vehicle must be to require a Long Vehicle Sign?",
+        "options": [
+            "5 meters",
+            "7 meters",
+            "8 meters",
+            "10 meters"
+        ],
+        "correct_answer": "10 meters",
+        "explanation": "Vehicles that measure 10 meters or more in length are required to display a Long Vehicle Sign."
+    },
+    {
+        "question": "Can a Long Vehicle Sign be removed when the vehicle is not on the road?",
+        "options": [
+            "Yes, always",
+            "No, it must stay on the vehicle",
+            "Only during night-time",
+            "Only in residential areas"
+        ],
+        "correct_answer": "Yes, always",
+        "explanation": "The Long Vehicle Sign can be removed when the vehicle is not on the road, as it is not necessary outside of driving conditions."
+    },
+    {
+        "question": "Which of the following statements is true regarding Long Vehicle Signs?",
+        "options": [
+            "They are only required in urban areas",
+            "They must be illuminated at night",
+            "They indicate a slower speed limit",
+            "They are not mandatory in Canada"
+        ],
+        "correct_answer": "They must be illuminated at night",
+        "explanation": "Long Vehicle Signs must be visible at night, often requiring illumination to ensure safety on the roads."
+    }
+]

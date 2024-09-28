@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What is the primary purpose of Information Assembly Signs?",
+        "options": [
+            "To provide directions",
+            "To offer information about services",
+            "To indicate traffic laws",
+            "To display advertisements"
+        ],
+        "correct_answer": "To offer information about services",
+        "explanation": "Information Assembly Signs are designed to provide drivers with important public service information, such as the location of rest stops, hospitals, and tourist attractions."
+    },
+    {
+        "question": "Which symbol is commonly found on Information Assembly Signs to indicate a hospital nearby?",
+        "options": [
+            "Blue H",
+            "Green Cross",
+            "Red R",
+            "Yellow Star"
+        ],
+        "correct_answer": "Blue H",
+        "explanation": "The blue 'H' symbol universally indicates the presence of a hospital and is used on Information Assembly Signs to guide motorists in need of medical assistance."
+    },
+    {
+        "question": "What color is typically used for Information Assembly Signs?",
+        "options": [
+            "Red",
+            "Green",
+            "Blue",
+            "Yellow"
+        ],
+        "correct_answer": "Blue",
+        "explanation": "Information Assembly Signs commonly use blue backgrounds to help them stand out and convey information effectively, especially in high traffic areas."
+    },
+    {
+        "question": "Which of the following is NOT indicated by Information Assembly Signs?",
+        "options": [
+            "Restaurants",
+            "Gas stations",
+            "Speed limits",
+            "Rest areas"
+        ],
+        "correct_answer": "Speed limits",
+        "explanation": "Speed limits are indicated by regulatory signs rather than Information Assembly Signs, which focus on services and amenities available to drivers."
+    },
+    {
+        "question": "Information Assembly Signs can often be found on which types of roads?",
+        "options": [
+            "Residential streets",
+            "Highways",
+            "Pedestrian zones",
+            "Private roads"
+        ],
+        "correct_answer": "Highways",
+        "explanation": "Information Assembly Signs are primarily placed along highways and major thoroughfares to assist drivers traveling at higher speeds."
+    },
+    {
+        "question": "What type of information can you expect to find on an Information Assembly Sign?",
+        "options": [
+            "Weather updates",
+            "Drive-thru restaurants",
+            "Emergency service numbers",
+            "Location of nearby attractions"
+        ],
+        "correct_answer": "Location of nearby attractions",
+        "explanation": "Information Assembly Signs typically provide details about nearby attractions, accommodations, and services aimed at enhancing the travel experience."
+    },
+    {
+        "question": "How are Information Assembly Signs designed to improve road safety?",
+        "options": [
+            "By indicating speed limits",
+            "By warning of construction zones",
+            "By providing essential service information",
+            "By displaying license plate requirements"
+        ],
+        "correct_answer": "By providing essential service information",
+        "explanation": "By informing drivers about the availability of essential services, such as gas stations and rest areas, Information Assembly Signs contribute to driver preparedness and safety."
+    },
+    {
+        "question": "What should a driver do when they see an Information Assembly Sign?",
+        "options": [
+            "Ignore it",
+            "Take immediate action",
+            "Be aware of what services are ahead",
+            "Speed up to pass quickly"
+        ],
+        "correct_answer": "Be aware of what services are ahead",
+        "explanation": "Drivers should be aware of the information provided by these signs to plan their stops and route effectively, thus enhancing their travel experience."
+    },
+    {
+        "question": "What does a brown Information Assembly Sign typically indicate?",
+        "options": [
+            "Public services",
+            "Historical sites",
+            "Commercial services",
+            "Transportation options"
+        ],
+        "correct_answer": "Historical sites",
+        "explanation": "Brown Information Assembly Signs are specifically used to indicate historical sites and cultural attractions."
+    },
+    {
+        "question": "Are Information Assembly Signs standard across all provinces in Canada?",
+        "options": [
+            "Yes",
+            "No",
+            "Only in Ontario",
+            "Only on highways"
+        ],
+        "correct_answer": "No",
+        "explanation": "While there are common standards, each province may have its own variations in design and color schemes for Information Assembly Signs."
+    }
+]

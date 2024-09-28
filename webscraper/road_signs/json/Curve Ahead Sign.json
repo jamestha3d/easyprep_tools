@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Curve Ahead sign indicate?",
+        "options": [
+            "A sudden stop",
+            "Upcoming winding road",
+            "Construction ahead",
+            "Pedestrian crossing"
+        ],
+        "correct_answer": "Upcoming winding road",
+        "explanation": "The Curve Ahead sign warns drivers that there is a curve in the road ahead, signaling them to prepare for a change in direction."
+    },
+    {
+        "question": "How should a driver respond when they see a Curve Ahead sign?",
+        "options": [
+            "Accelerate",
+            "Maintain speed",
+            "Slow down",
+            "Change lanes"
+        ],
+        "correct_answer": "Slow down",
+        "explanation": "Drivers should slow down to safely navigate the upcoming curve, as sharp turns can reduce vehicle control and increase the risk of accidents."
+    },
+    {
+        "question": "What shape is the Curve Ahead sign?",
+        "options": [
+            "Octagon",
+            "Diamond",
+            "Rectangle",
+            "Triangle"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "The Curve Ahead sign is typically a diamond shape, which is commonly used for warning signs."
+    },
+    {
+        "question": "Where is a Curve Ahead sign normally placed?",
+        "options": [
+            "At intersections",
+            "Near pedestrian crossings",
+            "Before the curve",
+            "After the curve"
+        ],
+        "correct_answer": "Before the curve",
+        "explanation": "Curve Ahead signs are placed in advance of the curve to give drivers time to react and adjust their speed accordingly."
+    },
+    {
+        "question": "What color is the Curve Ahead sign?",
+        "options": [
+            "Red and white",
+            "Yellow and black",
+            "Green and white",
+            "Blue and white"
+        ],
+        "correct_answer": "Yellow and black",
+        "explanation": "The Curve Ahead sign is yellow with black symbols, indicating a cautionary warning to drivers."
+    },
+    {
+        "question": "What can happen if a driver ignores the Curve Ahead sign?",
+        "options": [
+            "Arrival delays",
+            "Vehicle breakdown",
+            "Accidents or loss of control",
+            "No consequences"
+        ],
+        "correct_answer": "Accidents or loss of control",
+        "explanation": "Ignoring the warning from a Curve Ahead sign can lead to accidents or a loss of vehicle control, especially if the driver does not reduce speed."
+    },
+    {
+        "question": "What is the primary purpose of the Curve Ahead sign?",
+        "options": [
+            "To indicate a speed limit",
+            "To warn of moderate or sharp turns",
+            "To mark the end of a road",
+            "To show nearby services"
+        ],
+        "correct_answer": "To warn of moderate or sharp turns",
+        "explanation": "The primary purpose of the Curve Ahead sign is to warn drivers about the presence of a moderate to sharp turn, allowing them to prepare accordingly."
+    },
+    {
+        "question": "What type of drivers would especially benefit from the Curve Ahead sign?",
+        "options": [
+            "Experienced drivers",
+            "New or inexperienced drivers",
+            "Commercial drivers",
+            "All drivers"
+        ],
+        "correct_answer": "All drivers",
+        "explanation": "All drivers benefit from the Curve Ahead sign, as it provides critical information that helps enhance safety on the road."
+    },
+    {
+        "question": "When driving during adverse weather conditions, what should you do when you see a Curve Ahead sign?",
+        "options": [
+            "Speed up",
+            "Ignore it",
+            "Drive cautiously and reduce speed",
+            "Use high beams"
+        ],
+        "correct_answer": "Drive cautiously and reduce speed",
+        "explanation": "In adverse weather conditions, such as rain or snow, it is crucial to drive cautiously and reduce speed to maintain control through the curve."
+    },
+    {
+        "question": "What additional warning may accompany a Curve Ahead sign?",
+        "options": [
+            "Stop sign",
+            "No parking sign",
+            "Steep descent sign",
+            "Advisory speed limit sign"
+        ],
+        "correct_answer": "Advisory speed limit sign",
+        "explanation": "An advisory speed limit sign may accompany a Curve Ahead sign to indicate the recommended speed for safely navigating the upcoming curve."
+    }
+]

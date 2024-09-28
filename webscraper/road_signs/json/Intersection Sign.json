@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a stop sign indicate at an intersection?",
+        "options": [
+            "You must slow down",
+            "You must stop and yield to others",
+            "You can proceed without stopping",
+            "It's optional to stop"
+        ],
+        "correct_answer": "You must stop and yield to others",
+        "explanation": "A stop sign requires drivers to come to a complete stop and yield to any oncoming traffic or pedestrians before proceeding."
+    },
+    {
+        "question": "What should a driver do if they approach a yield sign at an intersection?",
+        "options": [
+            "Stop completely",
+            "Slow down and yield to traffic",
+            "Proceed without slowing down",
+            "Ignore the sign"
+        ],
+        "correct_answer": "Slow down and yield to traffic",
+        "explanation": "A yield sign means that drivers should slow down and yield the right-of-way to any oncoming traffic or pedestrians."
+    },
+    {
+        "question": "At a 4-way stop, which vehicle has the right of way?",
+        "options": [
+            "The vehicle that arrives first",
+            "The largest vehicle",
+            "The vehicle on the right",
+            "The vehicle going straight"
+        ],
+        "correct_answer": "The vehicle that arrives first",
+        "explanation": "At a 4-way stop, the first vehicle to arrive at the intersection has the right of way."
+    },
+    {
+        "question": "What does a flashing yellow traffic signal mean?",
+        "options": [
+            "You must stop",
+            "Proceed with caution",
+            "You can go faster",
+            "The intersection is closed"
+        ],
+        "correct_answer": "Proceed with caution",
+        "explanation": "A flashing yellow light warns drivers to proceed with caution and look out for other traffic and pedestrians."
+    },
+    {
+        "question": "What does a red light at an intersection indicate?",
+        "options": [
+            "You must slow down",
+            "You are allowed to turn left",
+            "You must stop completely",
+            "You can proceed if it's safe"
+        ],
+        "correct_answer": "You must stop completely",
+        "explanation": "A red light at an intersection means that drivers must come to a complete stop and are prohibited from proceeding until the light turns green."
+    },
+    {
+        "question": "Which of the following is true regarding a green light at an intersection?",
+        "options": [
+            "You must stop if you see a pedestrian",
+            "You can ignore pedestrians",
+            "All vehicles can immediately move forwards",
+            "You must yield to vehicles on your left"
+        ],
+        "correct_answer": "You must stop if you see a pedestrian",
+        "explanation": "Even with a green light, drivers must always yield to pedestrians crossing at an intersection."
+    },
+    {
+        "question": "What should you do when you see a no entry sign?",
+        "options": [
+            "Continue driving",
+            "Turn around",
+            "Stop only if no cars are coming",
+            "Proceed cautiously"
+        ],
+        "correct_answer": "Turn around",
+        "explanation": "A no entry sign indicates that entry into that roadway is prohibited for vehicles; drivers should turn around."
+    },
+    {
+        "question": "What is the meaning of a circular green arrow at an intersection?",
+        "options": [
+            "Stop",
+            "Proceed in the direction of the arrow",
+            "Yield to oncoming traffic",
+            "You cannot turn"
+        ],
+        "correct_answer": "Proceed in the direction of the arrow",
+        "explanation": "A circular green arrow indicates that drivers can proceed in the direction indicated while having the right of way."
+    },
+    {
+        "question": "What action is required if an intersection is controlled by a traffic officer?",
+        "options": [
+            "Follow the traffic lights",
+            "Follow the officer's directions",
+            "Proceed cautiously but without stopping",
+            "Wait for a flashing light"
+        ],
+        "correct_answer": "Follow the officer's directions",
+        "explanation": "When a traffic officer is directing traffic at an intersection, their instructions take precedence over traffic signals and signs."
+    },
+    {
+        "question": "If you approach an intersection with no signs or signals, who has the right of way?",
+        "options": [
+            "The vehicle on the main road",
+            "The vehicle to the right",
+            "The larger vehicle",
+            "The first vehicle that arrives"
+        ],
+        "correct_answer": "The vehicle to the right",
+        "explanation": "At uncontrolled intersections, the vehicle on your right generally has the right of way unless otherwise indicated."
+    }
+]

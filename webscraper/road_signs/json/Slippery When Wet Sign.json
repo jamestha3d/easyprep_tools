@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does the 'Slippery When Wet' sign indicate?",
+        "options": [
+            "Road conditions are safe",
+            "Road conditions may become hazardous",
+            "Road is under construction",
+            "Be alert for animals crossing"
+        ],
+        "correct_answer": "Road conditions may become hazardous",
+        "explanation": "The 'Slippery When Wet' sign warns drivers that the road can become slippery when wet due to rain, ice, or other factors."
+    },
+    {
+        "question": "When should a driver exercise increased caution when seeing a 'Slippery When Wet' sign?",
+        "options": [
+            "During sunny weather",
+            "When it starts to rain",
+            "When the road is completely dry",
+            "At night"
+        ],
+        "correct_answer": "When it starts to rain",
+        "explanation": "Drivers should be more cautious when it begins to rain, as it can create slippery conditions on the road."
+    },
+    {
+        "question": "What is the primary risk associated with ignoring a 'Slippery When Wet' sign?",
+        "options": [
+            "Increased fuel consumption",
+            "Higher speed limits",
+            "Loss of vehicle control",
+            "Increased tire wear"
+        ],
+        "correct_answer": "Loss of vehicle control",
+        "explanation": "Ignoring the warning of a slippery road can lead to loss of control of the vehicle, increasing the risk of accidents."
+    },
+    {
+        "question": "What weather condition often leads to slippery road conditions?",
+        "options": [
+            "Sunny days",
+            "Windy conditions",
+            "Rain and snow",
+            "Clear nights"
+        ],
+        "correct_answer": "Rain and snow",
+        "explanation": "Rain and snow can create a slippery surface on roads, making it hazardous for drivers."
+    },
+    {
+        "question": "What is one suggested driving behavior upon seeing a 'Slippery When Wet' sign?",
+        "options": [
+            "Accelerate quickly",
+            "Maintain a safe following distance",
+            "Use cruise control",
+            "Ignore the sign"
+        ],
+        "correct_answer": "Maintain a safe following distance",
+        "explanation": "Maintaining a safe following distance helps to prevent collisions in case of sudden stops on wet roads."
+    },
+    {
+        "question": "What type of drivers may be particularly affected by slippery conditions?",
+        "options": [
+            "Only new drivers",
+            "Seniors only",
+            "All drivers",
+            "Truck drivers only"
+        ],
+        "correct_answer": "All drivers",
+        "explanation": "Slippery conditions can affect any driver regardless of experience, making it crucial to follow safety guidelines."
+    },
+    {
+        "question": "Which of the following actions should NOT be taken when encountering slippery conditions?",
+        "options": [
+            "Reduce speed",
+            "Turn sharply",
+            "Increase following distance",
+            "Use headlights"
+        ],
+        "correct_answer": "Turn sharply",
+        "explanation": "Turning sharply can cause loss of control; it's safer to make gradual movements when driving on slippery surfaces."
+    },
+    {
+        "question": "If you hit a slippery patch, what should you do?",
+        "options": [
+            "Accelerate to regain control",
+            "Steer in the direction you want to go",
+            "Brake hard immediately",
+            "Turn off your engine"
+        ],
+        "correct_answer": "Steer in the direction you want to go",
+        "explanation": "Steering gently towards your desired direction helps maintain control of the vehicle when navigating slippery conditions."
+    },
+    {
+        "question": "Why is it important to adjust your speed in wet conditions?",
+        "options": [
+            "To keep up with traffic",
+            "To save fuel",
+            "To prevent skidding",
+            "To maintain temperature"
+        ],
+        "correct_answer": "To prevent skidding",
+        "explanation": "Adjusting speed in wet conditions helps prevent skidding and loss of control, which are common hazards in such conditions."
+    },
+    {
+        "question": "What should drivers check on their vehicles to prepare for potential slippery conditions?",
+        "options": [
+            "Radio system",
+            "Battery life",
+            "Tire tread depth",
+            "Air conditioning"
+        ],
+        "correct_answer": "Tire tread depth",
+        "explanation": "Tire tread depth is crucial for maintaining traction on wet roads; insufficient tread can increase the risk of skidding."
+    }
+]

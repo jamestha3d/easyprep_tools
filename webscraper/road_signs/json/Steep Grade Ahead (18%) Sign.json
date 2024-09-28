@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Steep Grade Ahead (18%) sign indicate?",
+        "options": [
+            "A hazardous curve ahead",
+            "A steep hill with an incline of 18%",
+            "A general speed limit",
+            "A pedestrian crossing"
+        ],
+        "correct_answer": "A steep hill with an incline of 18%",
+        "explanation": "The Steep Grade Ahead (18%) sign warns drivers of an upcoming hill that has a steep incline, requiring caution."
+    },
+    {
+        "question": "What should drivers be cautious about when encountering a Steep Grade Ahead sign?",
+        "options": [
+            "Sharp turns",
+            "Potential for losing control",
+            "Wildlife crossing",
+            "Construction zone"
+        ],
+        "correct_answer": "Potential for losing control",
+        "explanation": "Descending a steep grade can lead to increased speed and potential loss of vehicle control, so caution is advised."
+    },
+    {
+        "question": "How can drivers prepare for a steep grade indicated by the sign?",
+        "options": [
+            "Increase speed",
+            "Use lower gears",
+            "Turn on high beams",
+            "Ignore the sign"
+        ],
+        "correct_answer": "Use lower gears",
+        "explanation": "Using lower gears helps maintain control and reduces the risk of speeding when descending a steep hill."
+    },
+    {
+        "question": "What is the potential risk of not heeding a Steep Grade Ahead signal?",
+        "options": [
+            "Improper merging",
+            "Exhaust overheating",
+            "Brake failure due to overheating",
+            "Hitting a speed bump"
+        ],
+        "correct_answer": "Brake failure due to overheating",
+        "explanation": "Riding the brake on a steep grade can cause them to overheat, leading to brake failure and loss of control."
+    },
+    {
+        "question": "What should truck drivers especially be aware of when seeing a Steep Grade Ahead sign?",
+        "options": [
+            "They should drive faster",
+            "They should increase tire pressure",
+            "They should ensure proper load distribution",
+            "They should avoid using turns"
+        ],
+        "correct_answer": "They should ensure proper load distribution",
+        "explanation": "Proper load distribution is crucial for trucks to maintain stability and control on steep grades."
+    },
+    {
+        "question": "Where is a Steep Grade Ahead sign typically placed?",
+        "options": [
+            "At the bottom of a hill",
+            "Immediately after the incline begins",
+            "Before the incline starts",
+            "At intersections only"
+        ],
+        "correct_answer": "Before the incline starts",
+        "explanation": "The sign is placed before the incline to give drivers adequate warning to prepare for the steep descent."
+    },
+    {
+        "question": "What speed should you expect when descending a steep grade?",
+        "options": [
+            "Constant speed",
+            "Higher than normal speed",
+            "Lower than normal speed",
+            "Inconsistent speed"
+        ],
+        "correct_answer": "Higher than normal speed",
+        "explanation": "Due to gravity, vehicles tend to accelerate down steep grades, so drivers should be cautious and prepared to manage their speed."
+    },
+    {
+        "question": "What is the recommended action when ascending a steep grade?",
+        "options": [
+            "Shift to a lower gear",
+            "Use maximum throttle",
+            "Turn on hazard lights",
+            "Maintain current speed"
+        ],
+        "correct_answer": "Shift to a lower gear",
+        "explanation": "Shifting to a lower gear provides more power to the engine, helping vehicles ascend steep grades efficiently."
+    },
+    {
+        "question": "During inclement weather, how does a Steep Grade Ahead sign's relevance change?",
+        "options": [
+            "It becomes less relevant",
+            "It requires more cautious driving",
+            "It should be ignored",
+            "It indicates a shortcut"
+        ],
+        "correct_answer": "It requires more cautious driving",
+        "explanation": "Slippery conditions like rain or snow make steep grades more dangerous, necessitating increased caution and lower speeds."
+    },
+    {
+        "question": "Which vehicle type is most affected by steep grades?",
+        "options": [
+            "Bicycles",
+            "Motorcycles",
+            "Large trucks",
+            "Passenger cars"
+        ],
+        "correct_answer": "Large trucks",
+        "explanation": "Large trucks are significantly affected by steep grades due to their weight and stopping ability, making it essential for proper management on inclines."
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does the pedestrian crossing sign indicate?",
+        "options": [
+            "Watch for pedestrians",
+            "No pedestrians allowed",
+            "Crosswalk ahead",
+            "Stop for pedestrians"
+        ],
+        "correct_answer": "Watch for pedestrians",
+        "explanation": "The pedestrian crossing sign alerts drivers to be vigilant for pedestrians who may be crossing the road."
+    },
+    {
+        "question": "What should drivers do when approaching a pedestrian crossing sign?",
+        "options": [
+            "Speed up",
+            "Prepare to stop",
+            "Ignore it",
+            "Continue at the same speed"
+        ],
+        "correct_answer": "Prepare to stop",
+        "explanation": "Drivers should always be prepared to stop when approaching a pedestrian crossing in case pedestrians are present."
+    },
+    {
+        "question": "When is it permissible to pass another vehicle near a pedestrian crossing?",
+        "options": [
+            "Always",
+            "When the other vehicle stops",
+            "Only when signs allow it",
+            "Never"
+        ],
+        "correct_answer": "Never",
+        "explanation": "It is never permissible to pass another vehicle near a pedestrian crossing, as this can endanger pedestrians and violate traffic laws."
+    },
+    {
+        "question": "What does a no passing sign indicate?",
+        "options": [
+            "Passing is allowed",
+            "Passing is prohibited",
+            "Road is closed",
+            "Construction ahead"
+        ],
+        "correct_answer": "Passing is prohibited",
+        "explanation": "A no passing sign clearly indicates to drivers that they should not overtake other vehicles in that area."
+    },
+    {
+        "question": "How should drivers behave when they see a no passing sign?",
+        "options": [
+            "Look for opportunities to pass",
+            "Maintain speed but stay alert",
+            "Abide by the no passing rule",
+            "Drive faster to get ahead"
+        ],
+        "correct_answer": "Abide by the no passing rule",
+        "explanation": "Drivers must respect the no passing sign and refrain from overtaking vehicles in that area to ensure safety."
+    },
+    {
+        "question": "What might a driver encounter at a pedestrian crosswalk?",
+        "options": [
+            "Pedestrians crossing",
+            "Traffic signals",
+            "Stop signs",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Drivers may encounter various elements at a crosswalk, including pedestrians, traffic signals, and stop signs that govern safe crossing."
+    },
+    {
+        "question": "If a vehicle is stopped at a pedestrian crossing, what should you do?",
+        "options": [
+            "Assume the road is clear",
+            "Drive around the vehicle",
+            "Prepare to stop as well",
+            "Speed past quickly"
+        ],
+        "correct_answer": "Prepare to stop as well",
+        "explanation": "If a vehicle is stopped at a pedestrian crossing, it is crucial to prepare to stop too, as it may be yielding to pedestrians."
+    },
+    {
+        "question": "What phrase best describes a driver\u2019s responsibility at a pedestrian crossing?",
+        "options": [
+            "Right of way",
+            "Priority to pedestrians",
+            "Drive through quickly",
+            "Look but don't stop"
+        ],
+        "correct_answer": "Priority to pedestrians",
+        "explanation": "At a pedestrian crossing, drivers must give priority to pedestrians, allowing them to cross safely."
+    },
+    {
+        "question": "What is a common consequence of ignoring a no passing sign?",
+        "options": [
+            "Increased fuel efficiency",
+            "Traffic tickets",
+            "Faster travel times",
+            "No consequences"
+        ],
+        "correct_answer": "Traffic tickets",
+        "explanation": "Ignoring a no passing sign can lead to traffic violations and possibly serious consequences, including fines and accidents."
+    },
+    {
+        "question": "What action is required when a pedestrian is waiting to cross at a marked crosswalk?",
+        "options": [
+            "Speed up",
+            "Wait until they cross",
+            "Honk the horn",
+            "Continue driving without change"
+        ],
+        "correct_answer": "Wait until they cross",
+        "explanation": "Drivers must wait for pedestrians to finish crossing when they are waiting at a marked crosswalk to ensure their safety."
+    }
+]

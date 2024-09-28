@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does the 'Road Ahead is Being Resurfaced' sign indicate?",
+        "options": [
+            "Road construction ahead",
+            "Road is closed",
+            "Speed limit increased",
+            "No parking"
+        ],
+        "correct_answer": "Road construction ahead",
+        "explanation": "This sign informs drivers that the road is undergoing resurfacing work, which may affect driving conditions."
+    },
+    {
+        "question": "What should you do when you see the 'Road Ahead is Being Resurfaced' sign?",
+        "options": [
+            "Speed up",
+            "Slow down",
+            "Change lanes",
+            "Ignore it"
+        ],
+        "correct_answer": "Slow down",
+        "explanation": "Drivers should reduce their speed to navigate safely through construction zones where resurfacing is occurring."
+    },
+    {
+        "question": "Why is it important to pay attention to the 'Road Ahead is Being Resurfaced' sign?",
+        "options": [
+            "To find an alternate route",
+            "To know when to increase speed",
+            "To avoid potential hazards",
+            "To understand weather conditions"
+        ],
+        "correct_answer": "To avoid potential hazards",
+        "explanation": "Ignoring this sign may lead to accidents or damage to vehicles as the road conditions may be uneven or obstructed."
+    },
+    {
+        "question": "Can the 'Road Ahead is Being Resurfaced' sign be accompanied by additional instructions?",
+        "options": [
+            "Yes",
+            "No",
+            "Only at night",
+            "Only in winter"
+        ],
+        "correct_answer": "Yes",
+        "explanation": "Often, this sign is part of a series that includes other instructions regarding detours, speed limits, or lane closures."
+    },
+    {
+        "question": "What color is typically used for the 'Road Ahead is Being Resurfaced' sign?",
+        "options": [
+            "Blue",
+            "Yellow",
+            "Red",
+            "Green"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Yellow is commonly used for warning signs to alert drivers of changes or hazards in the roadway ahead."
+    },
+    {
+        "question": "If the weather is poor, how should you react to the 'Road Ahead is Being Resurfaced' sign?",
+        "options": [
+            "Drive normally",
+            "Drive faster",
+            "Increase your caution",
+            "Ignore the sign"
+        ],
+        "correct_answer": "Increase your caution",
+        "explanation": "Poor weather conditions can further complicate resurfacing work, making increased caution necessary to ensure safety."
+    },
+    {
+        "question": "What is the usual speed limit near a 'Road Ahead is Being Resurfaced' sign?",
+        "options": [
+            "No speed limit",
+            "Normal speed",
+            "Reduced speed limit",
+            "Speed limit increased"
+        ],
+        "correct_answer": "Reduced speed limit",
+        "explanation": "Typically, there is a reduced speed limit in construction areas to enhance safety for both workers and motorists."
+    },
+    {
+        "question": "What additional safety measure should drivers consider when approaching a 'Road Ahead is Being Resurfaced' area?",
+        "options": [
+            "Use high beams",
+            "Keep a safe distance",
+            "Switch lanes frequently",
+            "Honk the horn"
+        ],
+        "correct_answer": "Keep a safe distance",
+        "explanation": "Maintaining a safe distance from the vehicle ahead allows for better reaction time in case of sudden stops or obstacles."
+    },
+    {
+        "question": "During which part of the day might the 'Road Ahead is Being Resurfaced' sign be more critical to pay attention to?",
+        "options": [
+            "Early morning",
+            "Midday",
+            "Evening",
+            "All times"
+        ],
+        "correct_answer": "All times",
+        "explanation": "Construction work can occur at any time, and it's crucial for drivers to stay alert whenever they see such signs."
+    },
+    {
+        "question": "What might you see in tandem with the 'Road Ahead is Being Resurfaced' sign?",
+        "options": [
+            "Yield sign",
+            "No U-turn sign",
+            "Detour sign",
+            "Parking sign"
+        ],
+        "correct_answer": "Detour sign",
+        "explanation": "In many cases, resurfacing may require closing parts of the road, necessitating a detour sign to guide drivers around the work zone."
+    }
+]

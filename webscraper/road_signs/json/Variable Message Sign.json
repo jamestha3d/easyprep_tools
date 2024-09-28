@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What is the primary purpose of Variable Message Signs (VMS)?",
+        "options": [
+            "To display advertisements",
+            "To inform drivers of traffic conditions",
+            "To indicate speed limits",
+            "To show weather updates"
+        ],
+        "correct_answer": "To inform drivers of traffic conditions",
+        "explanation": "Variable Message Signs are primarily used to provide real-time information to drivers about traffic conditions, hazards, or roadwork."
+    },
+    {
+        "question": "How should a driver react to a Variable Message Sign displaying 'Road Closed'?",
+        "options": [
+            "Continue driving",
+            "Turn around",
+            "Speed up",
+            "Ignore the sign"
+        ],
+        "correct_answer": "Turn around",
+        "explanation": "When a Variable Message Sign indicates 'Road Closed', drivers should turn around to avoid entering a dangerous or blocked area."
+    },
+    {
+        "question": "What type of information can be displayed on a Variable Message Sign?",
+        "options": [
+            "Road closures",
+            "Speed limits",
+            "Travel times",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Variable Message Signs can display a variety of information including road closures, speed limits, and estimated travel times to assist drivers."
+    },
+    {
+        "question": "What color is typically used for warning messages on Variable Message Signs?",
+        "options": [
+            "Red",
+            "Green",
+            "Amber",
+            "Blue"
+        ],
+        "correct_answer": "Amber",
+        "explanation": "Amber is commonly used for warning messages on Variable Message Signs to attract attention and indicate caution."
+    },
+    {
+        "question": "Which of the following should you NOT do when you see a VMS indicating 'Slow Down'?",
+        "options": [
+            "Maintain speed",
+            "Reduce speed",
+            "Be vigilant",
+            "Prepare for potential hazards"
+        ],
+        "correct_answer": "Maintain speed",
+        "explanation": "When encountering a sign that states 'Slow Down', maintaining speed is dangerous and goes against the advised action for safety."
+    },
+    {
+        "question": "What should you do if a Variable Message Sign displays 'Accident Ahead'?",
+        "options": [
+            "Speed up to pass quickly",
+            "Stay in your lane",
+            "Be prepared to stop",
+            "Ignore the sign"
+        ],
+        "correct_answer": "Be prepared to stop",
+        "explanation": "The sign warns of an accident ahead, so it is crucial to be prepared to stop or slow down safely."
+    },
+    {
+        "question": "When are Variable Message Signs commonly used?",
+        "options": [
+            "Only during day time",
+            "Only in urban areas",
+            "During peak travel times",
+            "Only when there are accidents"
+        ],
+        "correct_answer": "During peak travel times",
+        "explanation": "Variable Message Signs are frequently activated during peak travel times to manage traffic flow and convey important driving information."
+    },
+    {
+        "question": "What might a VMS display that indicates a lane closure?",
+        "options": [
+            "Lane Closed Ahead",
+            "Free Flow Traffic",
+            "No Restrictions",
+            "Heavy Traffic Jam"
+        ],
+        "correct_answer": "Lane Closed Ahead",
+        "explanation": "A Variable Message Sign indicating a lane closure will often say 'Lane Closed Ahead' to prepare drivers to adjust their driving."
+    },
+    {
+        "question": "If a Variable Message Sign shows 'Merge Left', what should you do?",
+        "options": [
+            "Stay in your lane",
+            "Begin to merge left",
+            "Speed up",
+            "Ignore the sign"
+        ],
+        "correct_answer": "Begin to merge left",
+        "explanation": "The sign instructs drivers to merge left in order to avoid a lane closure or obstruction, so following the sign is necessary for safe driving."
+    },
+    {
+        "question": "Variable Message Signs utilize which type of technology?",
+        "options": [
+            "Static displays",
+            "Solar panels",
+            "Electronic displays",
+            "None of the above"
+        ],
+        "correct_answer": "Electronic displays",
+        "explanation": "Variable Message Signs use electronic displays that allow for dynamic changes in messaging based on current road conditions."
+    }
+]

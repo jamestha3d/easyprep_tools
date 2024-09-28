@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a No Parking sign indicate?",
+        "options": [
+            "You cannot park here at any time",
+            "You can park with a permit",
+            "You can only park for a limited time",
+            "You can park only at night"
+        ],
+        "correct_answer": "You cannot park here at any time",
+        "explanation": "A No Parking sign means that parking is prohibited at all times in that location."
+    },
+    {
+        "question": "When is it permissible to stop in a No Parking zone?",
+        "options": [
+            "For emergencies",
+            "To pick up or drop off passengers",
+            "When loading or unloading",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Stopping for emergencies, loading/unloading, or picking up/dropping off passengers is generally acceptable in No Parking zones, but not parking."
+    },
+    {
+        "question": "Can you park in a No Parking zone during a holiday?",
+        "options": [
+            "Yes, it is allowed",
+            "No, it is never allowed",
+            "Only after dark",
+            "Only if there are no cars around"
+        ],
+        "correct_answer": "No, it is never allowed",
+        "explanation": "No Parking signs are in effect regardless of holidays, meaning parking is not permitted any time the sign is posted."
+    },
+    {
+        "question": "What is the penalty for parking in a No Parking zone?",
+        "options": [
+            "Warning only",
+            "A fine",
+            "Vehicle towing",
+            "Both a fine and towing"
+        ],
+        "correct_answer": "Both a fine and towing",
+        "explanation": "Parking in a No Parking zone can result in both a fine and the potential for your vehicle to be towed."
+    },
+    {
+        "question": "Can a No Parking sign be ignored if the driver is in the vehicle?",
+        "options": [
+            "Yes, if the driver is present",
+            "No, it still applies",
+            "Only if the driver is waiting",
+            "Only during specific hours"
+        ],
+        "correct_answer": "No, it still applies",
+        "explanation": "No Parking signs apply regardless of whether the driver is in the vehicle; parking is strictly prohibited."
+    },
+    {
+        "question": "What should you do if you find a No Parking sign poorly placed?",
+        "options": [
+            "Ignore it",
+            "Report it to local authorities",
+            "Move it yourself",
+            "Take a photo and leave it alone"
+        ],
+        "correct_answer": "Report it to local authorities",
+        "explanation": "If a No Parking sign is poorly placed or obscured, it should be reported to local authorities for rectification."
+    },
+    {
+        "question": "What type of vehicles are usually affected by No Parking signs?",
+        "options": [
+            "All vehicles",
+            "Only trucks",
+            "Only non-resident vehicles",
+            "Only passenger vehicles"
+        ],
+        "correct_answer": "All vehicles",
+        "explanation": "No Parking signs apply to all vehicles, regardless of their type or the owner\u2019s residency status."
+    },
+    {
+        "question": "Are there times when No Parking signs can be temporarily removed?",
+        "options": [
+            "Yes, for street maintenance",
+            "No, they are permanent",
+            "Only during special events",
+            "No, unless authorized by police"
+        ],
+        "correct_answer": "Yes, for street maintenance",
+        "explanation": "Local authorities may temporarily remove No Parking signs for necessary street maintenance or construction work."
+    },
+    {
+        "question": "If a No Parking sign is missing, what is the parking rule?",
+        "options": [
+            "No restrictions apply",
+            "Parking is permitted",
+            "Follow the previous rules",
+            "Check local laws"
+        ],
+        "correct_answer": "Check local laws",
+        "explanation": "If a No Parking sign is missing, you should check local laws to determine if parking is allowed in that area."
+    },
+    {
+        "question": "What should you check before parking in an area marked with a No Parking sign?",
+        "options": [
+            "Weather conditions",
+            "Presence of traffic cones",
+            "Timing of the sign's enforcement",
+            "Availability of nearby parking"
+        ],
+        "correct_answer": "Timing of the sign's enforcement",
+        "explanation": "Before parking, you should check if the No Parking sign specifies times when the restriction is in effect."
+    }
+]

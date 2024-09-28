@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a No Standing sign indicate?",
+        "options": [
+            "No parking at any time",
+            "No stopping for any reason",
+            "You can drop off passengers",
+            "Parking allowed only for residents"
+        ],
+        "correct_answer": "No stopping for any reason",
+        "explanation": "A No Standing sign indicates that vehicles cannot stop at any time, regardless of whether the driver stays in the vehicle or not."
+    },
+    {
+        "question": "What is the penalty for violating a No Standing sign?",
+        "options": [
+            "Warning",
+            "Fine",
+            "Tow away",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Violating a No Standing sign can lead to a warning, a fine, or your vehicle being towed, depending on local enforcement policies."
+    },
+    {
+        "question": "When is stopping allowed in a No Standing zone?",
+        "options": [
+            "Never",
+            "While dropping off passengers",
+            "Only for emergencies",
+            "To read the map"
+        ],
+        "correct_answer": "Never",
+        "explanation": "In a No Standing zone, stopping is not permitted at any time for any reason, including loading or unloading passengers."
+    },
+    {
+        "question": "Where are No Standing signs typically found?",
+        "options": [
+            "Near schools",
+            "In residential areas",
+            "In busy commercial districts",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "No Standing signs may be placed in various locations, particularly where traffic flow needs to be maintained or safety is a concern."
+    },
+    {
+        "question": "Can a vehicle stop momentarily in front of a No Standing sign?",
+        "options": [
+            "Yes, for a few minutes",
+            "Yes, if the driver is present",
+            "No, stopping is not allowed",
+            "Only if the vehicle is not running"
+        ],
+        "correct_answer": "No, stopping is not allowed",
+        "explanation": "Stopping even momentarily is not permitted in a No Standing zone."
+    },
+    {
+        "question": "What should a driver do if they need to stop in a No Standing area?",
+        "options": [
+            "Circle the block",
+            "Look for alternative parking",
+            "Park illegally",
+            "Use hazards and stay for a short time"
+        ],
+        "correct_answer": "Look for alternative parking",
+        "explanation": "Drivers must look for available legal parking options rather than stopping in a No Standing zone."
+    },
+    {
+        "question": "How can a driver identify a No Standing sign?",
+        "options": [
+            "Red rectangle with white letters",
+            "Round blue sign",
+            "Green square with a car",
+            "Yellow triangle"
+        ],
+        "correct_answer": "Red rectangle with white letters",
+        "explanation": "No Standing signs are typically indicated by a red rectangle with clear, white lettering."
+    },
+    {
+        "question": "Are there exceptions to No Standing rules?",
+        "options": [
+            "Only for emergency vehicles",
+            "Yes, if you have a special permit",
+            "No exceptions",
+            "Yes, for delivery vehicles"
+        ],
+        "correct_answer": "No exceptions",
+        "explanation": "Generally, No Standing rules have no exceptions, and all vehicles must adhere to the regulations."
+    },
+    {
+        "question": "What should you do if you see a No Standing sign while driving?",
+        "options": [
+            "Ignore it if you are in a hurry",
+            "Plan to stop quickly",
+            "Continue driving without stopping",
+            "Find someone to ask about it"
+        ],
+        "correct_answer": "Continue driving without stopping",
+        "explanation": "If you see a No Standing sign, you should not stop and should continue driving to avoid penalties."
+    },
+    {
+        "question": "What is the main purpose of a No Standing sign?",
+        "options": [
+            "To allow for delivery trucks",
+            "To provide a loading zone",
+            "To maintain traffic flow and safety",
+            "To reserve parking for residents"
+        ],
+        "correct_answer": "To maintain traffic flow and safety",
+        "explanation": "No Standing signs are meant to prevent congestion and ensure safety by prohibiting any stopping in those areas."
+    }
+]

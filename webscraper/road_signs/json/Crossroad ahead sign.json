@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does the Crossroad Ahead sign indicate?",
+        "options": [
+            "Upcoming intersection",
+            "No entry",
+            "Road closed",
+            "Speed limit change"
+        ],
+        "correct_answer": "Upcoming intersection",
+        "explanation": "The Crossroad Ahead sign warns drivers of an intersection ahead where cross traffic may be present."
+    },
+    {
+        "question": "When approaching a Crossroad Ahead sign, what should drivers do?",
+        "options": [
+            "Accelerate",
+            "Decelerate and prepare to stop",
+            "Turn left",
+            "Ignore it"
+        ],
+        "correct_answer": "Decelerate and prepare to stop",
+        "explanation": "Drivers should reduce speed and be prepared to yield to other vehicles at the upcoming intersection."
+    },
+    {
+        "question": "What shape are Crossroad Ahead signs?",
+        "options": [
+            "Circular",
+            "Diamond",
+            "Square",
+            "Octagonal"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "The Crossroad Ahead sign is shaped like a diamond, which is commonly used for warning signs."
+    },
+    {
+        "question": "Which traffic rule applies when approaching a Crossroad Ahead sign?",
+        "options": [
+            "Right of way always for the main road",
+            "Yield to the left",
+            "Observe stop signs only",
+            "Need to check mirrors frequently"
+        ],
+        "correct_answer": "Right of way always for the main road",
+        "explanation": "At a crossroad, the main road has the right of way, and drivers on the intersecting road must yield."
+    },
+    {
+        "question": "In what scenarios might a Crossroad Ahead sign be particularly important?",
+        "options": [
+            "On busy highways",
+            "In residential areas",
+            "Near schools",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "A Crossroad Ahead sign is important in various driving scenarios to ensure safety at intersections."
+    },
+    {
+        "question": "If a driver sees a Crossroad Ahead sign with a stop sign indication, what does it mean?",
+        "options": [
+            "Complete stop required",
+            "Proceed with caution",
+            "No stopping allowed",
+            "Continue at speed"
+        ],
+        "correct_answer": "Complete stop required",
+        "explanation": "The sign indicates that there is an intersection ahead where a stop sign may be present, requiring a complete stop."
+    },
+    {
+        "question": "What action should drivers consider if the Crossroad Ahead sign is accompanied by a yield sign?",
+        "options": [
+            "Drive straight through",
+            "Yield to traffic",
+            "Speed up",
+            "Ignore the signs"
+        ],
+        "correct_answer": "Yield to traffic",
+        "explanation": "If a yield sign accompanies the Crossroad Ahead sign, drivers must yield to all traffic before proceeding."
+    },
+    {
+        "question": "What color is typically used for a Crossroad Ahead sign?",
+        "options": [
+            "Blue",
+            "Green",
+            "Yellow",
+            "Red"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Warning signs, including the Crossroad Ahead sign, are typically yellow to alert drivers to potential hazards."
+    },
+    {
+        "question": "How should a driver react if the Crossroad Ahead sign indicates a low visibility area?",
+        "options": [
+            "Increase speed",
+            "Slow down and be cautious",
+            "Turn back",
+            "Use high beams"
+        ],
+        "correct_answer": "Slow down and be cautious",
+        "explanation": "In low visibility areas, slowing down allows for better reaction time to sudden changes in traffic."
+    },
+    {
+        "question": "Which of the following is NOT true about the Crossroad Ahead sign?",
+        "options": [
+            "It indicates an intersection is coming up.",
+            "It is a legal requirement to stop.",
+            "It helps in accident prevention.",
+            "It's important for driving safety."
+        ],
+        "correct_answer": "It is a legal requirement to stop.",
+        "explanation": "The Crossroad Ahead sign warns of an intersection, but the legal requirement to stop may depend on additional signage."
+    }
+]

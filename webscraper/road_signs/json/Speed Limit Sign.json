@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a speed limit sign indicate?",
+        "options": [
+            "The maximum speed allowed",
+            "The minimum speed required",
+            "The average speed over a distance",
+            "Speed limits only during rush hour"
+        ],
+        "correct_answer": "The maximum speed allowed",
+        "explanation": "A speed limit sign indicates the maximum speed at which you are legally allowed to drive in that area."
+    },
+    {
+        "question": "What is the typical shape of a speed limit sign?",
+        "options": [
+            "Circular",
+            "Triangular",
+            "Rectangular",
+            "Pentagonal"
+        ],
+        "correct_answer": "Rectangular",
+        "explanation": "Speed limit signs are typically rectangular in shape, following standard traffic sign conventions."
+    },
+    {
+        "question": "If no speed limit sign is posted, what is the default speed limit in urban areas in Ontario?",
+        "options": [
+            "50 km/h",
+            "60 km/h",
+            "40 km/h",
+            "70 km/h"
+        ],
+        "correct_answer": "50 km/h",
+        "explanation": "In urban areas of Ontario, the default speed limit is 50 km/h unless otherwise posted."
+    },
+    {
+        "question": "What do double-sided speed limit signs indicate?",
+        "options": [
+            "Speed limits for both directions of traffic",
+            "Different speed limits for day and night",
+            "Temporary speed limits",
+            "Speed limits based on vehicle type"
+        ],
+        "correct_answer": "Speed limits for both directions of traffic",
+        "explanation": "Double-sided speed limit signs indicate the same speed limits for both directions of traffic on a two-way road."
+    },
+    {
+        "question": "What does a speed limit sign with the number '80' indicate?",
+        "options": [
+            "80 km/h speed limit",
+            "80 mph speed limit",
+            "Minimum speed of 80 km/h",
+            "80 km/h advisory speed"
+        ],
+        "correct_answer": "80 km/h speed limit",
+        "explanation": "A speed limit sign with the number '80' indicates that the maximum speed allowed is 80 kilometers per hour."
+    },
+    {
+        "question": "What is the speed limit in school zones when children are present?",
+        "options": [
+            "40 km/h",
+            "30 km/h",
+            "50 km/h",
+            "60 km/h"
+        ],
+        "correct_answer": "40 km/h",
+        "explanation": "In school zones when children are present, the speed limit is typically reduced to 40 km/h."
+    },
+    {
+        "question": "When should drivers obey posted speed limits?",
+        "options": [
+            "Only during the day",
+            "Only in good weather conditions",
+            "At all times",
+            "Only while in a city"
+        ],
+        "correct_answer": "At all times",
+        "explanation": "Drivers must obey posted speed limits at all times, regardless of weather conditions or time of day."
+    },
+    {
+        "question": "What does a sign indicating 'End Speed Limit' mean?",
+        "options": [
+            "Speed limit is now changed",
+            "Speed limit is not enforced anymore",
+            "You can speed as you wish",
+            "No speed limit signs ahead"
+        ],
+        "correct_answer": "Speed limit is now changed",
+        "explanation": "An 'End Speed Limit' sign indicates that the previous speed limit no longer applies, and a new speed limit may follow."
+    },
+    {
+        "question": "What happens if a driver exceeds the speed limit?",
+        "options": [
+            "They receive a warning",
+            "They may face fines or penalties",
+            "Nothing happens, it's allowed",
+            "They are encouraged to slow down"
+        ],
+        "correct_answer": "They may face fines or penalties",
+        "explanation": "Exceeding the speed limit can result in fines, demerit points, and potential legal action against the driver."
+    },
+    {
+        "question": "What should a driver do if they encounter a speed limit sign that is obscured?",
+        "options": [
+            "Continue driving at their current speed",
+            "Stop and wait for visibility",
+            "Reduce speed and proceed with caution",
+            "Ignore it"
+        ],
+        "correct_answer": "Reduce speed and proceed with caution",
+        "explanation": "If a speed limit sign is obscured, a driver should reduce speed and proceed with caution, being aware of their surroundings and potential hazards."
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a yield sign indicate?",
+        "options": [
+            "Stop immediately",
+            "Slow down and prepare to stop",
+            "Proceed at normal speed",
+            "No entry"
+        ],
+        "correct_answer": "Slow down and prepare to stop",
+        "explanation": "A yield sign means that you must slow down and be prepared to stop if necessary to give the right of way to other vehicles or pedestrians."
+    },
+    {
+        "question": "When approaching a yield sign, what should you do if there is no traffic?",
+        "options": [
+            "Stop completely",
+            "Proceed without stopping",
+            "Speed up",
+            "Honk the horn"
+        ],
+        "correct_answer": "Proceed without stopping",
+        "explanation": "If there is no oncoming traffic, you can proceed through the yield sign without coming to a complete stop."
+    },
+    {
+        "question": "If you encounter a yield sign at an intersection, who has the right of way?",
+        "options": [
+            "All vehicles on your right",
+            "All vehicles on your left",
+            "Pedestrians crossing",
+            "Both other vehicles and pedestrians"
+        ],
+        "correct_answer": "Both other vehicles and pedestrians",
+        "explanation": "At a yield sign, you must give the right of way to both any oncoming vehicles and pedestrians who may be crossing."
+    },
+    {
+        "question": "What should you be prepared to do when you see a yield sign?",
+        "options": [
+            "Speed up",
+            "Change lanes",
+            "Stop",
+            "Park your vehicle"
+        ],
+        "correct_answer": "Stop",
+        "explanation": "You should be prepared to stop if there are vehicles or pedestrians that have the right of way."
+    },
+    {
+        "question": "Which of the following is true about a yield sign?",
+        "options": [
+            "It is the same as a stop sign",
+            "It allows you to drive faster",
+            "It requires you to slow down and yield to others",
+            "It can be ignored if the road is clear"
+        ],
+        "correct_answer": "It requires you to slow down and yield to others",
+        "explanation": "The yield sign requires you to slow down and yield the right of way to any vehicles and pedestrians in or approaching the intersection."
+    },
+    {
+        "question": "What is the proper action if another driver is already at the intersection when you arrive at a yield sign?",
+        "options": [
+            "Speed up to pass them",
+            "Stay and wait until they clear",
+            "Yell at the other driver",
+            "Ignore their presence"
+        ],
+        "correct_answer": "Stay and wait until they clear",
+        "explanation": "If another driver has already entered the intersection, you must yield and wait until it is safe to proceed."
+    },
+    {
+        "question": "When are yield signs typically used?",
+        "options": [
+            "At roundabouts",
+            "At intersections with no traffic lights",
+            "At pedestrian crossings",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Yield signs can be used in all of the mentioned situations to control traffic flow and ensure safety."
+    },
+    {
+        "question": "Can you make a right turn at a yield sign without stopping?",
+        "options": [
+            "Yes, if no vehicles are present",
+            "No, you must stop regardless",
+            "Only if you signal first",
+            "Yes, but only during specific times"
+        ],
+        "correct_answer": "Yes, if no vehicles are present",
+        "explanation": "You can make a right turn at a yield sign without stopping, provided it is safe and no vehicles are approaching."
+    },
+    {
+        "question": "What color are yield signs typically displayed?",
+        "options": [
+            "Red",
+            "Green",
+            "Yellow",
+            "White with red border"
+        ],
+        "correct_answer": "White with red border",
+        "explanation": "Yield signs are typically white with a red border to make them easily recognizable to drivers."
+    },
+    {
+        "question": "What should you do if you see a yield sign while merging onto a highway?",
+        "options": [
+            "Merge at full speed",
+            "Yield to highway traffic",
+            "Come to a complete stop",
+            "Ignore the sign"
+        ],
+        "correct_answer": "Yield to highway traffic",
+        "explanation": "When merging onto a highway, you must yield to the traffic already on the highway to ensure a safe merging process."
+    }
+]

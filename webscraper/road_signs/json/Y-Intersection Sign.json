@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Y-intersection sign indicate?",
+        "options": [
+            "You are approaching a T-intersection",
+            "You are approaching a fork in the road",
+            "You should slow down",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "The Y-intersection sign alerts drivers they are approaching a junction that branches into two different roads, requiring caution and possible reduction of speed."
+    },
+    {
+        "question": "What shape is a Y-intersection sign typically?",
+        "options": [
+            "Square",
+            "Circular",
+            "Triangular",
+            "Rectangular"
+        ],
+        "correct_answer": "Triangular",
+        "explanation": "Y-intersection signs are typically triangular in shape, signaling to drivers to be alert for merging traffic paths."
+    },
+    {
+        "question": "What should you do when approaching a Y-intersection?",
+        "options": [
+            "Speed up",
+            "Maintain speed",
+            "Slow down and prepare to yield",
+            "Turn around"
+        ],
+        "correct_answer": "Slow down and prepare to yield",
+        "explanation": "Drivers should slow down when approaching a Y-intersection to assess the situation and be prepared to yield as necessary."
+    },
+    {
+        "question": "If you are on the main road at a Y-intersection, who has the right of way?",
+        "options": [
+            "The vehicle on the left",
+            "The vehicle on the right",
+            "The vehicle on the main road",
+            "Pedestrians"
+        ],
+        "correct_answer": "The vehicle on the main road",
+        "explanation": "Vehicles traveling on the main road generally have the right of way over vehicles merging from a secondary road at a Y-intersection."
+    },
+    {
+        "question": "Which of the following is a possible danger at a Y-intersection?",
+        "options": [
+            "Hidden stop signs",
+            "Inattentive pedestrians",
+            "Entering traffic",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "At a Y-intersection, various dangers can exist such as hidden stop signs, inattentive pedestrians, and vehicles merging, all requiring heightened awareness."
+    },
+    {
+        "question": "When is it most necessary to watch for other vehicles at a Y-intersection?",
+        "options": [
+            "During daylight",
+            "During peak hours",
+            "In adverse weather",
+            "Both B and C"
+        ],
+        "correct_answer": "Both B and C",
+        "explanation": "It is particularly important to be vigilant during peak traffic hours and adverse weather conditions as they can affect visibility and driving behavior."
+    },
+    {
+        "question": "Which maneuver is advised at a Y-intersection if not turning?",
+        "options": [
+            "U-Turn",
+            "Stop and yield",
+            "Speed past",
+            "None of the above"
+        ],
+        "correct_answer": "Stop and yield",
+        "explanation": "If you are not turning at the Y-intersection, you should stop and yield to any cross traffic before proceeding safely."
+    },
+    {
+        "question": "What indicates a Y-intersection sign has been temporarily obscured?",
+        "options": [
+            "Multiple arrows pointing in various directions",
+            "A yellow caution sign nearby",
+            "A flashing red light",
+            "A build-up of foliage or debris"
+        ],
+        "correct_answer": "A build-up of foliage or debris",
+        "explanation": "If a Y-intersection sign is obscured, it may be due to foliage or debris, making it harder for drivers to identify the upcoming junction."
+    },
+    {
+        "question": "What color is primarily used for Y-intersection signs?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Y-intersection signs are primarily yellow as it signifies caution, alerting drivers to potential changes in road layout."
+    },
+    {
+        "question": "Failure to yield at a Y-intersection may result in what consequence?",
+        "options": [
+            "Receiving a warning",
+            "Accident",
+            "Traffic fine",
+            "Both B and C"
+        ],
+        "correct_answer": "Both B and C",
+        "explanation": "Not yielding at a Y-intersection can lead to accidents and may also result in a traffic fine, emphasizing the importance of obeying yield signs."
+    }
+]

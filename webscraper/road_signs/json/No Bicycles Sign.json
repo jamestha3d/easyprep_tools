@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a 'No Bicycles' sign indicate?",
+        "options": [
+            "Bicycles are allowed",
+            "Bicycles are prohibited",
+            "Only electric bicycles are allowed",
+            "Bicycles can park here"
+        ],
+        "correct_answer": "Bicycles are prohibited",
+        "explanation": "A 'No Bicycles' sign specifically signifies that bicycles are not allowed in that area."
+    },
+    {
+        "question": "Where would you typically find a 'No Bicycles' sign?",
+        "options": [
+            "On a bicycle path",
+            "In a park",
+            "In a pedestrian zone",
+            "Near a bicycle shop"
+        ],
+        "correct_answer": "In a pedestrian zone",
+        "explanation": "A 'No Bicycles' sign is commonly placed in pedestrian zones where bicycles are not permitted to ensure the safety of pedestrians."
+    },
+    {
+        "question": "What should a cyclist do when they see a 'No Bicycles' sign?",
+        "options": [
+            "Continue cycling at a slower pace",
+            "Dismount and walk",
+            "Turn around and leave the area",
+            "Ignore the sign"
+        ],
+        "correct_answer": "Turn around and leave the area",
+        "explanation": "The best course of action for a cyclist upon seeing a 'No Bicycles' sign is to turn around and find an alternative route where cycling is permitted."
+    },
+    {
+        "question": "What could be a consequence of ignoring a 'No Bicycles' sign?",
+        "options": [
+            "No consequence",
+            "A warning from the police",
+            "A fine or ticket",
+            "An invitation to join a cycling group"
+        ],
+        "correct_answer": "A fine or ticket",
+        "explanation": "Ignoring a 'No Bicycles' sign can lead to legal penalties, such as fines or tickets, for violating traffic regulations."
+    },
+    {
+        "question": "Why might a 'No Bicycles' sign be placed in certain areas?",
+        "options": [
+            "To allow more space for bicycles",
+            "To protect pedestrians or for road safety",
+            "To promote bicycle usage",
+            "To increase traffic congestion"
+        ],
+        "correct_answer": "To protect pedestrians or for road safety",
+        "explanation": "Such signs are typically placed to enhance safety for pedestrians and other road users in areas where bicycles could pose a danger."
+    },
+    {
+        "question": "Is it ever permissible to use bicycles in areas marked with a 'No Bicycles' sign?",
+        "options": [
+            "Yes, but only at night",
+            "Yes, but only with permission",
+            "No, it is always prohibited",
+            "Yes, if you are very careful"
+        ],
+        "correct_answer": "No, it is always prohibited",
+        "explanation": "In areas marked with a 'No Bicycles' sign, it is strictly prohibited to ride bicycles at any time."
+    },
+    {
+        "question": "What other signs might accompany a 'No Bicycles' sign?",
+        "options": [
+            "Speed limit signs",
+            "Warning signs about cyclists",
+            "Directional signs for vehicles",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "A 'No Bicycles' sign may be accompanied by various other signs to provide comprehensive information about traffic regulations and ensure safety."
+    },
+    {
+        "question": "How should cities manage areas where 'No Bicycles' signs are present?",
+        "options": [
+            "Encourage more biking programs",
+            "Provide alternative biking paths",
+            "Ignore community feedback",
+            "Only enforce fines"
+        ],
+        "correct_answer": "Provide alternative biking paths",
+        "explanation": "Cities should consider providing alternative biking paths to ensure cyclists have safe and accessible routes that do not conflict with pedestrian zones."
+    },
+    {
+        "question": "What is a common misconception regarding 'No Bicycles' signs?",
+        "options": [
+            "They apply only during weekends",
+            "They are optional to follow",
+            "They only apply to certain types of bicycles",
+            "They are not legally enforceable"
+        ],
+        "correct_answer": "They are not legally enforceable",
+        "explanation": "A common misconception is that such signs are not legally enforceable; however, they are generally part of municipal traffic regulations."
+    },
+    {
+        "question": "What is the most effective way for a cyclist to stay informed about 'No Bicycles' areas?",
+        "options": [
+            "Ask friends",
+            "Check a local cycling map",
+            "Only rely on signs",
+            "Ignore posted signs"
+        ],
+        "correct_answer": "Check a local cycling map",
+        "explanation": "Consulting a local cycling map is an effective way for cyclists to stay informed about areas where 'No Bicycles' signs are located and plan their routes accordingly."
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Right Turn Only sign indicate?",
+        "options": [
+            "You must turn right",
+            "You can go straight or turn right",
+            "You must come to a complete stop",
+            "You cannot turn at all"
+        ],
+        "correct_answer": "You must turn right",
+        "explanation": "A Right Turn Only sign explicitly indicates that drivers are required to make a right turn at the intersection."
+    },
+    {
+        "question": "When must you obey a Right Turn Only sign?",
+        "options": [
+            "When there are no other cars around",
+            "When traffic lights are functioning",
+            "At all times when approaching the sign",
+            "Only during rush hour"
+        ],
+        "correct_answer": "At all times when approaching the sign",
+        "explanation": "A Right Turn Only sign must be obeyed at all times when approaching it, regardless of traffic conditions."
+    },
+    {
+        "question": "Can you ignore the Right Turn Only sign if the road is clear?",
+        "options": [
+            "Yes, if no other cars are present",
+            "No, you must follow the sign",
+            "Yes, if you are in a hurry",
+            "No, unless there are pedestrians"
+        ],
+        "correct_answer": "No, you must follow the sign",
+        "explanation": "Ignoring a Right Turn Only sign is against traffic regulations and can lead to fines or accidents."
+    },
+    {
+        "question": "What should you do if you realize you need to go straight but encounter a Right Turn Only sign?",
+        "options": [
+            "Make a right turn and loop around",
+            "Ignore the sign and go straight",
+            "Stop and back up",
+            "Drive straight through the intersection"
+        ],
+        "correct_answer": "Make a right turn and loop around",
+        "explanation": "The proper action is to follow the directive of the sign by turning right and finding an opportunity to turn around."
+    },
+    {
+        "question": "Is it legal to make a right turn on red at a Right Turn Only sign?",
+        "options": [
+            "Yes, unless otherwise posted",
+            "No, always stop first",
+            "Yes, but only during daytime",
+            "No, it is never allowed"
+        ],
+        "correct_answer": "Yes, unless otherwise posted",
+        "explanation": "In Ontario, making a right turn on red is generally permitted unless there are specific signs prohibiting it."
+    },
+    {
+        "question": "What traffic sign is typically placed at intersections to indicate a right turn only?",
+        "options": [
+            "Yield Sign",
+            "Stop Sign",
+            "Right Turn Only Sign",
+            "No Left Turn Sign"
+        ],
+        "correct_answer": "Right Turn Only Sign",
+        "explanation": "The Right Turn Only sign is specifically designed to inform drivers that they must turn right at that intersection."
+    },
+    {
+        "question": "What may happen if you fail to comply with a Right Turn Only sign?",
+        "options": [
+            "You may receive a ticket",
+            "You will be stopped by police",
+            "Nothing, it\u2019s just a suggestion",
+            "You might win a prize"
+        ],
+        "correct_answer": "You may receive a ticket",
+        "explanation": "Failing to comply with traffic signs, including a Right Turn Only sign, can result in a traffic violation and a ticket."
+    },
+    {
+        "question": "What should drivers do if they need to turn left but see a Right Turn Only sign?",
+        "options": [
+            "Turn around",
+            "Consult a GPS",
+            "Ignore the sign",
+            "Create a left turn through the intersection"
+        ],
+        "correct_answer": "Turn around",
+        "explanation": "Drivers must comply with the Right Turn Only sign and find safe alternative routes to turn left, such as making a U-turn or going around the block."
+    },
+    {
+        "question": "Which of the following is a common misconception about the Right Turn Only sign?",
+        "options": [
+            "You can wait for a green light to proceed",
+            "You must always signal before turning",
+            "It's an option and not a requirement",
+            "Turning left is allowed"
+        ],
+        "correct_answer": "It's an option and not a requirement",
+        "explanation": "Some drivers mistakenly believe the Right Turn Only sign is optional; in fact, it is a mandatory instruction."
+    },
+    {
+        "question": "Are there any exceptions to obeying a Right Turn Only sign?",
+        "options": [
+            "Yes, if it\u2019s an emergency",
+            "Yes, only for delivery trucks",
+            "No, there are no exceptions",
+            "Yes, for bicycles only"
+        ],
+        "correct_answer": "No, there are no exceptions",
+        "explanation": "All drivers must follow the Right Turn Only sign, and there are no exceptions under normal driving conditions."
+    }
+]

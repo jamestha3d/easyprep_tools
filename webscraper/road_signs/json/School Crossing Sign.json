@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a School Crossing Sign indicate?",
+        "options": [
+            "It indicates a school zone",
+            "It signifies a speed limit",
+            "It warns of pedestrian crossings",
+            "It indicates road construction"
+        ],
+        "correct_answer": "It indicates a school zone",
+        "explanation": "A School Crossing Sign alerts drivers that they are approaching a designated area where children are likely to be crossing the road, typically near schools."
+    },
+    {
+        "question": "What shape is the School Crossing Sign?",
+        "options": [
+            "Square",
+            "Circular",
+            "Diamond",
+            "Pentagon"
+        ],
+        "correct_answer": "Diamond",
+        "explanation": "The School Crossing Sign is a diamond-shaped sign, which is used to indicate events that require caution, specifically in school zones."
+    },
+    {
+        "question": "When should drivers be especially cautious of School Crossing Signs?",
+        "options": [
+            "During peak hours",
+            "At night",
+            "Only on weekdays",
+            "During summer vacation"
+        ],
+        "correct_answer": "During peak hours",
+        "explanation": "Drivers should be cautious during peak hours when children are arriving at or leaving school, which increases the likelihood of crossings."
+    },
+    {
+        "question": "What color is typically used for a School Crossing Sign?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "School Crossing Signs are typically yellow to indicate caution in areas where children may cross the street."
+    },
+    {
+        "question": "What actions should drivers take when they see a School Crossing Sign?",
+        "options": [
+            "Speed up",
+            "Maintain speed",
+            "Be prepared to stop",
+            "Ignore it if there's no one crossing"
+        ],
+        "correct_answer": "Be prepared to stop",
+        "explanation": "Drivers should be prepared to stop for pedestrians, especially children, who may be crossing or about to cross the street."
+    },
+    {
+        "question": "What should parents instruct their children to do when approaching a School Crossing?",
+        "options": [
+            "Run across quickly",
+            "Look both ways before crossing",
+            "Wait for cars to pass",
+            "Cross without looking"
+        ],
+        "correct_answer": "Look both ways before crossing",
+        "explanation": "Children should be taught to look both ways before crossing to ensure it is safe to do so, reinforcing safe crossing habits."
+    },
+    {
+        "question": "Are School Crossing Signs present only near schools?",
+        "options": [
+            "Yes",
+            "No",
+            "Only in urban areas",
+            "Only during school hours"
+        ],
+        "correct_answer": "No",
+        "explanation": "School Crossing Signs can also be placed at locations where organized child activities occur, like playgrounds or community centers, not just near schools."
+    },
+    {
+        "question": "What should you do if you see a marked School Crossing but no children are present?",
+        "options": [
+            "Ignore it",
+            "Proceed at normal speed",
+            "Be alert and ready to stop",
+            "Make a U-turn"
+        ],
+        "correct_answer": "Be alert and ready to stop",
+        "explanation": "Even if no children appear to be present, drivers should remain vigilant and be prepared for any children who may unexpectedly cross."
+    },
+    {
+        "question": "What is the purpose of additional lights on some School Crossing Signs?",
+        "options": [
+            "To enhance visibility",
+            "To indicate a higher speed limit",
+            "To signal traffic control",
+            "To advertise school events"
+        ],
+        "correct_answer": "To enhance visibility",
+        "explanation": "Additional lights on School Crossing Signs serve to enhance visibility and alert drivers, especially during low-light conditions."
+    },
+    {
+        "question": "What might accompany a School Crossing Sign in a school zone?",
+        "options": [
+            "Speed bumps",
+            "Traffic lights",
+            "No parking signs",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "In a school zone, you might find speed bumps, traffic lights, and no parking signs all working together to promote the safety of children."
+    }
+]

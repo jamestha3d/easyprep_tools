@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Speed Fines Doubled sign indicate?",
+        "options": [
+            "Speed limits are increased",
+            "Fines for speeding are doubled",
+            "No fines will be issued",
+            "Speeding is allowed"
+        ],
+        "correct_answer": "Fines for speeding are doubled",
+        "explanation": "The Speed Fines Doubled sign clearly indicates that the fines for any speeding violations in that area will be twice the normal amount."
+    },
+    {
+        "question": "In what areas are Speed Fines Doubled signs typically found?",
+        "options": [
+            "Residential areas",
+            "Construction zones",
+            "School zones",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Speed Fines Doubled signs can be found in various locations such as school zones, construction zones, and residential areas where traffic safety is a concern."
+    },
+    {
+        "question": "What should a driver do upon seeing a Speed Fines Doubled sign?",
+        "options": [
+            "Ignore the sign",
+            "Speed up to avoid getting caught",
+            "Reduce their speed",
+            "Take alternate routes"
+        ],
+        "correct_answer": "Reduce their speed",
+        "explanation": "Upon seeing a Speed Fines Doubled sign, the driver should reduce their speed to comply with the law and avoid higher fines."
+    },
+    {
+        "question": "What is the primary purpose of the Speed Fines Doubled sign?",
+        "options": [
+            "To confuse drivers",
+            "To encourage speeding",
+            "To promote road safety",
+            "To reduce traffic noise"
+        ],
+        "correct_answer": "To promote road safety",
+        "explanation": "The primary purpose of the Speed Fines Doubled sign is to promote road safety by discouraging speeding and making drivers aware of the heightened consequences of violations."
+    },
+    {
+        "question": "How might fines differ in a Speed Fines Doubled zone compared to regular zones?",
+        "options": [
+            "They remain the same",
+            "They are halved",
+            "They are doubled",
+            "They are quadrupled"
+        ],
+        "correct_answer": "They are doubled",
+        "explanation": "In a Speed Fines Doubled zone, the fines are doubled compared to what they would be in a regular driving zone for the same speeding offense."
+    },
+    {
+        "question": "Are Speed Fines Doubled signs applicable at all times?",
+        "options": [
+            "Yes, always",
+            "No, only during specific hours",
+            "Only on weekends",
+            "Only on holidays"
+        ],
+        "correct_answer": "No, only during specific hours",
+        "explanation": "Speed Fines Doubled signs are usually applicable during specific hours, often depending on school hours or construction schedules, rather than all the time."
+    },
+    {
+        "question": "What type of violations can incur double fines in a Speed Fines Doubled zone?",
+        "options": [
+            "Parked illegally",
+            "Running a red light",
+            "Speeding",
+            "All traffic violations"
+        ],
+        "correct_answer": "Speeding",
+        "explanation": "The Speed Fines Doubled sign specifically pertains to speeding violations, indicating that fines for such offenses will be doubled in that area."
+    },
+    {
+        "question": "Are there any exemptions to double fines in Speed Fines Doubled areas?",
+        "options": [
+            "Yes, emergency vehicles",
+            "Yes, law enforcement",
+            "No, fines are applicable to everyone",
+            "Yes, only to residents"
+        ],
+        "correct_answer": "No, fines are applicable to everyone",
+        "explanation": "There are no exemptions; all drivers are subject to the doubled fines regardless of their status."
+    },
+    {
+        "question": "What might happen if a driver ignores a Speed Fines Doubled sign?",
+        "options": [
+            "They may be fined less",
+            "They could face higher fines",
+            "They will receive a warning",
+            "Nothing will happen"
+        ],
+        "correct_answer": "They could face higher fines",
+        "explanation": "Ignoring a Speed Fines Doubled sign could result in the driver being fined at the doubled rate, which is much higher than regular speeding fines."
+    },
+    {
+        "question": "What message do Speed Fines Doubled signs convey to drivers?",
+        "options": [
+            "Speeding is more acceptable",
+            "Higher penalties for speeding exist",
+            "Drivers can drive faster",
+            "Traffic laws do not apply"
+        ],
+        "correct_answer": "Higher penalties for speeding exist",
+        "explanation": "The signs convey that failing to adhere to speed limits in those areas leads to higher penalties, creating a deterrent against speeding."
+    }
+]

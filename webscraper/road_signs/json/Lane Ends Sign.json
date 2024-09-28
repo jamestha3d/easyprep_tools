@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a Lane Ends sign indicate?",
+        "options": [
+            "A lane is about to become unavailable",
+            "A lane is merging",
+            "Speed limit changes",
+            "Construction zone ahead"
+        ],
+        "correct_answer": "A lane is about to become unavailable",
+        "explanation": "The Lane Ends sign warns drivers that the lane they're traveling in will end ahead, requiring them to change lanes or prepare to merge."
+    },
+    {
+        "question": "When should you start looking for a lane change after seeing a Lane Ends sign?",
+        "options": [
+            "Immediately",
+            "When you are 50 meters away",
+            "When you are 100 meters away",
+            "Only when merging begins"
+        ],
+        "correct_answer": "Immediately",
+        "explanation": "Drivers should begin assessing their options for lane changes as soon as they see the Lane Ends sign, allowing adequate time to safely merge."
+    },
+    {
+        "question": "What color is the Lane Ends sign?",
+        "options": [
+            "Green",
+            "Yellow",
+            "Red",
+            "Blue"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Lane Ends signs are typically yellow, which serves as a warning for drivers to prepare for a change in road conditions."
+    },
+    {
+        "question": "What action should drivers take when they see a Lane Ends sign?",
+        "options": [
+            "Accelerate",
+            "Change lanes",
+            "Honk their horn",
+            "Ignore it"
+        ],
+        "correct_answer": "Change lanes",
+        "explanation": "Drivers should change lanes safely and smoothly after seeing a Lane Ends sign, ensuring they are not caught in a lane that will end."
+    },
+    {
+        "question": "In which situations is a Lane Ends sign commonly used?",
+        "options": [
+            "In a construction zone",
+            "At an intersection",
+            "On multi-lane highways",
+            "In pedestrian areas"
+        ],
+        "correct_answer": "On multi-lane highways",
+        "explanation": "Lane Ends signs are commonly found on multi-lane highways where a lane is about to be closed or end."
+    },
+    {
+        "question": "What is the primary safety concern addressed by a Lane Ends sign?",
+        "options": [
+            "Speeding",
+            "Accidents from merging",
+            "Traffic congestion",
+            "Unmarked lanes"
+        ],
+        "correct_answer": "Accidents from merging",
+        "explanation": "The primary concern is to minimize accidents by warning drivers in advance about the need to merge, allowing for safer transitions."
+    },
+    {
+        "question": "What should you do if traffic is heavy and you can't change lanes after seeing a Lane Ends sign?",
+        "options": [
+            "Force your way into the adjacent lane",
+            "Stop immediately",
+            "Maintain your position and slow down",
+            "Speed up"
+        ],
+        "correct_answer": "Maintain your position and slow down",
+        "explanation": "If you can't change lanes due to heavy traffic, it is safer to maintain your position and slow down rather than forcing a merge."
+    },
+    {
+        "question": "Can a Lane Ends sign be accompanied by additional signs?",
+        "options": [
+            "Yes, to provide more information",
+            "No, it must stand alone",
+            "Only if it has an arrow",
+            "Only during nighttime"
+        ],
+        "correct_answer": "Yes, to provide more information",
+        "explanation": "Lane Ends signs can be accompanied by other signs, such as merge or yield signs, to give additional guidance to drivers."
+    },
+    {
+        "question": "What should a driver do if they ignore a Lane Ends sign?",
+        "options": [
+            "Nothing, it's fine",
+            "Face penalties",
+            "Drive into oncoming traffic",
+            "Prepare to stop abruptly"
+        ],
+        "correct_answer": "Face penalties",
+        "explanation": "Ignoring traffic signs such as Lane Ends can result in traffic violations, which may lead to fines or penalties."
+    },
+    {
+        "question": "Is a Lane Ends sign the same as a 'merge' sign?",
+        "options": [
+            "Yes, they are identical",
+            "No, they indicate different scenarios",
+            "Only in urban areas",
+            "Only on highways"
+        ],
+        "correct_answer": "No, they indicate different scenarios",
+        "explanation": "A Lane Ends sign indicates that a lane will end, while a 'merge' sign means that two lanes will come together; they serve different purposes in traffic control."
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does the Slower Traffic Keep Right sign indicate?",
+        "options": [
+            "To yield to pedestrians",
+            "To keep slower vehicles in the right lane",
+            "To open lanes for emergency vehicles",
+            "To restrict trucks from certain lanes"
+        ],
+        "correct_answer": "To keep slower vehicles in the right lane",
+        "explanation": "The Slower Traffic Keep Right sign is meant to inform drivers that they should stay in the right lane if they are driving slower than the normal speed of traffic."
+    },
+    {
+        "question": "Which of the following is a correct response when you see a Slower Traffic Keep Right sign?",
+        "options": [
+            "Speed up to pass",
+            "Move to the left lane quickly",
+            "Stay in the left lane",
+            "Merge right to allow faster vehicles to pass"
+        ],
+        "correct_answer": "Merge right to allow faster vehicles to pass",
+        "explanation": "Drivers should move to the right lane to allow faster-moving vehicles to pass, thereby maintaining smooth traffic flow."
+    },
+    {
+        "question": "In which situations should you follow the guidance of a Slower Traffic Keep Right sign?",
+        "options": [
+            "When driving in heavy traffic",
+            "Only during rush hour",
+            "When there's a traffic jam",
+            "Whenever you are traveling slower than other vehicles"
+        ],
+        "correct_answer": "Whenever you are traveling slower than other vehicles",
+        "explanation": "The sign is always applicable whenever a vehicle is moving slower than the prevailing speed of traffic, regardless of time."
+    },
+    {
+        "question": "What could happen if drivers ignore the Slower Traffic Keep Right sign?",
+        "options": [
+            "Accidents may occur",
+            "Fuel consumption increases",
+            "Traffic flow may be obstructed",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Ignoring the sign can lead to accidents, increased fuel consumption due to congestion, and overall obstructed traffic flow."
+    },
+    {
+        "question": "Who is specifically addressed by the Slower Traffic Keep Right sign?",
+        "options": [
+            "Only professional drivers",
+            "All drivers",
+            "Pedestrians and cyclists",
+            "Only truck drivers"
+        ],
+        "correct_answer": "All drivers",
+        "explanation": "The sign is a directive for all drivers on the road, regardless of vehicle type."
+    },
+    {
+        "question": "Where are Slower Traffic Keep Right signs commonly found?",
+        "options": [
+            "In residential areas",
+            "On highways and multi-lane roads",
+            "In construction zones",
+            "At intersections"
+        ],
+        "correct_answer": "On highways and multi-lane roads",
+        "explanation": "These signs are typically placed on highways or multi-lane roads where varying speeds of traffic are common."
+    },
+    {
+        "question": "What should a driver do if they are in the left lane and see a Slower Traffic Keep Right sign?",
+        "options": [
+            "Ignore the sign",
+            "Stay in the lane until they reach their exit",
+            "Change to the right lane",
+            "Stop and wait for traffic to clear"
+        ],
+        "correct_answer": "Change to the right lane",
+        "explanation": "The correct action is to change to the right lane to let faster vehicles pass as directed by the sign."
+    },
+    {
+        "question": "What is the potential impact of not following the Slower Traffic Keep Right sign?",
+        "options": [
+            "Traffic fines",
+            "Increased travel time for all",
+            "Reduced road safety",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "Failure to follow the sign can lead to fines, increased travel times due to congestion, and a decrease in overall road safety."
+    },
+    {
+        "question": "What may indicate a need for a Slower Traffic Keep Right sign?",
+        "options": [
+            "High accident rates",
+            "Hilly terrain",
+            "Increased congestion",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above",
+        "explanation": "All these factors can contribute to the necessity for the sign to guide slower traffic accordingly."
+    },
+    {
+        "question": "What should you remember when driving in a lane marked with a Slower Traffic Keep Right sign?",
+        "options": [
+            "To always drive at the speed limit",
+            "To be aware of faster vehicles approaching",
+            "To only use turn signals when changing lanes",
+            "None of the above"
+        ],
+        "correct_answer": "To be aware of faster vehicles approaching",
+        "explanation": "Drivers must remain vigilant for faster vehicles needing to pass on their left and adjust their positioning accordingly."
+    }
+]

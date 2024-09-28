@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a School Zone sign indicate?",
+        "options": [
+            "A playground area",
+            "A residential area",
+            "A reduced speed limit area",
+            "An area for commercial vehicles"
+        ],
+        "correct_answer": "A reduced speed limit area",
+        "explanation": "A School Zone sign indicates that drivers should reduce their speed to ensure the safety of children in the vicinity."
+    },
+    {
+        "question": "What is the typical speed limit in a School Zone?",
+        "options": [
+            "30 km/h",
+            "50 km/h",
+            "60 km/h",
+            "40 km/h"
+        ],
+        "correct_answer": "30 km/h",
+        "explanation": "The typical speed limit in a School Zone is 30 km/h to protect children as they arrive at or leave school."
+    },
+    {
+        "question": "When are School Zone signs usually in effect?",
+        "options": [
+            "Only during weekends",
+            "All day",
+            "During school hours",
+            "During holidays"
+        ],
+        "correct_answer": "During school hours",
+        "explanation": "School Zone signs are usually in effect during school hours when children are arriving at or departing from school."
+    },
+    {
+        "question": "What should a driver do when approaching a School Zone sign?",
+        "options": [
+            "Speed up",
+            "Maintain speed",
+            "Reduce speed",
+            "Ignore the sign"
+        ],
+        "correct_answer": "Reduce speed",
+        "explanation": "Drivers are required to reduce speed when approaching a School Zone sign to ensure the safety of children."
+    },
+    {
+        "question": "What symbol might be found on a School Zone sign?",
+        "options": [
+            "A car",
+            "A bicycle",
+            "A child",
+            "A traffic light"
+        ],
+        "correct_answer": "A child",
+        "explanation": "A child symbol indicates that children may be crossing the road and extra caution is required in School Zones."
+    },
+    {
+        "question": "What should you do if you see children near a School Zone?",
+        "options": [
+            "Honk your horn",
+            "Drive faster",
+            "Be prepared to stop",
+            "Ignore them"
+        ],
+        "correct_answer": "Be prepared to stop",
+        "explanation": "Drivers should be prepared to stop if children are near a School Zone, as they may enter the roadway unexpectedly."
+    },
+    {
+        "question": "What does it mean when a School Zone sign is flashing?",
+        "options": [
+            "It is night time",
+            "Reduce your speed significantly",
+            "There is no school today",
+            "Students are present or may be crossing"
+        ],
+        "correct_answer": "Students are present or may be crossing",
+        "explanation": "A flashing School Zone sign indicates that students may be crossing or are present, requiring drivers to be extra cautious."
+    },
+    {
+        "question": "What should you always look for when driving in a School Zone?",
+        "options": [
+            "Traffic lights",
+            "Crossing guards",
+            "Animals",
+            "Parking spaces"
+        ],
+        "correct_answer": "Crossing guards",
+        "explanation": "Crossing guards are present to assist children in crossing safely, and drivers should be vigilant when they are around."
+    },
+    {
+        "question": "Are School Zone signs only present around public schools?",
+        "options": [
+            "Yes",
+            "No, they also apply to private schools",
+            "Only for elementary schools",
+            "Only for high schools"
+        ],
+        "correct_answer": "No, they also apply to private schools",
+        "explanation": "School Zone signs are applicable around any school, including private institutions, to ensure safety for all children."
+    },
+    {
+        "question": "What should a driver do if they miss a School Zone sign?",
+        "options": [
+            "Turn back immediately",
+            "Speed up.",
+            "Maintain regular speed",
+            "Be cautious of children ahead"
+        ],
+        "correct_answer": "Be cautious of children ahead",
+        "explanation": "Even if a driver misses a School Zone sign, they should still remain cautious, as children may be nearby."
+    }
+]

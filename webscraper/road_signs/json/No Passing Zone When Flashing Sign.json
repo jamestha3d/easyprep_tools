@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a No Passing Zone sign indicate?",
+        "options": [
+            "Passing is allowed at all times",
+            "No passing is allowed in that area",
+            "Only trucks can pass",
+            "It's okay to pass if the road is clear"
+        ],
+        "correct_answer": "No passing is allowed in that area",
+        "explanation": "A No Passing Zone sign indicates that drivers should not attempt to overtake other vehicles due to potential hazards."
+    },
+    {
+        "question": "When are No Passing Zone signs utilized?",
+        "options": [
+            "In urban areas only",
+            "In areas with limited visibility or hazards",
+            "On highways only",
+            "All the time regardless of conditions"
+        ],
+        "correct_answer": "In areas with limited visibility or hazards",
+        "explanation": "No Passing Zone signs are typically placed in areas where visibility is poor or where there are other hazards, making passing unsafe."
+    },
+    {
+        "question": "What should you do when you see a No Passing Zone sign with flashing lights?",
+        "options": [
+            "Speed up to pass quickly",
+            "Stay within your lane and do not pass",
+            "Change lanes immediately",
+            "Ignore it if the road is clear"
+        ],
+        "correct_answer": "Stay within your lane and do not pass",
+        "explanation": "Flashing lights on a No Passing Zone sign reinforce the warning that passing is not allowed, and drivers should remain in their lanes."
+    },
+    {
+        "question": "Is it ever acceptable to pass in a No Passing Zone when lights are flashing?",
+        "options": [
+            "Yes, if the road is empty",
+            "No, it is never acceptable",
+            "Only if the vehicle in front is going very slowly",
+            "Yes, if you signal first"
+        ],
+        "correct_answer": "No, it is never acceptable",
+        "explanation": "Passing in a No Passing Zone, especially when lights are flashing, presents a safety risk and is prohibited."
+    },
+    {
+        "question": "What type of road conditions typically warrant a No Passing Zone?",
+        "options": [
+            "Straight roads with good visibility",
+            "Curved roads or hills",
+            "Wider roads with multiple lanes",
+            "Roads with clear signage"
+        ],
+        "correct_answer": "Curved roads or hills",
+        "explanation": "Curved roads or hills can obscure visibility, making it dangerous to attempt passing, hence the need for a No Passing Zone."
+    },
+    {
+        "question": "How should drivers behave when approaching a No Passing Zone?",
+        "options": [
+            "Accelerate to overtake",
+            "Stay alert and avoid passing",
+            "Begin looking for a place to pass",
+            "Turn off headlights"
+        ],
+        "correct_answer": "Stay alert and avoid passing",
+        "explanation": "Drivers should remain vigilant and refrain from attempting to pass in designated No Passing Zones to ensure safety."
+    },
+    {
+        "question": "What is the main purpose of the No Passing Zone sign with flashing lights?",
+        "options": [
+            "To confuse drivers",
+            "To warn of a hazardous area",
+            "To indicate a speed limit change",
+            "To signal a construction zone"
+        ],
+        "correct_answer": "To warn of a hazardous area",
+        "explanation": "The flashing lights serve as an additional warning that conditions are unsafe for passing, emphasizing driver caution."
+    },
+    {
+        "question": "If you are in a passing zone when you see a No Passing Zone sign with flashing lights, what should you do?",
+        "options": [
+            "Complete your pass carefully",
+            "Stop immediately",
+            "Slow down and prepare to return to your lane",
+            "Speed up to finish quickly"
+        ],
+        "correct_answer": "Complete your pass carefully",
+        "explanation": "If you are already in a passing zone when encountering the sign, you may finish your pass safely, provided it's done carefully."
+    },
+    {
+        "question": "How can drivers identify a No Passing Zone?",
+        "options": [
+            "By the shape of the sign",
+            "By the color of the road",
+            "By the presence of dashed lines",
+            "By the No Passing Zone sign and any accompanying signals"
+        ],
+        "correct_answer": "By the No Passing Zone sign and any accompanying signals",
+        "explanation": "Drivers can identify a No Passing Zone through specific signage and additional indicators like flashing lights."
+    },
+    {
+        "question": "What is the fine for violating No Passing Zone regulations in Ontario?",
+        "options": [
+            "$200",
+            "$500",
+            "$1000",
+            "No fine"
+        ],
+        "correct_answer": "$200",
+        "explanation": "In Ontario, drivers can be fined for violating the No Passing Zone rules, typically amounting to $200."
+    }
+]

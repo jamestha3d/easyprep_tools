@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does a deer crossing sign indicate?",
+        "options": [
+            "Deer are frequently seen in this area",
+            "Deer can be crossing the road",
+            "Deer are not allowed to cross here",
+            "Deer can only cross at traffic lights"
+        ],
+        "correct_answer": "Deer can be crossing the road",
+        "explanation": "The sign alerts drivers that deer may cross the roadway, indicating a potential hazard."
+    },
+    {
+        "question": "When should drivers be particularly cautious of deer crossing signs?",
+        "options": [
+            "During the day",
+            "At night",
+            "During dawn and dusk",
+            "When it's raining"
+        ],
+        "correct_answer": "During dawn and dusk",
+        "explanation": "Deer are most active during dawn and dusk, making it more likely for them to be near roadways."
+    },
+    {
+        "question": "Which of the following factors might increase deer activity near a deer crossing sign?",
+        "options": [
+            "Snow on the ground",
+            "Heavy traffic",
+            "Mating season",
+            "Road construction"
+        ],
+        "correct_answer": "Mating season",
+        "explanation": "During the mating season, deer are more likely to roam and cross roadways, increasing the risk of encounters."
+    },
+    {
+        "question": "What should a driver do upon seeing a deer crossing sign?",
+        "options": [
+            "Accelerate to pass quickly",
+            "Maintain current speed",
+            "Reduce speed and be alert",
+            "Change lanes immediately"
+        ],
+        "correct_answer": "Reduce speed and be alert",
+        "explanation": "Reducing speed allows for better reaction time if a deer suddenly appears on the road."
+    },
+    {
+        "question": "Which of the following is NOT a recommended action upon seeing a deer crossing sign?",
+        "options": [
+            "Keep eyes on the road",
+            "Use high beams to see better",
+            "Sound the horn to scare away deer",
+            "Speed up to pass the area quickly"
+        ],
+        "correct_answer": "Speed up to pass the area quickly",
+        "explanation": "Speeding up can increase the risk of a collision with deer that may be on or near the road."
+    },
+    {
+        "question": "What is the main purpose of a deer crossing sign?",
+        "options": [
+            "To indicate a wildlife reserve",
+            "To warn drivers of potential deer crossings",
+            "To mark the end of a speed limit zone",
+            "To show the way to the nearest forest"
+        ],
+        "correct_answer": "To warn drivers of potential deer crossings",
+        "explanation": "The primary intent of the sign is to alert drivers to possible deer movement across the road."
+    },
+    {
+        "question": "If a driver encounters a deer on the road, what is the safest action to take?",
+        "options": [
+            "Swerve to avoid it",
+            "Hit the brakes firmly",
+            "Prepare to accelerate",
+            "Flash headlights to warn others"
+        ],
+        "correct_answer": "Hit the brakes firmly",
+        "explanation": "Braking firmly can reduce the speed of the vehicle, minimizing impact if a collision occurs."
+    },
+    {
+        "question": "Deer are most often active during which time of year?",
+        "options": [
+            "Winter",
+            "Spring",
+            "Summer",
+            "Fall"
+        ],
+        "correct_answer": "Fall",
+        "explanation": "During the fall, deer are typically more active due to mating season, increasing their chances of crossing roads."
+    },
+    {
+        "question": "How can weather conditions affect deer behavior near crossing signs?",
+        "options": [
+            "Deer are less active when it's windy",
+            "Rain makes deer more visible",
+            "Fog can obscure visibility for drivers and deer",
+            "Hot weather decreases deer crossings"
+        ],
+        "correct_answer": "Fog can obscure visibility for drivers and deer",
+        "explanation": "Fog reduces visibility, making it harder for drivers to see deer on or near the road."
+    },
+    {
+        "question": "What should drivers do if a deer crosses their path unexpectedly?",
+        "options": [
+            "Try to steer around it",
+            "Stay calm and brake",
+            "Honk the horn continuously",
+            "Close their eyes and hope for the best"
+        ],
+        "correct_answer": "Stay calm and brake",
+        "explanation": "Remaining calm and braking can help prevent panic and reduce the risk of a more serious accident."
+    }
+]

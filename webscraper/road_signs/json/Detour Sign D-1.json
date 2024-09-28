@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What does Detour Sign D-1 indicate?",
+        "options": [
+            "A temporary road closure",
+            "A detour route",
+            "A speed limit change",
+            "A pedestrian crossing"
+        ],
+        "correct_answer": "A detour route",
+        "explanation": "Detour Sign D-1 is used to inform drivers of an altered route due to roadwork or other obstructions."
+    },
+    {
+        "question": "When should Detour Sign D-1 be used?",
+        "options": [
+            "During traffic jams",
+            "When there's road construction",
+            "During accidents",
+            "At pedestrian zones"
+        ],
+        "correct_answer": "When there's road construction",
+        "explanation": "Detour Sign D-1 is specifically utilized when construction or another situation necessitates rerouting traffic."
+    },
+    {
+        "question": "What color is Detour Sign D-1 typically?",
+        "options": [
+            "Red",
+            "Green",
+            "Yellow",
+            "Orange"
+        ],
+        "correct_answer": "Yellow",
+        "explanation": "Detour signs, including D-1, are usually yellow to attract attention and signify caution."
+    },
+    {
+        "question": "What shape is Detour Sign D-1?",
+        "options": [
+            "Square",
+            "Circular",
+            "Diamond",
+            "Rectangular"
+        ],
+        "correct_answer": "Rectangular",
+        "explanation": "Detour Sign D-1 has a rectangular shape, which is standard for temporary traffic control devices."
+    },
+    {
+        "question": "What should drivers do upon seeing Detour Sign D-1?",
+        "options": [
+            "Ignore it",
+            "Follow the detour route",
+            "Accelerate past it",
+            "Stop immediately"
+        ],
+        "correct_answer": "Follow the detour route",
+        "explanation": "Drivers are expected to follow the instructions provided by Detour Sign D-1 to reach their destination safely."
+    },
+    {
+        "question": "What type of information is typically included on Detour Sign D-1?",
+        "options": [
+            "Speed limits",
+            "Terrain type",
+            "Alternate route directions",
+            "Weather conditions"
+        ],
+        "correct_answer": "Alternate route directions",
+        "explanation": "Detour Sign D-1 usually provides information about the alternate routes that drivers should take."
+    },
+    {
+        "question": "Detour Sign D-1 is typically placed how far in advance of the detour?",
+        "options": [
+            "100 meters",
+            "500 meters",
+            "1 kilometer",
+            "2 kilometers"
+        ],
+        "correct_answer": "500 meters",
+        "explanation": "Detour Sign D-1 is often placed about 500 meters before the actual detour to provide adequate warning."
+    },
+    {
+        "question": "What is the key purpose of Detour Sign D-1?",
+        "options": [
+            "To inform about accidents",
+            "To provide route names",
+            "To direct traffic away from obstructions",
+            "To advise on speed limits"
+        ],
+        "correct_answer": "To direct traffic away from obstructions",
+        "explanation": "The primary purpose of Detour Sign D-1 is to redirect drivers to alternative routes when there are road obstructions."
+    },
+    {
+        "question": "What should drivers be particularly aware of near a Detour Sign D-1?",
+        "options": [
+            "Upcoming traffic lights",
+            "Pedestrian activities",
+            "Construction workers",
+            "Speed bumps"
+        ],
+        "correct_answer": "Construction workers",
+        "explanation": "Drivers should be especially cautious of construction workers who may be present in the area due to the detour."
+    },
+    {
+        "question": "How should Detour Sign D-1 be perceived by drivers?",
+        "options": [
+            "As optional",
+            "As a suggestion",
+            "As mandatory",
+            "As unclear"
+        ],
+        "correct_answer": "As mandatory",
+        "explanation": "Detour Sign D-1 should be treated as mandatory to ensure compliance and safety on the road."
+    }
+]
